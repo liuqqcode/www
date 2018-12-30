@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html><html><head><meta charset="utf-8"/><title>Error 404-医曝网</title><style type="text/css">body{margin-top:148px;margin-left:255px;background:url(/skin/images/bd_logo.png)no-repeat 255px 100px}a{color:#06F}a:hover,.g{color:#DD4B39}hr{border-top:1px solid#E1E1E1}.h2{font-size:16px}.css1{font-weight:bold;color:#000;line-height:36px;font-weight:bold;font-size:20px}.css2{font-size:14px;line-height:25px}.css3{font-size:14px;line-height:25px;color:#CCC}.css3 a{padding:0 8px}.css3 b{font-size:16px;color:#333}.input-txt{height:18px;line-height:18px;padding:0 5px;font-size:12px;width:280px}.input-bottom{padding:0 10px;margin-left:10px;font-size:14px;letter-spacing:4px}</style></head><body><p class="css1">很抱歉，您要访问的页面已经找不到了!</p><hr/><p class="h2">您可以这样试试：</p><p class="css2">1、您可以继续搜索您想要寻找的东西。</p>
+<!--<form action="http://s.hufupin3.com/cse/search"target="_blank"><input type="hidden"name="s"value="8038405547130178358"><input type="text"name="q"size="30"maxlength="100"class="input-txt"title="医爆网搜索"value="查找您需要寻找的内容"onFocus="if (value =='查找您需要寻找的内容'){value =''}"onBlur="if (value ==''){value='查找您需要寻找的内容'}"id="bdcsMain"><input type="submit"value="搜索"class="input-bottom"></form>-->
+
+<form action="http://www.so.com/s" target="_blank" id="so360form"><input type="text"name="q"size="30"maxlength="100"class="input-txt"title="医爆网搜索"value="查找您需要寻找的内容"onFocus="if (value =='查找您需要寻找的内容'){value =''}"onBlur="if (value ==''){value='查找您需要寻找的内容'}"id="so360_submit"><input type="submit"value="搜索"class="input-bottom">
+        <input type="hidden" name="ie" value="utf8">
+        <input type="hidden" name="src" value="zz_hufupin3.com">
+        <input type="hidden" name="site" value="hufupin3.com">
+        <input type="hidden" name="rg" value="1">
+</form>
+
+</p><p><span class="css2">2、快速点击链接阅读更多精彩内容：</span></p><p class="css3"><b>您可以进入：</b><a href="/">首页</a>|<a href="/mtbg/"title="医疗新闻">医疗新闻</a>|<a href="/gd/"title="各地医院">各地医院</a></p>
+
+<script type="text/javascript">(function(){document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));var bdcs = document.createElement('script');bdcs.type = 'text/javascript';bdcs.async = true;bdcs.src = 'http://znsv.baidu.com/customer_search/api/js?sid=8038405547130178358' + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date()/3600000);var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bdcs, s);})();</script>
+
+</body></html>

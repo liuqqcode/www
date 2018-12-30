@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin-bottom:30px !important;
+        font-size:16px;
+}
+
+.divUpperAll{
+	height:450px;
+}
+
+.divUpperAll img{
+	width:auto;
+}
+.divUpper{
+	height:250px;
+	background-color:#e74159;
+}
+
+.divColor{
+	background-color:#e74159;
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:30px;
+}
+
+
+.imgEnvironTxt{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:30px;
+}
+
+.divBar{
+	width:990px;
+	height:289px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../images/barBg.png);
+}
+
+
+.divFloralWrapper{
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+	background:url(../images/floral.jpg) no-repeat 840px 70px;
+}
+
+
+.divFloralWrapper img{
+	width:auto;
+}
+
+.floralWrapper2{
+	background-position: 840px 50px;
+}
+
+.imgBarPic{
+	float:left;
+	margin-right:30px;
+	margin-top:8px;
+	margin-left:8px;
+}
+
+.divBar p{
+	/*display:block;
+	vertical-align:middle;*/
+	padding-right:40px;
+	line-height:25px;
+	padding-top:80px;
+}

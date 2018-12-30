@@ -1,0 +1,1 @@
+<dd><a href="[field:typelink/]#ziwo">[field:typename/]</a></dd>

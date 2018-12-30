@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","牙齿矫正,种类",0,60);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","牙齿矫正的种类有很多，但不是每一种方式都可以让畸形牙恢复原有的形态的，其实牙齿的种类并不重要，因为医师会根据患者自身的口腔状况",62,295);
+$z[1][4]['name']="description";
+$z[2]=Array("field","牙齿矫正的种类有哪些?",297,366);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",368,407);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",409,448);
+$z[4][4]['name']="source";
+$z[5]=Array("field","<span style=\"font-size:16px;\">　　牙齿矫正的种类有很多，但不是每一种方式都可以让畸形牙恢复原有的形态的，其实牙齿的种类并不重要，因为医师会根据患者自身的口腔状况来选择合适的口腔矫正方式的。</span>\r\n<div style=\"text-align: center;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn\" target=\"_blank\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"/uploadfile/2017/1130/20171130083749820.jpg\" style=\"width: 300px; height: 324px;\" /></span></a></div>\r\n<p><strong><span style=\"font-size:16px;\">　　牙齿矫正的种类有哪些?</span></strong></p>\r\n<p><span style=\"font-size:16px;\">　<strong>　1、传统的牙齿矫正器：</strong>传统矫正方式就是小时候我们常见的&ldquo;铁齿钢牙&rdquo;，费用比其他相对较低，众所周知，铁齿钢牙的缺点便是影响美观。</span></p>\r\n<p><span style=\"font-size:16px;\"><strong>　　2、透明陶瓷托槽矫治器：</strong>美观度较高，价格适中，正畸期间口腔卫生护理较为容易。</span></p>\r\n<p><span style=\"font-size:16px;\">　　<strong>3、舌侧牙齿矫正器：</strong>将矫治器全部安装于牙齿的舌侧面进行正畸治疗，外观上看不到任何正畸治疗装置。缺点是，费用过高、影响发音、患者感觉不舒服等。所以该矫正器应用并不广泛。</span></p>\r\n<p><span style=\"font-size:16px;\"><strong>　　4、隐形牙套矫正：</strong>全隐形矫治器，美观度高，佩戴方便，正畸期间口腔卫生清洁非常容易，但价格比较高，适应范围较窄。</span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn\" target=\"_blank\"><img alt=\"\" src=\"/uploadfile/2018/0202/20180202110012713.jpg\" style=\"width: 550px; height: 130px;\" /></a></span></p>\r\n<p><strong><span style=\"font-size:16px;\">　　【牙齿矫正】维尔口腔隐形矫正技术</span></strong></p>\r\n<p><span style=\"font-size:16px;\">　　维尔口腔引进隐形正畸技术-隐适美隐形矫正，该技术是完全个性化的设计理念，可根据正畸者的情况佩带不同的矫治器，完全不影响正畸者的生活。是正畸领域的新突破。可实现全程无痛无创快速疗法，专门矫正各种牙齿排列不整齐，咬合错位等牙齿形态问题，还你一口整齐、坚固耐用的健康原牙。</span></p>",450,2967);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<span style=\"font-size:16px;\">　　牙齿矫正的种类有很多，但不是每一种方式都可以让畸形牙恢复原有的形态的，其实牙齿的种类并不重要，因为医师会根据患者自身的口腔状况来选择合适的口腔矫正方式的。</span>\r\n<div style=\"text-align: center;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn\" target=\"_blank\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"/uploadfile/2017/1130/20171130083749820.jpg\" style=\"width: 300px; height: 324px;\" /></span></a></div>\r\n<p><strong><span style=\"font-size:16px;\">　　牙齿矫正的种类有哪些?</span></strong></p>\r\n<p><span style=\"font-size:16px;\">　<strong>　1、传统的牙齿矫正器：</strong>传统矫正方式就是小时候我们常见的&ldquo;铁齿钢牙&rdquo;，费用比其他相对较低，众所周知，铁齿钢牙的缺点便是影响美观。</span></p>\r\n<p><span style=\"font-size:16px;\"><strong>　　2、透明陶瓷托槽矫治器：</strong>美观度较高，价格适中，正畸期间口腔卫生护理较为容易。</span></p>\r\n<p><span style=\"font-size:16px;\">　　<strong>3、舌侧牙齿矫正器：</strong>将矫治器全部安装于牙齿的舌侧面进行正畸治疗，外观上看不到任何正畸治疗装置。缺点是，费用过高、影响发音、患者感觉不舒服等。所以该矫正器应用并不广泛。</span></p>\r\n<p><span style=\"font-size:16px;\"><strong>　　4、隐形牙套矫正：</strong>全隐形矫治器，美观度高，佩戴方便，正畸期间口腔卫生清洁非常容易，但价格比较高，适应范围较窄。</span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn\" target=\"_blank\"><img alt=\"\" src=\"/uploadfile/2018/0202/20180202110012713.jpg\" style=\"width: 550px; height: 130px;\" /></a></span></p>\r\n<p><strong><span style=\"font-size:16px;\">　　【牙齿矫正】维尔口腔隐形矫正技术</span></strong></p>\r\n<p><span style=\"font-size:16px;\">　　维尔口腔引进隐形正畸技术-隐适美隐形矫正，该技术是完全个性化的设计理念，可根据正畸者的情况佩带不同的矫治器，完全不影响正畸者的生活。是正畸领域的新突破。可实现全程无痛无创快速疗法，专门矫正各种牙齿排列不整齐，咬合错位等牙齿形态问题，还你一口整齐、坚固耐用的健康原牙。</span></p>",2969,5483);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c180322/1521D54C051Z-1ME_lit.jpg",5485,5572);
+$z[7][4]['name']="litpic";
+
+?>

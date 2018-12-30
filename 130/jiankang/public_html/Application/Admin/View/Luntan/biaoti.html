@@ -1,0 +1,64 @@
+<extend name="Public/base" />
+
+<block name="body">
+    <!-- 标题栏 -->
+    <div class="main-title">
+        <h2>标题管理</h2>
+    </div>
+    <div class="cf">
+        <div class="fl">
+            <a class="btn" href="{:U('addbt')}">添 加</a>
+        </div>
+        <!-- 高级搜索 -->
+        <!--<div class="search-form fr cf">
+            <div class="sleft">
+                <input type="text" name="nickname" class="search-input" value="{:I('nickname')}" placeholder="">
+                <a class="sch-btn" href="javascript:;" id="search" url="{:U('index')}"><i class="btn-search"></i></a>
+            </div>
+        </div>-->
+    </div>
+    <!-- 数据列表 -->
+    <div class="data-table table-striped">
+        <table class="">
+            <thead>
+            <tr>
+                <!--<th class="row-selected row-selected"><input class="check-all" type="checkbox"/></th>-->
+                <th class="">编号</th>
+                <th class="">标题名称</th>
+                <th class="">标题状态</th>
+                <th class="">封面图片</th>
+                <th class="">修改时间</th>
+                <th class="">操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            <notempty name="rows">
+                <volist name="rows" id="vo">
+                    <tr>
+                        <!--<td><input class="ids" type="checkbox" name="" value="" /></td>-->
+                        <td>{$vo.id} </td>
+                        <td>{$vo.title} </td>
+                        <td><if condition="$vo['type'] eq 1 ">启用</if><if condition="$vo['type'] eq 0 ">禁用</if></td>
+                        <td><img src="{$vo.img}" height="50px" width="50px"> </td>
+                        <td>{$vo.upload_time|date='Y-m-d H:i:s',###}</td>
+                        <td>
+                            <a href="{:U('editbt',array('id'=>$vo['id']))}">编辑</a>&nbsp|&nbsp
+                            <a href="{:U('deletebt',array('id'=>$vo['id']))}" class="confirm ajax-get">删除</a>&nbsp|&nbsp
+                            <a href="{:U('btqy',array('id'=>$vo['id']))}" class="confirm ajax-get">启用</a>&nbsp|&nbsp
+                            <a href="{:U('btjy',array('id'=>$vo['id']))}" class="confirm ajax-get">禁用</a>
+                        </td>
+                    </tr>
+                </volist>
+                <else/>
+                <td colspan="9" class="text-center"> aOh! 暂时还没有内容! </td>
+            </notempty>
+            </tbody>
+        </table>
+    </div>
+    <div class="page">
+        {$page}
+    </div>
+</block>
+
+
+

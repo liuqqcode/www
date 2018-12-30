@@ -1,0 +1,24 @@
+<div class="list_guanzhu">
+    <div class="ch_tit">
+        <a href="javascript:void(0); return false;">
+            <h3>家长还关注热点</h3>
+            <p>more</p>
+        </a>
+    </div>
+    <ul>
+        {dede:arclist typeid="20" limit="0,4" row="4"}
+        <li>
+            <a href="[field:arcurl/]" title="[field:fulltitle /]">
+                <p>[field:fulltitle /]</p><span>阅读全文</span></a>
+        </li>
+        {/dede:arclist}
+    </ul>
+    <ul>
+        {dede:arclist limit="0,4" row="4"}
+        <li>
+            <a href="[field:arcurl/]" title="[field:fulltitle /]">
+                <p>[field:fulltitle /]</p><span>阅读全文</span></a>
+        </li>
+        {/dede:arclist}
+    </ul>
+</div>

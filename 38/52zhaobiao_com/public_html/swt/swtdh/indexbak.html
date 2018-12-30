@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>无标题文档</title>
+<style>
+body{ margin:0; padding:0;}
+.swtwintel{position:relative; margin:0; padding:0; background:url(http://et.xnekyy.cn/swt/swtdh/images/swtsp_new2.gif) no-repeat; width:740px; height:342px;}
+.swtwintel input{    position: absolute; top: 299px; left: 32px;
+    display: block;
+    width: 333px;
+    height: 31px;
+    border: none;
+    background: #fff;
+    font-size: 16px;
+    line-height: 30px;}
+.swtwintel a{position: absolute;top: 298px;left: 368px;display: block;width: 95px;height: 34px;}
+
+</style>
+</head>
+
+<body>
+<div class="swtwintel">
+<input id="lxbstel" type="text" placeholder="请输入手机或电话号码" onkeydown="lxbtelkeyUp(event,this)">
+<a href="javascript:;" onClick="lxbtelcall('lxbstel')"></a>
+</div>
+
+<script>
+document.write('<script type="text/javascript"  data-lxb-uid="10925617" data-lxb-gid="182966" src="http://lxbjs.baidu.com/api/asset/api.js?t=' + new Date().getTime() + '" charset="utf-8"></scr' + 'ipt>' );
+function lxbtelkeyUp(e,o) {
+	var e=(e)?e:((window.event)?window.event:"");
+	var currKey=e.keyCode?e.keyCode:e.which;
+	if(currKey==13){lxb.call(o);o.focus();};
+}
+function lxbtelcall(o) {
+	var o=document.getElementById(o);
+	lxb.call(o);
+	o.focus();
+}
+</script>
+
+</body>
+</html>

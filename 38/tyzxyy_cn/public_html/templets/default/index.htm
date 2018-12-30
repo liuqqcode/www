@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="zh" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1280">
+    <title>{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/font2/iconfont.css">
+    <script type="text/javascript">
+    if (window.location.toString().indexOf('pref=padindex') != -1) {} else {
+        if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+            if (window.location.href.indexOf("?mobile") < 0) {
+                try {
+                    if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                        window.location.href = "http://wap.tyzxyy.cn/";
+                    } else if (/iPad/i.test(navigator.userAgent)) {} else {}
+                } catch (e) {}
+            }
+        }
+    }
+    </script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?4d8003b24305b68f489b059a388a4b3b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</head>
+
+<body>
+    {dede:include filename="head.htm"/}
+    <div class="service">
+        <ul class="layout clearfix">
+            <li><a href="/yhjl/" target="_blank"><i class="iconfont"></i><strong>医患交流</strong></a></li>
+            <li><a href="/lylx/" target="_blank"><i class="iconfont"></i><strong>来院路线</strong></a></li>
+            <li><a href="/hefw/jzxz/" target="_blank"><i class="iconfont"></i><strong>就诊指南</strong></a></li>
+            <li><a href="/ysjs/" target="_blank"><i class="iconfont"></i><strong>门诊时间</strong></a></li>
+            <li><a href="/hefw/yygh/" target="_blank"><i class="iconfont"></i><strong>预约挂号</strong></a></li>
+            <li><a href="/hefw/yjjy/" target="_blank"><i class="iconfont"></i><strong>意见建议</strong></a></li>
+            <li><a href="javascript:openZoosUrl()" target="_blank"><i class="iconfont"></i><strong>在线询问</strong></a></li>
+        </ul>
+    </div>
+    <div class="home-container">
+        <div class="layout clearfix mt25 news-row">
+            <div class="list-item fl clearfix">
+                <div class="img-news news-slide fl" id="home-imgnews">
+                    <ul>
+                        {dede:arclist row="1" flag="p" titlelen="100" typeid="2" orderby="id" orderway="desc"}
+                        <li>
+                            <a href="[field:arcurl/]"><img src="[field:picname/]" width="348" alt="[field:fulltitle /]" /><span>[field:fulltitle /]</span></a>
+                        </li>
+                        {/dede:arclist}
+                    </ul>
+                </div>
+                <div class="fr right-news" id="right-news">
+                    <div class="list-tit">
+                        <h2 class="tab-tit">
+
+                {dede:type typeid='2'}<a href="[field:typeurl/]">[field:typename/]</a>{/dede:type}
+
+              </h2>
+                    </div>
+                    <div class="list-content">
+                        <div class="tab-pannel news-withdate txt-news hp-news">
+                            <ul>
+                                {dede:arclist flag="h" typeid="2" row="1"}
+                                <li class="top-news">
+                                    <a href="[field:arcurl/]" title="[field:fulltitle /]">[field:fulltitle  function='cn_substr(@me,52)' /]</a>
+                                    <p>[field:description function='cn_substr(@me,220)'/]…</p>
+                                </li>
+                                {/dede:arclist} {dede:arclist typeid="2" limit="2,5"}
+                                <li><a href="[field:arcurl/]" title="[field:fulltitle /]">[field:fulltitle /]</a><span>[field:pubdate function="GetDateMK(@me)"/]</span></li>
+                                {/dede:arclist}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="list-item fr home-notice" id="home-notice">
+                <div class="list-tit">
+                    <h2 class="tab-tit">
+              {dede:type typeid='41'}<a href="[field:typeurl/]">[field:typename/]</a>{/dede:type}</h2>
+                </div>
+                <div class="list-content">
+                    <ul class="tab-pannel">
+                        {dede:arclist row="6" titlelen="100" typeid="41" orderby="id" orderway="desc"}
+                        <li><a href="[field:arcurl/]" title="[field:fulltitle /]">[field:fulltitle /]</a><span>[field:pubdate function="GetDateMK(@me)"/]</span></li>
+                        {/dede:arclist}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="layout clearfix mt25 expert-row">
+            <div class="list-item fl">
+                <div class="list-tit">
+                    <h2>{dede:type typeid='5'}<a class="cur" href="[field:typeurl/]">[field:typename/]</a>{/dede:type}</h2>
+                    <div class="slide-dots" id="expert-dots">
+                        <a href="javascript:;" class="iconfont"></a>
+                        <a href="javascript:;" class="iconfont"></a>
+                    </div>
+                </div>
+                <div class="list-content" id="home-expert-box">
+                    <ul class="clearfix home-expert">
+                        {dede:arclist row="100" titlelen="100" typeid="5" orderby="id" orderway="asc" addfields='zhicheng,keshi,jibie,shanchang,zzsjb,zzsjb2' channelid='1'}
+                        <li>
+                            <a href="[field:arcurl/]"><img src="[field:picname/]" alt="[field:fulltitle /]" />
+                                <div class="expert-info">[field:fulltitle /]<span>科室：[field:keshi /]<br>职称：[field:zhicheng /]</span></div>
+                            </a>
+                        </li>
+                        {/dede:arclist}
+                    </ul>
+                </div>
+            </div>
+            <div class="list-item fr">
+                <div class="list-tit">
+                    <h2>{dede:type typeid='5'}<a href="[field:typeurl/]" class="cur">门诊查询</a>{/dede:type}</h2>
+                </div>
+                <div class="list-content">
+                    <div class="clinic-form">
+                        <div class="form-item">
+                            <label>选择科室：</label>
+                            <div class="form-input" id="department-select">
+                                <select name="dp">
+                                    <option value="">选择科室</option>
+                                </select>
+                                <div class="select">
+                                    <a class="select-input" href="javascript:;"><span>选择科室</span><i class="iconfont"></i></a>
+                                    <div class="letter-box">
+                                        <ul class="letter-tit">
+                                            <li class="cur"><a href="javascript:;">ABCDE</a></li>
+                                            <li><a href="javascript:;">FGHIJ</a></li>
+                                            <li><a href="javascript:;">KLMNO</a></li>
+                                            <li><a href="javascript:;">PQRST</a></li>
+                                            <li><a href="javascript:;">WXYZ</a></li>
+                                        </ul>
+                                        <ul class="letter-pannel" id="department-group">
+                                            <li>
+                                                <span><a href="javascript:;" data-id="4235">产科</a></span>
+                                                <span><a href="javascript:;" data-id="4732">超声·影像科</a></span>
+                                                <span><a href="javascript:;" data-id="4434">耳鼻咽喉头颈外科</a></span>
+                                                <span><a href="javascript:;" data-id="4531">儿科</a></span>
+                                                <span><a href="javascript:;" data-id="4533">儿保</a></span>
+                                                <span><a href="javascript:;" data-id="4737">儿童牙病</a></span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-item">
+                            <label>坐诊时间：</label>
+                            <div class="form-input">
+                                <select class="width-p47" name="we">
+                                    <option value="null">选择星期</option>
+                                    <option value="31">星期一</option>
+                                    <option value="32">星期二</option>
+                                    <option value="33">星期三</option>
+                                    <option value="34">星期四</option>
+                                    <option value="35">星期五</option>
+                                    <option value="36">星期六</option>
+                                    <option value="37">星期日</option>
+                                </select>
+                                <select class="width-p47 mgl-p6" name="ti">
+                                    <option value="null">选择时间</option>
+                                    <option value="31">上午</option>
+                                    <option value="32">下午</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-item">
+                            <label>职称级别：</label>
+                            <div class="form-input">
+                                <select class="width-p47" name="pr">
+                                    <option value="null">选择职称</option>
+                                    <option value="">选择职称</option>
+                                    <option value="31">主任医师</option>
+                                    <option value="32">副主任医师</option>
+                                    <option value="33">主治医师</option>
+                                    <option value="34">主任护师</option>
+                                    <option value="35">副主任护师</option>
+                                    <option value="36">主管护师</option>
+                                </select>
+                                <select class="width-p47 mgl-p6" name="le">
+                                    <option value="null">选择级别</option>
+                                    <option value="39">选择医师级别</option>
+                                    <option value="31">一级医师</option>
+                                    <option value="32">二级医师</option>
+                                    <option value="33">三级医师</option>
+                                    <option value="34">四级医师</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-input">
+                            {dede:type typeid='5'}
+                            <a href="[field:typeurl/]" target="_blank" style="display: block;">
+                                <button class="btn width-p47" type="submit">查询</button>
+                            </a>{/dede:type}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

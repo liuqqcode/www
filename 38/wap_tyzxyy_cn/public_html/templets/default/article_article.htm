@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport" />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <meta content="telephone=no" name="format-detection" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+   <title>{dede:field.title/}_太原市中心医院第三医院</title>
+    <meta name="keywords" content="{dede:field.keywords/}">
+    <meta name="description" content="{dede:field.description  function='html2text(@me)'/}">
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/js/rootresize.js"></script>
+</head>
+
+<body>
+    <div class="box">
+        {dede:include filename="header.htm" /}
+        <div class="pos">{dede:field name='position'/}</div>
+        <div class="clear"></div>
+        <div class="show_wrap mt10 bgfff clear">
+            <div class="show_box">
+                <h2 class="show_tle">{dede:field.title/}</h2>
+                <p class="show_ly">来源：太原市中心医院第三医院<a href="tel:03516860923">点击电话咨询</a></p>
+                <div class="show_tip"><strong>温馨提示：</strong>由于篇幅原因，很多内容不能详尽，如果您或者您的家人需要疾病咨询，可<a href="tel:03516860923">点击此处</a>进行免费沟通！</div>
+                <div class="show_con">
+                    {dede:field.body/}
+                    <div class="show_btns">
+                        <a href="tel:03516860923"><img src="/images/show2_14.png" alt="太原市中心医院第三医院电话">03516860923</a>
+                        <a href="/swt/"><img src="/images/show2_17.png" alt="太原市中心医院第三医院在线咨询">点击在线咨询</a>
+                    </div>
+                </div>
+                <div class="show_page">
+                    <ul>
+                        <li>{dede:prenext get='pre'/}</li>
+                        <li>{dede:prenext get='next'/}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        {dede:include filename="art_guahao.htm" /}
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

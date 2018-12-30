@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+.divCo{
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;	
+}
+
+
+.divCo img{
+	width:auto !important;
+}
+
+
+.imgTxtBusinessCo{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+}
+
+.divTxtCo{
+	text-align:center;
+	margin-top:35px;
+	color:#666;
+	font-size:13px !important;
+}
+
+.divCoBig{
+	position:relative;
+	width:960px;
+	height:348px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:25px;
+}
+
+.aTxtContactL{
+	position:absolute;
+	width:130px;
+	top:290px;
+	left:50px;
+	text-align:center;
+	height:35px;
+	line-height:35px;
+	background-color:#e74159;
+	color:white;
+	font-size:14px;
+	text-decoration:none;
+}
+
+.aTxtContactR{
+	position:absolute;
+	width:130px;
+	top:285px;
+	right:55px;
+	text-align:center;
+	height:35px;
+	line-height:35px;
+	background-color:#e74159;
+	color:white;
+	font-size:14px;
+	text-decoration:none;
+}
+
+
+.divCooperation{
+
+	background-image:none !important;
+}
+
+.imgBriefIntro{
+	padding-top:45px !important;
+	padding-bottom:45px !important;
+	margin-top:25px;
+}
+
+.divImgTxtParter{
+	background-color:#e74159;
+}
+
+.divCoTxtWrapper{
+	background-color:#e74159;
+}
+
+.divCoTxtWrapper img{
+	width:auto !important;
+}
+
+.divCooperationWrapper{
+	height:600px !important;
+}
+
+.divForBreak{
+	clear:both;
+	height:30px;
+	background:url(../images/bgSharp.gif) repeat-x;
+}
+
+.divLogoWrapper{
+	margin-top:90px !important;
+        height:660px !important;
+}
+
+.divLogoWrapper img{
+	width:auto !important;
+}

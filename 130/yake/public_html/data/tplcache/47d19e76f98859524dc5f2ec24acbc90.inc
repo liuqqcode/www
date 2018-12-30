@@ -1,0 +1,34 @@
+{dede:field name='keywords'}牙齿,怎么办{/dede:field}
+{dede:field name='description'}牙齿裂开了怎么办?维尔口腔医师指出，导致牙齿裂开的原因有很多，如今很多人都存在着牙齿上的缺陷，牙齿是我们不可缺少的，对于牙齿健{/dede:field}
+{dede:field name='title'}牙齿裂开了怎么办{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 牙齿裂开了怎么办?维尔口腔医师指出，导致牙齿裂开的原因有很多，如今很多人都存在着牙齿上的缺陷，牙齿是我们不可缺少的，对于牙齿健康，人们的重视越来越高，牙齿出现问题要尽早治疗，牙齿裂开了不仅仅影响形象，更重要的是会对临牙产生一定的影响，所以牙齿裂开了要尽早治疗，那么有什么方法治疗牙齿开裂吗?<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>牙齿裂开了怎么办?</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙齿缺损修复" src="http://beij.wekq.net/uploadfile/2017/0714/20170714031305569.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙齿劈裂了怎么办</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 在某些情况下，患牙发生劈裂的时间较短，感染尚不严重，可以尝试用粘接修复的方法将劈裂的牙齿修复起来，如果曾做过根管治疗，就可以直接把患牙牙冠的形态恢复起来，再做冠保护。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 如果没有做过根管治疗或治疗不完善的，应该先完善根管治疗，再修复患牙牙冠后做冠保护。粘接修复的方法并不是一个成熟的治疗方法，只是一种姑息和保守的保留劈裂牙的方法，其远期疗效还有待观察，治疗失败的劈裂牙应该尽快拔除。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>查询牙齿裂开多久可以治疗</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0714/20170714032009739.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp;&nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 牙齿裂开了怎么办?维尔口腔医师指出，导致牙齿裂开的原因有很多，如今很多人都存在着牙齿上的缺陷，牙齿是我们不可缺少的，对于牙齿健康，人们的重视越来越高，牙齿出现问题要尽早治疗，牙齿裂开了不仅仅影响形象，更重要的是会对临牙产生一定的影响，所以牙齿裂开了要尽早治疗，那么有什么方法治疗牙齿开裂吗?<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>牙齿裂开了怎么办?</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙齿缺损修复" src="/uploads/allimg/c180322/1521D4DL43F-15X4.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙齿劈裂了怎么办</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 在某些情况下，患牙发生劈裂的时间较短，感染尚不严重，可以尝试用粘接修复的方法将劈裂的牙齿修复起来，如果曾做过根管治疗，就可以直接把患牙牙冠的形态恢复起来，再做冠保护。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 如果没有做过根管治疗或治疗不完善的，应该先完善根管治疗，再修复患牙牙冠后做冠保护。粘接修复的方法并不是一个成熟的治疗方法，只是一种姑息和保守的保留劈裂牙的方法，其远期疗效还有待观察，治疗失败的劈裂牙应该尽快拔除。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>查询牙齿裂开多久可以治疗</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D4DQ4250-21464.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp;&nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D4DL43F-15X4_lit.jpg{/dede:field}

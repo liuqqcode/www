@@ -1,0 +1,1 @@
+<p><span class='t5'>发布日期：[field:pubdate function="GetDateMK(@me)" /]</span><a href="[field:arcurl/]">[field:fulltitle/]</a></p>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<title>操作提示</title>
+<style type="text/css">
+body, h1,p { margin: 0; padding: 0; font: 18px/1.8 Microsoft YaHei, Helvitica, Verdana, Arial; }
+.msg { position:absolute; border-radius: 5px; font-size:16px; border: 1px solid rgba(0, 0, 0, 0.3); box-shadow: 0 0 8px #999; top:40%; left: 1em; right: 1em; }
+.msg h1, .msg p { padding: 5px 10px; line-height: 1.5em; }
+.msg h1 { border-bottom: 1px solid #eee; }
+.msg p { font-size: 14px; padding: 10px; }
+.version { position: absolute; left: 0; rigght: 0; bottom: 10px; width:100%; color: gray; font-size: 12px; text-align: center; }
+</style>
+</head>
+<body>
+<div class="msg"><h1>操作提示</h1><p>服务器无法找到请求的 URL 所对应的网页. </p></div>
+<p class="version">2017-05-18 10:23:29 微船2.0</p>
+</body>
+</html>

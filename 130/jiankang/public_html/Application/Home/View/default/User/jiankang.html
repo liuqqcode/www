@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>健康档案</title>
+    <h4>健康档案</h4><a href="{:U('User/add?userid='.$id)}">添加档案</a>
+    <table border="1px">
+        <tr>
+            <td>姓名</td>
+            <td>性别</td>
+            <td>民族</td>
+            <td>年龄</td>
+            <td>身高</td>
+            <td>出生日期</td>
+            <td>健康问题</td>
+            <td>操作</td>
+        </tr>
+        <foreach name="jk" item="a">
+        <tr>
+            <td>{$a.name}</td>
+            <td>{$a.sex}</td>
+            <td>{$a.nation}</td>
+            <td>{$a.year}</td>
+            <td>{$a.height}</td>
+            <td>{$a.birthday}</td>
+            <td>{$a.problem}</td>
+            <td><a href="{:U('User/del',array('id'=>$a['id'],'userid'=>$a['userid']))}">删除</a></td>
+        </tr>
+        </foreach>
+    </table>
+</head>
+<body>
+
+</body>
+</html>

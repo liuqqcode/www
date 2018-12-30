@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/imgControl.js"></script>
+</head>
+<style>
+    .upDownScroll2{
+        height:260px;
+        width: 270px;
+        position: relative;
+        overflow: hidden;
+    }
+    .upDownScroll2>a{
+        display: block;
+        width: 100%;
+        height:20px;
+    }
+    .upDownScroll2>a.up2{
+        position: absolute;
+        top:0;
+        left: 0;
+        z-index: 9999;
+        background-size: 100% 100%;
+        background: url("{dede:global.cfg_templets_skin/}/images/up2.png") no-repeat;
+    }
+    .upDownScroll2>a.down2{
+        position: absolute;
+        bottom:-3px;
+        left: 0;
+        z-index: 9999;
+        background-size: 100% 100%;
+        background: url("{dede:global.cfg_templets_skin/}/images/down2.png") no-repeat;
+    }
+    .upDownScroll2 ul{
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 8888;
+    }
+    .upDownScroll2 ul li{
+        width: 270px;
+        margin: 0;
+        border-bottom:1px solid #ccc;
+        height: 100px;
+        margin-bottom:20px;
+    }
+    .upDownScroll2 ul li>*{
+        float: left;
+    }
+    .upDownScroll2 ul li>a{
+        display: block;
+        width: 120px;
+    }
+    .upDownScroll2 ul li>div{
+        width: 145px;
+        padding-left: 5px;
+    }
+    .upDownScroll2 ul li>div h3{
+        font-size:14px;font-weight: normal;
+        margin: 0;
+    }
+    .upDownScroll2 ul li>div span{
+        display: block;
+        padding: 0;
+        font-size: 10px;
+        color:#999;
+    }
+</style>
+<body>
+<div class="all">
+    {dede:include filename="head.htm"/}
+        <!--最热消息-->
+        <div class="hotNews">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist} 
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span>028-8583 1188</span>
+                        <span>18981933384</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+       <!--群里新闻-->
+
+        <div class="news" id="news">
+            <h1><a><img src="{dede:global.cfg_templets_skin/}/images/news.png" alt=""/></a></h1>
+            <div class="newsContent">
+                <div>
+                    <dl>
+                        <dt>新闻动态 <span>LATEST NEWS</span></dt>
+                        {dede:arclist titlelen='200' orderby='pubdate' limit='0,5'}
+                           <dd><a href="[field:arcurl/]" target="_blank">[field:title/]</a><em>[field:pubdate function="GetDateTimeMK(@me)"/]</em></dd>
+                        {/dede:arclist}
+                    </dl>
+                    {dede:type typeid='32'}
+                    <a href="[field:typeurl/]">查看更多</a>
+                    {/dede:type}
+                </div>
+                <div style="margin-left:50px;">
+                    <dl>
+                        <dt>新闻动态 <span>LATEST NEWS</span></dt>
+                        {dede:arclist titlelen='200' orderby='pubdate' limit='5,5'}
+                           <dd><a href="[field:arcurl/]" target="_blank">[field:title/]</a><em>[field:pubdate function="GetDateTimeMK(@me)"/]</em></dd>
+                        {/dede:arclist}
+                    </dl>
+                    {dede:type typeid='32'}
+                    <a href="[field:typeurl/]">查看更多</a>
+                    {/dede:type}
+                </div>
+                <h6 style="clear: both"></h6>
+            </div>
+        </div>
+        <!--群丽活动-->
+        <div class="students qunliActive" id="qunliActive">
+            <h1><a><img src="{dede:global.cfg_templets_skin/}/images/news2.png" alt=""/></a></h1>
+            <div class="girlsBox img-scroll">
+                <a href="" class="click clickL prev" style="display: none"></a>
+                <div class="girls img-list">
+                    <ul>
+                        {dede:arclist typeid="17" titlelen='200' orderby='pubdate' }
+                        <li ><a  href="[field:arcurl/]" target="_blank">
+                        [field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]
+                        </a></li>                           
+                        {/dede:arclist}
+                    </ul>
+                </div>
+                <a href="" class="clickR click next"  style="display: none"></a>
+            </div>
+        </div>
+        <!--视频中心-->
+<!--         <div class="vedioCenter" id="vedioCenter">
+             <div class="vedioCenterContent">
+                 <div class="vedioCenterSide">
+                        {dede:arclist typeid="19" titlelen='200' orderby='pubdate' row="1" } 
+                         <h1><a href="[field:arcurl/]">[field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]</a></h1>
+                         <h5><span>[field:title/]</span><a>[field:pubdate function="GetDateTimeMK(@me)"/]</a></h5>
+                         <p>[field:description/]...</p>                                              
+                        {/dede:arclist}                 
+                 </div>
+                 <div  class="vedioCenterCenter">
+                    <img src='{dede:global.cfg_templets_skin/}/images/vedio.png'/>
+                 </div>
+                 <div class="vedioCenterSide">
+                        <div class="upDownScroll2">
+                            <a href="" class="up2"></a>
+                            <a href="" class="down2"></a>
+                            <ul>
+                        {dede:arclist typeid="19" titlelen='200' orderby='pubdate' } 
+                                <li>
+                                    <a href="[field:arcurl/]">[field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]</a>
+                                    <div>
+                                        <h3>[field:title/]</h3>
+                                        <span>
+                                            [field:info/]
+                                        </span>
+                                    </div>
+                                </li>                                                                    
+                        {/dede:arclist}                              
+
+                            </ul>
+                        </div>
+                 </div>
+             </div>
+        </div> -->
+        <!--footer-->
+        {dede:include filename="footer.htm"/}
+</body>
+<script>
+    var speed=$(".upDownScroll2 ul li").eq(0).height()+20;
+    var topM=0;
+    $(".upDownScroll2 ul li").each(function(index){
+            topM+=$(this).height()+parseInt($(this).css("marginBottom"));
+    })
+    topM-=240;
+    function move(type){
+        var topPs=parseInt($(".upDownScroll2 ul").css("top"));
+        if(type=="up"){
+            if(topPs<=-topM){
+                $(".upDownScroll2 ul").animate({top:topPs+'px'});
+            }else{
+                $(".upDownScroll2 ul").animate({top:parseInt($(".upDownScroll2 ul").css("top"))-speed+'px'});
+            }
+
+
+        }else if(type=="down"){
+            if(topPs>=0){
+                $(".upDownScroll2 ul").animate({top:0+'px'});
+            }else{
+                $(".upDownScroll2 ul").animate({top:parseInt($(".upDownScroll2 ul").css("top"))+speed+'px'});
+            }
+        }
+    }
+    $(".up2").click(function () {
+        move("up")
+        return false;
+    })
+    $(".down2").click(function () {
+        move("down")
+        return false;
+    })
+</script>
+</html>

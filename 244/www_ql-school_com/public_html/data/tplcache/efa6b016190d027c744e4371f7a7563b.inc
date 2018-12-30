@@ -1,0 +1,1 @@
+<a href="[field:typelink/]">查看教学师资</a>

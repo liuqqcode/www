@@ -1,0 +1,90 @@
+{dede:field name='keywords'}牙周炎{/dede:field}
+{dede:field name='description'}牙周炎要怎么治?维尔口腔医师说，越来越多的人受到牙周炎的困扰，牙周炎也是近些年导致中年人出现牙齿缺失的重要原因。所以对于牙周炎{/dede:field}
+{dede:field name='title'}牙周炎要怎么治{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 牙周炎要怎么治?维尔口腔医师说，越来越多的人受到牙周炎的困扰，牙周炎也是近些年导致中年人出现牙齿缺失的重要原因。所以对于牙周炎的出现是一定要重视，在刚发现的时候进行治疗，将其扼杀在摇篮之中，让你的牙齿保持健康。但对于牙周炎怎么治疗呢?医师指出对于轻微的牙周炎到医院进行洗牙，在以后的生活中也能坚持洗牙那么牙周炎就不会再出现，如果严重的就要消炎治疗后再进行洗牙即可。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙周病早期和中期症状" src="http://beij.wekq.net/uploadfile/2017/0718/20170718021658481.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 216px;" /></a></span></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">哪些人比较容易患上牙周炎呢？</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 当然对于那些容易患上牙周炎的人群要做好预防工作，不要让牙周炎轻易的找上你，那么哪些人比较容易患上牙周炎呢?</span></p>
+<p><span style="font-size:16px;"><strong>烟民:</strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 牙周病是由多种因素引起的，吸烟是促进因素之一。吸烟时烟草燃烧的热和积聚的产物是局部性刺激剂，使牙龈角化增加和牙面出现棕色柏油样沉积物，促进牙菌斑和牙石量增多，易诱发或加重牙周疾病的症状。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">牙龈肿痛怎么办</span></strong></a><strong><span style="color:#ff0000;"><a href="http://www.szmayo.com/yayin/12060.html" target="_blank"> </a></span></strong></span></p>
+<p><span style="font-size:16px;"><strong>孕妇:</strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 牙周病患者的口腔犹如一个&ldquo;细菌蓄水池&rdquo;，尤其是牙床下更是装满众多的细菌。这些细菌并非都在口腔内活动，它们会跟着血液的循环，进入身体其他部位如心脏或子宫，使这些部位受感染而发炎。牙周病的细菌并不会影响胎儿的成长，可是却会破坏子宫内膜，导致婴儿早产。</span></p>
+<p><span style="font-size:16px;"><strong>上班族:</strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 研究表明，精神紧张的人比正常人更少从事体育锻炼，更易吸烟、酗酒而易怒、孤僻，更少注意自我口腔保健。牙周病患者表现出明显的心理压力。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 这些人比较容易出现牙周炎，所以对于这些情况一定要注意，不要因为牙周炎给自己带来无法逆转的伤害。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">维尔口腔医院，专业塑造品牌！</span></span></h2>
+</section>
+</div>
+</div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　1、专业团队 放心诊疗</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　国内知名口腔教授刘志杰领衔的口腔医师团队，让您轻松拥有自然、美观、精细、逼真的牙齿。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　2、即刻手术 节约时长</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔引进先进技术，手术过程仅需5-10分钟，短暂的手术时间降低了手术风险;仅需一次手术，恒久支撑牙冠，咀嚼更给力。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　3、品牌优势 个性修复</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔安全放心，材质安全无害，经久耐用，治疗时会根据顾客牙齿的颜色与形状等实际情况来综合考量，力求整体协调和美观的效果。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0718/20170718022208261.jpg" style="width: 450px; height: 280px;" /></a></span><br />
+&nbsp;</div>
+<div><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></div>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 牙周炎要怎么治?维尔口腔医师说，越来越多的人受到牙周炎的困扰，牙周炎也是近些年导致中年人出现牙齿缺失的重要原因。所以对于牙周炎的出现是一定要重视，在刚发现的时候进行治疗，将其扼杀在摇篮之中，让你的牙齿保持健康。但对于牙周炎怎么治疗呢?医师指出对于轻微的牙周炎到医院进行洗牙，在以后的生活中也能坚持洗牙那么牙周炎就不会再出现，如果严重的就要消炎治疗后再进行洗牙即可。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙周病早期和中期症状" src="/uploads/allimg/c180322/1521DYTC130-55C3.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 216px;" /></a></span></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">哪些人比较容易患上牙周炎呢？</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 当然对于那些容易患上牙周炎的人群要做好预防工作，不要让牙周炎轻易的找上你，那么哪些人比较容易患上牙周炎呢?</span></p>
+<p><span style="font-size:16px;"><strong>烟民:</strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 牙周病是由多种因素引起的，吸烟是促进因素之一。吸烟时烟草燃烧的热和积聚的产物是局部性刺激剂，使牙龈角化增加和牙面出现棕色柏油样沉积物，促进牙菌斑和牙石量增多，易诱发或加重牙周疾病的症状。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">牙龈肿痛怎么办</span></strong></a><strong><span style="color:#ff0000;"><a href="http://www.szmayo.com/yayin/12060.html" target="_blank"> </a></span></strong></span></p>
+<p><span style="font-size:16px;"><strong>孕妇:</strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 牙周病患者的口腔犹如一个&ldquo;细菌蓄水池&rdquo;，尤其是牙床下更是装满众多的细菌。这些细菌并非都在口腔内活动，它们会跟着血液的循环，进入身体其他部位如心脏或子宫，使这些部位受感染而发炎。牙周病的细菌并不会影响胎儿的成长，可是却会破坏子宫内膜，导致婴儿早产。</span></p>
+<p><span style="font-size:16px;"><strong>上班族:</strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 研究表明，精神紧张的人比正常人更少从事体育锻炼，更易吸烟、酗酒而易怒、孤僻，更少注意自我口腔保健。牙周病患者表现出明显的心理压力。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 这些人比较容易出现牙周炎，所以对于这些情况一定要注意，不要因为牙周炎给自己带来无法逆转的伤害。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">维尔口腔医院，专业塑造品牌！</span></span></h2>
+</section>
+</div>
+</div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　1、专业团队 放心诊疗</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　国内知名口腔教授刘志杰领衔的口腔医师团队，让您轻松拥有自然、美观、精细、逼真的牙齿。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　2、即刻手术 节约时长</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔引进先进技术，手术过程仅需5-10分钟，短暂的手术时间降低了手术风险;仅需一次手术，恒久支撑牙冠，咀嚼更给力。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　3、品牌优势 个性修复</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔安全放心，材质安全无害，经久耐用，治疗时会根据顾客牙齿的颜色与形状等实际情况来综合考量，力求整体协调和美观的效果。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521DYU231P-D5Q.jpg" style="width: 450px; height: 280px;" /></a></span><br />
+&nbsp;</div>
+<div><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></div>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DYTC130-55C3_lit.jpg{/dede:field}

@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <link href="/css/2016.css" rel="stylesheet" type="text/css" />
+    <link href="/css/iconfont.css" rel="stylesheet" type="text/css" />
+    <script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <style>
+    #bottomTanChuang {
+        display: none;
+    }
+    </style>
+</head>
+
+<body>
+    {dede:include filename="header3.htm" /}
+    <div class="wenda_mbx">
+        <div class="wenda_mbx1">{dede:field name='position'/}</div>
+    </div>
+    <div class="wenda_art">
+        <div class="wenda_title">{dede:field name='image'/}<span>{dede:field.lbyxm/}</span></div>
+        <div class="cl"></div>
+        <div class="wenda_article">
+            <p>{dede:field.miaoshu/}</p>
+        </div>
+    </div>
+    <!--yisheng 语音-->
+    <!--<div class='wenda_hd'>-->
+    <!--<div class="boox">-->
+    <!--<h2><img src="/images/wenda_ys.png" alt="">专家回答</h2>-->
+    <!--<div class="wenda_zj">-->
+    <!--<img src="{dede:field.ystx/}" alt="">-->
+    <!--<img src="/images/wd_mft1.png" alt="" class="bofang">-->
+    <!--<audio src="" style="display: none" class="yinpin"></audio>-->
+    <!--<img src="/images/shanxian.png" alt="" class="ppp">-->
+    <!--<span>02：57</span>-->
+    <!--</div>-->
+    <!--<div class="wenda_zj1"><span>{dede:field.ysxm/}</span><span>{dede:field.yszc/}</span></div>-->
+    <!--<div class="wenda_zj2"><span>{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</span></div>-->
+    <!--</div>-->
+    <!--</div>-->
+    <!--yisheng语音_end-->
+    <!--医师职称开始-->
+    <div class="yszc_box">
+        <!--mengqing-->
+        <div class='wenda_js {dede:field.mengqing runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.mengqing}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-mq.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.mengqing/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-mq.jpg" alt="">
+                    <span>楚天舒</span>
+                </div>
+                <p class="js_box_p3">CCTV儿科名医</p>
+                <p class="js_box_p1">湖南省交通医院发育行为科主任，擅长立足于传统中医理论，结合西医现代诊疗方案，辩证施治多动症、抽动症、自闭症、遗尿症、智力低下、发育迟缓等儿童发育行为疾病。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--mengqing_end-->
+        <!--fst-->
+        <div class='wenda_js {dede:field.fst runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.fst}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-fst.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.fst/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-fst.jpg" alt="">
+                    <span>楚天舒</span>
+                </div>
+                <p class="js_box_p3">湖南十大儿科名医</p>
+                <p class="js_box_p1">湖南省交通医院名誉院长，对儿童发育行为疾病：多动症(ADHD)，抽动症及小儿神经疾病：脑瘫，癫痫，自闭症，智力低下等进行深入的临床研究。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--fst_end-->
+        <!--xiong-->
+        <div class='wenda_js {dede:field.xiong runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.xiong}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-xyh.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.xiong/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-xyh.jpg" alt="">
+                    <span>伊忠博</span>
+                </div>
+                <p class="js_box_p3">院长</p>
+                <p class="js_box_p1">毕业于第三军医大学医学系，从事小儿内分泌、遗传代谢病临床诊疗和研究工作30余年。擅长儿童增高、青少年增高、成人增高、骨龄检查评测、骨骺线闭合延缓、成骨增长等增高长高治疗；肥胖症；性早熟、青春期发育延迟或不发育；甲状腺和肾上腺等疾病诊疗。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--xiong_end-->
+        <!--yzm-->
+        <div class='wenda_js {dede:field.yzm runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.yzm}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-yzm.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.yzm/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-yzm.jpg" alt="">
+                    <span>楚天舒</span>
+                </div>
+                <p class="js_box_p3">发育行为科主任</p>
+                <p class="js_box_p1">致力于儿童发育行为疾病，对中西医结合诊疗多动症、抽动症、遗尿症等症具有丰富的临床经验，另外对小儿神经诊疗专科：儿童智力低下、自闭、神经性头痛、惊厥等症也有着独到诊疗经验。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--yzm_end-->
+        <!--lyl-罗荣峰-->
+        <div class='wenda_js {dede:field.lyl runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.lyl}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-lrf.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.lyl/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-lrf.jpg" alt="">
+                    <span>罗荣峰</span>
+                </div>
+                <p class="js_box_p3">发育行为科医师</p>
+                <p class="js_box_p1">从事儿科临床工作二十余年，擅长小儿神经系统及儿童发育行为疾病的诊治，对儿童注意缺陷多动障碍、多发性抽动症、儿童铅中毒等疾病有深入的研究，具有中西结合特色和显著效果。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--lyl_end-->
+        <!--cxe-->
+        <div class='wenda_js {dede:field.cxe runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.cxe}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-czl.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.cxe/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-czl.jpg" alt="">
+                    <span>曹正良</span>
+                </div>
+                <p class="js_box_p3">副主任医师</p>
+                <p class="js_box_p1">湖南省交通医院中医科主任，出生于中医药世家，从事临床、预防、科研、教学48年，擅长内儿科常见病及疑难杂症，小儿反复感冒、咳嗽、厌食症、便秘、多汗症、疳积症、各种鼻炎、生长发育迟缓及不良、睡眠障碍、肌性斜颈、脊柱侧歪、颈椎病、腰椎病、膝关节病等。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--cxe_end-->
+        <!--pyh-->
+        <div class='wenda_js {dede:field.yinping runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.yinping}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-pyh.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.yinping/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-pyh.jpg" alt="">
+                    <span>彭幼辉</span>
+                </div>
+                <p class="js_box_p3">副主任医师</p>
+                <p class="js_box_p1">湖南省交通医院特聘专家，湖南省人民医院儿科/儿保科主任，擅长儿童多动症、矮小症、性早熟、肥胖症、自闭症、脑瘫、癫痫等儿童内分泌疾病和小儿神经系统疾病诊疗。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--pyh_end-->
+        <!--xqj-->
+        <div class='wenda_js {dede:field.xqj runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.xqj}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-xqj.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.xqj/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-xqj.jpg" alt="">
+                    <span>邢秋君</span>
+                </div>
+                <p class="js_box_p3">副主任医师</p>
+                <p class="js_box_p1">毕业于重庆医科大学儿科专业，从事儿科临床、教学、医疗科研及儿童保健工作近30年，擅长多动症、抽动症、自闭症(孤独症)、发育迟缓、学习困难、遗尿症等发育行为科疾病的诊疗。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--xqj_end-->
+        <!--ljg-->
+        <div class='wenda_js {dede:field.ljg runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.ljg}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-ljg.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.ljg/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-ljg.jpg" alt="">
+                    <span>吕建光</span>
+                </div>
+                <p class="js_box_p3">主任医师</p>
+                <p class="js_box_p1">从事儿科临床工作30余年，积累了丰富的临床经验。熟练掌握儿童发育行为科常见病、多发病的诊治。尤其是在儿童注意缺陷-多动综合征、抽动症的诊断治疗、发病机制和自闭症有深入研究。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--ljg_end-->
+        <!--dyf-->
+        <div class='wenda_js {dede:field.dyf runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.dyf}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-dyf.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.dyf/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-dyf.jpg" alt="">
+                    <span>楚天舒</span>
+                </div>
+                <p class="js_box_p3">儿童神经科主任</p>
+                <p class="js_box_p1">从事神经科临床与研究工作20余年，擅长脑瘫、智力低下、脑发育不良、脑炎后遗症、脊髓损伤、进行性肌营养不良、脑萎缩、视神经萎缩、共济失调、重度肌无力及遗传性疾病的诊治 </p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--dyf_end-->
+        <!--zsz-->
+        <div class='wenda_js {dede:field.zsz runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.zsz}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-zsz.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.zsz/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-zsz.jpg" alt="">
+                    <span>张思智</span>
+                </div>
+                <p class="js_box_p3">主任医师</p>
+                <p class="js_box_p1">湖南省交通医院特聘专家，湖南省人民医院儿科二级专家，1963年毕业于重庆医科大学儿科系，从事儿科临床、科研及教学工作四十余年。特别擅长儿童矮小症、性早熟等内分泌疾病的诊治。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--zsz_end-->
+        <!--lmy-->
+        <div class='wenda_js {dede:field.lmy runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.lmy}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-lmy.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.lmy/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-lmy.jpg" alt="">
+                    <span>兰明玉</span>
+                </div>
+                <p class="js_box_p3">主治医师</p>
+                <p class="js_box_p1">出生于中医世家，曾在长沙市第三人民医院、长沙中医药大学附属医院等大型三甲医院深造、工作。熟练掌握儿童内分泌科、发育行为科常见病、多发病、疑难病的诊断与治疗。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--lmy_end-->
+        <!--wyb-->
+        <div class='wenda_js {dede:field.wyb runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.wyb}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-wyb.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.wyb/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-wyb.jpg" alt="">
+                    <span>王亚波</span>
+                </div>
+                <p class="js_box_p3">主治医师</p>
+                <p class="js_box_p1">出身医学世家，从医近40年，先后在上海海空医院，青岛警备区医院等多家二甲以上军区医院工作。专注于儿童、青少年激素失衡导致的身材矮小、性早熟、肥胖症、骨骼发育不良，或由于营养不良、遗传因素、代谢病等引发的矮小症。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--wyb_end-->
+        <!--yzf-->
+        <div class='wenda_js {dede:field.yzf runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.yzf}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-ydf.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.yzf/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-ydf.jpg" alt="">
+                    <span>姚祖富</span>
+                </div>
+                <p class="js_box_p3">主治医师</p>
+                <p class="js_box_p1">从事儿科临床工作30余年，致力于运用中西结合对儿童内分泌疾病的临床研究与治疗，熟练掌握儿童性早熟、矮小症、肥胖症的诊断与治疗。擅长运用中西医理论结合治疗儿童矮小、性早熟、肥胖等儿童内分泌疾病。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--yzf_end-->
+        <!--jam-->
+        <div class='wenda_js {dede:field.jam runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.jam}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-jam.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.jam/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-jam.jpg" alt="">
+                    <span>蒋爱民</span>
+                </div>
+                <p class="js_box_p3">副主任医师</p>
+                <p class="js_box_p1">1984年，结业于首都医科大学小儿外科研修班，师从于中国小儿外科创始人。从事儿外科临床工作40余年，擅长小儿泌尿外科，如小儿包茎、隐睾、生殖系统(尿道下裂、隐匿、蹼状阴茎)畸形、肿瘤以及常见的小儿睾丸(精索)鞘膜积液、小儿腹股沟疝等治疗和手术。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--jam_end-->
+        <!--liling-->
+        <div class='wenda_js {dede:field.liling runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.liling}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-ll.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.liling/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-ll.jpg" alt="">
+                    <span>李灵</span>
+                </div>
+                <p class="js_box_p3">主治医师</p>
+                <p class="js_box_p1">从事小儿外科临床工作11年，擅长儿童先天性泌尿系统畸形(如肾积水)、膀胱输尿管连接处狭窄、尿道下裂、鞘膜积液、隐睾及包茎等;新生儿外科疾病(如先天性肛门直肠畸形、脐膨出);儿童普外科疾病(如巨结肠、腹股沟疝、急腹症)等常见病的诊断与手术治疗。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--liling_end-->
+        <!--lsd-->
+        <div class='wenda_js {dede:field.lsd runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.lsd}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-lsd.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.lsd/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-lsd.jpg" alt="">
+                    <span>刘士东</span>
+                </div>
+                <p class="js_box_p3">主治医师</p>
+                <p class="js_box_p1">从事儿童临床工作至今13年，对小儿外科、儿童神经科常见病、多发病具有较丰富的临床经验。擅长小儿下腹股沟疝、隐睾、鞘膜积液、隐匿性阴茎、阑尾炎、小儿包皮过长、尿道下裂等症的评估及治疗;小儿脑瘫、小儿癫痫、发育迟缓、智力低下的诊疗康复。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--lsd_end-->
+        <!--xianghui-->
+        <div class='wenda_js {dede:field.xianghui runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.xianghui}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-xh.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.xianghui/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-xh.jpg" alt="">
+                    <span>向慧</span>
+                </div>
+                <p class="js_box_p3">主治医师</p>
+                <p class="js_box_p1">毕业于重庆医科大学，医学硕士。从事小儿外科临床工作7年，擅长小儿包皮过长、疝气、隐睾、鞘膜积液、隐匿性阴茎、尿道下裂、阑尾炎等小儿外科常见病及多发病的诊断与治疗。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--xianghui_end-->
+        <!--liangye-->
+        <div class='wenda_js {dede:field.liangye runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.liangye}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-ny.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.liangye/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-ny.jpg" alt="">
+                    <span>梁烨</span>
+                </div>
+                <p class="js_box_p3">主治医师</p>
+                <p class="js_box_p1">擅长小儿下腹股沟疝、隐睾、鞘膜积液、隐匿性阴茎、阑尾炎、小儿包皮过长、尿道下裂等症的评估及治疗;小儿脑瘫、小儿癫痫、发育迟缓、智力低下的诊疗康复。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--liangye_end-->
+        <!--xln-->
+        <div class='wenda_js {dede:field.xln runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.xln}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-xln.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.xln/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-xln.jpg" alt="">
+                    <span>熊莉娜</span>
+                </div>
+                <p class="js_box_p3">主治医师</p>
+                <p class="js_box_p1">毕业于湖南省卫生管理干部学院，曾在长沙市妇女儿童中心医院从事儿科临床工作30余年。熟练掌握儿科常见病、多发病。擅长小儿呼吸系统、消化系统疾病，如小儿支气管肺炎、毛细支气管炎、婴幼儿哮喘、过敏性咳嗽，小儿腹泻病、消化不良、便秘等疾病的诊疗。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--xln_end-->
+        <!--zhl-->
+        <div class='wenda_js {dede:field.zhl runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.zhl}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-zhl.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.zhl/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-zhl.jpg" alt="">
+                    <span>翟惠玲</span>
+                </div>
+                <p class="js_box_p3">高级视光师</p>
+                <p class="js_box_p1">毕业于南京职业技术学院眼视光学专业，在天津眼科医院获得高级视光师资质，同时获得美国太平洋大学视觉学院儿童弱视、斜视治疗高级视觉训练师资质。擅长青少年儿童视力发育保健，近视防控、弱视、斜视治疗及训练。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--zhl_end-->
+        <!--tangbo-->
+        <div class='wenda_js {dede:field.tangbo runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.tangbo}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-tb.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.tangbo/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-tb.jpg" alt="">
+                    <span>唐波</span>
+                </div>
+                <p class="js_box_p3">副主任医师</p>
+                <p class="js_box_p1">毕业于长沙中医药大学眼耳鼻喉专业，湖南大学华西医院进修眼视光专业。原长沙医学院眼科主任，眼科工作近二十年。擅长各类眼病以及青少年儿童近视、远视、弱视、散光等屈光不正问题诊疗。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--tangbo_end-->
+        <!--pgj-->
+        <div class='wenda_js {dede:field.pgj runphp="yes"}if(@me =="") @me ="wenda_hd_d"; else @me = "";{/dede:field.pgj}'>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-pgj.jpg" alt="">
+                    <span>专家回答</span>
+                </div>
+                <p class="js_box_p3">{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</p>
+                <p class="js_box_p1">{dede:field.pgj/}</p>
+                <p class="js_box_p2">建议您点击在线咨询向专家提问，获得专家一对一精准回答。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">一对一问诊</a>
+            </div>
+            <div class="ys_title">
+                <h2>医师简介</h2></div>
+            <div class="js_box">
+                <div class="touxiang">
+                    <img src="/images/wenda_zjtd-pgj.jpg" alt="">
+                    <span>彭国军</span>
+                </div>
+                <p class="js_box_p3">高级视光师</p>
+                <p class="js_box_p1">曾就职于416医院眼视光门诊高级验光师，湖南省白内障医院眼视光中心高级验光师。擅长医学验光配镜，青少年儿童近视控制角膜塑形镜。</p>
+                <a class="dianji-btn" href="javascript:openZoosUrl()">在线咨询专家</a>
+            </div>
+        </div>
+        <!--pgj_end-->
+    </div>
+    <div class="wen_banner wen_banner2"><a href="javascript:openZoosUrl()"><img src="/images/wd_jiaoliu.png" alt=""></a></div>
+    <script>
+    var player2 = $(".ppp")[0];
+    //        console.log(player2);
+    // 检查是否正在播放
+    var isPlaying = false;
+
+    function play() {
+        var player = $('.yinpin')[0];
+        //            console.log(player);
+        if (isPlaying) {
+            // 如果正在播放, 停止播放并停止读取此音乐文件
+            player.pause();
+            player.src = '';
+            player2.style.animation = "";
+        } else {
+            player.src = '/audio/ljOoKqe7SZQJfSwMYFp3g3zK_4rj.mp3';
+            player.play();
+            player2.style.animation = "sxxs 1s ease infinite";
+        }
+        isPlaying = !isPlaying; //加上这句话就对了！
+    }
+    $('.bofang').click(function() {
+        play();
+    });
+    </script>
+    <style>
+    .dbty,
+    #bottomTanChuang,
+    #footTool {
+        display: none !important;
+    }
+    </style>
+    <script src="/swt/swt.js"></script>
+</body>
+
+</html>

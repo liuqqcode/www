@@ -1,0 +1,505 @@
+@charset "utf-8";
+/* CSS Document */
+body{ text-align:left; color:#6d6d6d; font-size:14px;}
+p{ line-height:25px;}
+.jzboxLan{ background:#009F96; color:#fff; text-align:center;}
+.xbWarp{ background:url(../images/xcmb_bg.png) repeat-y;}
+/* banner */
+.zjBan1{
+	width:100%;
+	height:170px;
+	background:url(../images/myzjBan3.jpg) top center no-repeat;
+	}
+.zjBan2{
+	width:100%;
+	height:170px;
+	background:url(../images/myzjBan2.jpg) top center no-repeat;
+	}
+.zjBan3{
+	width:100%;
+	height:160px;
+	background:url(../images/myzjBan1.jpg) top center no-repeat;
+	}
+	
+	
+/* nav */
+.zjUL li{ float:left; overflow:hidden; display:inline;}
+.zjUL a{
+	display:inline-block;
+	float:left;
+	width:150px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	margin:13px 40px 0 0;
+	overflow:hidden;
+	font-size:15px;	
+	}
+.zjUL a:hover{
+	width:150px;
+	background:#78a0d4;
+	color:#fff;
+	text-decoration:none;
+	border-radius:15px;	
+	-webkit-border-radius:15px;
+	-moz-border-radius:15px;
+	font-weight:700;
+	}
+.zjUL a.on{
+	width:150px;
+	background:#78a0d4;
+	color:#fff;
+	text-decoration:none;
+	border-radius:15px;	
+	-webkit-border-radius:15px;
+	-moz-border-radius:15px;
+	font-weight:700;
+	}
+	
+	
+/* title */
+.xbTote{
+	height:50px;
+	padding-left:35px;
+	width:1100px;
+	margin:0 auto;
+	line-height:22px;
+	color:#AAAAAA;
+	text-align:left;
+	font-size:12px;
+	}
+.xbTote h2{
+	font-size:26px;	
+	color:#2780D8;
+	font-weight:bold;
+	}
+.xbTit{
+	background:url(../images/xcmb_bg2.png) left bottom no-repeat;
+	margin:50px auto;
+	margin-bottom:0;
+	}
+.xbTit2{background:url(../images/xcmb_bg3.png) no-repeat 0 0;}
+.xbTit3{
+	height:18px;
+	background:url(../images/xcmb_bg3.png) no-repeat 0 -56px;
+	width:1100px;
+	margin:30px auto;
+	padding-left:35px;
+	margin-top:0;
+	}
+	
+	
+/*-------------------------- 美颜正畸系统简介 -----------------------------------------------*/	
+/* 什么是牙齿矫正 */
+.watjzL{
+	float:left;
+	width:481px;	
+	}
+.watjzR{
+	float:right;
+	width:550px;	
+	}
+.watjzR p{ margin:30px 0;}
+.start{
+	width:245px;
+	height:42px;
+	background:#009F96;
+	line-height:42px;
+	font-size:18px;
+	}
+.start a{
+	display:block;
+	background:url(../images/myzj_02.png) 202px 14px no-repeat;
+	color:#fff;
+	}
+	
+	
+/* 牙齿矫正原因 */
+.jzReason{
+	float:left;
+	width:250px;
+	margin-right:25px;	
+	}
+.jzRTxt{
+	width:248px;
+	height:38px;
+	line-height:38px;
+	border:1px solid #d4d4d4;
+	margin-top:3px;
+	font-size:16px;	
+	}
+	
+	
+/* 透过牙齿正畸看世界 */
+.zjSeeL{
+	float:left;
+	width:456px;
+	height:532px;
+	background:url(../images/myzj_08.jpg) no-repeat;
+	margin-left:15px;
+	position:relative;	
+	}
+.zjSeeR{
+	float:right;
+	width:570px;	
+	}
+.smile{
+	position:absolute;
+	width:150px;
+	color:#fff;
+	top:110px;
+	left:70px;	
+	}
+.sm2{ left:250px; top:100px;}
+.sm3{ left:60px; top:300px;}
+.sm4{ left:250px; top:300px;}
+.smile h1{ text-align:center;}
+.zjSeeR p{ margin:50px 0;}
+/* 牙齿不齐四大危害 */
+.hbDiv{ width:1100px;}
+.harmBox{
+	width:450px;
+	float:left;
+	margin-right:100px;	
+	}
+.hbL{
+	float:left;
+	width:98px;
+	height:98px;
+	background:url(../images/myzj_30.png) no-repeat;
+	line-height:98px;
+	text-align:center;
+	font-weight:bold;
+	font-size:24px;
+	color:#fff;
+	}
+.hbR{
+	float:right;
+	width:322px;	
+	}
+.hbR p{ line-height:22px; margin-top:5px;}
+/* 哪些人需要做牙齿矫正？ */
+.jzNeed{
+	width:135px;
+	height:198px;
+	padding:20px 50px;	
+	}
+.jzNeed2{
+	height:236px;
+	width:800px;
+	border:1px dotted #009F96;
+	padding-left:63px;		
+	}
+.needZM{
+	width:28px;
+	height:28px;
+	line-height:28px;
+	border-radius:14px;
+	background:#d0dbec;
+	margin-left:50px;
+	margin-bottom:15px;
+	color:#009F96;
+	-moz-border-radius: 15px; /* Firefox */
+    -webkit-border-radius: 15px; /* Safari 和 Chrome */
+	}
+.needBox{
+	width:133px;
+	height:14px;
+	background:url(../images/need.png) center center no-repeat;
+	margin:15px 0 20px;	
+	}
+.jzAge{
+	width:133px;
+	height:44px;
+	line-height:44px;
+	border:1px solid #fff;
+	font-size:18px;	
+	}
+/* 如何选择牙齿矫正的方法？ */
+.jzWayTit a{
+	width:162px;
+	float:left;
+	height:34px;
+	line-height:34px;
+	border:1px solid #cdcdcd;
+	border-radius:30px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	margin-right:20px;
+	}
+.jzWayTit .current,.jzWayTit a:hover{
+	background:#009F96;
+	color:#fff;
+	border:1px solid #009F96;
+	}  
+.jzWayTit .current{
+	color:#fff;
+	background:#009F96;
+	border:1px solid #009F96;
+	}
+.jzWayCont{margin-top:60px;}
+.jzWayL{
+	float:left;
+	width:425px;
+	margin:30px 0 0 60px;	
+	}
+.jzWayR{
+	float:right;
+	width:400px;
+	margin:80px 100px 0 0;	
+	}	
+.jzWayL img{
+	 height:425px;
+	 width:425px;
+	}
+.jzWp{ font-size:12px;}
+.jzWayR p{ margin-top:10px; line-height:25px;}
+	
+/* 牙齿矫正常见问题 */
+.faqsBox{
+	float:left;
+	width:203px;
+	height:159px;
+	background:#009F96;
+	margin-right:10px;
+	color:#fff;
+	padding:40px 30px;
+	}
+.B2{background:#f1f6ff;color:#616161;}
+.fbTit{overflow:hidden; margin-bottom:20px;}
+.fbTit .fbT1{
+	float:left;
+	width:38px;
+	height:40px;
+	line-height:40px;
+	font-size:41px;
+	font-weight:bold;
+	border-right:1px solid #fff;
+	margin:5px 10px 0 0;	
+	}
+.fbTit .fbT3{
+	border-right:1px solid #616161;
+	color:#616161;
+	}
+.fbTit .fbT2{
+	font-size:18px;
+	font-weight:bold;
+	}
+.faqsBox p{line-height:22px;}
+/*-------------------------- 美颜正畸系统优势 -----------------------------------------------*/	
+/* 牙齿矫正 与“钢牙”时代说byebye */
+.byeBox{
+	width:193px;
+	float:left;
+	text-align:center;
+	margin:0 35px;
+	}
+.byeBox p{
+	color:#009F96;
+	font-size:16px;
+	margin:10px 0;	
+	}
+.byeBox2{
+	height:35px;
+	background:url(../images/line.png) left center repeat-x;
+	margin-top:40px;
+	text-align:center;
+	padding-left:350px;	
+	}
+.byeBox2 .byeTxt{
+	height:33px;
+	width:450px;
+	border:1px solid #969696;
+	background:#fff;
+	line-height:35px;	
+	}
+	
+	
+/* 是时候进入美颜正畸时代了 */
+.jzTime{ width:760px; margin:0 auto;}
+.jzTimeL{
+	float:left;
+	width:427px;	
+	}
+.jzTimeR{
+	float:right;
+	width:264px;	
+	}
+.jzTimeR .jzTimeTit{
+	height:35px;
+	background:#e1ecff;
+	line-height:35px;
+	font-size:20px;
+	color:#009F96;
+	}
+.jzTimeR .jzTimeCont{
+	border:1px dashed #009F96;
+	padding:25px 20px;
+	}
+.jzTime2{
+	height:60px;
+	background:#009F96;
+	padding:20px 200px;
+	color:#fff;
+	}
+	
+	
+/* 为何这么多人选择美颜正畸？ */
+.jzSelet{
+	height:150px;
+	width:920px;
+	margin:5px 0;
+	background:#009F96;
+	color:#fff;
+	overflow:hidden;
+	}
+.jzSelet2{ background:#f5f9ff; color:#6D6D6D;}
+.jzSelet .num{
+	width:150px;
+	height:150px;
+	background:#009F96;
+	}
+.jzSelet .num2{ background:#f5f9ff;}
+.jzSelet .numBox{
+	background:url(../images/jzSele_line.png) left bottom repeat-x;
+	font-size:55px;
+	color:#fff;
+	text-align:center;
+	font-weight:bold;
+	margin:30px auto;
+	height:80px;
+	width:75px;
+	}
+.jzSelet .numBox2{
+	background:url(../images/jzSele_line2.png) left bottom repeat-x;
+	font-size:55px;
+	color:#009F96;
+	text-align:center;
+	font-weight:bold;
+	margin:30px auto;
+	height:80px;
+	width:75px;
+	}
+.jzSelet .jzStxt{
+	width:670px;
+	height:110px;
+	background:url(../images/myzj_25.png) left center no-repeat;
+	padding:20px 50px;
+	}
+.jzSelet .jzStxt2{background:url(../images/myzj_26.png) right center no-repeat;}
+.jzSelet p{ line-height:20px; margin-top:5px; width:670px;}
+/* 我适合做美颜正畸吗？ */
+.jzFit{
+	height:88px;
+	border:1px dashed #919191;
+	border-bottom:none;
+	width:930px;
+	margin: 0 auto;
+	position:relative;
+	}
+.jzFit .syz{
+	width:279px;
+	height:36px;
+	line-height:36px;
+	background:#989898;
+	font-size:20px;s
+	color:#fff;
+	position:relative;
+	top:-20px;
+	left:350px;
+	color:#fff;
+	}
+.jzFitBox{
+	float:left;
+	width:123px;
+	font-size:16px;
+	margin:0 5px 0 25px;	
+	}
+.jzFitBox img{ width:123px; height:122px; margin-bottom:6px;}
+/* 美颜正畸流程 */
+.stepCont{ position:relative;}
+.zjLC{
+	float:left;
+	width:157px;
+	font-size:16px;
+	text-align:center;
+	color:#009F96;
+	margin:0 200px 80px 0;
+	}
+.zjLC2{margin:0 0 0 190px;}
+.zjLC img{ width:157px; height:158px;}
+.zjStep{
+	width:72px;
+	height:152px;
+	background:url(../images/lc_03.png) no-repeat;
+	position:absolute;
+	top:150px;
+	left:192px;
+	padding:10px 0 0 40px;
+	}
+.zjStep2{ left:548px;}
+.zjStep3{ left:905px;}
+.zjStep4{
+	background:url(../images/lc_03.png) 0 -238px no-repeat;
+	top:240px;
+	left:381px;
+	padding:130px 0 0 30px;
+	}
+.zjStep5{ left:728px;}
+/*-------------------------- 美颜正畸注意事项 -----------------------------------------------*/	
+/* 牙齿矫正需警惕 */
+.alertL{
+	float:left;
+	width:489px;
+	height:342px;	
+	}
+.alertR{
+	float:left;
+	width:578px;
+	height:342px;	
+	}
+.alertBox{
+	height:170px;
+	background:#009F96;
+	overflow:hidden;	
+	}
+.alert{
+	width:164px;
+	height:170px;
+	}
+.alert2{
+	width:265px;
+	padding:40px 30px;
+	color:#FFF;
+	}
+	
+/* 牙齿矫正失败原因 */
+.fair{
+	height:41px;
+	line-height:41px;
+	width:41px;
+	border:2px solid #fff;
+	margin:30px 25px;
+	font-size:20px;
+	}
+/* 为何选择正规医疗机构 */
+.formBox{
+	float:left;
+	height:196px;
+	width:354px;
+	background:#f9f9f9 url(../images/ico.png) no-repeat;
+	overflow:hidden;	
+	}
+.formL{
+	float:left;
+	width:67px;
+	line-height:196px;
+	font-size:40px;
+	color:#fff;
+	}
+.formR{
+	float:right;
+	width:227px;
+	padding:30px;
+	}
+.formR p{ line-height:22px; margin-top:15px;}

@@ -1,0 +1,44 @@
+{dede:field name='keywords'}蛀牙,北京{/dede:field}
+{dede:field name='description'}很多人对于蛀牙还没有深刻的认知，只有等到牙齿疼痛不已的时候才会去医院进行诊治，北京维尔牙科医生建议大家有了蛀牙一定要及时补牙，{/dede:field}
+{dede:field name='title'}北京补一颗蛀牙多少钱{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">　　很多人对于蛀牙还没有深刻的认知，只有等到牙齿疼痛不已的时候才会去医院进行诊治，北京维尔牙科医生建议大家有了蛀牙一定要及时补牙，以免耽误病情，导致牙齿的缺失，从而得不偿失。那么，口腔医院补一颗蛀牙多少钱呢?</span>
+<div>&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1025/20171025052651181.jpg" style="width: 414px; height: 300px;" /></span></span></a></div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">&gt;&gt;蛀牙根管治疗步骤&lt;&lt;</span></span></a></div>
+<p><strong><span style="font-size:16px;">　　口腔医院补一颗蛀牙多少钱?</span></strong></p>
+<p><span style="font-size:16px;">　　医生表示，补一颗蛀牙多少钱受补牙的部位、蛀牙病变程度以及补牙的数量不同的影响，每个患者的情况不同费用自然不同。早期的蛀牙，我们只要需通过一次性简单的治疗即可，这时补一颗牙只要几百元;但若出现中龋或深龋就要进行根管治疗，收费就要高一些。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1025/20171025052712107.jpg" style="width: 300px; height: 204px;" /><br />
+&gt;</span><span style="font-size: 16px;">&gt;</span><span style="font-size: 16px;">补一颗蛀牙多少钱</span><span style="font-size: 16px;">&lt;&lt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　维尔牙科舒适根管治疗</span></strong></p>
+<p><span style="font-size:16px;">　　维尔根管治疗运用国际上的治疗理念，彻底清除牙髓内的坏死物质，科学化消毒，充填牙髓，去除根尖周围组织的不良刺激，有效治疗牙髓病、龋病等口腔疾病，并防止发生根尖周病变，达到治疗的舒适性、安全性和高效性的效果。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1025/20171025052753746.jpg" style="width: 450px; height: 280px;" /><br />
+&gt;&gt;点击咨询根管治疗具体价格&lt;&lt;</span></span></a></p>
+<p><span style="font-size:16px;">　　1、高效：数字化全面检查，准确了解口腔状况，专家亲自操作，快速解决疑难根管问题;</span></p>
+<p><span style="font-size:16px;">　　2、舒适无痛：采用先进的根管微创技术，防止根管壁侧穿、偏移根尖等发生，减少就诊时间，整个过程舒适无痛;</span></p>
+<p><span style="font-size:16px;">　　3、健康卫生：根管治疗材料通过药监部门层层审核，对口腔无毒害，无污染，保障口腔健康;</span></p>
+<p><span style="font-size:16px;">　　4、避免感染：无菌诊疗模式，配备国际ISO9001消毒中心，采用十一个无菌诊疗服务，防止交叉感染。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2018/0203/20180203015119503.jpg" style="width: 550px; height: 130px;" /></span></a></p>
+<p><span style="font-size:16px;">　　口腔医院补一颗蛀牙多少钱?维尔牙科严格遵守《全国医疗服务价格项目规范》的相关规定，每项医疗费用经由北京市物价局和北京市卫生局双层审核和监督，19年来，未发生因价格问题，引起的医疗投诉和纠纷。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0); font-size: 16px; text-align: center;">&gt;&gt;补牙需要多长时间?点击在线咨询&lt;&lt;</span></a></p>
+<p><span style="font-size:16px;">　　维尔温馨提示：提前预约挂号，到院无需挂号<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">(免挂号费)</span></a>即可实现轻松无障碍就诊!这里不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话：400-6655-111。</span></a></span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">　　很多人对于蛀牙还没有深刻的认知，只有等到牙齿疼痛不已的时候才会去医院进行诊治，北京维尔牙科医生建议大家有了蛀牙一定要及时补牙，以免耽误病情，导致牙齿的缺失，从而得不偿失。那么，口腔医院补一颗蛀牙多少钱呢?</span>
+<div>&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1025/20171025052651181.jpg" style="width: 414px; height: 300px;" /></span></span></a></div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">&gt;&gt;蛀牙根管治疗步骤&lt;&lt;</span></span></a></div>
+<p><strong><span style="font-size:16px;">　　口腔医院补一颗蛀牙多少钱?</span></strong></p>
+<p><span style="font-size:16px;">　　医生表示，补一颗蛀牙多少钱受补牙的部位、蛀牙病变程度以及补牙的数量不同的影响，每个患者的情况不同费用自然不同。早期的蛀牙，我们只要需通过一次性简单的治疗即可，这时补一颗牙只要几百元;但若出现中龋或深龋就要进行根管治疗，收费就要高一些。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1025/20171025052712107.jpg" style="width: 300px; height: 204px;" /><br />
+&gt;</span><span style="font-size: 16px;">&gt;</span><span style="font-size: 16px;">补一颗蛀牙多少钱</span><span style="font-size: 16px;">&lt;&lt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　维尔牙科舒适根管治疗</span></strong></p>
+<p><span style="font-size:16px;">　　维尔根管治疗运用国际上的治疗理念，彻底清除牙髓内的坏死物质，科学化消毒，充填牙髓，去除根尖周围组织的不良刺激，有效治疗牙髓病、龋病等口腔疾病，并防止发生根尖周病变，达到治疗的舒适性、安全性和高效性的效果。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1025/20171025052753746.jpg" style="width: 450px; height: 280px;" /><br />
+&gt;&gt;点击咨询根管治疗具体价格&lt;&lt;</span></span></a></p>
+<p><span style="font-size:16px;">　　1、高效：数字化全面检查，准确了解口腔状况，专家亲自操作，快速解决疑难根管问题;</span></p>
+<p><span style="font-size:16px;">　　2、舒适无痛：采用先进的根管微创技术，防止根管壁侧穿、偏移根尖等发生，减少就诊时间，整个过程舒适无痛;</span></p>
+<p><span style="font-size:16px;">　　3、健康卫生：根管治疗材料通过药监部门层层审核，对口腔无毒害，无污染，保障口腔健康;</span></p>
+<p><span style="font-size:16px;">　　4、避免感染：无菌诊疗模式，配备国际ISO9001消毒中心，采用十一个无菌诊疗服务，防止交叉感染。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2018/0203/20180203015119503.jpg" style="width: 550px; height: 130px;" /></span></a></p>
+<p><span style="font-size:16px;">　　口腔医院补一颗蛀牙多少钱?维尔牙科严格遵守《全国医疗服务价格项目规范》的相关规定，每项医疗费用经由北京市物价局和北京市卫生局双层审核和监督，19年来，未发生因价格问题，引起的医疗投诉和纠纷。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0); font-size: 16px; text-align: center;">&gt;&gt;补牙需要多长时间?点击在线咨询&lt;&lt;</span></a></p>
+<p><span style="font-size:16px;">　　维尔温馨提示：提前预约挂号，到院无需挂号<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">(免挂号费)</span></a>即可实现轻松无障碍就诊!这里不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话：400-6655-111。</span></a></span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DWX2N40-I313_lit.jpg{/dede:field}

@@ -1,0 +1,1 @@
+<dd><a href="[field:typelink/]#beauty">[field:typename/]</a></dd>

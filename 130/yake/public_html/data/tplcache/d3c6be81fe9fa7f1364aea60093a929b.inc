@@ -1,0 +1,30 @@
+{dede:field name='keywords'}满口{/dede:field}
+{dede:field name='description'}种植牙的优势让我们动心，长达多年的使用时间是其他义齿根本难以相比的，如果我们对义齿的要求比较高，那么种植牙是较佳的选择。有些朋友{/dede:field}
+{dede:field name='title'}满口种植牙多少钱{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<span style="font-size: 16px;">&nbsp; &nbsp;种植牙的优势让我们动心，长达多年的使用时间是其他义齿根本难以相比的，如果我们对义齿的要求比较高，那么种植牙是较佳的选择。有些朋友年纪比较大，缺牙往往很多，以至于半口无牙，甚至满口都没有牙齿了，这样的话，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>满口种植牙要多少钱呢？</strong></span></a></span><br style="font-size: 13.3333px;" />
+<div style="font-size: 13.3333px; text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="单颗与全口种植牙方案" src="/uploads/allimg/c180322/1521D3OO1020-145259.jpg" style="border-width: 0px; border-style: solid; width: 359px; height: 242px;" /></a></span></div>
+<div style="font-size: 13.3333px;">
+<div style="font-size: 12px;">
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size: 18px;"><span style="line-height: 22.3906px;">满口种植牙可以选择All-on-4技术</span></span></h2>
+</section>
+</div>
+</div>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp;如果是缺一两颗牙，我们可以采用单颗修复的办法，但是如果缺牙的数量过多，就不适宜缺一颗种一颗了。因为这样的话，患者的花费是很高昂的，而且种牙的时间也会特别长，需要分多次进行，给自己带来很大的麻烦，而All-on-4技术，就是针对这种情况而研发的。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color: rgb(255, 0, 0);">【</span></strong></a><strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);">咨询做种植牙的年龄限制</span></a></strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color: rgb(255, 0, 0);">】</span></strong></a></span></p>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; All-on-4技术较先起源于德国，它采用搭桥的办法，仅仅种植4颗牙钉，就能支撑起整个单颌的义齿，就好比在口腔里&ldquo;打基桩&rdquo;，再在桩上&ldquo;搭长桥&rdquo;，即做全口义齿。这种&ldquo;种植覆盖义齿&rdquo;的方法比传统种牙要经济很多，比传统烤瓷牙牢固很多。All-on-4种植牙已经引入中国，用于满口种植牙修复。</span></p>
+<div style="font-size: 13.3333px;">
+<div style="font-size: 12px;">
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size: 18px;"><span style="line-height: 22.3906px;">All-on-4满口种植牙的价格是多少</span></span></h2>
+</section>
+</div>
+</div>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp;按照满口种植牙有两种方式，如果采用&ldquo;缺一种一&rdquo;的方式，需要种植二三十颗牙钉，它的整体费用过于高了，一般人难以承受。而All-on-4种植牙只需要单颌植入4颗牙钉，就能完成牙齿的重建，它相对于传统的种植牙节省了很多的费用，整体价格一般在几万元以上。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);">【</span></a><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>点击咨询半口和全口种植价格表</strong></span></a><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);">】</span></a></span></p>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 现在在国内，能做All-on-4种植牙的医生很少，除了外籍医师之外，一般都是有多年经验的医师。因此，种植牙切记不能在小诊所做，必须到经过批准的大型口腔医院就诊。并且会在修复手术之前与患者签订质保协议。</span></p>
+<p style="font-size: 13.3333px; text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D3OT410-15L18.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<div style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>400-6655-111</strong></span></a>。</span></div>
+<div>&nbsp;</div>{/dede:field}
+{dede:field name='pubdate'}1521683798{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D3OO1020-145259_lit.jpg{/dede:field}

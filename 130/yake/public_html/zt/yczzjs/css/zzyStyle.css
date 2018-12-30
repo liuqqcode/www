@@ -1,0 +1,1499 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+body {color:#222222; font:14px "微软雅黑",Tahoma,Arial; margin:0; padding:0; background:#fff;}
+
+img{ border:0;}
+
+h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0;}
+
+ul,ol,dl {list-style:none; cursor:pointer;}
+
+a {color:#555;text-decoration:none; text-align:center;}
+
+a:hover {color:#555;text-decoration:underline;}
+
+p{ line-height:30px;}
+
+b{font-weight:bold;}
+
+.clear{ clear:both;}
+
+.zzyWidth{ width:1200px; margin:0 auto; background:url(../images/zzyBx_bg.png) left top repeat-y;padding-left:35px;padding-top:50px; padding-bottom:10px;}
+
+.zzyWarp{ width:100%;}
+
+
+
+/* public */
+
+
+
+
+
+/* banner */
+
+.zzyBan1{
+
+	width:100%;
+
+	height:230px;
+
+	background:url(../images/zzyBan2.jpg) top center no-repeat;
+
+	}
+
+.zzyBan2{
+
+	width:100%;
+
+	height:270px;
+
+	background:url(../images/zzyBan1.jpg) top center no-repeat;
+
+	}
+
+	
+
+/* nav */
+
+.zzyNav-cont{
+
+	width:100%;
+
+	height:65px;
+
+	position:relative;
+
+	border-bottom:1px solid #ededed;
+
+	border-top:1px solid #ededed;
+
+	background:#f6f6f6;
+
+	}
+
+.zzyNav-box{
+
+	width:1200px;
+
+	height:63px;
+
+	margin:0 auto;	
+
+	}
+
+.zzyNav-cont-fixed{
+
+	width:100%;
+
+	position:fixed;
+
+	z-index:9999;
+
+	height:63px;
+
+	}
+
+.fixedNav{position:fixed;top:0; z-index:9999;}
+
+.zzyNav-cont a{
+
+	display:block;
+
+	float:left;
+
+	width:150px;
+
+	height:40px;
+
+	line-height:40px;
+
+	text-align:center;
+
+	margin:12px 25px 0 0;
+
+	overflow:hidden;	
+
+	}
+
+.zzyNav-cont a:hover{
+
+	width:150px;
+
+	background:url(../images/jihe.png) no-repeat;
+
+	background-position:0 -280px;
+
+	color:#fff;
+
+	text-decoration:none;	
+
+	}
+
+.zzyNav-cont a.on{
+
+	width:150px;
+
+	background:url(../images/jihe.png) no-repeat;
+
+	background-position:0 -280px;
+
+	color:#fff;
+
+	text-decoration:none;	
+
+	}
+
+
+
+	
+
+	
+
+/* title */
+
+.zzyTit{
+
+	height:50px;
+
+	background:url(../images/zzyTti_bg01.png) left bottom no-repeat;
+
+	padding-left:35px;
+
+	width:1200px;
+
+	margin:50px auto;
+
+	margin-bottom:0;
+
+	}
+
+.zzyTit2{
+
+	height:50px;
+
+	background:url(../images/zzyTti_bg02.png) no-repeat;
+
+	padding-left:35px;
+
+	width:1200px;
+
+	margin:0 auto;
+
+	}
+
+.zzyTit3{
+
+	height:18px;
+
+	background:url(../images/zzyTti_bg03.png) no-repeat;
+
+	width:1200px;
+
+	margin:30px auto;
+
+	padding-left:35px;
+
+	margin-top:0;
+
+	}
+
+	
+
+	
+
+	
+
+/*-------------------------- 种植牙简介 -----------------------------------------------*/	
+
+/* 种植牙简介 */
+
+.zzy-jeL{
+
+	width:450px;
+
+	float:left;
+
+	margin-left:80px;
+
+	}
+
+.zzy-jeR{
+
+	width:523px;
+
+	float:right;
+
+	line-height:30px;
+
+	margin-right:20px;	
+
+	}
+
+.zzy-jeR-title{
+
+	height:62px;
+
+	background:url(../images/zzy_02.jpg) no-repeat;
+
+	font-size:30px;
+
+	font-weight:bold;
+
+	color:#fff;
+
+	line-height:62px;
+
+	padding-left:30px;
+
+	margin-top:50px;	
+
+	}
+
+.zzy-jeR p{
+
+	margin:50px 0 0 0;	
+
+	}
+
+	
+
+	
+
+/* 种植牙发展历程 */
+
+.zzy-lc{
+
+	height:275px;
+
+	background:url(../images/zzy_03.png) no-repeat;	
+
+	}
+
+.zzy-lc-box{
+
+	width:250px;
+
+	float:left;
+
+	text-align:center;
+
+	padding-top:40px;
+
+	margin-right:40px;
+
+	}
+
+.zzy-lc-box h2{color:#666666;}
+
+.zzy-lc-box p{
+
+	width:190px;
+
+	margin:25px 0 0 30px;
+
+	}
+
+	
+
+	
+
+/* 种植牙优点 */
+
+.zzy-ydL{
+
+	width:600px;
+
+	float:left;	
+
+	}
+
+.zzy-ydL .ydTxt{
+
+	height:120px;
+
+	background:#009F96;
+
+	width:458px;
+
+	margin-top:10px;
+
+	color:#fff;
+
+	}
+
+.zzy-ydL .ydTxt p{
+
+	width:380px;
+
+	margin:0 auto;
+
+	padding-top:10px;
+
+	}
+
+.zzy-ydR{
+
+	width:480px;
+
+	float:left;	
+
+	}
+
+.zzy-ydR-box{
+
+	margin-bottom:80px;	
+
+	}
+
+.zzy-ydR-box h2{
+
+	color:#009F96;	
+
+	}
+
+.zzy-ydR-box h2 em{
+
+	color:#e67e22;
+
+	font-style:normal;
+
+	}
+
+	
+
+	
+
+/* 种植牙分类 */
+
+.zzy-fl{ position:relative;padding-bottom: 50px;}
+
+.zzy-flL{
+
+	position:absolute;
+
+	left:70px;
+
+	top:15px;
+
+	}
+
+.zzy-flR{
+
+	width:1057px;
+
+	float:right;
+
+	height:326px;
+
+	background:#009F96;	
+
+	color:#fff;
+
+	}
+
+.zzy-flR p{ margin:30px 0 30px 150px;}
+
+.zzy-flR-box{
+
+	width:145px;
+
+	float:left;	
+
+	margin-right:35px;	
+
+	}
+
+.zzy-flR-box img{
+
+	height:144px;
+
+	width:145px;
+
+	}
+
+.zzy-flR-box a{
+
+	display:block;
+
+	width:130px;
+
+	height:30px;
+
+	line-height:30px;
+
+	text-align:center;
+
+	border:1px solid #FFF;
+
+	font-size:16px;
+
+	color:#fff;
+
+	margin:20px 0 0 17px;
+
+	text-decoration:none;
+
+	}
+
+
+
+
+
+/* 种植牙禁忌 */
+
+.zzy-jjL{
+
+	width:633px;
+
+	float:left;
+
+	}
+
+.zzy-jjR{
+
+	width:500px;
+
+	float:right;	
+
+	}
+
+.zzy-jjR ul li{
+
+	height:42px;
+
+	background:url(../images/jihe.png) 0 15px no-repeat;
+
+	background-position:0 10px;
+
+	border-bottom:1px dotted #308f22;
+
+	padding-left:30px;
+
+	line-height:52px;
+
+	}
+
+	
+
+	
+
+/* 种植牙最佳时机 */
+
+.zzy-sjL{
+
+	width:665px;
+
+	float:left;
+
+	background:#009F96;	
+
+	height:146px;
+
+	}
+
+.zzy-sjR{
+
+	width:534px;
+
+	float:right;
+
+	background:#e67e22;
+
+	height:146px;
+
+	}
+
+.zzy-sj{
+
+	color:#fff;
+
+	line-height:25px;
+
+	}
+
+.zzy-sjL p{
+
+	width:540px;
+
+	margin:20px auto;	
+
+	}
+
+.zzy-sjR p{
+
+	width:380px;
+
+	margin:20px auto;	
+
+	}
+
+	
+
+	
+
+/*-------------------------- 种植牙标准 -----------------------------------------------*/	
+
+/*  种植牙标准 切换标题 */
+
+.zzy-bzTitle{
+
+	width:910px;
+
+	float:right;
+
+	}
+
+.bzTitCont{
+
+	float:left;
+
+	text-align:center;
+
+	}
+
+.bzTitCont a{
+
+	width:125px;
+
+	float:left;
+
+	height:36px;
+
+	line-height:36px;
+
+	background:url(../images/jihe.png) no-repeat;
+
+	background-position:0 -436px;
+
+	margin-right:25px;	
+
+	}
+
+.bzTitCont .current,.bzTitCont a:hover{background-position:0 -366px; color:#fff;}  
+
+.bzTitCont.current{
+
+	color:#fff;
+
+	background:url(../images/cont_navBg.png) no-repeat;
+
+	}
+
+.zzy-bzCont{margin-top:60px;}
+
+.prev,.next{background:url(../images/jihe.png) no-repeat;}
+
+.prev{
+
+	width:19px;
+
+	height:36px;
+
+	float:left;
+
+	background-position:0 -147px;
+
+	margin-top:250px;
+
+	cursor:pointer;	
+
+	}
+
+.next{
+
+	width:19px;
+
+	height:36px;
+
+	float:right;
+
+	background-position:0 -197px;
+
+	margin-top:250px;
+
+	cursor:pointer;	
+
+	}
+
+.zzy-bzBox{
+
+	width:1000px;
+
+	float:left;
+
+	margin-left:60px;
+
+	}
+
+.zzy-bzL{
+
+	width:620px;
+
+	float:left;	
+
+	}
+
+.zzy-bzL img{
+
+	 height:652px;
+
+	 width:619px;
+
+	}
+
+.zzy-bzR{
+
+	width:360px;
+
+	float:right;	
+
+	}
+
+.zzy-bzSee{
+
+	height:48px;
+
+	margin-top:100px;
+
+	}
+
+.zzy-bzR p{ margin-top:60px;}  
+
+
+
+
+
+
+
+/*-------------------------- 种植牙优势 -----------------------------------------------*/	
+
+/* 解析种植牙 */
+
+.zzy-ys-jxL{
+
+	width:608px;
+
+	float:left;	
+
+	}
+
+.zzy-ys-jxR{
+
+	width:450px;
+
+	float:right;	
+
+	}
+
+.zzy-ys-jxR p{ margin-bottom:80px;}
+
+/* 优势 2 */
+
+.zzyWidth table{
+
+	width:1175px;
+
+	height:510px;
+
+	border-collapse: collapse;
+
+	border-spacing: 0;
+
+	margin:0 auto;
+
+	line-height: 24px;
+
+	color:#525252;
+
+	}
+
+.zzyWidth tr td{
+
+	height:137px;
+
+	border:1px solid #dcdcdc;
+
+	padding:0 40px;
+
+	}
+
+.ys-tr1{ height:50px;}
+
+.zzyWidth tr th{
+
+	height:24px;
+
+	font-weight:normal;
+
+	border:1px solid #dcdcdc;
+
+	background:#f3f3f3 url(../images/zzy_sj1.png) 130px 22px no-repeat;
+
+	}
+
+.zzyWidth tr .th2{ background:#fff url(../images/zzy_sj1.png) 230px 22px no-repeat;}
+
+.zzyWidth tr .th3{ background:#fff url(../images/zzy_sj1.png) 215px 22px no-repeat;}
+
+.zzyWidth tr .th4{ background:#fff url(../images/zzy_sj1.png) 160px 22px no-repeat;}
+
+.ys-tr2{
+
+	border:3px solid #009F96;
+
+	height:270px;
+
+	}
+
+.ys-td2{
+
+	background:#009F96; 
+
+	color:#FFF;
+
+	}
+
+.ys-td2 a{
+
+	display:block;
+
+	width:50px;
+
+	height:20px;
+
+	line-height:20px;
+
+	border:1px solid #FFF;
+
+	margin-top:15px;
+
+	font-size:12px;
+
+	color:#fff;
+
+	text-align:center;
+
+	background:url(../images/zzy_sj2.png) 42px 4px no-repeat;
+
+	}
+
+.ys-td2 a:hover{ background:#e67f23 url(../images/zzy_sj2.png) 42px 4px no-repeat;}
+
+.ys-tr3{height:270px;}
+
+.ys-td3{background:#f3f3f3;}
+
+.ys-tr2 img,.ys-tr3 img{
+
+	height:146px;
+
+	margin-bottom:20px;
+
+	}
+
+/* 优势 3 */	
+
+.ys3Bg{
+
+	background:url(../images/3bg.jpg) top center no-repeat;
+
+	height:632px;
+
+	padding:50px 120px 0;	
+
+	position:relative;
+
+	overflow:hidden;
+
+	}
+
+.ys3L{
+
+	width:680px;
+
+	float:left;
+
+	}
+
+.ys3L-box{
+
+	width:552px;
+
+	margin-left:64px;	
+
+	}
+
+.ys3L-box img{ height:293px; width:552px;}
+
+.ys3L-box h2{
+
+	margin:30px 0 15px;
+
+	color:#009F96;
+
+	}
+
+.ys3R{
+
+	width:270px;
+
+	float:right;
+
+	}
+
+.ys3R ul{
+
+	width:180px;
+
+	position:absolute;
+
+	top:50px;
+
+	right:165px;
+
+	}
+
+.ys3R ul li{
+
+	height:35px;
+
+	line-height:35px;
+
+	background:url(../images/ys-boxNav.png) no-repeat;
+
+	background-position:0 -15px;
+
+	margin-bottom:30px;
+
+	padding-left:40px;
+
+	}
+
+.ys3R ul li.current{
+
+	background:url(../images/ys-boxNav.png) no-repeat;
+
+	background-position:0 -65px;
+
+	color:#fff;
+
+	}
+
+	
+
+	
+
+	
+
+/* 优势 4 */
+
+.ys-tit4{
+
+	height:100px;
+
+	border:1px dotted #d8d8d8;
+
+	background:#f0f0f0;
+
+	text-align:center;
+
+	padding-top:30px;
+
+	}
+
+.ys-hzBox{
+
+	width:1130px;
+
+	margin:0 auto;	
+
+	}
+
+.ys-hzBox .h1{
+
+	color:#009F96;
+
+	margin:40px 0 0 220px;	
+
+	}
+
+.ys-hzBox .h2{
+
+	color:#009F96;
+
+	margin:40px 0 0 150px;	
+
+	}
+
+.ys-hzL{
+
+	width:548px;
+
+	float:left;
+
+	background:url(../images/zzy_27.png) no-repeat;
+
+	height:537px;
+
+	}
+
+.ys-hzL .yx{
+
+	width:450px;
+
+	margin:20px 0 0 60px;	
+
+	}
+
+.ys-hzL .yx .yxBox{
+
+	width:200px;
+
+	height:60px;
+
+	border:2px solid #d5d5d5;
+
+	float:left;
+
+	margin:50px 0 0 20px;
+
+	line-height:60px;
+
+	text-align:center;
+
+	color:#515151;	
+
+	}
+
+.ys-hzR{
+
+	width:582px;
+
+	float:left;
+
+	background:url(../images/zzy_28.png) no-repeat;
+
+	height:537px;
+
+	}
+
+.ys-hzR .zzs{
+
+	width:450px;
+
+	margin:20px 0 0 20px;
+
+	}
+
+.ys-hzR .zzsBox{
+
+	width:130px;
+
+	height:60px;
+
+	float:left;
+
+	margin:50px 0 0 20px;
+
+	}
+
+	
+
+	
+
+/*-------------------------- 种植牙警惕 -----------------------------------------------*/	
+
+/*  */
+
+.zzy-jtL{
+
+	width:500px;
+
+	float:left;
+
+	}
+
+.zzy-jtL p{ margin-bottom:50px;}
+
+
+
+/* 危害 */
+
+.jtBox{
+
+	width:500px;
+
+	background:url(../images/zzy_30.png) right top no-repeat;
+
+	margin-bottom:100px;	
+
+	}
+
+
+
+/* 危害 左 */
+
+.jtBoxL{
+
+	width:67px;
+
+	height:462px;
+
+	float:left;
+
+	background:#009F96;	
+
+	}
+
+.jtBoxL h2{
+
+	width:20px;
+
+	margin:10px 20px;
+
+	color:#fff;	
+
+	}
+
+.jtBoxL img{ height:45px; width:45px; margin:10px 11px;}
+
+
+
+/* 危害 右 */
+
+.jtBoxR{
+
+	width:423px;
+
+	height:462px;
+
+	float:right;	
+
+	}
+
+.jtTop{
+
+	margin-top:20px;
+
+	height:291px;
+
+	}
+
+.jtTopL{
+
+	width:124px;
+
+	height:124px;
+
+	float:left;
+
+	margin:53px 0 0 15px;	
+
+	}
+
+.jtTopR{
+
+	width:250px;
+
+	float:left;
+
+	margin:30px 0 0 20px;
+
+	line-height:30px;
+
+	}
+
+.jtButBox{
+
+	width:199px;
+
+	float:left;
+
+	margin-right:20px;
+
+	height:151px;	
+
+	}
+
+.jtButBox img{ width:199px; height:116px;}
+
+.jtButBox span{
+
+	height:35px;
+
+	line-height:35px;
+
+	text-align:center;
+
+	color:#fff;
+
+	background:#5a5a5a;
+
+	display:block;
+
+	}
+
+.jtButBox span a{ color:#fff;}
+
+.jtButBox span a:hover{ color:#fff;}
+
+.zzy-jtR{
+
+	width:500px;
+
+	float:right;
+
+	}
+
+	
+
+	
+
+/* 导语 */
+
+.jt-dy{
+
+	padding-bottom:40px;
+
+	background:url(../images/daoyu_line.png) left bottom repeat-x;	
+
+	}
+
+.jt-dyL{
+
+	width:234px;
+
+	float:left;	
+
+	}
+
+.jt-dyR{
+
+	width:940px;
+
+	float:right;
+
+	background:url(../images/daoyu_line2.png) left top repeat-x;	
+
+	}
+
+.jt-dyR h2{
+
+	margin-top:20px;
+
+	background:url(../images/jihe.png) no-repeat;
+
+	background-position:0 -27px;
+
+	padding-left:25px;
+
+	height:30px;
+
+	line-height:30px;
+
+	color:#e7741c;	
+
+	}
+
+.jt-dyR p{ margin-top:10px;}
+
+
+
+
+
+/*-------------------------- 种植牙专家 -----------------------------------------------*/	
+
+/* 专家 */
+
+.zzy-zjBox1{
+
+	width:548px;
+
+	float:left;
+
+	color:#525252;
+
+	}
+
+.zzy-zjBox1-1,.zzy-zjBox1-2{background:#f6f6f6;}
+
+.zjImg1{
+
+	width:235px;
+
+	float:left;
+
+	height:313px;
+
+	}
+
+.zjTxt1{
+
+	width:263px;
+
+	float:right;
+
+	margin-right:25px;
+
+	height:313px;
+
+	}
+
+.zzy-zjBox1 h2,.zzy-zjBox2 h2{margin-top:20px;}
+
+.zzy-zjBox1 h2 em,.zzy-zjBox2 h2 em{
+
+	font-style:normal;
+
+	font-weight:normal;
+
+	font-size:14px;
+
+	margin-left:5px;	
+
+	}
+
+.zzy-zjBox1 ul,.zzy-zjBox2 ul{ margin:20px 0;}
+
+.zzy-zjBox1 ul li,.zzy-zjBox2 ul li{
+
+	border-bottom:1px solid #949494;
+
+	line-height:30px;
+
+	}
+
+.zzy-zjBox1 p{ line-height:25px;}
+
+
+
+
+
+.zzy-zjBox1-2{ margin-top:40px;}
+
+.zjImg2{
+
+	width:235px;
+
+	float:right;
+
+	height:313px;
+
+	}
+
+.zjTxt2{
+
+	width:250px;
+
+	float:left;
+
+	margin-left:25px;
+
+	}
+
+
+
+/* 专家2 */	
+
+.zzy-zjBox2{
+
+	width:260px;
+
+	float:left;
+
+	margin-left:40px;
+
+	color:#525252;	
+
+	background:#f6f6f6;
+
+	}
+
+.zzy-zjBox2 img{ height:286px;}
+
+.zjTxt3{
+
+	width:230px;
+
+	margin-left:15px;
+
+	height:361px;
+
+	}
+
+.zzy-zjBox2 p{margin-bottom:40px;}
+
+
+
+
+
+/* 如何选择专家 */
+
+.zjChoice{
+
+	width:260px;
+
+	float:left;
+
+	margin-left:150px;
+
+	color:#5e5e5e;	
+
+	}
+
+.zjChoice img{ margin-left:50px; height:209px;}
+
+.zjChoice h2{ margin-left:85px;}
+
+.zjChoice p{ margin:20px 0 0 5px;}
+
+
+
+
+
+
+
+/*-------------------------- 种植牙案例 -----------------------------------------------*/	
+
+.alBox{
+
+	width:300px;
+
+	float:left;
+
+	margin:0 50px 45px;
+
+	background:#f7f7f7;
+
+	
+
+	}
+
+.alBox h2{ margin:20px; color:#666666;}
+
+.alBox h2 em{
+
+	font-size:14px;
+
+	font-style:normal;
+
+	padding-left:5px;	
+
+	}
+
+.alBox ul{
+
+	width:260px;
+
+	margin:0 auto;
+
+	color:#747474;	
+
+	}
+
+.alBox li{
+
+	border-bottom:1px solid #a2a2a2;
+
+	line-height:35px;	
+
+	}
+
+.alBox a.big{
+
+	width:100px;
+
+	display:block;
+
+	float:left;
+
+	margin:20px;
+
+	height:32px;
+
+	line-height:32px;
+
+	text-align:center;
+
+	color:#fff;	
+
+	}
+
+.a1{ background:#e67e22;}
+
+.a1:hover{background:#5c9054;}
+
+.a2{ background:#5c9054;}
+
+.a2:hover{ background:#e67e22;}
+
+.alBox a1.h1{background:#5c9054;}
+
+.alBox a2.h2{background:#5c9054;}
+
+
+
+
+
+/*-------------------------- 种植牙相关 -----------------------------------------------*/	
+
+.xgBox{
+
+	width:290px;
+
+	float:left;
+
+	margin:35px;
+
+	color:#525252;	
+
+	}
+
+.xgBox h2 span{
+
+	float: right;
+
+	display: block;
+
+	font-size: 16px;
+
+	font-weight: 100;
+
+}
+
+.xgBox img{ height:119px; margin:10px 0 20px 0;}
+
+.xgBox li{
+
+	border-bottom:1px solid #a3a3a3;
+
+	line-height:30px;
+
+	margin-top:10px;	
+
+	}
+
+/* demo05 */
+
+
+
+#myController4,#myController6,#myController7{height:42px;line-height:32px; z-index:1005;position:absolute;margin-top:-40px;margin-left:840px}
+
+#myController4 span,#myController6 span,#myController7 span{ padding:3px 15px;text-align:center;cursor:pointer;background:url(../images/jihe.png) no-repeat; background-position:0 -540px;}
+
+#myController4 span.j_prev,#myController6 span.j_prev,#myController7 span.j_prev{padding:3px 20px; background-position:0 -74px;}
+
+#myController4 span.j_next,#myController6 span.j_next,#myController7 span.j_next{ margin-left:20px;background-position:0 -105px;}
+
+#myController4 span.jFlowSelected4,#myController6 span.jFlowSelected6,#myController7 span.jFlowSelected7{ background-position:0 -502px;}
+
+.pro{float:left;width:210px;height:132px;margin:10px 0 6px 10px;text-align:center}
+
+.pro img{width:200px;height:102px}
+
+.pro a:hover{text-decoration:none;color:#f60}

@@ -1,0 +1,113 @@
+<extend name="Public/base" />
+
+<block name="body">
+    <!-- 标题栏 -->
+    <div class="main-title">
+        <h2>编辑医生排班</h2>
+    </div>
+    <div class="cf">
+
+    </div>
+    <div class="main-title">
+        <h3 style="text-align: center">{$row.name}</h3>
+    </div>
+
+    <!-- 数据列表 -->
+    <div class="data-table table-striped">
+        <table class="">
+            <thead>
+            <tr>
+                <th class="row-selected row-selected wwwer2"></th>
+                <th class="" width="10%">日期 </th>
+                <th class="text-center">星期一 </th>
+                <th class="">星期二 </th>
+                <th class="">星期三 </th>
+                <th class="">星期四 </th>
+                <th class="">星期五 </th>
+                <th class="">星期六 </th>
+                <th class="">星期日 </th>
+            </tr>
+            <tr >
+                <th class="row-selected row-selected"></th>
+                <th>8:20-8:50</th>
+                <td class="text-center"><input type="text" name="a1,b1" value="" style="border: none"></td>
+                <td>a2,b1</td>
+                <td>全天</td>
+                <td>全天</td>
+                <td>全天</td>
+                <td>全天</td>
+                <td >全天</td>
+            </tr>
+            <tr>
+                <th class="row-selected row-selected"></th>
+                <th >上午</th>
+
+            </tr>
+            <tr>
+                <th class="row-selected row-selected"></th>
+                <th>下午</th>
+
+            </tr>
+            </thead>
+        </table>
+        <br/>
+        <form id="form" action="{:U('edit')}" method="post" class="form-horizontal">
+            <input type="hidden" name="doctorid" value="{$row.id}">
+            <div class="form-item cf">
+                <label class="item-label">日期</label>
+                <div class="controls" >
+                    <select style="width: 200px;" name="week" id="week">
+                        <option value="0">亲选择日期</option>
+                        <option value="1">星期一</option>
+                        <option value="2">星期二</option>
+                        <option value="3">星期三</option>
+                        <option value="4">星期四</option>
+                        <option value="5">星期五</option>
+                        <option value="6">星期六</option>
+                        <option value="7">星期日</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-item cf">
+                <label class="item-label">时间：</label>
+                <div class="controls">
+                    <label class="radio">
+                        <input type="radio" name="time" value="0" checked >全天
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="time" value="1">上午
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="time" value="2">下午
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="time" value="3">休
+                    </label>
+                </div>
+            </div>
+
+            <div class="form-item cf">
+                <button class="btn submit-btn ajax-post hidden" id="submit" type="submit"
+                        target-form="form-horizontal">确 定
+                </button>
+                <a class="btn btn-return" href="{:U('index')}">返 回</a>
+            </div>
+        </form>
+
+    </div>
+    <div class="page">
+        {$_page}
+    </div>
+</block>
+<block name="script">
+    <script type="text/javascript">
+        $('#submit').click(function(){
+            $('#form').submit();
+        });
+    </script>
+
+</block>
+
+
+

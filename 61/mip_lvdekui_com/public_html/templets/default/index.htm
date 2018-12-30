@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link rel="canonical" href="https://lvdekui.com">
+    <script type="text/javascript" src="/js/ips.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta name="format-detection" content="telphone=no, email=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link href="css/m.css?v=20170324" rel="stylesheet" media="screen">
+    <script src="//msite.baidu.com/sdk/c.js?appid=1594067873157137"></script>
+    <link rel="canonical" href="https://lvdekui.com" />
+    <link rel="canonical" href="https://{dede:global.cfg_basehost/}{dede:fieldname= 'arcurl'/}" />
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <link rel="miphtml" href="https://mip.wap.lvdekui.com" />
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e590fb06d39b31016b2de56156e81ef4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body>
+    <div class="placeholder-box"></div>
+    <div class="htmlBox">
+        {dede:include filename="head.htm"/}
+        <div class="list-content">
+            <script src="/js/banner.js"></script>
+            <div class="article-wrap">
+                <ul class="article-feed-ul">
+                    {dede:arclist titlelen='60' flag='h'}
+                    <li>
+                        <a href="[field:arcurl /]">
+                            <div class="article-md-img-box">
+                                <img class="lazy" data-original="[field:picname/]">
+                            </div>
+                            <div class="article-info-box">
+                                <div class="article-md-title">[field:title /]</div>
+                                <div class="author-box">
+                                    <span>
+
+<a href="[field:arcurl /]" class="author-a1">[field:typename/]</a>
+
+</span>
+                                    <span><i class="icon icon-time"></i>[field:pubdate function="MyDate('Y-m',@me)"/]</span>
+                                    <span><i class="icon icon-pl-praise"></i>[field:click/]</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+                <div class="placeholder-line"></div>
+                <div class="index-ad-box">
+                </div>
+                <div class="placeholder-line"></div>
+               <a href="/swt"><img 
+  layout="fixed-height"
+  height="84"
+  src="/images/fst.gif">
+</img></a>
+                <div class="article-feed-ul-story-box">
+                    <h2 class="title ">新闻推荐</h2>
+                    <span class="span-mark-two"></span>
+                </div>
+                <ul class="article-feed-ul article-append-box">
+                    {dede:arclist typeid='7' titlelen='60' row='1' limit='0,1'}
+                    <li class="article-big-image-box">
+                        <a href="[field:arcurl/]">
+                            <div class="rec-index-box rec-index-big-box">
+                                <div class="rec-tag">推荐阅读</div>
+                                <em class="quot">“</em> [field:title/]
+                                <em class="quot">”</em>
+                            </div>
+                            <div class="article-md-img-box">
+                                <img class="lazy" data-original="[field:picname/]">
+                            </div>
+                            <div class="article-info-box">
+                                <div class="article-md-title">[field:title/]</div>
+                                <div class="author-box">
+                                    <span>
+
+<a href="[field:typeurl/]" class="author-a1">[field:typename/]</a>
+
+</span>
+                                    <span><i class="icon icon-time"></i>[field:pubdate function="MyDate('Y-m',@me)"/]</span>
+                                    <span><i class="icon icon-pl-praise"></i>[field:click/]</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    {/dede:arclist} {dede:arclist typeid='7' titlelen='60' row='8' limit='1,8'}
+                    <li>
+                        <a href="[field:arcurl/]">
+                            <div class="article-md-img-box">
+                                <img class="lazy" data-original="[field:picname/]">
+                            </div>
+                            <div class="article-info-box">
+                                <div class="article-md-title">[field:title/]</div>
+                                <div class="author-box">
+                                    <span><i class="icon icon-time"></i>[field:pubdate function="MyDate('Y-m',@me)"/]</span>
+                                    <span><i class="icon icon-pl-praise"></i>[field:click/]</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+                <div class="bottom-more"><a href="/jkxw/">点击查看更多</a></div>
+                <div class="placeholder-line"></div>
+           <a href="/swt"><img 
+  layout="fixed-height"
+  height="84"
+  src="/images/fst.gif">
+</img></a>
+                <div class="article-feed-ul-story-box">
+                    <h2 class="title ">最新文章</h2>
+                    <span class="span-mark-two"></span>
+                </div>
+                <ul class="article-feed-ul article-append-box">
+                    {dede:arclist titlelen='60' row='12' }
+                    <li>
+                        <a href="[field:arcurl/]">
+                            <div class="article-md-img-box">
+                                <img class="lazy" data-original="[field:picname/]">
+                            </div>
+                            <div class="article-info-box">
+                                <div class="article-md-title">[field:title/]</div>
+                                <div class="author-box">
+                                    <span><i class="icon icon-pl-praise"></i>[field:click/]</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+                <div class="bottom-more"><a href="/jkxw/">点击查看更多</a></div>
+            </div>
+        </div>
+        <div class="mod-sidebar">
+            <div class="goTo go-to-box"><i class="icon icon-goTo js-go-to"></i></div>
+        </div>
+        {dede:include filename="footer.htm"/}
+    </div>
+</body>
+
+</html>

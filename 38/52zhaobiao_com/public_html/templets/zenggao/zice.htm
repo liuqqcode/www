@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{dede:field.seotitle /}-{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <link rel="stylesheet" href="/css/common.css" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="/js/jquery1.42.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.SuperSlide.2.1.1.js"></script>
+</head>
+
+<body>
+    {dede:include filename="header.htm"/}
+    <div class="zice_link">
+        <div class="zice_con">
+            <ul>
+                <li><a href="/zt/sgyc/" target="_blank" class="zgyc"></a></li>
+                <li><a href="{dede:type typeid='39'}[field:typeurl/]{/dede:type}" target="_blank" class="fych"></a></li>
+                <li><a href="{dede:type typeid='38'}[field:typeurl/]{/dede:type}" target="_blank" class="xzs"></a></li>
+                <li><a href="{dede:type typeid='40'}[field:typeurl/]{/dede:type}" target="_blank" class="axz"></a></li>
+                <li class="li_seach">
+                    <form method="get">
+                        <input type="text" class="seach_txt" placeholder="请输入手机或电话号码" id="lxbstel">
+                        <input type="button" onclick="printInputValue()" class="seach_btn" value="免费连接医师" />
+                    </form>
+                    <script>
+                    function printInputValue() {
+                        var inputValue = document.getElementById("lxbstel").value;
+                        openZoosUrl('chatwin', '&e=' + inputValue);
+                    }
+                    </script>
+                </li>
+            </ul>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

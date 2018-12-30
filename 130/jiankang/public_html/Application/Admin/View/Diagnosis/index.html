@@ -1,0 +1,66 @@
+<extend name="Public/base" />
+
+<block name="body">
+    <!-- 标题栏 -->
+    <div class="main-title">
+        <h2>套餐价格</h2>
+    </div>
+    <div class="cf">
+        <div class="fl">
+            <a class="btn" href="{:U('add')}">添 加</a>
+            <!--<button class="btn ajax-post confirm" url="{:U('User/delete',array('method'=>'deleteUser'))}" target-form="ids">删 除</button>-->
+        </div>
+
+        <!-- 高级搜索 -->
+        <!--<div class="search-form fr cf">
+            <div class="sleft">
+                <input type="text" name="nickname" class="search-input" value="{:I('nickname')}" placeholder="">
+                <a class="sch-btn" href="javascript:;" id="search" url="{:U('index')}"><i class="btn-search"></i></a>
+            </div>
+        </div>-->
+    </div>
+    <!-- 数据列表 -->
+    <div class="data-table table-striped">
+        <table class="">
+            <thead>
+            <tr>
+                <th class="row-selected row-selected"><input class="check-all" type="checkbox"/></th>
+                <th class="">医生</th>
+                <th class="">语音急诊</th>
+                <th class="">图文资讯</th>
+                <th class="">电话咨询</th>
+                <th class="">院后指导</th>
+                <th class="">私人医生</th>
+                <th class="" >操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            <notempty name="rows">
+                <volist name="rows" id="vo">
+                    <tr>
+                        <td><input class="ids" type="checkbox" name="id[]" value="{$vo.uid}" /></td>
+                        <td>{$vo.name}</td>
+                        <td>{$vo.voice}/次</td>
+                        <td>{$vo.text}/次</td>
+                        <td>{$vo.tel}/次</td>
+                        <td>{$vo['guidance']['0']}/天,{$vo['guidance']['1']}/周,{$vo['guidance']['2']}/月</td>
+                        <td>{$vo['private']['0']}/周,{$vo['private']['1']}/月</td>
+                        <td>
+                            <a href="{:U('edit',array('id'=>$vo['doctorid']))}">修改</a>
+                        </td>
+                    </tr>
+
+                </volist>
+                <else/>
+                <td colspan="9" class="text-center"> aOh! 暂时还没有内容! </td>
+            </notempty>
+            </tbody>
+        </table>
+    </div>
+    <div class="page">
+        {$_page}
+    </div>
+</block>
+
+
+

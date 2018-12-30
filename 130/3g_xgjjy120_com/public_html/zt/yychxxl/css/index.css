@@ -1,0 +1,232 @@
+@charset "utf-8";
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+blockquote,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+pre,
+form,
+fieldset,
+legend,
+button,
+input,
+textarea,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    max-width: 640px;
+    margin: auto;
+}
+body,
+button,
+input,
+select,
+textarea {
+    font: 12px/1.5tahoma, '微软雅黑', \5b8b\4f53;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+}
+
+address,
+cite,
+dfn,
+em,
+var {
+    font-style: normal;
+}
+#qiao-mobile-wrap,
+#QIAO_ICON_CONTAINER,
+#qiao-mobile-wrap ins {
+    display: none !important;
+}
+
+#LXB_CONTAINER_SHOW {
+    right: -10000px !important;
+}
+
+#QIAO_ICON_CONTAINER,
+#qiao-mobile-wrap {
+    display: none !important;
+}
+
+#qiao-wrap,
+#qiao-mobile-wrap {
+    display: none !important;
+}
+
+#LXB_CONTAINER {
+    right: -10000px !important;
+}
+
+#qiao-wrap,
+#QIAO_INVITE_CONTAINER,
+#QIAO_ICON_CONTAINER.qiao-icon-sector,
+#qiao-mobile-wrap,
+#qiao-wrap,
+#LRfloater0,
+#LRdiv0,
+#LRdiv1,
+#LRdiv2,
+#LRdiv3,
+/*#sjswtrightBanner,*/
+#zjswt {
+    display: none !important;
+}
+code,
+kbd,
+pre,
+samp {
+    font-family: couriernew, courier, monospace;
+}
+
+small {
+    font-size: 12px;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+sup {
+    vertical-align: text-top;
+}
+
+sub {
+    vertical-align: text-bottom;
+}
+
+legend {
+    color: #000;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+button,
+input,
+select,
+textarea {
+    font-size: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+.clearfix::after {
+    content: ".";
+    clear: both;
+    display: block;
+    overflow: hidden;
+    font-size: 0;
+    height: 0;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+img {
+    width: 100%;
+}
+.iconfont{
+     font-size: inherit!important;
+}
+.button{
+    width: 90%;
+    margin:0.2rem auto;
+    background-color: #ffa800;
+    font-size: 0.3rem;
+    color: #fff;
+    text-align: center;
+    border-radius: 0.1rem;
+    line-height: 0.6rem;
+}
+.texttitle{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    line-height: 0.35rem;
+}
+.texttitle p:nth-child(1){
+    font-size: 0.25rem;
+    font-weight: bold;
+}
+.texttitle p:nth-child(2){
+    font-size: 0.2rem;
+}
+.biaodan{
+    width: 90%;
+    margin: auto;
+    background-color: #f2f2f2;
+    padding:0.3rem 0.5rem;
+}
+.biaodan .title{
+   text-align: center;
+   color: #1080c4;
+   line-height: 0.4rem;
+   font-size: 0.3rem;
+}
+.biaodan .title span{
+    font-size: 0.35rem;
+    color: #f06028;
+    font-weight: bold;
+}
+.biaodan .iput{ 
+     width: 100%;
+     margin: 0.2rem auto;
+}
+.biaodan .iput input{
+    width: 100%;
+}
+.yx_3{
+    width: 90%;
+    margin:0.2rem auto;
+}
+.yx_4{
+     width: 90%;
+     background-color: #f2f2f2;
+    margin:0.2rem auto;
+}
+.cfon{
+    font-size: 0.2rem;
+    color: #1a1a1a;
+    text-align: center;
+}

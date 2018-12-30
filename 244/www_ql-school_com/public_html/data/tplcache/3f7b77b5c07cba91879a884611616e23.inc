@@ -1,0 +1,1 @@
+<li><a href="[field:typeurl/]"><img src="/templets/qunli/images/profession3.jpg" alt="美容培训课程"/></a></li>

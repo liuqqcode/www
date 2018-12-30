@@ -1,0 +1,376 @@
+{dede:field name='keywords'}维尔口腔天下无双：93岁高{/dede:field}
+{dede:field name='description'}维尔口腔，天下无双。93岁高龄老人重获新牙，像郭老这样的患者，维尔口腔还有很多很多，作为牙医，我 的幸福就是每次看到患者重获新牙的{/dede:field}
+{dede:field name='title'}维尔口腔天下无双：93岁高龄老人重获新牙{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<section data-id="89224" data-tools="135编辑器" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+	<section style="margin: 10px auto; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+		<section data-width="100%" style="margin: 0px 0px -30px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 670px; text-align: center;">
+			<section style="margin: 0px auto; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 64px; height: 64px; border-radius: 50%; display: inline-block; background: rgb(254, 254, 254);">
+				<section data-role="width" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; width: 32px;">
+					<img _width="32px" border="0" data-="" data-fail="0" data-ratio="0.8571428571428571" data-w="35" height="" src="http://mmbiz.qpic.cn/mmbiz_png/fgnkxfGnnkQHrbiaR05ibWjdTib5rVzbZRE7f8VcgckIV4tiaVMvquMYiaQkJj2VfdGuO34ZTGqIqqjzMkDfEsbx9TA/0?" style="margin: 18px 0px 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 32px !important; visibility: visible !important;" title="" width="2rem" /></section>
+			</section>
+		</section>
+		<section style="margin: -16px 0px 0px; padding: 30px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; font-size: 14px; color: rgb(176, 176, 177); border-radius: 10px; background-color: rgb(242, 244, 245);">
+			<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+			<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(136, 136, 136);">维尔口腔，天下无双。93岁高龄老人重获新牙，像郭老这样的患者，维尔口腔还有很多很多，作为牙医，我较大的幸福就是每次看到患者重获新牙的喜悦，看到他们种牙后马上就能咬苹果时刻，是我 有成就感的时候。维尔口腔的诊疗技术力量是基于一支强大的种植专家团队，我们会持续为患者提供专业的、科学的、严谨的种植牙手术，用出色的诊疗效果来获得了客户认可。</span></p>
+			<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+			<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: right; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(136, 136, 136);">维尔口腔医疗总院长刘志杰</span></p>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px 0px 0px 2em; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; color: rgb(255, 255, 255); border: 4px solid rgb(254, 254, 254); transform: rotate(0deg);">
+	<section style="margin: 0px; padding: 2px 12px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; background-color: rgb(22, 187, 179);">
+		<span data-brushtype="text" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 18px;">News</span></section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important; text-align: center;"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0423/20170423100513697.jpg" style="width: 450px; height: 302px;" /></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; border: 0px none; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; font-family: 微软雅黑; font-size: 16px; text-align: justify; line-height: 1.75em;">&nbsp;</p>
+<section style="margin: -5em 2em 0px; padding: 20px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; background-color: rgb(254, 254, 254);">
+	<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px; color: rgb(89, 89, 89);">走进北京维尔口腔三元桥店，一块红色方匾摆放在非常醒目的位置，上面大书&ldquo;维尔口腔 &nbsp;天下无双&mdash;&mdash;93岁退休老人郭大鹏 赠&rdquo;。这位郭大鹏老人是何许人？他为什么会给维尔口腔医院如此高的评价？</span></p>
+	<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; line-height: 1.6; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89);">▼</span></strong></p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+	<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+		<section style="margin: 10px 0px; padding: 0px 3px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+			<section style="margin: 1.15em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; width: 664px; vertical-align: top;">
+				<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 664px;">
+					<section style="margin: -3px 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 6px; height: 6px; border-radius: 100%; float: left;">
+						&nbsp;</section>
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border-top-width: 1px; border-top-style: solid; width: 663.328px; border-top-color: rgb(71, 193, 168);">
+						&nbsp;</section>
+				</section>
+				<section style="margin: -1.1em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: right;">
+					<section style="margin: 0px; padding: 3px 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; vertical-align: top; text-align: left; color: rgb(87, 85, 85); font-size: 14px; background-color: rgb(254, 255, 255);">
+						<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px;">故事是这样......</span></strong></p>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important; text-align: center;"><embed allowscriptaccess="always" bgcolor="#000000" flashvars="autoplay=0&amp;skin=http://beij.wekq.net/statics/js/ckeditor/plugins/flashplayer/player/skin.swf&amp;video=http://video.wekq.net/video/zzy5.mp4&amp;thumbnail=http://beij.wekq.net/skin/img/spzx/sp5.jpg" height="270px" id="f4Player" quality="high" src="http://beij.wekq.net/statics/js/ckeditor/plugins/flashplayer/player/player.swf" type="application/x-shockwave-flash" width="480px" wmode="transparent"></embed></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">郭大鹏老人手里拿着半个苹果，缓慢而仔细的看着，他的眼神透犹豫，还有点一点担心。作为他的主治医生，维尔口腔医院医疗总院长刘志杰笑着鼓励道：&ldquo;您试试看，咬，没事......怎么样，不像刚种完的牙吧......跟自己年轻时候的真牙一样吧。&rdquo;</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">郭老咬了一口苹果......他一边吃一边不住的说&ldquo;好，好，好&rdquo;。刚刚做完种植牙手术的他，他丝毫不顾忌的又咬了一口。脆甜的苹果与嘴里的种植牙一起发出咀嚼的声音，在他耳中形成了一曲动听的旋律。郭老激动的说：&ldquo;好，好......不像带假牙那样不得劲，嘎吱嘎吱的，这个挺舒服的。&rdquo;</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89);">翌日，</span></strong></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">郭老带着子女为维尔口腔医院送来&ldquo;维尔口腔 天下无双&rdquo;的牌匾。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(22, 187, 179);">▼</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+	<section style="margin: 10px 0px; padding: 0px 3px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+		<section style="margin: 1.15em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; width: 664px; vertical-align: top;">
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 664px;">
+				<section style="margin: -3px 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 6px; height: 6px; border-radius: 100%; float: left;">
+					&nbsp;</section>
+				<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border-top-width: 1px; border-top-style: solid; width: 663.328px; border-top-color: rgb(71, 193, 168);">
+					&nbsp;</section>
+			</section>
+			<section style="margin: -1.1em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: right;">
+				<section style="margin: 0px; padding: 3px 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; vertical-align: top; text-align: left; color: rgb(87, 85, 85); font-size: 14px; background-color: rgb(254, 255, 255);">
+					<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px;">缺牙困扰......</span></strong></p>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">93岁高龄的郭大鹏老人是一名离退休老干部，退休后享受天伦之乐的他对生活非常满足， 美中不足的是，随着年龄的增长，嘴里的牙齿逐渐脱落，每天只能吃一些稀粥之类的食物。郭老的子女是非常孝顺的，自己的父亲饱受缺牙困扰也让他们心里充满了无奈和愧疚。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">郭大鹏老人的大女儿 能了解父亲的困扰，因为，她也同样受到缺牙困扰。一次偶然的机会，郭老的儿子从朋友那里听说北京维尔口腔医院的刘院长是种植牙专家，他发明的<strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">&ldquo;一日得&rdquo;植牙术能够让满口缺牙的人当天就能够恢复咀嚼能力。</strong></span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; text-align: center;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">在朋友的陪同下，郭老的儿子陪同大姐来到北京维尔口腔医院三元桥门诊部，刘志杰院长为其做种植牙手术，当天，郭老的大女儿便能够用牙齿吃饭了，刘院长的医术令郭老的子女由衷的信服。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">但是，郭大鹏老人的情况比较特殊，首先是缺牙时间较长，从缺几颗牙到满口缺牙，困扰了老人十多年；其次，老人已经93岁高龄，身体条件、口腔条件不知道是否能够达到种植牙手术的条件。此前郭老子女走访了多家医疗机构，但是始终没有找到愿意接诊的医生以及合适的治疗方法。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+	<section style="margin: 10px 0px; padding: 0px 3px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+		<section style="margin: 1.15em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; width: 664px; vertical-align: top;">
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 664px;">
+				<section style="margin: -3px 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 6px; height: 6px; border-radius: 100%; float: left;">
+					&nbsp;</section>
+				<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border-top-width: 1px; border-top-style: solid; width: 663.328px; border-top-color: rgb(71, 193, 168);">
+					&nbsp;</section>
+			</section>
+			<section style="margin: -1.1em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: right;">
+				<section style="margin: 0px; padding: 3px 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; vertical-align: top; text-align: left; color: rgb(87, 85, 85); font-size: 14px; background-color: rgb(254, 255, 255);">
+					<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px;">&ldquo;一日得&rdquo;技术 告别牙齿缺失</span></strong></p>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">刘院长告诉他们，&ldquo;一日得&rdquo;植牙术非常适合郭大鹏老人。首先，中国人口腔相对于西方人特点就是牙槽骨宽度、深度不足。其次，缺牙时间过久或口腔疾病又导致牙槽骨萎缩。即使经过内提升和外提升等骨培植手段，仍然达不到传统种植牙对骨量的基本要求。但对于牙骨条件很差、牙槽萎缩的患者，也可以接受&ldquo;一日得&rdquo;种植手术。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; text-align: center;"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0423/20170423100834235.jpg" style="width: 450px; height: 280px;" /></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">其次，&ldquo;一日得&rdquo;植牙术主要针对于全口无牙或者半口无牙的情况下，仅需4颗种植体，于两颗前牙部位的种植体植入牙槽骨内，而两颗中远部位的种植体采取倾斜角度植入牙槽骨内，然后再种植体的基台上安装&ldquo;拱形连桥&rdquo;牙冠，完成口腔种植修复。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">第三，通过植入四颗种植体，其中远中种植体呈45&deg;向远中倾斜，增大骨骼与种植体的接触面，避开了上颌窦和下齿槽神经管等重要解剖结构，避免了植骨手术，减少了手术创伤;即使在骨量 小的情况下也可实现稳定性。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">第四，传统种植牙手术需要分次进行，前后需要半年到1年半的治疗期和多次受创的过程。&ldquo;一日得&rdquo;种植技术速度快，1小时就能种好半口牙，即拔即种，当天戴冠，当天就能享受美食，可极大地缩短患者缺牙时间，减轻患者缺牙的痛苦。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">第五，传统半口种植牙满口植牙，而&ldquo;一日得&rdquo;全口种植牙技术半口只需4个种植体，大大节约了治疗费用。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">后，&ldquo;一日得&rdquo;植牙术对医生有极高的要求，由于中远部位的两颗种植体是以倾斜角度植入牙槽骨的，对种植的位置、角度、深度都有着严格的要求，不能有丝毫偏差，在此基础上设计&ldquo;一日得&rdquo;种植方案，才能确保没有误差。</span></p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+	<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+		<section style="margin: 10px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 5em; transform: rotate(-25deg);">
+				<section style="margin: 2.45em 0px -0.5em 3.3em; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border-top-width: 1px; border-top-style: solid; width: 5em; border-top-color: rgb(71, 193, 168);">
+					&nbsp;</section>
+			</section>
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 670px;">
+				<section style="margin: 0px 5px 0px 0px; padding: 5px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; float: left; border: 1px solid rgb(71, 193, 168); line-height: 1; background-color: rgb(71, 193, 168);">
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+						<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+							<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 22px; color: rgb(255, 255, 255);">
+								<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">听了</p>
+							</section>
+						</section>
+					</section>
+				</section>
+				<section style="margin: 0px; padding: 5px 0px 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; min-height: 4.5em !important;">
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+						<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+							<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+								<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: justify;">
+									<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px; color: rgb(89, 89, 89);">刘志杰的对手术方式的介绍，郭大鹏的儿女终于放下悬着的心。 终，93岁高龄的郭大鹏老人终于能够在十多年后用属于自己的牙齿当天种，当天就咬上苹果了。</span></section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; text-align: center;"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0423/20170423100858606.jpg" style="width: 450px; height: 115px;" /></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; text-align: center;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 14px; color: rgb(136, 136, 136);">郭大鹏老人种牙前后</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px; color: rgb(89, 89, 89);">走出手术室，郭老激动地说，&ldquo;这么多年，我较大的心愿就是治好我的牙，能遇到这么专业维尔，遇到这样技术高超的刘院长，我和我家人都很幸运。&rdquo;</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+	<section powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+		<section style="margin: 0.5em 0px; padding: 0.5em; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; text-align: center; width: 670px;">
+			<section style="margin: 0px; padding: 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; box-shadow: rgba(159, 160, 160, 0.498039) 0px 0px 10px; display: inline-block; vertical-align: top;">
+				<section style="margin: 0px; padding: 7px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; box-shadow: rgba(0, 0, 0, 0.290196) 0px 0px 10px inset;">
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 620px;">
+						<section powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+							<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+								<img alt="" src="http://beij.wekq.net/uploadfile/2017/0423/20170423100917280.jpg" style="width: 550px; height: 692px;" /></section>
+						</section>
+					</section>
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; clear: both;">
+						&nbsp;</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+	<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none; text-align: justify;">
+		<section style="margin: 0px; padding: 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 1px solid rgb(204, 204, 204); box-shadow: rgb(204, 204, 204) 0px 0px 8px; display: inline-block; width: 670px; background-color: rgb(254, 255, 255);">
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+				<section style="margin: 8px 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: right;">
+						<p style="margin: 0px; padding: 0px; max-width: 100%; clear: none; min-height: 1em; color: rgb(62, 62, 62); font-family: 微软雅黑; font-size: 16px; line-height: 25.6px; text-align: justify; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px; color: rgb(89, 89, 89);">刘院长表示，93岁高龄老人重获新牙，像郭老这样的患者，维尔口腔还有很多很多，作为牙医，我较大的幸福就是每次看到患者重获新牙的喜悦，看到他们种牙后马上就能咬苹果时刻，是我 有成就感的时候。维尔口腔的技术力量是基于一支强大的种植专家团队，我们会持续为患者提供专业的、科学的、严谨的种植牙手术，用出色的治疗效果来获得了客户认可。</span></p>
+						<div>&nbsp;</div>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>{/dede:field}
+{dede:field name='body'}<section data-id="89224" data-tools="135编辑器" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+	<section style="margin: 10px auto; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+		<section data-width="100%" style="margin: 0px 0px -30px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 670px; text-align: center;">
+			<section style="margin: 0px auto; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 64px; height: 64px; border-radius: 50%; display: inline-block; background: rgb(254, 254, 254);">
+				<section data-role="width" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; width: 32px;">
+					<img _width="32px" border="0" data-="" data-fail="0" data-ratio="0.8571428571428571" data-w="35" height="" src="/uploads/allimg/c180407/15230A320K350-4C32.jpg" style="margin: 18px 0px 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 32px !important; visibility: visible !important;" title="" width="2rem" /></section>
+			</section>
+		</section>
+		<section style="margin: -16px 0px 0px; padding: 30px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; font-size: 14px; color: rgb(176, 176, 177); border-radius: 10px; background-color: rgb(242, 244, 245);">
+			<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+			<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(136, 136, 136);">维尔口腔，天下无双。93岁高龄老人重获新牙，像郭老这样的患者，维尔口腔还有很多很多，作为牙医，我较大的幸福就是每次看到患者重获新牙的喜悦，看到他们种牙后马上就能咬苹果时刻，是我 有成就感的时候。维尔口腔的诊疗技术力量是基于一支强大的种植专家团队，我们会持续为患者提供专业的、科学的、严谨的种植牙手术，用出色的诊疗效果来获得了客户认可。</span></p>
+			<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+			<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: right; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(136, 136, 136);">维尔口腔医疗总院长刘志杰</span></p>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px 0px 0px 2em; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; color: rgb(255, 255, 255); border: 4px solid rgb(254, 254, 254); transform: rotate(0deg);">
+	<section style="margin: 0px; padding: 2px 12px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; background-color: rgb(22, 187, 179);">
+		<span data-brushtype="text" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 18px;">News</span></section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important; text-align: center;"><img alt="" src="/uploads/allimg/c180407/15230A320N1F-55R7.jpg" style="width: 450px; height: 302px;" /></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; border: 0px none; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; font-family: 微软雅黑; font-size: 16px; text-align: justify; line-height: 1.75em;">&nbsp;</p>
+<section style="margin: -5em 2em 0px; padding: 20px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; background-color: rgb(254, 254, 254);">
+	<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px; color: rgb(89, 89, 89);">走进北京维尔口腔三元桥店，一块红色方匾摆放在非常醒目的位置，上面大书&ldquo;维尔口腔 &nbsp;天下无双&mdash;&mdash;93岁退休老人郭大鹏 赠&rdquo;。这位郭大鹏老人是何许人？他为什么会给维尔口腔医院如此高的评价？</span></p>
+	<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; line-height: 1.6; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89);">▼</span></strong></p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+	<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+		<section style="margin: 10px 0px; padding: 0px 3px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+			<section style="margin: 1.15em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; width: 664px; vertical-align: top;">
+				<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 664px;">
+					<section style="margin: -3px 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 6px; height: 6px; border-radius: 100%; float: left;">
+						&nbsp;</section>
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border-top-width: 1px; border-top-style: solid; width: 663.328px; border-top-color: rgb(71, 193, 168);">
+						&nbsp;</section>
+				</section>
+				<section style="margin: -1.1em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: right;">
+					<section style="margin: 0px; padding: 3px 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; vertical-align: top; text-align: left; color: rgb(87, 85, 85); font-size: 14px; background-color: rgb(254, 255, 255);">
+						<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px;">故事是这样......</span></strong></p>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important; text-align: center;"><embed allowscriptaccess="always" bgcolor="#000000" flashvars="autoplay=0&amp;skin=http://beij.wekq.net/statics/js/ckeditor/plugins/flashplayer/player/skin.swf&amp;video=http://video.wekq.net/video/zzy5.mp4&amp;thumbnail=http://beij.wekq.net/skin/img/spzx/sp5.jpg" height="270px" id="f4Player" quality="high" src="/uploads/allimg/c180407/15230A3212NZ-62303.swf" type="application/x-shockwave-flash" width="480px" wmode="transparent"></embed></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">郭大鹏老人手里拿着半个苹果，缓慢而仔细的看着，他的眼神透犹豫，还有点一点担心。作为他的主治医生，维尔口腔医院医疗总院长刘志杰笑着鼓励道：&ldquo;您试试看，咬，没事......怎么样，不像刚种完的牙吧......跟自己年轻时候的真牙一样吧。&rdquo;</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 0.5px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">郭老咬了一口苹果......他一边吃一边不住的说&ldquo;好，好，好&rdquo;。刚刚做完种植牙手术的他，他丝毫不顾忌的又咬了一口。脆甜的苹果与嘴里的种植牙一起发出咀嚼的声音，在他耳中形成了一曲动听的旋律。郭老激动的说：&ldquo;好，好......不像带假牙那样不得劲，嘎吱嘎吱的，这个挺舒服的。&rdquo;</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89);">翌日，</span></strong></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">郭老带着子女为维尔口腔医院送来&ldquo;维尔口腔 天下无双&rdquo;的牌匾。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(22, 187, 179);">▼</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+	<section style="margin: 10px 0px; padding: 0px 3px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+		<section style="margin: 1.15em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; width: 664px; vertical-align: top;">
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 664px;">
+				<section style="margin: -3px 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 6px; height: 6px; border-radius: 100%; float: left;">
+					&nbsp;</section>
+				<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border-top-width: 1px; border-top-style: solid; width: 663.328px; border-top-color: rgb(71, 193, 168);">
+					&nbsp;</section>
+			</section>
+			<section style="margin: -1.1em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: right;">
+				<section style="margin: 0px; padding: 3px 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; vertical-align: top; text-align: left; color: rgb(87, 85, 85); font-size: 14px; background-color: rgb(254, 255, 255);">
+					<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px;">缺牙困扰......</span></strong></p>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">93岁高龄的郭大鹏老人是一名离退休老干部，退休后享受天伦之乐的他对生活非常满足， 美中不足的是，随着年龄的增长，嘴里的牙齿逐渐脱落，每天只能吃一些稀粥之类的食物。郭老的子女是非常孝顺的，自己的父亲饱受缺牙困扰也让他们心里充满了无奈和愧疚。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">郭大鹏老人的大女儿 能了解父亲的困扰，因为，她也同样受到缺牙困扰。一次偶然的机会，郭老的儿子从朋友那里听说北京维尔口腔医院的刘院长是种植牙专家，他发明的<strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">&ldquo;一日得&rdquo;植牙术能够让满口缺牙的人当天就能够恢复咀嚼能力。</strong></span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; text-align: center;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">在朋友的陪同下，郭老的儿子陪同大姐来到北京维尔口腔医院三元桥门诊部，刘志杰院长为其做种植牙手术，当天，郭老的大女儿便能够用牙齿吃饭了，刘院长的医术令郭老的子女由衷的信服。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">但是，郭大鹏老人的情况比较特殊，首先是缺牙时间较长，从缺几颗牙到满口缺牙，困扰了老人十多年；其次，老人已经93岁高龄，身体条件、口腔条件不知道是否能够达到种植牙手术的条件。此前郭老子女走访了多家医疗机构，但是始终没有找到愿意接诊的医生以及合适的治疗方法。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+	<section style="margin: 10px 0px; padding: 0px 3px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+		<section style="margin: 1.15em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: inline-block; width: 664px; vertical-align: top;">
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 664px;">
+				<section style="margin: -3px 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 6px; height: 6px; border-radius: 100%; float: left;">
+					&nbsp;</section>
+				<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border-top-width: 1px; border-top-style: solid; width: 663.328px; border-top-color: rgb(71, 193, 168);">
+					&nbsp;</section>
+			</section>
+			<section style="margin: -1.1em 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: right;">
+				<section style="margin: 0px; padding: 3px 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; display: inline-block; vertical-align: top; text-align: left; color: rgb(87, 85, 85); font-size: 14px; background-color: rgb(254, 255, 255);">
+					<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px;">&ldquo;一日得&rdquo;技术 告别牙齿缺失</span></strong></p>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">刘院长告诉他们，&ldquo;一日得&rdquo;植牙术非常适合郭大鹏老人。首先，中国人口腔相对于西方人特点就是牙槽骨宽度、深度不足。其次，缺牙时间过久或口腔疾病又导致牙槽骨萎缩。即使经过内提升和外提升等骨培植手段，仍然达不到传统种植牙对骨量的基本要求。但对于牙骨条件很差、牙槽萎缩的患者，也可以接受&ldquo;一日得&rdquo;种植手术。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; text-align: center;"><img alt="" src="/uploads/allimg/c180407/15230A321I460-J349.jpg" style="width: 450px; height: 280px;" /></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">其次，&ldquo;一日得&rdquo;植牙术主要针对于全口无牙或者半口无牙的情况下，仅需4颗种植体，于两颗前牙部位的种植体植入牙槽骨内，而两颗中远部位的种植体采取倾斜角度植入牙槽骨内，然后再种植体的基台上安装&ldquo;拱形连桥&rdquo;牙冠，完成口腔种植修复。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">第三，通过植入四颗种植体，其中远中种植体呈45&deg;向远中倾斜，增大骨骼与种植体的接触面，避开了上颌窦和下齿槽神经管等重要解剖结构，避免了植骨手术，减少了手术创伤;即使在骨量 小的情况下也可实现稳定性。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">第四，传统种植牙手术需要分次进行，前后需要半年到1年半的治疗期和多次受创的过程。&ldquo;一日得&rdquo;种植技术速度快，1小时就能种好半口牙，即拔即种，当天戴冠，当天就能享受美食，可极大地缩短患者缺牙时间，减轻患者缺牙的痛苦。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">第五，传统半口种植牙满口植牙，而&ldquo;一日得&rdquo;全口种植牙技术半口只需4个种植体，大大节约了治疗费用。</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(89, 89, 89); font-size: 15px;">后，&ldquo;一日得&rdquo;植牙术对医生有极高的要求，由于中远部位的两颗种植体是以倾斜角度植入牙槽骨的，对种植的位置、角度、深度都有着严格的要求，不能有丝毫偏差，在此基础上设计&ldquo;一日得&rdquo;种植方案，才能确保没有误差。</span></p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+	<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+		<section style="margin: 10px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 5em; transform: rotate(-25deg);">
+				<section style="margin: 2.45em 0px -0.5em 3.3em; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border-top-width: 1px; border-top-style: solid; width: 5em; border-top-color: rgb(71, 193, 168);">
+					&nbsp;</section>
+			</section>
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: 670px;">
+				<section style="margin: 0px 5px 0px 0px; padding: 5px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; float: left; border: 1px solid rgb(71, 193, 168); line-height: 1; background-color: rgb(71, 193, 168);">
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+						<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+							<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 22px; color: rgb(255, 255, 255);">
+								<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;">听了</p>
+							</section>
+						</section>
+					</section>
+				</section>
+				<section style="margin: 0px; padding: 5px 0px 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; min-height: 4.5em !important;">
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+						<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+							<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+								<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: justify;">
+									<span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px; color: rgb(89, 89, 89);">刘志杰的对手术方式的介绍，郭大鹏的儿女终于放下悬着的心。 终，93岁高龄的郭大鹏老人终于能够在十多年后用属于自己的牙齿当天种，当天就咬上苹果了。</span></section>
+							</section>
+						</section>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: center; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; text-align: center;"><img alt="" src="/uploads/allimg/c180407/15230A32223I0-Q054.jpg" style="width: 450px; height: 115px;" /></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em; text-align: center;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 14px; color: rgb(136, 136, 136);">郭大鹏老人种牙前后</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; clear: both; min-height: 1em;">&nbsp;</p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px; color: rgb(89, 89, 89);">走出手术室，郭老激动地说，&ldquo;这么多年，我较大的心愿就是治好我的牙，能遇到这么专业维尔，遇到这样技术高超的刘院长，我和我家人都很幸运。&rdquo;</span></p>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+	<section powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+		<section style="margin: 0.5em 0px; padding: 0.5em; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; text-align: center; width: 670px;">
+			<section style="margin: 0px; padding: 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; box-shadow: rgba(159, 160, 160, 0.498039) 0px 0px 10px; display: inline-block; vertical-align: top;">
+				<section style="margin: 0px; padding: 7px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; box-shadow: rgba(0, 0, 0, 0.290196) 0px 0px 10px inset;">
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; width: 620px;">
+						<section powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+							<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important;">
+								<img alt="" src="/uploads/allimg/c180407/15230A322Z3Z-c321.jpg" style="width: 550px; height: 692px;" /></section>
+						</section>
+					</section>
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; clear: both;">
+						&nbsp;</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>
+<p style="margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; text-align: justify; line-height: 1.75em; letter-spacing: 2px; box-sizing: border-box !important; word-wrap: break-word !important;">&nbsp;</p>
+<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+	<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none; text-align: justify;">
+		<section style="margin: 0px; padding: 10px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 1px solid rgb(204, 204, 204); box-shadow: rgb(204, 204, 204) 0px 0px 8px; display: inline-block; width: 670px; background-color: rgb(254, 255, 255);">
+			<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box; word-wrap: break-word !important; border: 0px none;">
+				<section style="margin: 8px 0px 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+					<section style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; text-align: right;">
+						<p style="margin: 0px; padding: 0px; max-width: 100%; clear: none; min-height: 1em; color: rgb(62, 62, 62); font-family: 微软雅黑; font-size: 16px; line-height: 25.6px; text-align: justify; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 15px; color: rgb(89, 89, 89);">刘院长表示，93岁高龄老人重获新牙，像郭老这样的患者，维尔口腔还有很多很多，作为牙医，我较大的幸福就是每次看到患者重获新牙的喜悦，看到他们种牙后马上就能咬苹果时刻，是我 有成就感的时候。维尔口腔的技术力量是基于一支强大的种植专家团队，我们会持续为患者提供专业的、科学的、严谨的种植牙手术，用出色的治疗效果来获得了客户认可。</span></p>
+						<div>&nbsp;</div>
+					</section>
+				</section>
+			</section>
+		</section>
+	</section>
+</section>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180407/15230A320K350-4C32_lit.jpg{/dede:field}

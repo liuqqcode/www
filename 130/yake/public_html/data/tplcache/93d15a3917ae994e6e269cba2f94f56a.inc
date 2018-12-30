@@ -1,0 +1,58 @@
+{dede:field name='keywords'}牙齿,原因{/dede:field}
+{dede:field name='description'}牙齿出血是什么原因？牙齿出血是口腔科常见症状之一，是指牙龈自发性的或由于轻微刺激引起的少量流血。轻者表现为仅在吮吸、刷牙、咀嚼{/dede:field}
+{dede:field name='title'}牙齿出血是什么原因{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;"><strong>&nbsp; &nbsp; 牙齿出血是什么原因</strong>？牙齿出血是口腔科常见症状之一，是指牙龈自发性的或由于轻微刺激引起的少量流血。轻者表现为仅在吮吸、刷牙、咀嚼较硬食物时唾液中带有血丝，重者在牙龈受到轻微刺激时即出血较多甚至自发性出血。下面我们来询问一下维尔口腔医师，看医师怎么说。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙龈疾病X光片" src="http://beij.wekq.net/uploadfile/2017/0706/20170706023432695.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 200px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">牙齿出血是什么原因？局部因素</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">①菌斑、牙石的局部刺激。菌斑、牙石的聚集，可由食物嵌塞、不良修复体、不良的口腔卫生习惯等引发，引起牙周组织炎症，如菌斑性牙龈炎、牙周炎等。</span></p>
+<p><span style="font-size:16px;">②其他局部刺激因素（非菌斑牙石）及不良习惯。机械、化学、不良修复体、不良充填体、不良矫治器及张口呼吸等的刺激下，引发局部炎症，如增生性龈炎、牙周炎等。</span></p>
+<p><span style="font-size:16px;">③局部组织过敏。局部接触过敏原时，引发过敏反应，波及牙龈时，牙龈红肿很易出血。如浆细胞性龈炎。</span></p>
+<p><span style="font-size:16px;">④牙龈外伤及牙周手术。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">牙齿出血是什么原因？全身因素</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">①内分泌的改变。在性激素升高、孕酮激素升高的影响下，使牙龈组织在轻微刺激下，引发非特异性炎症，导致牙龈出血、渗出增多、牙龈增生等。如青春期龈炎、妊娠期龈炎及牙龈瘤。</span></p>
+<p><span style="font-size:16px;">②全身性疾病。如血液系统疾病、糖尿病、心血管疾病、肝肾功能异常、肿瘤等。致病方式通常是使全身的免疫力下降，进而导致对于局部刺激的抵抗力下降，诱发牙龈炎症；凝血系统障碍；血管的器质性变化、血流的动力学改变等等。</span></p>
+<p><span style="font-size:16px;">③其他一些作用于全身的外界因素。如吸烟、抗凝血药物的服用等。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0706/20170706023813486.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;"><strong>&nbsp; &nbsp; 牙齿出血是什么原因</strong>？牙齿出血是口腔科常见症状之一，是指牙龈自发性的或由于轻微刺激引起的少量流血。轻者表现为仅在吮吸、刷牙、咀嚼较硬食物时唾液中带有血丝，重者在牙龈受到轻微刺激时即出血较多甚至自发性出血。下面我们来询问一下维尔口腔医师，看医师怎么说。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙龈疾病X光片" src="/uploads/allimg/c180322/1521DZ1X20P-33207.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 200px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">牙齿出血是什么原因？局部因素</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">①菌斑、牙石的局部刺激。菌斑、牙石的聚集，可由食物嵌塞、不良修复体、不良的口腔卫生习惯等引发，引起牙周组织炎症，如菌斑性牙龈炎、牙周炎等。</span></p>
+<p><span style="font-size:16px;">②其他局部刺激因素（非菌斑牙石）及不良习惯。机械、化学、不良修复体、不良充填体、不良矫治器及张口呼吸等的刺激下，引发局部炎症，如增生性龈炎、牙周炎等。</span></p>
+<p><span style="font-size:16px;">③局部组织过敏。局部接触过敏原时，引发过敏反应，波及牙龈时，牙龈红肿很易出血。如浆细胞性龈炎。</span></p>
+<p><span style="font-size:16px;">④牙龈外伤及牙周手术。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">牙齿出血是什么原因？全身因素</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">①内分泌的改变。在性激素升高、孕酮激素升高的影响下，使牙龈组织在轻微刺激下，引发非特异性炎症，导致牙龈出血、渗出增多、牙龈增生等。如青春期龈炎、妊娠期龈炎及牙龈瘤。</span></p>
+<p><span style="font-size:16px;">②全身性疾病。如血液系统疾病、糖尿病、心血管疾病、肝肾功能异常、肿瘤等。致病方式通常是使全身的免疫力下降，进而导致对于局部刺激的抵抗力下降，诱发牙龈炎症；凝血系统障碍；血管的器质性变化、血流的动力学改变等等。</span></p>
+<p><span style="font-size:16px;">③其他一些作用于全身的外界因素。如吸烟、抗凝血药物的服用等。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521DZ193D20-45223.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DZ1X20P-33207_lit.jpg{/dede:field}

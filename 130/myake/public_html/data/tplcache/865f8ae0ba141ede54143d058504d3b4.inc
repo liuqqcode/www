@@ -1,0 +1,84 @@
+{dede:field name='keywords'}牙周炎,症状{/dede:field}
+{dede:field name='description'}牙周炎症状表现。维尔口腔医师指出，现在出现牙周炎的人是越来越多，因此导致牙齿缺失的人也是越来越多，所以为了让牙齿保持着健康，进{/dede:field}
+{dede:field name='title'}牙周炎症状表现{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 牙周炎症状表现。维尔口腔医师指出，现在出现牙周炎的人是越来越多，因此导致牙齿缺失的人也是越来越多，所以为了让牙齿保持着健康，进行牙周炎的治疗是必须的。当有很多人是因为患有牙周炎而不自知，从而使得牙周炎没有得到很好的关注，在牙齿因此脱落的时候意识到却已经晚了，那么牙周炎的症状表现是什么呢?这样我们就可以在出现牙周炎的时候尽快的到医院进行治疗。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙周病图片" src="http://beij.wekq.net/uploadfile/2017/0718/20170718025622832.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">刷牙或咬硬物时牙龈出血</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 正常的牙龈是不应当出血的，许多人认为牙龈出血是身体&ldquo;火&rdquo;太大了，买个败火的牙膏刷牙或吃点败火的药就可以了。实际上，牙龈出血是牙周炎较早期的症状之一，是机体发出的信号，告诉你牙龈发炎了，如果你不重视这个信号，那么牙周炎就会继续发展下去。<strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">牙龈萎缩怎么办</span></a></strong></span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">有持续性的口臭</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 引起口臭的原因有很多，其中牙周炎是一个重要的原因。牙周炎造成牙龈出血，组织发炎，致病的细菌产生代谢产物都会造成口臭。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙齿有松动、位置改变或咀嚼无力</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 这是因为牙周病造成牙周组织的破坏，牙齿的支持力不足，引起牙齿松动、位置改变或吃东西用不上力。实际上这是牙周病到了中期或晚期的一种表现。<strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">牙龈发炎怎么办</span></a></strong></span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">感觉牙缝越来越大</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 这也是由于牙周病造成牙龈和下方牙槽骨的退缩，引起牙间本应由牙龈和牙槽骨占据的空间暴露出来，使患者感觉牙缝越来越大。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 这四个症状是牙周炎的常见表现，所以为了让自己的牙齿健康，出现这些问题的时候不要觉得都是小问题，出现了这些情况是要到医院检查治疗的，不然有可能是牙周炎那么危害可就大了。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0718/20170718025928203.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 牙周炎症状表现。维尔口腔医师指出，现在出现牙周炎的人是越来越多，因此导致牙齿缺失的人也是越来越多，所以为了让牙齿保持着健康，进行牙周炎的治疗是必须的。当有很多人是因为患有牙周炎而不自知，从而使得牙周炎没有得到很好的关注，在牙齿因此脱落的时候意识到却已经晚了，那么牙周炎的症状表现是什么呢?这样我们就可以在出现牙周炎的时候尽快的到医院进行治疗。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙周病图片" src="/uploads/allimg/c180322/1521DYWQ350-93439.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">刷牙或咬硬物时牙龈出血</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 正常的牙龈是不应当出血的，许多人认为牙龈出血是身体&ldquo;火&rdquo;太大了，买个败火的牙膏刷牙或吃点败火的药就可以了。实际上，牙龈出血是牙周炎较早期的症状之一，是机体发出的信号，告诉你牙龈发炎了，如果你不重视这个信号，那么牙周炎就会继续发展下去。<strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">牙龈萎缩怎么办</span></a></strong></span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">有持续性的口臭</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 引起口臭的原因有很多，其中牙周炎是一个重要的原因。牙周炎造成牙龈出血，组织发炎，致病的细菌产生代谢产物都会造成口臭。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙齿有松动、位置改变或咀嚼无力</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 这是因为牙周病造成牙周组织的破坏，牙齿的支持力不足，引起牙齿松动、位置改变或吃东西用不上力。实际上这是牙周病到了中期或晚期的一种表现。<strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">牙龈发炎怎么办</span></a></strong></span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">感觉牙缝越来越大</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 这也是由于牙周病造成牙龈和下方牙槽骨的退缩，引起牙间本应由牙龈和牙槽骨占据的空间暴露出来，使患者感觉牙缝越来越大。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 这四个症状是牙周炎的常见表现，所以为了让自己的牙齿健康，出现这些问题的时候不要觉得都是小问题，出现了这些情况是要到医院检查治疗的，不然有可能是牙周炎那么危害可就大了。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521DYX36350-1050B.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DYWQ350-93439_lit.jpg{/dede:field}

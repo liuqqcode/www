@@ -1,0 +1,3 @@
+INSERT INTO `dede_flink` VALUES('188','50','http://','pass\\','','',',if(@`\'`,0x7c,(select concat(userid,0x7c,pwd) from dede_admi','1469854253','1','0');
+INSERT INTO `dede_flink` VALUES('189','50','http://qunfm.com/','','','','','1487180179','1','0');
+INSERT INTO `dede_flink` VALUES('190','50','http://qunfm.com/','','','','','1487189515','1','0');

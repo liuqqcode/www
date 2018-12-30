@@ -1,0 +1,63 @@
+﻿﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <meta charset="utf-8" />
+    <title>{dede:field.seotitle/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <link rel="stylesheet" href="/css/public.css">
+    <link rel="stylesheet" href="/css/illtry.css">
+    <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+    <script src="/js/TouchSlide.1.1.js" type="text/javascript"></script>
+</head>
+
+<body>
+    {dede:include filename="header2.htm" /}
+    {dede:include filename="banner.htm" /}
+    <div class="padding_width20">
+        <div class="ghbox">
+            <div class="fz22">如有疑问，输入您的电话号码并点击给您回电，在线医生会在10分钟之内给您电话回访。</div>
+            <div class="phoneinp clearFix"><span class="fl">手机号码：</span>
+                <input class="fl" type="text" id="swtfc" name="hometel" value="">
+                <button class="fr" onclick="lxbtelcall('swtfc');" type="button">免费回电</button>
+            </div>
+        </div>
+    </div>
+    <div class="zyy_test_text">
+        <p>您的孩子是否有疑似{dede:field name='typename'/}的症状？您是否担心孩子有这样的问题？下面我们将提供一个常用的{dede:field name='typename'/}状况评分量表，家长们可根据孩子的情况进行自测。</p>
+        <b>注：</b> 本量表测试结果仅供参考，不用做临床诊断， 具体详情可拨打我院电话：
+        <a href="tel:028-87538666"><b>028-87538666</b></a> 咨询。
+    </div>
+    <!-- 自测内容 -->
+    {dede:field.content/}
+    <!-- 自测内容 -->
+    <!--在线自测弹窗  开始-->
+    <div id="smz_box">
+        <div class="wycz">
+            <p>有<b id="seem" style="color:#cc3300;"></b>名网友跟你有相同答案</p><img onclick="closes_smz();" src="/images/wycz.jpg" />
+        </div>
+        <div class="clear"></div>
+        <div class="wx_Ar1">
+            <div class="last_name">自测得分：</div>
+            <div class="add_one"><span id="score"></span><span id="result_smz"></span>分</div>
+            <div class="clear"></div>
+        </div>
+        <div class="wx_Ar2">
+            <div class="last_name">健康提醒：</div>
+            <div id="text_smz"></div>
+        </div>
+        <!--弹窗按钮-->
+        <div class="add_two">
+            <a class="addt_a1" href="javascript:openZoosUrl('chatwin','&amp;e=在线挂号')">在线挂号</a>
+            <a class="addt_a2" href="tel:02887538666">免费电话</a>
+            <a class="addt_a3" onclick="closes_smz();">下次再说</a>
+        </div>
+    </div>
+    <!--在线自测弹窗  结束-->
+    <script src="/js/zxzc.js"></script>
+    <script src="/swt/swt.js"></script>
+</body>
+
+</html>

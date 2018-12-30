@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width:100%;
+}
+img{width: 100%}
+.fir:after{
+    display: block;
+    clear: both;
+    content: "";
+}
+.fir{
+    margin: .4rem .2rem 0 0;
+}
+.fir1{
+    margin: .4rem 0;
+}
+.fir>img{
+    width: 50%;
+    float: left;
+}
+.fir>img:first-child{
+    width: 50%;
+}
+.sce{
+    margin: .4rem .2rem;
+}
+.sce p{
+    font-size: .3rem;
+}
+.sce img{
+    margin-top: .3rem
+}

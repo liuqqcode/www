@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <link href="/css/common.css" rel="stylesheet" type="text/css" />
+    <script src="/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="/js/ga.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+    <body>
+        {dede:include filename="header.htm"/}
+        <div class="w1000 location">
+            <p>您现在的位置：{dede:field name='position'/}</p>
+            <div class="search">
+                <input type="submit" value="" class="btn" onclick="openZoosUrl();return false;" />
+                <input type="text" value="请输入关键词…" class="name" onfocus="if(this.value=='请输入关键词…'){this.value='';}" onblur="if(this.value==''){this.value='请输入关键词…';}" />
+            </div>
+        </div>
+        <div class="w1000 yyry lylx_map" id="yyjjs">
+            <div class="title">
+                <h3><span>带您走进</span>西南儿童科学增高诊疗中心</h3>
+                <h4></h4>
+                <div class="cl"></div>
+                <p>Take you into the southwest children's science increased diagnosis and treatment center</p>
+            </div>
+            <div class="cl"></div>
+            {dede:include filename="left.htm"/}
+            <div class="right fr">
+                <dl class="dl01">
+                    <dt>
+                        <h3>来院路线</h3>
+                        <p>路途很远&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;诊疗很近</p>
+                    </dt>
+                </dl>
+                <div class="maps_ly">
+                    <div class="lx_search">
+                        <form action="http://map.baidu.com/m">
+                            <input type="text" value="请输入您当前所在的地址" class="txt" name="word">
+                            <input type="text" value="成都西南儿童医院" onfocus="if(this.value=='成都西南儿童医院'){this.value='';}" onblur="if(this.value==''){this.value='成都西南儿童医院';}" class="txt txt2" name="word2">
+                            <input type="hidden" name="fr" value="ala_open">
+                            <input type="hidden" name="qt" value="nav">
+                            <input class="sub" type="submit" value="搜索">
+                        </form>
+                    </div>
+                    <div class="baidu_map">
+                        <iframe width="717" height="368" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="/map/map.html"></iframe>
+                    </div>
+                    <div class="lylx_fo">
+                        <div class="left">
+                            <a href="javascript:openZoosUrl('chatwin','&e=问询电话：028-87538666')">
+                                <p>问询电话：028-87538666</p>
+                                <span>在线挂号</span></a>
+                            <div class="cl"></div>
+                            <p class="p02">医院地址：成都西南儿童医院地处武侯区红牌楼北街13号（肖家河沿街）</p>
+                        </div>
+                        <div class="right">
+                            <a href="http://j.map.baidu.com/VMIW6">
+                                <h4>分享地图</h4>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="lylx_bus">
+                        <h3>交通路线<span>Traffic routes</span></h3>
+                        <ul>
+                            <li class="li01"><a href="/" onmouseover="setTab('bus',1,3)" id="bus1" class="hover"></a></li>
+                            <li class="li03"><a href="/" onmouseover="setTab('bus',2,3)" id="bus2"></a></li>
+                            <li class="li04"><a href="/" onmouseover="setTab('bus',3,3)" id="bus3"></a></li>
+                        </ul>
+                        <dl id="con_bus_1">
+                            <dt>
+                                <h2>乘坐公交车到院：</h2>
+                            </dt>
+                            <dd>
+                                <p><span>十陵车站：</span>乘坐5路，在羊市街下车，换乘57路，在高升桥路东段站下车，步行560米至我院</p>
+                                <p><span>五桂桥：</span>乘坐92路、10路，在红牌楼东站下车，步行460米至我院</p>
+                                <p><span>石羊场：</span>乘坐11路，在红牌楼东站下车，步行460米至我院</p>
+                                <p><span>昭觉寺：</span>在昭觉寺横路站乘坐1路，在高升桥路东段站下车，步行560米至我院</p>
+                                <p><span>梁家巷车站：</span>梁家巷公交站台乘坐1路，在高升桥路东段站下车，步行560米至我院</p>
+                                <p><span>五块石：</span>①乘坐57路，在高升桥路东段站下车，步行560米至我院②乘坐98路，在北站西二路站下车，换乘57路，在高升桥东段站下车，步行560米至我院</p>
+                                <p><span>茶店子客运站：</span>乘坐地铁2号线(龙泉驿方向)，在中医大省医院站下车(A出口)，步行260米，换乘11路，在升桥路东段站下车，步行560米至我院</p>
+                            </dd>
+                        </dl>
+                        <dl id="con_bus_2" style="display:none;" class="dl02">
+                            <dt>
+                                <h2>乘坐飞机到院：</h2>
+                            </dt>
+                            <dd>
+                                <p>步行约20米，到达双流重要机场（t1航站楼）乘坐t804路，经过1站，到达双流重要机场（1航站楼），步行约30米，到达双流重要机场（t2航站楼），乘坐机场专线4号线，经过1站，到达久居福，步行220米到达锦华路二段，乘坐306路，经过16站，到达红牌楼，步行约650米，到达我院.</p>
+                            </dd>
+                        </dl>
+                        <dl id="con_bus_3" style="display:none;" class="dl03">
+                            <dt>
+                                <h2>乘坐火车到院：</h2>
+                            </dt>
+                            <dd>
+                                <p><span>火车东站：</span>在成都东客站乘坐2号线(犀浦方向)，在中医大省医院站下车(A出口)，步行260米，换乘11路，在高升桥路东段站下车，步行560米至我院</p>
+                                <p><span>火车南站：</span>①乘坐地铁1号线(升仙湖方向)，在倪家桥下车，步行200米，倪家桥东站换乘79路，在广福桥站下车，步行420米至我院②乘坐1号线(升仙湖方向)，在省体育馆下车 (A出口)，步行190米至一环路南三段上车，换乘45路，广福桥站下车，步行420米至我院</p>
+                                <p><span>火车北站：</span>①火车北站公交站东乘坐11路 在高升桥东段站下车，步行560米至我院②乘坐1号线(世纪城方向)，在省体育馆下车(A出口)，步行190米至一环路南三段上车，换乘45路，广福桥站下车，步行420米至我院</p>
+                            </dd>
+                        </dl>
+                    </div>
+                    <div class="lylx_guahao">
+                        <h3>快捷挂号<span>Quick registration</span></h3>
+                        <form id="form1" method="post">
+                            <div class="kjzf_l">
+                                <div class="bd">
+                                    <label for="name">您的名字</label>
+                                    <span>*</span>
+                                    <br>
+                                    <input id="name" class="form_text name" type="text" value="" name="name">
+                                    <input style="display:none;" type="radio" checked="checked" name="sex" value="男">
+                                    <input style="display:none;" type="radio" name="sex" value="女">
+                                </div>
+                                <div class="bd">
+                                    <label for="tel">您的电话</label>
+                                    <span>*</span>
+                                    <br>
+                                    <input id="tel" type="text" value="" name="tel">
+                                    <input style="display:none;" type="text" name="age" value="未知" id="age">
+                                </div>
+                                <div class="bd">
+                                    <label for="tel">选择医师</label>
+                                    <span>*</span>
+                                    <br>
+                                    <select name='zj' class="name">
+                                        <option value='熊友华'>熊友华</option>
+                                        <option value='付师亭'>付师亭</option>
+                                        <option value='肖侠明'>肖侠明</option>
+                                        <option value='冷方南'>冷方南</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="kjzf_r">
+                                <div class="bd">
+                                    <label for="tel">您的留言</label>
+                                    <span>*</span>
+                                    <br>
+                                    <textarea name='miaoshu' id='miaoshu' style="width:416px; height:184px; background:#F0F0F0; border:1px solid #E5E5E5;" name="description" id="description"></textarea>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                            <div class="kjzf_b"> <span>*</span>申请提交后，我们将尽快给你回电确认预约信息。 <a href="javascript:openZoosUrl('chatwin','&e=电话咨询')" class="guahaoa" target="_blank">电话咨询</a>
+                                <input type="button" class="guahaob" value="提交预约" onclick="yuyue('form1','1','1','name','tel')">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                {dede:include filename="rdgz.htm"/} </div>
+        </div>
+        {dede:include filename="footer2.htm"/}
+        <script src="/js/common.js" type="text/javascript"></script>
+        <script src="/js/tab.js" type="text/javascript"></script>
+    </body>
+
+</html>

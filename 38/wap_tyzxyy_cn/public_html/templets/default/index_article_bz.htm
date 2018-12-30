@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport" />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <meta content="telephone=no" name="format-detection" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <title>{dede:field.seotitle /}_太原市中心医院第三医院</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+    <script src="/js/rootresize.js"></script>
+</head>
+
+<body>
+    <div class="box">
+        {dede:include filename="header.htm" /}
+        <div class="pos">{dede:field name='position'/}</div>
+        <div class="ksxq_about bgfff">
+            <h3 class="h3_bg1 h3_tle">{dede:field name='typename'/}</h3> {dede:field.content/}
+        </div>
+        <div class="ksxq_jb bgfff mt10">
+            <h3 class="h3_bg2 h3_tle">常见疾病</h3>
+            <ul class="clear">
+                {dede:channelartlist}
+                <li><a href="{dede:field name='typeurl'/}">{dede:field name='typename'/}</a></li>
+                {/dede:channelartlist}
+            </ul>
+            <!--             <h3 class="h3_bg2 h3_tle h3_tles">常见标签</h3>
+            <ul class="clear">
+                <li><a href="javascript:openZoosUrl()">孩子乱动(42) </a></li>
+                <li><a href="javascript:openZoosUrl()">不说话(91) </a></li>
+                <li><a href="javascript:openZoosUrl()">不爱学习(47) </a></li>
+                <li><a href="javascript:openZoosUrl()">自闭(47) </a></li>
+                <li><a href="javascript:openZoosUrl()">面容呆滞(42) </a></li>
+                <li><a href="javascript:openZoosUrl()">个子矮(91) </a></li>
+                <li><a href="javascript:openZoosUrl()">走路晚(47) </a></li>
+                <li><a href="javascript:openZoosUrl()">行为冲动(47) </a></li>
+                <li><a href="javascript:openZoosUrl()">学习困难(47) </a></li>
+            </ul> -->
+        </div>
+        <br />
+        <!--推荐医师-->
+        <!--         <div class="ksxq_doc bgfff mt10">
+            <h3 class="h3_bg1 h3_tle">推荐医师</h3>
+            <div class="clear ksxq_doclist">
+                <a href="/plus/view.php?aid=35" title="蒋燕清">
+                    <div class="fl ksxq_docimg"><img src="/images/2-1F415141246317.png" alt="蒋燕清"></div>
+                </a>
+                <div class="fl ksxq_docabout">
+                    <h3>蒋燕清<span>主任医师</span></h3>
+                    <p class="clear">
+                        <span>主治：</span>儿童孤独症、多动症、抽动障碍、学习困难、智力低下、感觉统... <a href="/plus/view.php?aid=35" class="ksxq_docpage"> [详情]</a>
+                        <a href="/swt" class="ksxq_docbtn">预约挂号</a>
+                    </p>
+                </div>
+            </div>
+            <div class="clear ksxq_doclist">
+                <a href="/myk/tyzj/31.html" title="景玉华">
+                    <div class="fl ksxq_docimg"><img src="/images/2-1F42Q05011W6.png" alt="景玉华"></div>
+                </a>
+                <div class="fl ksxq_docabout">
+                    <h3>景玉华<span>主任医师</span></h3>
+                    <p class="clear">
+                        <span>主治：</span>儿童内分泌系统、呼吸系统、消化系统常见病、多发病的诊疗... <a href="/myk/tyzj/31.html" class="ksxq_docpage"> [详情]</a>
+                        <a href="/swt" class="ksxq_docbtn">预约挂号</a>
+                    </p>
+                </div>
+            </div>
+            <div class="clear ksxq_doclist">
+                <a href="/myk/tyzj/36.html" title="王登植">
+                    <div class="fl ksxq_docimg"><img src="/images/2-1F42Q052435X.png" alt="王登植"></div>
+                </a>
+                <div class="fl ksxq_docabout">
+                    <h3>王登植<span>副主任医师</span></h3>
+                    <p class="clear">
+                        <span>主治：</span>儿童行为发育的各种疾病，如多动症、抽动症、遗尿症、智力低... <a href="/myk/tyzj/36.html" class="ksxq_docpage"> [详情]</a>
+                        <a href="/swt" class="ksxq_docbtn">预约挂号</a>
+                    </p>
+                </div>
+            </div>
+        </div> -->
+        <!--         <div class="ksxq_question bgfff mt10">
+            <h3 class="h3_bg1 h3_tle">患者常见问题解答</h3>
+            <ul class="clear">
+                <li class="bg_afd"><a href="javascript:openZoosUrl()">多动症能完全治好吗？</a></li>
+                <li class="bg_d5e"><a href="javascript:openZoosUrl()">治疗费用要多少</a></li>
+                <li class="bg_ffb"><a href="javascript:openZoosUrl()">抽动症的危害</a></li>
+                <li class="bg_afd"><a href="javascript:openZoosUrl()">智力低下怎么治</a></li>
+                <li class="bg_b6d"><a href="javascript:openZoosUrl()">自闭症</a></li>
+                <li class="bg_afd"><a href="javascript:openZoosUrl()">多动症症状图片</a></li>
+                <li class="bg_b6d"><a href="javascript:openZoosUrl()">会遗传吗</a></li>
+                <li class="bg_ffb"><a href="javascript:openZoosUrl()">不治行不行</a></li>
+            </ul>
+        </div> -->
+        <br />
+        <div id="scrolltp">
+            <a href="#header"><img src="/images/tops.png"></a>
+        </div>
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

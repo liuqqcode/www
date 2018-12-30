@@ -1,0 +1,1 @@
+<a href="[field:shorttitle/]" title="[field:title/]" ><img src="[field:litpic/]" alt="[field:title/]"/></a>

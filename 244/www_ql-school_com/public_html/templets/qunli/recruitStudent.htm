@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+    <!--<script src="{dede:global.cfg_templets_skin/}/js/autoImg.js"></script>-->
+</head>
+<style>
+
+    /*图片无缝滚动*/
+    #outBox {
+        background: #FFF;
+        overflow:hidden;
+        width:1000px;
+    }
+    #inBox{
+        float: left;
+        width: 800%;
+    }
+    #box1 {
+        float: left;
+    }
+
+    #box1 li,#box2 li{
+        float: left;
+        display:inline-block;
+        width: 225px;
+        height:140px;
+        overflow: hidden;
+    }
+    .beforeImg{
+        display: block;
+        position: absolute;left: 0;
+        top: 0;
+        z-index: 8888;
+    }
+    .behindImg{
+        display: none;
+        position: absolute;left: 0;
+        top: 0;
+        z-index: 8888;
+    }
+    #box1 li>div,#box2 li>div{
+        position: relative;
+        cursor: pointer;
+    }
+    #box2 {
+        float: left;
+
+    }
+    .mask2{
+        width: 100%;
+        height:140px;
+        position: absolute;
+        background: rgba(0, 0, 0, 0.59);
+        +background: url("{dede:global.cfg_templets_skin/}/images/maskImg.png");
+
+        left:0;
+        top: 0;
+        z-index: 9999;
+        color:white;
+        font-family: "微软雅黑";
+        display: none;
+
+    }
+    .mask2 h6{
+        font-size:14px;
+        height: 30px;;
+        line-height: 30px;
+        padding-left: 10px;
+    }
+
+    .mask2 dd{
+        margin:3px 0 0 10px;
+        font-size:12px;
+        height:20px;
+        clear: both;
+        position: static;
+        padding:0;
+    }
+    .mask2 a{
+        display: block;
+        width:80px;
+        border:1px solid white;
+        font-size:14px;
+        color: white;
+        height: 26px;
+        line-height: 26px;
+        text-align: center;
+        margin:5px 0 0 10px;text-decoration: none;
+
+    }
+</style>
+
+<body>
+<div class="all">
+   {dede:include filename="head.htm"/}
+        <!--最热消息-->
+        <div class="hotNews">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}    
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span>028-8583 1188</span>
+                        <span>18981933384</span>
+                       
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!--最新开班信息-->
+        <div class="newClass" id="newClass">
+            <h1><a><img src="{dede:global.cfg_templets_skin/}/images/rs1.png" alt=""/></a></h1>
+            <div id="outBox">
+               <div id="inBox">
+                <ul id="box1" class="otherDemo">
+
+                  {dede:arclist orderby='pubdate' addfields='pic2,btime,cnt,price,syrs' channelid='21'}
+                    <li>
+                        <div>
+                            [field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]  
+                            <img src="[field:pic2/]" alt="" class="behindImg"/>
+                            <div class="mask2">
+                                <h6>[field:title/]</h6>
+                                <dl>
+                                    <dd>活动价格：￥[field:btime/]</dd>
+                                    <dd>开班人数：[field:cnt/]人 仅剩 <span>[field:syrs/]</span>人</dd>
+                                    <dd>学习费用：￥[field:price/]</dd>
+                                </dl>
+                                <a href="">马上报名</a>
+                            </div>
+                        </div>
+                    </li>                                                                             
+                        {/dede:arclist}    
+                </ul>
+                <ul id="box2"  class="otherDemo"></ul>
+            </div>
+
+            </div>
+            <div class="progress">
+                <div></div>
+            </div>
+        </div>
+        <!--就业保障-->
+        <div class="jiuyebaozhang" id="jiuyebaozhang">
+            <div class="otherBc">
+                <div class="titleBox"><h1><a style="width:300px;"><img src="{dede:global.cfg_templets_skin/}/images/protect.png" alt=""/></a></h1></div>
+            </div>
+            <!--小导航-->
+            <div class="littleNav">
+                <div class="littleNavContent">
+                    <ul>
+                {dede:channel typeid="25"}
+                <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+                {/dede:channel}
+                    </ul>
+                </div>
+            </div>
+            <div class="protectContent">
+                <table>
+                    <tr>
+                        <td>
+                            <a><img src="{dede:global.cfg_templets_skin/}/images/pro1.png" alt=""/></a>
+                            <span>教学优势</span>
+                            <p>
+                                学校硬件设施设备齐全，校内设有专业理论教室、实操教室，同时配备教学投影仪、摄影灯、电视、音响、礼服、饰品等多功能教学设备和物品，是一所时尚气息浓厚的职业学府。
+                            </p>
+                        </td>
+                        <td>
+                            <a><img src="{dede:global.cfg_templets_skin/}/images/pro2.png" alt=""/></a>
+                            <span>师资优势</span>
+                            <p>
+								定期进行师资培训。同时群丽还有强大的技术团队：中、日、韩化妆师团队共同开发新课程和新技术，学校结合时下流行趋势及市场需求，每年将会更新课程，引进新技术。
+                            </p>
+                        </td>
+                        <td>
+                            <a><img src="{dede:global.cfg_templets_skin/}/images/pro3.png" alt=""/></a>
+                            <span>品牌优势</span>
+                            <p>
+                                学校注重理论与实践的结合，同时承接各类大型活动，给广大学员提供在校学习实践的机会。发展的历程中，全校共承接国际级、国家级和省、市、地级的活动超过百余场。
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--招生问答-->
+        <div class="askQuestion" id="askQuestion">
+            <div class="askquestionContent">
+                <h1>
+                    <span>想知道更多招生事项？ 详询热线：028-86661825</span>
+                </h1>
+                <table>
+                    <tr>
+                        <td>
+                            <a href=""></a>
+                            <span>群丽化妆学校入学标准？</span>
+                            <p>
+                                本校系成人培训学校，学员入学时须年满18周岁，具有初中
+                                以上文化程度，无辨色类疾病，能保证系统时间参加学习。未满
+                                18周岁的学员，必须由监护人陪同。报名并签订《未成年人
+                                入学协议书》
+                            </p>
+                        </td>
+                        <td>
+                            <a href=""></a>
+                            <span>学化妆有前途吗？</span>
+                            <p>
+                                现在的中国的经济正在飞速发展，人们的生活质量水平越来越来好了，什么都讲究时尚品位潮流，时尚不只是明星的代言词了，老百姓也要追求时尚的年代了，化妆 行业在将来的市场里将会是一份历久不衰人人崇拜的一份时尚职业。
+                            </p>
+                        </td>
+                        <td>
+                            <a href=""></a>
+                            <span>美甲前景怎么样？</span>
+                            <p>
+                                美甲行业也慢慢步入正轨，不像前几年的随便一个地摊就可以摆设了。现在高中低档的美甲店已经形成，前景还是很好的！现在进入正是时机，少走很多弯路。
+                            </p>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href=""></a>
+                            <span>学化妆学费贵吗？</span>
+                            <p>
+                                看你选择什么样的课程罗，不一样的课程费用是不一样的。如果你要学习专业的化妆的话建议你去专业的化妆造型学校学习呢，这样你学到的技术才是专业的。专业学校一定要具备有办学许可证和营业执照呢，如果没有这两个证书的是不具备说是正规的学校
+                            </p>
+                        </td>
+                        <td>
+                            <a href=""></a>
+                            <span>学化妆有年龄限制吗？</span>
+                            <p>
+                                化妆这个专业，从学习的角度上讲，学化妆和年龄是没有关系的，所以成为一个化妆师也是不分年龄的。工作单位在招聘化妆师时，更看重的是个人的化妆技术。只要你的化妆技术够好，那么就完全不需要担心找工作的问题。
+                            </p>
+                        </td>
+                        <td>
+                            <a href=""></a>
+                            <span>群丽化妆学校怎么样？</span>
+                            <p>
+                                群丽化妆学校是群丽集团在新形式下组建的专业时尚学校,是西南地区首批大规模培养化妆、摄影、美容、美甲专业人员的基地。
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--footer-->
+        {dede:include filename="footer.htm"/}
+</body>
+<script>
+    var speed=60;
+    var MyMar=null;
+    var tab=document.getElementById("outBox");
+    var tab1=document.getElementById("box1");
+    var tab2=document.getElementById("box2");
+    tab2.innerHTML=tab1.innerHTML;
+    function Marquee(){
+        if(tab.scrollLeft>=tab1.offsetWidth) {
+            tab.scrollLeft = 0;
+        }else{
+            tab.scrollLeft+=2;
+        }
+    }
+    MyMar=setInterval(Marquee,60);
+    $("#outBox li>div").each(function(index){
+        $(this).hover(function(){
+            $(this).find(".mask2").fadeIn(300);
+            $(this).find(".beforeImg").fadeOut(300);
+            $(this).find(".behindImg").fadeIn(300);
+            clearInterval(MyMar);
+        },function(){
+            $(this).find(".mask2").fadeOut(300);
+            $(this).find(".beforeImg").fadeIn(300);
+            $(this).find(".behindImg").fadeOut(300);
+            MyMar=setInterval(Marquee,60);
+        })
+    })
+</script>
+</html>

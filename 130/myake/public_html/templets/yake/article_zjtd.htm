@@ -1,0 +1,501 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=0.5,maximum-scale=0.5,minimum-scale=0.5" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field.keywords/}" name="Keywords">
+    <meta content="{dede:field.description  function='html2text(@me)'/}" name="Description">
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+    <link rel="stylesheet" type="text/css" href="/css/right_nav_zj.css">
+    <script src="/js/jquery-2.0.3.min.js"></script>
+    <script src="/js/doudong1.js"></script>
+</head>
+
+<body>
+    <div class="main">
+        <div class="nav auto">
+            <div class="nav_left float">
+                <img src="images/logo.png">
+            </div>
+            <div class="nav_center float">
+                <ul>
+                    <li><a href="/">首页</a></li>
+                    <li><a href="/yyjj/">医院简介</a></li>
+                    <li><a href="/syq/">医疗团队</a></li>
+                    <li><a href="/alfx/">案例分享</a></li>
+                    <li><a href="/ykzsI/">牙科知识</a></li>
+                    <li><a href="/cclx/">乘车路线</a></li>
+                </ul>
+            </div>
+            <div class="nav_right float">
+                <img src="images/dh.png">
+            </div>
+        </div>
+        <div class="banner auto">
+            <img src="images/banner.jpg">
+        </div>
+        <style>
+        .bgon {
+
+            color: #fff;
+
+            background: #f7ab71;
+
+            display: block;
+        }
+
+        .bgon:link {
+
+            color: #fff;
+        }
+
+        .bgon:visited {
+
+            color: #fff;
+        }
+        </style>
+        <div class="left_list auto">
+            <div class="right_list list">
+                <div class="r_list_top">
+                    <img src="images/r_list_zi.png">
+                </div>
+                <ul class="yiji">
+                    <li class="zhedie"><a href="javascript:void(0);" class="inactive">朝阳区分院</a>
+                        <ul style="display: none">
+                            <li><a href="/syq/"><span class="zj_nav_span">—  三元桥分院</span></a></li>
+                            <li><a href="/yzhd/"><span class="zj_nav_span">—  杨闸环岛分院</span></a></li>
+                            <li><a href="/xz/"><span class="zj_nav_span">—  小庄分院</span></a></li>
+                            <li><a href="/xy/"><span class="zj_nav_span">—  小营分院</span></a></li>
+                            <li><a href="/tsy/"><span class="zj_nav_span">—  甜水园分院</span></a></li>
+                            <li><a href="/sj/"><span class="zj_nav_span">—  双井分院</span></a></li>
+                            <li><a href="/hxdq/"><span class="zj_nav_span">—  惠新东桥分院</span></a></li>
+                            <li><a href="/gly/"><span class="zj_nav_span">—  甘露园分院</span></a></li>
+                            <li><a href="/ddq/"><span class="zj_nav_span">—  东大桥分院</span></a></li>
+                            <li><a href="/db/"><span class="zj_nav_span">—  东坝分院</span></a></li>
+                            <li><a href="/by/"><span class="zj_nav_span">—  北苑分院</span></a></li>
+                            <li><a href="/blz/"><span class="zj_nav_span">—  八里庄分院</span></a></li>
+                            <li><a href="/xyl/"><span class="zj_nav_span">—  霄云路分院</span></a></li>
+                            <li><a href="/xdw/"><span class="zj_nav_span">—  西大望路分院</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="zhedie"><a href="javascript:void(0);" class="inactive">海淀区分院</a>
+                        <ul style="display: none">
+                            <li><a href="/ydl/"><span class="zj_nav_span">—  远大路分院</span></a></li>
+                            <li><a href="/sd/"><span class="zj_nav_span">—  上地分院</span></a></li>
+                            <li><a href="/mdy/"><span class="zj_nav_span">—  牡丹园分院</span></a></li>
+                            <li><a href="/zcl/"><span class="zj_nav_span">—  知春路分院</span></a></li>
+                            <li><a href="/zzq/"><span class="zj_nav_span">—  紫竹桥分院</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="zhedie"><a href="javascript:void(0);" class="inactive">西城区分院</a>
+                        <ul style="display: none">
+                            <li><a href="/cq/"><span class="zj_nav_span">—  厂桥分院</span></a></li>
+                            <li><a href="/ahq/"><span class="zj_nav_span">—  安华桥分院</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="zhedie"><a href="javascript:void(0);" class="inactive">通州区分院</a>
+                        <ul style="display: none">
+                            <li><a href="/wd/"><span class="zj_nav_span">—  万达店分院</span></a></li>
+                            <li><a href="/ydh/"><span class="zj_nav_span">—  玉带河分院</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="zhedie"><a href="javascript:void(0);" class="inactive">丰台区分院</a>
+                        <ul style="display: none">
+                            <li><a href="/sjz/"><span class="zj_nav_span">—  宋家庄分院</span></a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/cclx/">乘车路线</a></li>
+                    <li><a href="/">返回首页</a></li>
+                </ul>
+                <script type="text/javascript">
+                $(document).ready(function() {
+
+
+
+                    $(".yiji a").each(function() {
+
+                        $this = $(this);
+
+                        if ($this[0].href == String(window.location)) {
+
+                            $this.addClass("bgon");
+
+                        }
+
+                    });
+
+                });
+                </script>
+                <div class="r_list_bottom">
+                    <div class="r_l_b_icon">
+                        <img src="images/icon.png">
+                    </div>
+                    <div class="r_l_b_xinxi">
+                        <span>拨打全国爱牙热线</span>
+                        <span>
+
+							<img src="images/dh.png">
+
+						</span>
+                        <span>8: 30-20: 30（节假日无休）</span>
+                    </div>
+                </div>
+            </div>
+            <script src="/js/tendina.js"></script>
+            <script>
+            $('.dropdown').tendina({
+
+                animate: true,
+
+                speed: 500,
+
+                openCallback: function($clickedEl) {
+
+                    console.log($clickedEl);
+
+                },
+
+                closeCallback: function($clickedEl) {
+
+                    console.log($clickedEl);
+
+                }
+
+            })
+            </script>
+            <link rel="stylesheet" type="text/css" href="/css/zjdetails.css">
+            <link rel="stylesheet" type="text/css" href="/css/zjlist.css">
+            <link href='css/587302ccf629d80f40d5ee27.css' rel='stylesheet' type='text/css' />
+            <link href='css/5873046bf629d80f40d5ee2d.css' rel='stylesheet' type='text/css' />
+            <script type="text/javascript">
+            $(function() {
+
+                $gao = document.body.scrollHeight - 395;
+
+                $(window).scroll(function() {
+
+                    if (window.scrollY > "408") {
+
+                        $(".right_list").addClass("left_nav");
+
+                    }
+
+                });
+
+                $(window).scroll(function() {
+
+                    if (window.scrollY < "408") {
+
+                        $(".right_list").removeClass("left_nav").css("bottom", '');
+
+                    }
+
+                });
+
+                $(window).scroll(function() {
+
+                    if (window.scrollY > "1300") {
+
+                        $(".right_list").removeClass("left_nav").css("bottom", "0");
+
+                    }
+
+                });
+
+
+
+            });
+            </script>
+            <div class="left_main">
+                <div class="left_top">
+                    <span>&nbsp;&nbsp;医疗团队</span>
+                    <span>当前位置 : <a href="">网站首页</a> > <a href="">医疗团队</a></span>
+                </div>
+                <div class="left_center auto">
+                    <div class="zj_img"><img alt="" src="images/20170329032008178.jpg" style="width: 205px; height: 252px;" /> <span>贺彩</span><span>北京万和口腔医务院长</span></div>
+                    <div style="clear:both">&nbsp;</div>
+                    <div class="zj_xiangmu">
+                        <div class="xm_title"><span>擅长项目:</span></div>
+                        <hr style="height:1px;border:none;border-top:1px dashed #000;margin-top:15px;" />
+                        <div class="xm_xx">熟练掌握各种常见及复杂牙齿缺失的种植修复、牙冠桥修复、烤瓷牙冠的美学修复；口腔固定修复中的美学重建、松牙固定、牙齿残根的保留治疗与利用、牙周的系统性治疗、显微镜下疑难根管治疗、牙体牙髓病治疗等。</div>
+                    </div>
+                    <div style="clear:both">&nbsp;</div>
+                    <div class="zj_xiangmu" style="margin-top:30px;">
+                        <div class="xm_title"><span>主要荣誉:</span></div>
+                        <hr style="height:1px;border:none;border-top:1px dashed #000;margin-top:15px;" />
+                        <div class="xm_xx"><span>北京万和口腔医院医务院长</span> <span>万和口腔医院学术委员会副主席</span> <span>北京万和口腔医院种植专家组主任</span> <span>北京万和口腔医院美学修复组主任</span> <span>法兰克福大学访问学者</span><span>国际牙科种植委员会ITI会员</span><span>Noble Biocare牙科学院讲师</span><span>中华口腔医学会会员</span></div>
+                    </div>
+                    <div class="zj_xiangmu" style="margin-top:30px;">
+                        <div class="xm_title"><span>个人经历:</span></div>
+                        <hr style="height:1px;border:none;border-top:1px dashed #000;margin-top:15px;" />
+                        <div class="xm_xx">&nbsp; &nbsp; &nbsp; &nbsp;毕业于首都医科大学，法兰克福大学访问学者，从事口腔临床工作20余年，多次前往国内外参加口腔种植、修复专业的交流培训，多次参加口腔种植及修复会议；诊疗技术及理念均为国际先进水平，特别注重种植后修复的美观性及功能性，具有更佳的细致度及耐心度，操作规范轻柔，专注微创治疗，为人随和，对待工作认真负责、精益求精，对患者有高度的责任心，深受患者信赖。</div>
+                    </div>
+                    <br />
+                    <div class="zj_input auto">
+                        <a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn"><span>在线咨询</span></a>
+                        <a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn"><span>在线预约</span></a>
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+            </div>
+            <link rel="stylesheet" type="text/css" href="/skin/css/public.css">
+            <div class="left_bottom">
+                <ul>
+                    <a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn">
+                        <li>
+                            <span class="icon_img_1">
+
+							
+
+						</span>
+                            <span>
+
+							在线咨询
+
+						</span>
+                        </li>
+                    </a>
+                    <a href="/alfx/">
+                        <li>
+                            <span class="icon_img_2">
+
+							
+
+						</span>
+                            <span>
+
+							案例分享
+
+						</span>
+                        </li>
+                    </a>
+                    <a href="/zzyjgb/">
+                        <li>
+                            <span class="icon_img_3">
+
+							
+
+						</span>
+                            <span>
+
+							牙科知识
+
+						</span>
+                        </li>
+                    </a>
+                    <a href="/spkp/">
+                        <li>
+                            <span class="icon_img_4">
+
+						</span>
+                            <span>
+
+							牙科视频
+
+						</span>
+                        </li>
+                    </a>
+                    <a href="/gyhd/">
+                        <li>
+                            <span class="icon_img_5">
+
+							
+
+						</span>
+                            <span>
+
+							公益活动
+
+						</span>
+                        </li>
+                    </a>
+                </ul>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <script type="text/javascript">
+    //var urlstr = location.href;
+
+    //alert((urlstr + ‘/’).indexOf($(this).attr(‘href’)));
+
+    //$(".yiji ul").each(function () {
+
+    //if ((urlstr + '/').indexOf($(this).attr('href')) > -1&&$(this).attr('href')!=''){
+
+
+
+    //$(this).css("display",'block');
+
+
+
+    //}else{
+
+
+
+    //}
+
+
+
+    //});
+
+    //if (!urlstatus) {$(".inactive").eq(0).css('display','block');}
+
+
+
+    $(document).ready(function() {
+
+
+
+        $('.inactive').click(function() {
+
+            if ($(this).siblings('ul').css('display') == 'none') {
+
+                $(this).parent('li').siblings('li').removeClass('inactives');
+
+                $(this).addClass('inactives');
+
+                $(this).siblings('ul').slideDown(100).children('li');
+
+                if ($(this).parents('li').siblings('li').children('ul').css('display') == 'block') {
+
+                    $(this).parents('li').siblings('li').children('ul').parent('li').children('a').removeClass('inactives');
+
+                    $(this).parents('li').siblings('li').children('ul').slideUp(100);
+
+
+
+                }
+
+            } else {
+
+                //控制自身变成+号
+
+                $(this).removeClass('inactives');
+
+                //控制自身菜单下子菜单隐藏
+
+                $(this).siblings('ul').slideUp(100);
+
+                //控制自身子菜单变成+号
+
+                $(this).siblings('ul').children('li').children('ul').parent('li').children('a').addClass('inactives');
+
+                //控制自身菜单下子菜单隐藏
+
+                $(this).siblings('ul').children('li').children('ul').slideUp(100);
+
+
+
+                //控制同级菜单只保持一个是展开的（-号显示）
+
+                $(this).siblings('ul').children('li').children('a').removeClass('inactives');
+
+            }
+
+        })
+
+
+
+        var currentHref = window.location.href;
+
+        var currentId = currentHref.slice(currentHref.length - 4);
+
+        console.log(currentId);
+
+        $('.zhedie>ul>li>a').each(function(index, value) {
+
+            var navlistHref = $(value).attr('href');
+
+            var navlistHrefId = navlistHref.slice(navlistHref.length - 4);
+
+            if (currentId == navlistHrefId) {
+
+                $(value).parent().parent().siblings('.inactive').trigger('click');
+
+                console.log($(value).parent().parent().siblings('.inactive'));
+
+                console.log(navlistHrefId);
+
+            }
+
+
+
+        })
+
+    });
+    </script>
+    <div class="foot_bg">
+        <div class="foot auto">
+            <ul>
+                <li>
+                    &nbsp;
+                    <div>
+                        <img src="images/logo2.png">
+                        <img src="images/dianhua.png">
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>走进万和</span>
+                        <a href="/yyjj/">医院简介</a>
+                        <a href="/cclx/">乘车路线</a>
+                        <a href="/yyhj/">医院环境</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>牙科知识</span>
+                        <a href="/zzyjgb/">牙齿种植</a>
+                        <a href="/ycjzjgi/">牙齿矫正</a>
+                        <a href="/kcyjgo/">烤瓷牙</a>
+                        <a href="/ycmbjgx/">牙齿美容</a>
+                        <a href="/ycsd3/">牙齿治疗</a>
+                        <a href="/zy8/">牙齿保健</a>
+                        <a href="/wgfbC/">儿童齿科</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>视频中心</span>
+                        <a href="/spkp/">万和风采</a>
+                        <a href="/spkp/">专家集锦</a>
+                        <a href="/spkp/">公益活动</a>
+                        <a href="/spkp/">牙齿科普</a>
+                        <a href="/spkp/">案例分享</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>特色专题</span>
+                        <a href="/tszt/zzy/">种植牙</a>
+                        <a href="/tszt/ycjz/">牙齿矫正</a>
+                        <a href="/tszt/kcy/">烤瓷牙</a>
+                        <a href="/tszt/ysm/">隐适美矫正</a>
+                        <a href="/tszt/ycmb/">牙齿美容</a>
+                        <a href="/tszt/All-on-4/">All-on-4</a>
+                        <a href="/tszt/hdyc/">活动义齿</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>医院概况</span>
+                        <a href="/gyhd/">公益中心</a>
+                        <a href="/xwdt/">新闻动态</a>
+                        <a href="/alfx/">案例分享</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="banquan auto">
+        (京)医广【2018】第01-03-0013号 Copyright ©2016北京万和口腔医院有限公司所有 京ICP备11030245号-2
+    </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2d54200-f8fe-43cd-887b-7e82114080d1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="article_article.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_article.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <marker date="1539679067220" expanded="true" signature="1322:1365" ph="..." />
+                <marker date="1539679067220" expanded="true" signature="1651:1694" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article_sp.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_sp.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <marker date="1539679095671" expanded="true" signature="1242:1285" ph="..." />
+                <marker date="1539679095671" expanded="true" signature="1541:1584" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article_ysxq.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_ysxq.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wx js_ht</find>
+      <find>sidebar</find>
+      <find>render</find>
+      <find>&lt;script src=&quot;/js/sp.js&quot;&gt;&lt;/script&gt;</find>
+      <find>cambrian0</find>
+      <find>showtop-menuc</find>
+      <find>.hr1</find>
+      <find>header</find>
+      <find>mip-carousel-container</find>
+      <find>mip-carousel</find>
+      <find>.art_banner</find>
+      <find>.sjd_huodongimg</find>
+      <find>.footswt</find>
+      <find>ghead clear</find>
+      <find>.footswt ul li</find>
+      <find>class=&quot;nav&quot;</find>
+      <find>inbox</find>
+      <find>cona</find>
+      <find>fenduantj</find>
+      <find>style</find>
+      <find>btn0316</find>
+      <find>/uploads/180604/1-1P604143115429.jpg</find>
+      <find>expert</find>
+      <find>docimg</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\工作\61\pinjuxuan_net</dir>
+      <dir>E:\工作\61\mip_pinjuxuan_net\public_html\templets\default</dir>
+      <dir>E:\工作\61\mip_xnekyy_cn\public_html\templets\mxinan</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mip_lvdekui_com/public_html/templets/default/list_article.htm" />
+        <option value="$PROJECT_DIR$/mip_lvdekui_com/public_html/css/m.css" />
+        <option value="$PROJECT_DIR$/pinjuxuan_net/public_html/templets/default/index.htm" />
+        <option value="$PROJECT_DIR$/pinjuxuan_net/public_html/swt/swt.js" />
+        <option value="$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/index.htm" />
+        <option value="$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/head.htm" />
+        <option value="$PROJECT_DIR$/mip_pinjuxuan_net/public_html/js/banner.js" />
+        <option value="$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/article_article.htm" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/js/banner.js" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/index.html" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/swt/html/css/style.css" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/swt/swt_new.js" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/header_sp.htm" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/index_zy.htm" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/nav.htm" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/index.htm" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/js/jquery.SuperSlide.2.1.1.js" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/swt/swt.js" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/css/new.css" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/css/css.css" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/zjtder.htm" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_article.htm" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_sp.htm" />
+        <option value="$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_ysxq.htm" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="3" />
+    <option name="width" value="1932" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="61" type="b2602c69:ProjectViewProjectNode" />
+              <item name="61" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="61" type="b2602c69:ProjectViewProjectNode" />
+              <item name="61" type="462c0819:PsiDirectoryNode" />
+              <item name="mip_xnekyy_cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="61" type="b2602c69:ProjectViewProjectNode" />
+              <item name="61" type="462c0819:PsiDirectoryNode" />
+              <item name="mip_xnekyy_cn" type="462c0819:PsiDirectoryNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="61" type="b2602c69:ProjectViewProjectNode" />
+              <item name="61" type="462c0819:PsiDirectoryNode" />
+              <item name="mip_xnekyy_cn" type="462c0819:PsiDirectoryNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="61" type="b2602c69:ProjectViewProjectNode" />
+              <item name="61" type="462c0819:PsiDirectoryNode" />
+              <item name="mip_xnekyy_cn" type="462c0819:PsiDirectoryNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="swt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="61" type="b2602c69:ProjectViewProjectNode" />
+              <item name="61" type="462c0819:PsiDirectoryNode" />
+              <item name="mip_xnekyy_cn" type="462c0819:PsiDirectoryNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="templets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="61" type="b2602c69:ProjectViewProjectNode" />
+              <item name="61" type="462c0819:PsiDirectoryNode" />
+              <item name="mip_xnekyy_cn" type="462c0819:PsiDirectoryNode" />
+              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="templets" type="462c0819:PsiDirectoryNode" />
+              <item name="mxinan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\工作\61\mip_xnekyy_cn\public_html\css" />
+      <recent name="E:\工作\61\mip_pinjuxuan_net\public_html\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2d54200-f8fe-43cd-887b-7e82114080d1" name="Default" comment="" />
+      <created>1528450349158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528450349158</updated>
+      <workItem from="1528450350423" duration="1928000" />
+      <workItem from="1528876842519" duration="2057000" />
+      <workItem from="1528880986854" duration="383000" />
+      <workItem from="1529114271119" duration="3941000" />
+      <workItem from="1530330225607" duration="2204000" />
+      <workItem from="1530409642401" duration="1238000" />
+      <workItem from="1531277483838" duration="4958000" />
+      <workItem from="1531298240844" duration="1853000" />
+      <workItem from="1531303232896" duration="32000" />
+      <workItem from="1531303349374" duration="622000" />
+      <workItem from="1531547820035" duration="2044000" />
+      <workItem from="1531560030757" duration="1284000" />
+      <workItem from="1533189500848" duration="1816000" />
+      <workItem from="1535953489968" duration="1577000" />
+      <workItem from="1538030354866" duration="1418000" />
+      <workItem from="1539670515467" duration="3334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30689000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/swt/swt_new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/css/new.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/js/banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/article_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/js/banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="91" lean-forward="false" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/article_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11775">
+          <caret line="471" column="0" lean-forward="true" selection-start-line="471" selection-start-column="0" selection-end-line="471" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/js/banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="91" lean-forward="false" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/js/TouchSlide.1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/article_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/head.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="72" lean-forward="false" selection-start-line="0" selection-start-column="72" selection-end-line="0" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/swt/swt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_lvdekui_com/public_html/css/m.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_lvdekui_com/public_html/templets/default/list_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="49" column="89" lean-forward="true" selection-start-line="49" selection-start-column="89" selection-end-line="49" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_lvdekui_com/public_html/templets/default/list_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="49" column="89" lean-forward="false" selection-start-line="49" selection-start-column="89" selection-end-line="49" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_lvdekui_com/public_html/css/m.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="5019" column="20" lean-forward="false" selection-start-line="5019" selection-start-column="20" selection-end-line="5019" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinjuxuan_net/public_html/templets/default/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="206" column="9" lean-forward="true" selection-start-line="206" selection-start-column="9" selection-end-line="206" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinjuxuan_net/public_html/swt/swt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="62" lean-forward="false" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/swt/swt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="341" column="27" lean-forward="true" selection-start-line="341" selection-start-column="27" selection-end-line="341" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/head.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/js/TouchSlide.1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/js/banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="91" lean-forward="false" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_pinjuxuan_net/public_html/templets/default/article_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="543" column="27" lean-forward="false" selection-start-line="543" selection-start-column="27" selection-end-line="543" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/js/banner.js" />
+    <entry file="file://$PROJECT_DIR$/../www/mxnetyy/wwwroot/js/banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/js/banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="71" column="32" lean-forward="false" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/swt/html/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3027" column="19" lean-forward="false" selection-start-line="3027" selection-start-column="19" selection-end-line="3027" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cdxnetyy_com/public_html/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/index_zy.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/index_cdz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="33" column="3" lean-forward="false" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/index_ddz.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/nav.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/header_sp.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/js/jquery.SuperSlide.2.1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kordd_net/public_html/index.php" />
+    <entry file="file://$PROJECT_DIR$/kordd_net/public_html/data/common.inc.php" />
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/swt/swt_new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3044">
+          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/swt/swt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/css/new.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="1824" column="0" lean-forward="false" selection-start-line="1824" selection-start-column="0" selection-end-line="1824" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/css/cssa.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/zjtder.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" column="31" lean-forward="false" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="6347" column="1" lean-forward="false" selection-start-line="6347" selection-start-column="1" selection-end-line="6347" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="327" column="16" lean-forward="false" selection-start-line="327" selection-start-column="16" selection-end-line="327" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_jiangtang.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <marker date="1539679067220" expanded="true" signature="1322:1365" ph="..." />
+            <marker date="1539679067220" expanded="true" signature="1651:1694" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_wenda.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_sp.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <marker date="1539679095671" expanded="true" signature="1242:1285" ph="..." />
+            <marker date="1539679095671" expanded="true" signature="1541:1584" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mip_xnekyy_cn/public_html/templets/mxinan/article_ysxq.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

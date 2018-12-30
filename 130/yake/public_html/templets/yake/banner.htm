@@ -1,0 +1,72 @@
+<div id="banner_tabs" class="banner flexslider" style="position:relative;height:420px;overflow:hidden;">
+    <ul style="position:relative;z-index:1;list-style:none;" class="slides">
+        <li style="background:rgb(246, 245, 241); width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1;"><a href="/" target="_blank" style="width:2000px;position:absolute;left:50%;margin-left:-1000px;text-align:center;display:block;min-width:1100px;height:420px;"><img src="/images/banner.jpg" style="width:auto;height:420px;"></a>
+        </li>
+        <!-- <li style="background:rgb(246, 245, 241); width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1;"><a href="/tszt/lnzzy" target="_blank" style="width:2000px;position:absolute;left:50%;margin-left:-1000px;text-align:center;display:block;min-width:1100px;height:420px;"><img src="/images/banner_zz.jpg" style="width:auto;height:420px;"></a>
+        </li>
+        <li style="background:rgb(246, 245, 241); width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1;"><a href="javascript:openZoosUrl('chatwin','&e=this')" target="_blank" style="width:2000px;position:absolute;left:50%;margin-left:-1000px;text-align:center;display:block;min-width:1100px;height:420px;"><img src="/images/banner_zk.jpg" style="width:auto;height:420px;"></a>
+        </li>
+        <li style="background:rgb(246, 245, 241); width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1;">
+            <a href="/tszt/zzy/" target="_blank" style="width:2000px;position:absolute;left:50%;margin-left:-1000px;text-align:center;display:block;min-width:1100px;height:420px;"><img src="/images/banner_zzy.jpg" style="width:auto;height:420px;"></a>
+        </li>
+        <li style="background:rgb(246, 245, 241); width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1;">
+            <a href="/tszt/ycjz/" target="_blank" style="width:2000px;position:absolute;left:50%;margin-left:-1000px;text-align:center;display:block;min-width:1100px;height:420px;"><img src="/images/banner_jz.jpg" style="width:auto;height:420px;"></a>
+        </li>
+        <li style="background:rgb(246, 245, 241); width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1;">
+            <a href="/tszt/ysm/" target="_blank" style="width:2000px;position:absolute;left:50%;margin-left:-1000px;text-align:center;display:block;min-width:1100px;height:420px;"><img src="/images/banner_ysm.jpg" style="width:auto;height:420px;"></a>
+        </li>
+        <li style="background:rgb(246, 245, 241); width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1;">
+            <a href="/tszt/ycmb/" target="_blank" style="width:2000px;position:absolute;left:50%;margin-left:-1000px;text-align:center;display:block;min-width:1100px;height:420px;"><img src="/images/banner_mr.jpg" style="width:auto;height:420px;"></a>
+        </li> -->
+    </ul>
+    <ul class="flex-direction-nav">
+        <li><a class="flex-prev" href="javascript:;">Previous</a></li>
+        <li><a class="flex-next" href="javascript:;">Next</a></li>
+    </ul>
+    <ol id="bannerCtrl" class="flex-control-nav flex-control-paging">
+        <li><a>1</a></li>
+<!--         <li><a>2</a></li>
+        <li><a>3</a></li>
+        <li><a>4</a></li>
+        <li><a>5</a></li>
+        <li><a>6</a></li>
+        <li><a>7</a></li> -->
+    </ol>
+    <div style="clear:both"></div>
+</div>
+<script src="/js/slider.js"></script>
+<script type="text/javascript">
+jQuery(function() {
+
+    var bannerSlider = new Slider(jQuery('#banner_tabs'), {
+
+        time: 5000,
+
+        delay: 400,
+
+        event: 'hover',
+
+        auto: true,
+
+        mode: 'fade',
+
+        controller: jQuery('#bannerCtrl'),
+
+        activeControllerCls: 'active'
+
+    });
+
+    jQuery('#banner_tabs .flex-prev').click(function() {
+
+        bannerSlider.prev()
+
+    });
+
+    jQuery('#banner_tabs .flex-next').click(function() {
+
+        bannerSlider.next()
+
+    });
+
+})
+</script>

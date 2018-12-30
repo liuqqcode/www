@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <title>{dede:field.title/}</title>
+    <meta name="keywords" content="{dede:field.keywords/}" />
+    <meta name="description" content="{dede:field.description  function='html2text(@me)'/}" />
+</head>
+<link href="/css/2016.css" rel="stylesheet" type="text/css" />
+
+<body>
+    {dede:include filename="header2.htm" /}
+    <div class="ask_banner"><img src="/images/ask_banner.jpg" alt="问答"></div>
+    <div class="ask_nav"><span><i class="fa fa-home fa-lg"></i>当前位置：</span>{dede:field name='position'/}</div>
+    <div class="ask_huida">
+        <p class="ask_biaoti">{dede:field.title/}</p>
+        <div class="ask_dhuas"><a href="javascript:openZoosUrl();">在线咨询</a>|<a href="javascript:openZoosUrl();">预约挂号</a></div>
+        <div class="ask_dhua"><a href="tel:02887538666">028-87538666</a><a href="tel:02887538666">免费通话</a></div>
+        <p class="askbqms">病情描述(发病时间、主要症状等)：</p>
+        <div class="ask_mswd">
+            {dede:field.miaoshu/}
+        </div>
+    </div>
+    <!--付诗亭-->
+    <div class='ask_zjjd {dede:field.fst runphp="yes"}if(@me =="") @me ="ask_zjjdn"; else @me = "";{/dede:field.fst}'>
+        <p class="ask_zjjdjd">医师解答：</p>
+        <div class="cl"></div>
+        <a href="/zjtd/xnhzzj/589.html"><img src="/uploads/160422/3-1604221QU41Q.png" class="ask_zjtdtx"></a>
+        <p class="ask_zjtdmz"><a href="/zjtd/xnhzzj/589.html">付师亭丨名誉院长<br><span>从医经验50余年</span></a></p>
+        <a href="javascript:openZoosUrl();" class="ask_zxtwz">在线提问</a>
+        <div class="cl"></div>
+        <div class="ask_zjhs">
+            <p>{dede:field.fst/}</p>
+        </div>
+    </div>
+    <!--孟青-->
+    <div class='ask_zjjd {dede:field.mengqing runphp="yes"}if(@me == "") @me = "ask_zjjdn"; else @me = " ";{/dede:field.mengqing}'>
+        <p class="ask_zjjdjd">医师解答：</p>
+        <div class="cl"></div>
+        <a href="/zjtd/1016.html"><img src="/uploads/160422/3-1604221RJ0T5.png" class="ask_zjtdtx"></a>
+        <p class="ask_zjtdmz"><a href="/zjtd/1016.html">孟青 | 主任医师<br><span>从医经验40余年</span></a></p>
+        <a href="javascript:openZoosUrl();" class="ask_zxtwz">在线提问</a>
+        <div class="cl"></div>
+        <div class="ask_zjhs">
+            <p>{dede:field.mengqing/}</p>
+        </div>
+    </div>
+    <!--闫泽明-->
+    <div class='ask_zjjd {dede:field.yzm runphp="yes"}if(@me == "") @me ="ask_zjjdn"; else @me ="";{/dede:field.yzm}'>
+        <p class="ask_zjjdjd">医师解答：</p>
+        <div class="cl"></div>
+        <a href="/zjtd/fyxk/903.html"><img src="/uploads/160422/3-1604221R445220.png" class="ask_zjtdtx"></a>
+        <p class="ask_zjtdmz"><a href="/zjtd/fyxk/903.html">颜泽明 | 儿童发育行为科主任<br><span>从医经验三十余年</span></a></p>
+        <a href="javascript:openZoosUrl();" class="ask_zxtwz">在线提问</a>
+        <div class="cl"></div>
+        <div class="ask_zjhs">
+            <p>{dede:field.yzm/}</p>
+        </div>
+    </div>
+    <!--熊友华-->
+    <div class='ask_zjjd {dede:field.xiong runphp="yes"}if(@me == "") @me = "ask_zjjdn"; else @me = " ";{/dede:field.xiong}'>
+        <p class="ask_zjjdjd">医师解答：</p>
+        <div class="cl"></div>
+        <a href="/zjtd/nfmk/588.html"><img src="/uploads/160422/3-1604221R232538.png" class="ask_zjtdtx"></a>
+        <p class="ask_zjtdmz"><a href="/zjtd/nfmk/588.html">熊友华 | 副主任医师<br><span>从医经验三十余年</span></a></p>
+        <a href="javascript:openZoosUrl();" class="ask_zxtwz">在线提问</a>
+        <div class="cl"></div>
+        <div class="ask_zjhs">
+            <p>{dede:field.xiong/}</p>
+        </div>
+    </div>
+    <!--曹正良-->
+    <div class='ask_zjjd {dede:field.cxe runphp="yes"}if(@me == "") @me = "ask_zjjdn"; else @me = " ";{/dede:field.cxe}'>
+        <p class="ask_zjjdjd">医师解答：</p>
+        <div class="cl"></div>
+        <a href="/zjtd/zyk/584.html"><img src="/uploads/160422/3-1604221QF1B8.png" class="ask_zjtdtx"></a>
+        <p class="ask_zjtdmz"><a href="/zjtd/zyk/584.html">曹正良 | 副主任医师<br><span>从医经验四十余年</span></a></p>
+        <a href="javascript:openZoosUrl();" class="ask_zxtwz">在线提问</a>
+        <div class="cl"></div>
+        <div class="ask_zjhs">
+            <p>{dede:field.cxe/}</p>
+        </div>
+    </div>
+    <!-- 阴平 -->
+    <div class='ask_zjjd {dede:field.yinping runphp="yes"}if(@me == "") @me = "ask_zjjdn"; else @me = " ";{/dede:field.yinping}'>
+        <p class="ask_zjjdjd">医师解答：</p>
+        <div class="cl"></div>
+        <a href="/zjtd/1378.html"><img src="/uploads/160620/3-160620151036435.png" class="ask_zjtdtx"></a>
+        <p class="ask_zjtdmz"><a href="/zjtd/zyk/584.html">阴平 | 主治医师<br><span>从医经验43年</span></a></p>
+        <a href="javascript:openZoosUrl();" class="ask_zxtwz">在线提问</a>
+        <div class="cl"></div>
+        <div class="ask_zjhs">
+            <p>{dede:field.yinping/}</p>
+        </div>
+    </div>
+    {dede:include filename="footer2.htm"/}
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+.rich_media_inner{
+    margin: 30px auto 10px auto;
+    padding: 0 5px;
+    font-size:14px;
+    text-align: center;
+}
+
+img{
+    vertical-align: middle;
+}
+p{
+    margin:0;
+    padding: 0;
+}
+@media screen and (max-width: 667px) {
+    .rich_media_inner{
+        box-sizing:border-box;
+    }
+}
+@media screen and (min-width: 668px){
+    .rich_media_inner {
+        padding: 20px 15px;
+        width: 667px;
+    }    
+}

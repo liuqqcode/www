@@ -1,0 +1,207 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta name="applicable-device" content="mobile">
+  <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <meta http-equiv="Cache-Control" content="no-transform" />
+  <meta charset="utf-8" />
+  <meta http-equiv="Cache-Control" content="must-revalidate,no-cache" />
+  <meta name="viewport" content="width=device-width,user-scalable=no" />
+  <meta content="yes" name="apple-mobile-web-app-capable" />
+  <meta content="yes" name="apple-touch-fullscreen" />
+  <meta content="telephone=no" name="format-detection" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <title>一路童行教育咨询平台</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" language="javascript" src="js/rem_750.js"></script>
+</head>
+
+<body>
+  <div class="main">
+    <!--头部-->
+    <div class="banner" onclick="openZoosUrl('chatwin','&e=百度信息流单页面')">
+      <img src="images/banner.jpg" alt="" style="width: 100%;display: block;">
+    </div>
+    <div class="yidong" style="width:100%;max-width:750px;margin:0 auto;">
+      <!--徐磊-->
+      <div class="sjpMk">
+        <p class="xttj">系统推荐留美博士徐磊为您解答</p>
+        <div class="sjp">
+          <div class="sjpTop">
+            <div class="sjpTopLeft">
+              <img src="images/pic_zj-xyh.png" /> </div>
+            <div class="sjpTopRight">
+              <p>
+                <span>徐磊</span>
+                <span>在线儿童高级评估师 </span>
+                <span>荐</span>
+              </p>
+              <div style="margin-top:0.1rem;">
+                <!--180504患者-->推荐热度(综合)：
+                <span>9.9</span>
+              </div>
+              <div style="margin-top:0.1rem;">擅长：儿童注意力不集中，学习困难，多动好动的诊疗</div>
+              <div style="margin-top:0.1rem;">咨询电话：
+                <span>
+                  <a href="tel:028-88848888" class="trackTel" tltle="咨询电话" style="color: #7faefe;">028-88848888</a>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="sjpBody">
+            <div class="xg1">
+              <p class="zxtw">
+                <span>10</span>人提问中</p>
+              <p class="yjd">
+                <span>197</span>人已答疑</p>
+            </div>
+            <div class="ll">
+              <p>
+                <span>回复率：</span>
+                <span class="hfl"></span>
+                <span>100%</span>
+              </p>
+              <p>
+                <span>满意率：</span>
+                <span class="myl"></span>
+                <span>98.8%</span>
+              </p>
+            </div>
+            <p class="tx">对话已加密，请放心咨询</p>
+          </div>
+        </div>
+      </div>
+      <!--搜索问题并解答-->
+      <div class="ssjd">
+        <div class="ysjd">
+          <div class="ysjdMk1" id="ysjdMk1" onclick="openZoosUrl('chatwin','&e=百度信息流单页面')">
+            <p>
+              <img src="images/pic_zjxyh.png"> </p>
+            <p>
+              <b>你好，我是儿童高级评估师徐磊（美国南加州大学博士），关于儿童注意力不集中，学习困难，多动好动的问题我帮你解答。</b>
+            </p>
+          </div>
+          <div class="ysjdMk1 ysjdMk2" id="ysjdMk2" onclick="openZoosUrl('chatwin','&e=百度信息流单页面')">
+            <p>
+              <img src="images/pic_zjxyh.png"> </p>
+            <p>
+              <b>孩子有哪方面的问题？请您做点简单描述，这边先帮您做个初步评估。</b>
+            </p>
+          </div>
+
+        </div>
+        <div class="ly-footer" style="width:100%;margin-top:1.5rem;position:fixed;bottom:0%;padding: 0.2rem 0;background: #dcdcdc;max-width:750px;margin:0 auto;right: 0 !important; ">
+          <a href="tel:028-88848888" style="display:block;float:left;width:9%;margin-left:2%;margin-top:3%;">
+            <img src="images/icon_zx.png" style="width:100%;" /> </a>
+          <div class="azf2" style="float:left;width:67%;margin-top:2%;margin-left:2%;" onclick="openZoosUrl('chatwin','&e=百度信息流单页面')">
+            <textarea placeholder="请输入您的问题" class='textareathis' id="zd_myInput" style="width:95%;padding-left:5%; border:none;background:white;font-size:0.3rem;color:#393a3e;height:0.7rem;line-height:0.7rem;"></textarea>
+          </div>
+          <div class="azf3" style="float:left;width:12%;height:0.7rem;margin-top:2%;margin-left:5%;" onclick="openZoosUrl('chatwin','&e=百度信息流单页面')">
+            <input type="button" name="button" id="zd_sendCon" class="trackZx" value="发送" style="display:block;width: 100%;height:100%;background:#7faefe;border-radius:0.1rem;font-size:0.3rem;color:#fff;text-align:center;line-height:0.7rem;border: none;">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    $(function () {
+      showrs1();
+
+      function showrs1() {
+        var value = parseInt($(".zxtw span").html());
+        value1 = value + 2;
+        var num2 = Math.floor(Math.random() * (10 - 5 + 1) + 5);
+        $(".zxtw span").text(num2);
+        setTimeout(function () {
+          showrs2()
+        }, 1100);
+      }
+
+      function showrs2() {
+        var value = parseInt($(".zxtw span").html());
+        value2 = value - 1;
+        $(".zxtw span").text(value2);
+        setTimeout(function () {
+          showrs1()
+        }, 1100);
+      }
+      setInterval(function () {
+        var value = parseInt($(".yjd span").html());
+        value3 = value + 1;
+        $(".yjd span").text(value3);
+      }, 1100)
+      setTimeout(function () {
+        $('#ysjdMk1').css("display", "block");
+      }, 1000);
+      setTimeout(function () {
+        $('#ysjdMk2').css("display", "block");
+      }, 3000);
+      setTimeout(function () {
+        $('#ysjdMk3').css("display", "block");
+      }, 5000); /*setTimeout(function(){$('#ysjdMk4').css("display","block");},7000);*/
+      
+      var winHeight = $(window).height();
+      $(window).resize(function () {
+        var thisHeight = $(this).height();
+        if (winHeight - thisHeight > 50) {
+          $(".yidong").css("top", "-60%");
+        } else {
+          $(".yidong").css("top", "10%");
+        }
+      });
+    })
+
+    function gundong() {
+      $('html,body').animate({
+        scrollTop: document.body.scrollHeight / 5
+      }, 1000);
+    }
+    setTimeout("gundong()", 1000);
+    // //发送至后台问题标识
+    // document.getElementById("zd_myInput").onfocus = function () {
+    //   document.getElementById("zd_sendCon").style.background = "#ff0000";
+    // }
+    // document.getElementById("zd_sendCon").onclick = function () {
+    //   var insertText = document.getElementById("zd_myInput").value;
+    //   if (insertText || insertText != "") {
+    //     KS.openChatWin({
+    //       sText: '咨询平台</br><strong style=\"color:red;\">请输入</strong>您的问题：<font style=\"color:#ab0080;font-size:24px;\">' +
+    //         insertText + '</font>',
+    //       cv: insertText
+    //     });
+    //     return document.getElementById("zd_myInput").value = "";
+    //   } else alert("请先填写您的问题哦！");
+    //   document.getElementById("zd_myInput").focus();
+    // }
+  </script>
+  <div style="display:none">
+    <style>
+      .mfdhdb,
+      .dSwt,
+      #swt-piaofu,
+      #QQ-talk,
+      #lxb,
+      #top-phone,
+      #footTool,
+      #img2,
+      .sbottom0328,
+      .foot_new,
+      .footswt,
+      .swt_piaofu,
+      .foot-wz,
+      #art_67,
+      #LRdiv0,
+      #LRdiv1,
+      #LRdiv2,
+      #LRdiv3,
+      #LRdiv4 {
+        display: none !important;
+      }
+    </style>
+  </div>
+  <script type="text/javascript" src="/swt/swt.js"></script>
+</body>
+
+</html>

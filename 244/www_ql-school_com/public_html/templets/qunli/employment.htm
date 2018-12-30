@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+
+
+
+
+<link type="text/css" rel="stylesheet" href="{dede:global.cfg_templets_skin/}/css/employment.css" />
+<link type="text/css" rel="stylesheet" href="{dede:global.cfg_templets_skin/}/css/schoolIntroduction.css" />
+
+
+
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+    <!--<script src="{dede:global.cfg_templets_skin/}/js/autoImg.js"></script>-->
+
+
+
+<style>
+    .hotNews{
+        background:white;
+        color: #666;
+        /*height:150px;*/
+        /*padding-top:30px;*/
+    }
+    .hotNewsContent div p span{
+        font-size:26px;
+        color:black;
+    }
+    .hotNewsContent div h3{
+        background: url("{dede:global.cfg_templets_skin/}/images/phone2.png") no-repeat 0px 6px;
+    }
+    .hotNewsContent div h3.hot{
+        background: url("{dede:global.cfg_templets_skin/}/images/hot2.png") no-repeat 0px 6px;
+    }
+
+    .allClass{
+        width:1000px;
+        margin-top:50px;
+    }
+    .allClass ul li{
+        float: left;
+        width:300px;
+        margin: 0 0 20px 20px ;
+        height:200px;
+    }
+    #limitBox{
+        height:440px;
+        overflow: hidden;
+
+    }
+    .allClass ul li>div{
+        float: left;
+        width:50%;
+        font-family: "微软雅黑";
+    }
+    .allClass ul li>div p{
+        font-size:12px;
+        padding-left:10px;
+        color:#999;
+    }
+    .allClass ul li>div p span{
+        color:#e74159;
+        font-size:16px;
+    }
+    .allClass ul li>div img{
+        width: 100%;
+        margin: 0;
+        height: 100%;
+    }
+    .allClass ul li>div p b{
+        font-weight: normal;
+        font-size:14px;
+
+    }
+    .worksContent
+    {
+        position: static;
+        height:580px;
+        overflow: hidden;
+
+
+    }
+    .worksContent ul li{
+        float: left;
+        width:320px;
+        height:280px;
+        margin: 0 10px 10px 0;
+
+    }
+    .worksContent ul li div{
+        width:100%;
+        height: 100%;
+    }
+    .worksContent ul li div img{
+        width: 100%;
+        height: 100%;
+    }
+    .production{
+        height: auto;
+    }
+</style>
+
+
+
+
+</head>
+
+<body>
+
+
+
+
+
+
+  {dede:include filename="head.htm"/}
+
+
+
+
+
+ <!--最热消息-->
+        <div class="hotNews" style="background: white">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}  
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span  style="color:#e74159">028-8583 1188</span> 
+                        <span>18981933384</span>
+                   
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+<div class="divTxtEmpWrapper">
+<div class="divTxtEmp">
+<img class="imgEmp" src="{dede:global.cfg_templets_skin/}/images/txtEmployment.gif" width="400" height="82" />
+</div>
+</div>
+
+
+<div class="divSecurity1Wrapper">
+	<div class="divSecurity1">
+	      <!--小导航-->
+            <div class="littleNav">
+                <div class="littleNavContent">
+                    <ul>
+              
+                       <li><a href="http://www.ql-school.com/a/zhaoshengjiuye/jiuyebaozhang/tuijianzhiwei/list_40_1.html">推荐职位</a></li>
+                      <li><a>群丽优势</a></li>
+                      <li><a href="http://www.ql-school.com/a/shangwuhezuo/qita/index.html#otherBc">合作伙伴</a></li>
+                       <li><a href="http://www.ql-school.com/a/shangwuhezuo/qita/index.html#otherBc">签约企业</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+        <div class="divMiddle moreMargin">
+<div class="security1">
+                <img src="{dede:global.cfg_templets_skin/}/images/advantage1.jpg" width="114" height="115" /> <br />
+                教学优势<br />
+                <span>学校硬件设施设备齐全，校内设有专业理论教室、实操教室，同时配备教学投影仪、摄影灯、电视、音响、礼服、饰品等多功能教学设备和物品，是一所时尚气息浓厚的职业学府。</span> 
+            </div>
+            <div class="security1">
+                <img src="{dede:global.cfg_templets_skin/}/images/advantage2.jpg" width="114" height="115" /> <br />
+                师资优势<br />
+                <span>定期进行师资培训。同时群丽还有强大的技术团队：中、日、韩化妆师团队共同开发新课程和新技术，学校结合时下流行趋势及市场需求，每年将会更新课程，引进新技术。</span> 
+            </div>
+            <div class="security1">
+                <img src="{dede:global.cfg_templets_skin/}/images/advantage3.jpg" width="114" height="115" /> <br />
+                品牌优势<br />
+                <span>学校注重理论与实践的结合，同时承接各类大型活动，给广大学员提供在校学习实践的机会。发展的历程中，全校共承接国际级、国家级和省、市、地级的活动超过百余场。</span> 
+            </div>
+        
+        </div>
+        	<div>
+    			<img src="{dede:global.cfg_templets_skin/}/images/securityBig.jpg"  class="imgSecurityBig" />          </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="divSecurityWrapper">
+	<div class="divSecurity">
+        <img src="{dede:global.cfg_templets_skin/}/images/security.gif" class="imgThreeSecurity" />
+        <div class="txt divMiddle" >
+        作为西南地区化妆学校的“航母”，本校已培养出上万名专业技术化妆学员，并且学校100%包推荐就业，三重保障保障学员就业。
+        </div>
+        
+        <div class="divMiddle">
+<div class="security">
+                <img src="{dede:global.cfg_templets_skin/}/images/security1.jpg" width="114" height="115" /> <br />
+                第一重保障<br />
+                <span>群丽集团本身集摄影、美容、化妆、服饰、教育于一体，员工人数达千名。因此，每年对于人才的需求量都很大，与其到外面寻寻觅觅，还不如自给自足。为此，学校优秀的学员毕业后都可直接进入群丽集团工作，学校基本完成内部的造血功能。</span> 
+            </div>
+            <div class="security">
+                <img src="{dede:global.cfg_templets_skin/}/images/security2.jpg" width="114" height="115" /> <br />
+                第二重保障<br />
+                <span>与就业市场、人才中心有着多年合作，定期举办大型人才招聘会、校园招聘等，让学员无后顾之忧。</span> 
+            </div>
+            <div class="security">
+                <img src="{dede:global.cfg_templets_skin/}/images/security3.jpg" width="114" height="115" /> <br />
+                第三重保障<br />
+                <span>对即将毕业的学员进行一个月的就业培训，包括面试技巧、口语训练、销售知识技巧和实战训练。保证学员成为面试人群以及以后工作中的泰然自若，自信大方，成为佼佼者。</span> 
+            </div>
+        
+        </div>
+    <img src="{dede:global.cfg_templets_skin/}/images/securitySmall.jpg" width="899" height="192" class="imgSecuritySmall" /> </div>
+</div>
+
+
+
+        <!--footer-->
+{dede:include filename="footer.htm"/}
+
+
+</body>
+</html>

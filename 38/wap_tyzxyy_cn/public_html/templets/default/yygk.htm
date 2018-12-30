@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <meta content="telephone=no" name="format-detection">
+    <meta http-equiv="refresh" content="0;url=/yygk/yyjj/">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/rootresize.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.superslide.2.1.1.js"></script>
+</head>
+
+<body>
+    <div class="box">
+        {dede:include filename="header.htm" /}
+        <div class="layout mt11 clearfix">
+            <div class="hztd_tle">
+                <h3><i></i>地图地位</h3>
+            </div>
+        </div>
+        <div class="layout clearfix">
+            <div class="container padding-tb">
+                <img src="/images/fd-lylx_03.jpg" /></div>
+        </div>
+        <div class="layout clearfix map-border">
+            <div class="container">
+                <div class="tel">
+                    <img src="/images/fd-lylx_07.jpg" />0351-6860923</div>
+                <div class="add">
+                    <img src="/images/fd-lylx_11.jpg" />太原市万柏林区南内环西街众纺路29号</div>
+            </div>
+        </div>
+        <div class="layout clearfix">
+            <div class="bg-title">
+                <a href="tel:03516860923">快速咨询来院路线<img src="/images/jintou.png" /></a></div>
+        </div>
+        <div class="layout clearfix">
+            <div class="hztd_tle">
+                <h3><i></i>路线查询</h3>
+            </div>
+        </div>
+        <div class="layout clearfix">
+            <div class="slideBox">
+                <div class="hd">
+                    <ul>
+                        <li class="li1">
+                            <div>
+                            </div>
+                            公交路线</li>
+                        <li class="on li2">
+                            <div>
+                            </div>
+                            火车路线</li>
+                        <li class="li1">
+                            <div>
+                            </div>
+                            汽车路线</li>
+                        <li class="li4">
+                            <div>
+                            </div>
+                            自驾/打车</li>
+                    </ul>
+                </div>
+                <div class="bd">
+                    <ul>
+                        <li class="lx bg-one">
+                            <div>
+                                <p>途经公交： 606路、临39路、501路、814路（下车向前100米左右到丁字路口就能看到医院）。</p>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="lx bg-two">
+                            <div>
+                                <p></p>
+                                <p></p>
+                                <p class="lx_p1">火车站——606路——太纺宿舍站——步行100米——太原市中心医院第三医院</p>
+                                <p class="lx_p1">火车站——814路——太纺宿舍站——步行100米——太原市中心医院第三医院</p>
+                                <p class="lx_p1">火车站——606支——千峰南路南内环街口站——步行540米——太原市中心医院第三医院</p>
+                                <p class="lx_p1 lx_p4">火车站——1路——下元站下车——转39路——太纺宿舍站——步行100米——太原市中心医院第三医院</p>
+                                <p></p>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="lx bg-three">
+                            <div>
+                                <!-- <span>太原汽车站</span> -->
+                                <p><span>太原汽车站</span>——步行190米——广场站——606路——太纺宿舍站——步行100米——太原市中心医院第三医院</p>
+                                <!-- <span>太原东客站：</span> -->
+                                <p><span>太原东客站</span>——814路——太纺宿舍站——步行100米——太原市中心医院第三医院</p>
+                                <!-- <span>太原汽车客运西站(南内环西街小王村)</span> -->
+                                <p><span>太原汽车客运西站</span>——步行410米——新西客站——875路——南内环街千峰南路口站——步行600米——太原市中心医院第三医院</p>
+                                <!-- <span>建南汽车站(建设南路狄村附近)</span> -->
+                                <p><span>建南汽车站</span>——52路——市人大站——转814路 (或 39路 ) ——太纺宿舍站——步行100米——太原市中心医院第三医院</p>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="lx bg-four">
+                            <div>
+                                <p></p>
+                                <p class="lx4_p1">太原市万柏林区南内环西街众纺路29号，或直接在地图上导航至太原市中心医院第三医院。</p>
+                                <p class="lx4_p2">对路线有疑问?
+                                    <br>可拨打医院客服电话：<a href="tel:0351-6860923">0351-6860923</a></p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <script type="text/javascript">
+            jQuery(".slideBox").slide({
+                effect: "left",
+                trigger: "click"
+            });
+            </script>
+        </div>
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

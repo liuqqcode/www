@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1280">
+    <title>{dede:field.title /}-{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    {dede:include filename="head.htm"/}
+    <div class="container">
+        <div class="layout">
+            <div class="container-inner mt25">
+                <article class="content">
+                    <h1>网站地图</h1>
+                    <div class="site-map">
+                        {dede:channelartlist typeid='2,10,9,7,4,1,32,8,6,5,3' row='12}
+                        <dl>
+                            <dt><a href="{dede:field name='typeurl'/}" target="_blank">{dede:field name='typename'/}</a></dt>
+                            <dd>{dede:channel}
+                                <span><a href="[field:typeurl/]" target="_blank">[field:typename/]</a></span> {/dede:channel}
+                            </dd>
+                        </dl>
+                        {/dede:channelartlist}
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

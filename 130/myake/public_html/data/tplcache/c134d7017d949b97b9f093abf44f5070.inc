@@ -1,0 +1,64 @@
+{dede:field name='keywords'}假牙,种类{/dede:field}
+{dede:field name='description'}牙齿缺失就要及时的镶牙，这样不仅能挽救我们的形象，更能有一个健康的口腔。那么假牙的种类有哪些?假牙的价格是多少? 假牙的种类{/dede:field}
+{dede:field name='title'}假牙的种类有哪些{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; 　 &nbsp;牙齿缺失就要及时的镶牙，这样不仅能挽救我们的形象，更能有一个健康的口腔。那么假牙的种类有哪些?假牙的价格是多少?</span>
+<p><strong><span style="font-size:16px;">　　假牙的种类</span></strong></p>
+<p><span style="font-size:16px;">　　临床实践中，假牙分为：固定假牙、全口假牙、可摘局部假牙和种植假牙</span></p>
+<p><strong><span style="font-size:16px;">　　一、固定假牙</span></strong></p>
+<p><span style="font-size:16px;">　　利用缺牙间隙两端或一端的天然牙为基牙，在基牙上制作假牙的固位体，并与人工牙连接成为一个整体，通过粘固剂将假牙粘固在基牙上，因而患者不能自行取下。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110024655251.jpg" style="width: 300px; height: 183px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt;固定假牙有危害么?&gt;&gt;&gt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　二、全口假牙</span></strong></p>
+<p><span style="font-size:16px;">　　由基托和人工牙两部组成。根据材料不同可分为常规全口假牙、种植全口假牙。常规全口假牙包括胶托全口假牙、铸造全口假牙等</span></p>
+<p><strong><span style="font-size:16px;">　　三、可摘局部假牙</span></strong></p>
+<p><span style="font-size:16px;">　　利用天然牙和基托覆盖黏膜及骨组织作支持依靠假牙的固位体和基托的固位作用，人工牙恢复缺失牙的形态和功能，并用基托材料恢复缺损的牙槽嵴及软组织形态，患者能够自行摘戴的一种修复体。</span><span style="font-size: 16px;">&nbsp;</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" style="font-size: 16px;" target="_blank"><span style="color: rgb(255, 0, 0);">&gt;&gt;牙齿为什么缺失，有什么危害&gt;&gt;</span></a></p>
+<p><strong><span style="font-size:16px;">　　四、种植假牙</span></strong></p>
+<p><span style="font-size:16px;">　　种植牙是通过医学方式，将与人体骨质兼容性高的纯钛金属经过精密的设计，制造成类似牙根的圆柱体或其他形状，以外科小手术的方式植入缺牙区的牙槽骨内，经过 1～3 个月后，当人工牙根与牙槽骨密合后，再在人工牙根上制作美牙冠。程度还原缺牙的功能，是缺牙的修复体。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110024828400.jpg" style="width: 450px; height: 280px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt;我适合哪种假牙，在线评估&gt;&gt;&gt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　假牙的价格</span></strong></p>
+<p><span style="font-size:16px;">　　假牙的价格几百到几千到几万的都有,假牙受到哪些因素的影响：</span></p>
+<p><span style="font-size:16px;">　　1、 选择的技术和材料：选择不同的牙齿修复技术或者材料，其价格必然是不同的，因此价格的具体请问题要根据不同的技术而有所不同。</span></p>
+<p><span style="font-size:16px;">　　2、 缺失的牙齿颗数：缺失的牙齿的多少同样影响假牙的价格，一般来说缺失的越多，价格越高;种植牙的价格也越高。</span><span style="color: rgb(255, 0, 0); font-size: 16px; text-align: center;">　</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color: rgb(255, 0, 0); font-size: 16px; text-align: center;">&gt;&gt;&gt;在线估算做假牙的费用&gt;&gt;&gt;</span></a></p>
+<p><span style="font-size:16px;">　　3、 口腔环境的影响：每个人的口腔情况不同，有些人可以直接做假牙，有些口腔环境比较复杂的而患者则需要先治疗牙病，这样价格就被影响了。</span></p>
+<p><strong><span style="font-size:16px;">　　哪种假牙修复好?</span></strong></p>
+<p><strong><span style="font-size:16px;">　　建议：维尔种植牙 六大优点告别&ldquo;无牙苦&rdquo;</span></strong></p>
+<p><span style="font-size:16px;">　　一、痛苦小：种植牙的手术很小，一般种植体植入术只需要几十分钟到数小时就可以完成，手术过程短，术后即可进食。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">【在线咨询】【点击预约】</span></a></span></p>
+<p><span style="font-size:16px;">　　二、清洁方便：因为种植牙是仿自然牙，所以清洁种植牙非常方便，不用摘牙。它与临牙间保存有自然间隙，可以用牙线直接进行清洁。</span></p>
+<p><span style="font-size:16px;">　　三、感觉自然：种植后，牙齿宛若新生，跟天然牙一样，可安全放心使用。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px; text-align: center;">&gt;&gt;&gt;了解种植牙流程&gt;&gt;&gt;</span></span><span style="font-size: 16px; text-align: center;">　</span></a></p>
+<p><span style="font-size:16px;">　　四、不伤邻牙：它不影响健康邻牙，靠自身牙根独立存在，且无需磨两侧健康牙，也不会造成假牙同健康牙接触面食物嵌塞而使健康牙造成新的龋坏。</span></p>
+<p><span style="font-size:16px;">　　五、稳固牢靠：种植牙全固定式种植体固位好，比传统假牙戴的稳固、牢靠。种植牙的失败率低于人类自身牙齿的失牙率，咀嚼效率较传统假牙有大幅度。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0202/20180202030540245.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><span style="font-size:16px;">　　维尔温馨提示：提前预约挂号，到院无需挂号(免挂号费)即可实现轻松无障碍就诊!这里不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话：400-6655-111。</span></a></span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; 　 &nbsp;牙齿缺失就要及时的镶牙，这样不仅能挽救我们的形象，更能有一个健康的口腔。那么假牙的种类有哪些?假牙的价格是多少?</span>
+<p><strong><span style="font-size:16px;">　　假牙的种类</span></strong></p>
+<p><span style="font-size:16px;">　　临床实践中，假牙分为：固定假牙、全口假牙、可摘局部假牙和种植假牙</span></p>
+<p><strong><span style="font-size:16px;">　　一、固定假牙</span></strong></p>
+<p><span style="font-size:16px;">　　利用缺牙间隙两端或一端的天然牙为基牙，在基牙上制作假牙的固位体，并与人工牙连接成为一个整体，通过粘固剂将假牙粘固在基牙上，因而患者不能自行取下。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110024655251.jpg" style="width: 300px; height: 183px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt;固定假牙有危害么?&gt;&gt;&gt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　二、全口假牙</span></strong></p>
+<p><span style="font-size:16px;">　　由基托和人工牙两部组成。根据材料不同可分为常规全口假牙、种植全口假牙。常规全口假牙包括胶托全口假牙、铸造全口假牙等</span></p>
+<p><strong><span style="font-size:16px;">　　三、可摘局部假牙</span></strong></p>
+<p><span style="font-size:16px;">　　利用天然牙和基托覆盖黏膜及骨组织作支持依靠假牙的固位体和基托的固位作用，人工牙恢复缺失牙的形态和功能，并用基托材料恢复缺损的牙槽嵴及软组织形态，患者能够自行摘戴的一种修复体。</span><span style="font-size: 16px;">&nbsp;</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" style="font-size: 16px;" target="_blank"><span style="color: rgb(255, 0, 0);">&gt;&gt;牙齿为什么缺失，有什么危害&gt;&gt;</span></a></p>
+<p><strong><span style="font-size:16px;">　　四、种植假牙</span></strong></p>
+<p><span style="font-size:16px;">　　种植牙是通过医学方式，将与人体骨质兼容性高的纯钛金属经过精密的设计，制造成类似牙根的圆柱体或其他形状，以外科小手术的方式植入缺牙区的牙槽骨内，经过 1～3 个月后，当人工牙根与牙槽骨密合后，再在人工牙根上制作美牙冠。程度还原缺牙的功能，是缺牙的修复体。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110024828400.jpg" style="width: 450px; height: 280px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt;我适合哪种假牙，在线评估&gt;&gt;&gt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　假牙的价格</span></strong></p>
+<p><span style="font-size:16px;">　　假牙的价格几百到几千到几万的都有,假牙受到哪些因素的影响：</span></p>
+<p><span style="font-size:16px;">　　1、 选择的技术和材料：选择不同的牙齿修复技术或者材料，其价格必然是不同的，因此价格的具体请问题要根据不同的技术而有所不同。</span></p>
+<p><span style="font-size:16px;">　　2、 缺失的牙齿颗数：缺失的牙齿的多少同样影响假牙的价格，一般来说缺失的越多，价格越高;种植牙的价格也越高。</span><span style="color: rgb(255, 0, 0); font-size: 16px; text-align: center;">　</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color: rgb(255, 0, 0); font-size: 16px; text-align: center;">&gt;&gt;&gt;在线估算做假牙的费用&gt;&gt;&gt;</span></a></p>
+<p><span style="font-size:16px;">　　3、 口腔环境的影响：每个人的口腔情况不同，有些人可以直接做假牙，有些口腔环境比较复杂的而患者则需要先治疗牙病，这样价格就被影响了。</span></p>
+<p><strong><span style="font-size:16px;">　　哪种假牙修复好?</span></strong></p>
+<p><strong><span style="font-size:16px;">　　建议：维尔种植牙 六大优点告别&ldquo;无牙苦&rdquo;</span></strong></p>
+<p><span style="font-size:16px;">　　一、痛苦小：种植牙的手术很小，一般种植体植入术只需要几十分钟到数小时就可以完成，手术过程短，术后即可进食。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">【在线咨询】【点击预约】</span></a></span></p>
+<p><span style="font-size:16px;">　　二、清洁方便：因为种植牙是仿自然牙，所以清洁种植牙非常方便，不用摘牙。它与临牙间保存有自然间隙，可以用牙线直接进行清洁。</span></p>
+<p><span style="font-size:16px;">　　三、感觉自然：种植后，牙齿宛若新生，跟天然牙一样，可安全放心使用。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px; text-align: center;">&gt;&gt;&gt;了解种植牙流程&gt;&gt;&gt;</span></span><span style="font-size: 16px; text-align: center;">　</span></a></p>
+<p><span style="font-size:16px;">　　四、不伤邻牙：它不影响健康邻牙，靠自身牙根独立存在，且无需磨两侧健康牙，也不会造成假牙同健康牙接触面食物嵌塞而使健康牙造成新的龋坏。</span></p>
+<p><span style="font-size:16px;">　　五、稳固牢靠：种植牙全固定式种植体固位好，比传统假牙戴的稳固、牢靠。种植牙的失败率低于人类自身牙齿的失牙率，咀嚼效率较传统假牙有大幅度。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0202/20180202030540245.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><span style="font-size:16px;">　　维尔温馨提示：提前预约挂号，到院无需挂号(免挂号费)即可实现轻松无障碍就诊!这里不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话：400-6655-111。</span></a></span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D63X13D0-345H_lit.jpg{/dede:field}

@@ -1,0 +1,36 @@
+{dede:field name='keywords'}正畸,年龄{/dede:field}
+{dede:field name='description'}大家都羡慕偶像剧中英俊靓丽的男女主角那口洁白整齐的牙齿，的确每个人对美丽的定义都迥然相异，但对于牙齿的审美却大致趋同。一口洁白{/dede:field}
+{dede:field name='title'}正畸有年龄限制吗{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 大家都羡慕偶像剧中英俊靓丽的男女主角那口洁白整齐的牙齿，的确每个人对美丽的定义都迥然相异，但对于牙齿的审美却大致趋同。一口洁白整齐的皓齿是现代人有效面容的重要组成部分。如果您还未牙齿歪斜畸形而黯然沮丧，维尔口腔帮助您告别笑不露齿的自卑人生，点亮您的笑容!</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙齿不齐矫正案例&lt;" src="http://beij.wekq.net/uploadfile/2017/0715/20170715043130485.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 200px;" /></a></span></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">正畸有年龄限制吗？</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 正畸有年龄限制吗?维尔医师建议各位家长，孩子的牙口要从小抓起。要知道，牙齿状况不仅与孩子健康息息相关，更确定着孩子的外形外貌，以及心理健康。牙齿洁白整齐的孩子不仅外貌出色，在行为上也更加自信。虽然&ldquo;正畸有年龄限制吗&rdquo;这样的问题不是有效的。但儿童和青少年的确是矫正牙齿的较佳年龄段，机不可失!</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔医师根据牙齿生长的三个阶段为您分析。一、恒牙期：乳牙已全部换完，第二颗大牙和第三颗大牙萌出时为又一个快速生长期，一般为12～18岁左右，这时牙齿畸形的诊断比较明确，在此快速生长期内矫正，速度快而且矫正效果稳定。二、混合牙期：大约是在7～11岁，此时新生恒牙开始萌出，牙齿生长很快，咬合不稳定，是牙齿畸形的多发期。在克服、改变不良习惯的同时根据不同情况，不同程度可以从轻至重分别采用活动或固定矫治器，甚至配合口外整形力来纠正牙列。三、乳牙期：出现的乳牙排列不齐或虎牙等畸形牙就应该得到早期矫正，治疗的年龄是3～6岁左右，此时较稳固，如果不能及时矫正，在这一快速生长期内就有可能加重畸形。正畸有年龄限制吗?不能算是限制，但是较佳年龄着实应该抓住。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>什么是美容冠</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0715/20170715043452670.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 大家都羡慕偶像剧中英俊靓丽的男女主角那口洁白整齐的牙齿，的确每个人对美丽的定义都迥然相异，但对于牙齿的审美却大致趋同。一口洁白整齐的皓齿是现代人有效面容的重要组成部分。如果您还未牙齿歪斜畸形而黯然沮丧，维尔口腔帮助您告别笑不露齿的自卑人生，点亮您的笑容!</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙齿不齐矫正案例&lt;" src="/uploads/allimg/c180322/1521D950C10-31045.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 200px;" /></a></span></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">正畸有年龄限制吗？</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 正畸有年龄限制吗?维尔医师建议各位家长，孩子的牙口要从小抓起。要知道，牙齿状况不仅与孩子健康息息相关，更确定着孩子的外形外貌，以及心理健康。牙齿洁白整齐的孩子不仅外貌出色，在行为上也更加自信。虽然&ldquo;正畸有年龄限制吗&rdquo;这样的问题不是有效的。但儿童和青少年的确是矫正牙齿的较佳年龄段，机不可失!</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔医师根据牙齿生长的三个阶段为您分析。一、恒牙期：乳牙已全部换完，第二颗大牙和第三颗大牙萌出时为又一个快速生长期，一般为12～18岁左右，这时牙齿畸形的诊断比较明确，在此快速生长期内矫正，速度快而且矫正效果稳定。二、混合牙期：大约是在7～11岁，此时新生恒牙开始萌出，牙齿生长很快，咬合不稳定，是牙齿畸形的多发期。在克服、改变不良习惯的同时根据不同情况，不同程度可以从轻至重分别采用活动或固定矫治器，甚至配合口外整形力来纠正牙列。三、乳牙期：出现的乳牙排列不齐或虎牙等畸形牙就应该得到早期矫正，治疗的年龄是3～6岁左右，此时较稳固，如果不能及时矫正，在这一快速生长期内就有可能加重畸形。正畸有年龄限制吗?不能算是限制，但是较佳年龄着实应该抓住。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>什么是美容冠</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D950H2550-45438.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D950C10-31045_lit.jpg{/dede:field}

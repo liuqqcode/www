@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","北京维尔口腔",0,59);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","作为一种新兴起的修复技术，种植牙自出世就颇受人关注，更是被喜爱之人称为人类的第三副牙齿。那么，种植牙一颗多少钱呢?北京种植牙都",61,292);
+$z[1][4]['name']="description";
+$z[2]=Array("field","北京种植牙一颗多少钱",294,362);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",364,403);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",405,444);
+$z[4][4]['name']="source";
+$z[5]=Array("field","<span style=\"font-size:16px;\">　　作为一种新兴起的修复技术，种植牙自&ldquo;出世&rdquo;就颇受人关注，更是被喜爱之人称为人类的第三副牙齿。那么，种植牙一颗多少钱呢?</span><br />\r\n<br />\r\n<div style=\"text-align: center;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"/uploadfile/2017/1125/20171125040324823.jpg\" style=\"width: 300px; height: 198px;\" /><br />\r\n北京种植牙都有哪些优势？</span></span></a></div>\r\n<p><span style=\"font-size:16px;\">　　维尔口腔医生表示：种植牙的价格通常是几千到上万元之间不等，其价格由种植体、连接基台、烤瓷牙冠等多方面构成，根据所选材料和医院，价格存在差异。</span></p>\r\n<p><strong><span style=\"font-size:16px;\">　　【种植牙性价比高】</span></strong></p>\r\n<p><span style=\"font-size:16px;\">　　大多数人对种植牙的印象就是费用高。其实，第一眼看种植牙的单价确实比烤瓷牙、活动假牙贵一些，但细算下来做种植牙非常划算!</span></p>\r\n<p><span style=\"font-size:16px;\">　　比如：一颗制作精良、材料优质的种植牙保护得当可使用约40年，若将种植牙以一万元计算，每天的费用仅为0.68元。</span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><span style=\"color:#ff0000;\"><img alt=\"\" src=\"/uploadfile/2017/1125/20171125040743177.jpg\" style=\"width: 450px; height: 280px;\" /><br />\r\n有问题？点击咨询在线专家</span>&nbsp;</a></span></p>\r\n<p><strong><span style=\"font-size:16px;\">　　【维尔口腔&mdash;&mdash;您的理想种植医院】</span></strong></p>\r\n<p><span style=\"font-size:16px;\">　　维尔种植技术有效解决了种植体生物相容性的问题，使种植牙成功率得到了提升。</span></p>\r\n<p><span style=\"font-size:16px;\">　　温馨提示：若有任何疑问，你可点击在线咨询得到想要的答案，维尔医生会根据您的实际情况为您推荐合适的治疗方案。</span></p>",446,2714);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<span style=\"font-size:16px;\">　　作为一种新兴起的修复技术，种植牙自&ldquo;出世&rdquo;就颇受人关注，更是被喜爱之人称为人类的第三副牙齿。那么，种植牙一颗多少钱呢?</span><br />\r\n<br />\r\n<div style=\"text-align: center;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><img alt=\"\" src=\"/uploadfile/2017/1125/20171125040324823.jpg\" style=\"width: 300px; height: 198px;\" /><br />\r\n北京种植牙都有哪些优势？</span></span></a></div>\r\n<p><span style=\"font-size:16px;\">　　维尔口腔医生表示：种植牙的价格通常是几千到上万元之间不等，其价格由种植体、连接基台、烤瓷牙冠等多方面构成，根据所选材料和医院，价格存在差异。</span></p>\r\n<p><strong><span style=\"font-size:16px;\">　　【种植牙性价比高】</span></strong></p>\r\n<p><span style=\"font-size:16px;\">　　大多数人对种植牙的印象就是费用高。其实，第一眼看种植牙的单价确实比烤瓷牙、活动假牙贵一些，但细算下来做种植牙非常划算!</span></p>\r\n<p><span style=\"font-size:16px;\">　　比如：一颗制作精良、材料优质的种植牙保护得当可使用约40年，若将种植牙以一万元计算，每天的费用仅为0.68元。</span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><span style=\"color:#ff0000;\"><img alt=\"\" src=\"/uploadfile/2017/1125/20171125040743177.jpg\" style=\"width: 450px; height: 280px;\" /><br />\r\n有问题？点击咨询在线专家</span>&nbsp;</a></span></p>\r\n<p><strong><span style=\"font-size:16px;\">　　【维尔口腔&mdash;&mdash;您的理想种植医院】</span></strong></p>\r\n<p><span style=\"font-size:16px;\">　　维尔种植技术有效解决了种植体生物相容性的问题，使种植牙成功率得到了提升。</span></p>\r\n<p><span style=\"font-size:16px;\">　　温馨提示：若有任何疑问，你可点击在线咨询得到想要的答案，维尔医生会根据您的实际情况为您推荐合适的治疗方案。</span></p>",2716,4981);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c180322/1521D500LK10-19254_lit.jpg",4983,5072);
+$z[7][4]['name']="litpic";
+
+?>

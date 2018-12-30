@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>找不到網頁 Page Not Found</title>
+<style type="text/css">
+body { font-family:Arial, Helvetica, sans-serif; font-size:12px; }
+a { color:#99A8AF; }
+a:hover { color:#FF9933; }
+</style>
+</head>
+
+<body>
+<img style="" src="http://www.heephong.org/webprod/assets/images/admin_logo.gif" />
+<h1 style="margin-bottom:35px; border-bottom:1px solid #99A8AF; padding-bottom:15px; font-size:24px; margin-left:5px;">找不到網頁 Page Not Found </h1>
+
+<div style="margin-left:30px;">
+<p>很抱歉，找不到相符的頁面。 我們建議您採用下列解決方式尋找相關頁面：</p>
+<ul>
+<li>請您再次確認鍵入資料的正確性</li>
+<li>或按 <a href="javascript:history.back();">這裡</a> 回到上一頁</li>
+<li>或按 <a href="http://www.heephong.org/webprod/cht">這裡</a> 回到首頁</li>
+</ul>
+<p style="margin-top:35px;"> Sorry! There is no related web page. Please try the following methods to search the web page:</p>
+<ul>
+<li>Please make sure the link you typed is correct; or</li>
+<li>Click here to <a href="javascript:history.back();">back</a> to the previous page; or</li>
+<li>Click here to <a href="http://www.heephong.org/webprod/cht">back</a> to homepage </li>
+</ul>
+</div>
+
+</body>
+</html>

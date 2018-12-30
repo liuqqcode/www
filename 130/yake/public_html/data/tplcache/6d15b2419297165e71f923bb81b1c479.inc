@@ -1,0 +1,52 @@
+{dede:field name='keywords'}烤瓷牙,还是{/dede:field}
+{dede:field name='description'}种植牙和烤瓷牙同属于固定义齿，但是二者显然是不同的，不仅在于其名称不同，更在于原理的不同。我们都希望自己的义齿能否很坚固，这样{/dede:field}
+{dede:field name='title'}种植牙牢固还是烤瓷牙坚固{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 种植牙和烤瓷牙同属于固定义齿，但是二者显然是不同的，不仅在于其名称不同，更在于原理的不同。我们都希望自己的义齿能否很坚固，这样能够让在饮食上没有障碍，那么，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>种植牙牢固还是烤瓷牙坚固呢？</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="逼真的种植牙" src="http://beij.wekq.net/uploadfile/2017/0630/20170630015102828.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 198px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">烤瓷牙和种植牙的特点</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 我们都知道，义齿分为活动义齿和固定义齿，在固定义齿中，较早出现的是烤瓷牙。烤瓷牙作为大家比较熟悉的修补方式，费用比较低廉,不过美观度往往不如其他的义齿，例如种植牙。近几年，也出现了一些新兴的烤瓷牙，著名的有全瓷牙等。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">种植牙的质量好坏怎么样区分</span></strong></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 种植牙较早也是产生于欧美，虽然时间并不是较悠久的，但是优点确实是较多的。新的种植牙技术，不但让手术时间变短，也让患者可以短时间种上新牙，而且，种植牙特别适合中老年人，年龄大的患者，大多缺牙颗数比较多、时间比较长，存在牙槽骨严重萎缩等问题，做烤瓷牙是很难的，但是做种植牙就很容易了。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">种植牙牢固还是烤瓷牙坚固</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 种植牙牢固还是烤瓷牙坚固？我们先要了解一下它们的原理。烤瓷牙一般需要借助于其他固定，如果患者没有口腔条件的话就需要採取做桥的方法，把两侧的牙齿磨掉一圈，然后把烤瓷牙上去。可以看出，烤瓷牙是依靠邻牙来固定的，自然不是很稳定。而且，如果邻牙有松动，烤瓷牙立马就会受到影响。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 相对于烤瓷牙来说，种植牙有自己的牙根，所以在牢固性上显然是较好的。种植牙不仅稳固,咀嚼功能强,可以有效避免常规固定义齿磨掉两边的好牙齿引起的牙齿磨损，咀嚼起来具有跟接近真牙效果，吃大多数食物都没有什么问题，也让半口、全口无牙颌的情况植牙成为现实。不过，在正规的口腔医院种牙，才可以种植的后期效果及使用寿命，使种植牙更稳固、耐用、舒适。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">查询种植牙多久之后可以&ldquo;长&rdquo;出来</span></strong></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0630/20170630015253275.jpg" style="width: 450px; height: 280px;" /></a></strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; &nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 种植牙和烤瓷牙同属于固定义齿，但是二者显然是不同的，不仅在于其名称不同，更在于原理的不同。我们都希望自己的义齿能否很坚固，这样能够让在饮食上没有障碍，那么，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>种植牙牢固还是烤瓷牙坚固呢？</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="逼真的种植牙" src="/uploads/allimg/c180322/1521D44Z3J30-13A0.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 198px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">烤瓷牙和种植牙的特点</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 我们都知道，义齿分为活动义齿和固定义齿，在固定义齿中，较早出现的是烤瓷牙。烤瓷牙作为大家比较熟悉的修补方式，费用比较低廉,不过美观度往往不如其他的义齿，例如种植牙。近几年，也出现了一些新兴的烤瓷牙，著名的有全瓷牙等。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">种植牙的质量好坏怎么样区分</span></strong></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 种植牙较早也是产生于欧美，虽然时间并不是较悠久的，但是优点确实是较多的。新的种植牙技术，不但让手术时间变短，也让患者可以短时间种上新牙，而且，种植牙特别适合中老年人，年龄大的患者，大多缺牙颗数比较多、时间比较长，存在牙槽骨严重萎缩等问题，做烤瓷牙是很难的，但是做种植牙就很容易了。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">种植牙牢固还是烤瓷牙坚固</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 种植牙牢固还是烤瓷牙坚固？我们先要了解一下它们的原理。烤瓷牙一般需要借助于其他固定，如果患者没有口腔条件的话就需要採取做桥的方法，把两侧的牙齿磨掉一圈，然后把烤瓷牙上去。可以看出，烤瓷牙是依靠邻牙来固定的，自然不是很稳定。而且，如果邻牙有松动，烤瓷牙立马就会受到影响。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 相对于烤瓷牙来说，种植牙有自己的牙根，所以在牢固性上显然是较好的。种植牙不仅稳固,咀嚼功能强,可以有效避免常规固定义齿磨掉两边的好牙齿引起的牙齿磨损，咀嚼起来具有跟接近真牙效果，吃大多数食物都没有什么问题，也让半口、全口无牙颌的情况植牙成为现实。不过，在正规的口腔医院种牙，才可以种植的后期效果及使用寿命，使种植牙更稳固、耐用、舒适。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">查询种植牙多久之后可以&ldquo;长&rdquo;出来</span></strong></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D44Za950-25J8.jpg" style="width: 450px; height: 280px;" /></a></strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; &nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D44Z3J30-13A0_lit.jpg{/dede:field}

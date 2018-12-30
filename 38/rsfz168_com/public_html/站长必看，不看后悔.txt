@@ -1,0 +1,15 @@
+如何设置用户组是否有权限发布文章：
+http://www.ask2.cn/article-14497.html
+
+安装完成把install目录删掉！！！
+
+超级管理员登录网站后可以浏览器执行下更新：http://你的域名/?update
+
+如果安装过程提示config.php不存在，请手动在根目录下创建一个空的config.php文件，linux下设置777权限。
+config.php保存了数据库的配置信息，自动写入进去的。
+
+有时间可以百度下网站如何开启gzip加速，让你网站速度快90%。
+
+记得替换水印图片，不然默认是官方的，水印图片路径：static/js/neweditor/marker.png
+
+

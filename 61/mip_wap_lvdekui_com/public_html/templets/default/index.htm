@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html mip>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://c.mipcdn.com/static/v1/mip.css">
+    <link rel="canonical" href="https://mip.lvdekui.com">
+    <title>{dede:global.cfg_webname/}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta name="format-detection" content="telphone=no, email=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link href="css/m.css?v=20170324" rel="stylesheet" media="screen">
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+</head>
+<body>
+<div class="placeholder-box"></div>
+    <div class="htmlBox">
+        {dede:include filename="head.htm"/}
+        <div class="list-content">
+            <ol id="position" class="shuffling-ol ol-list">
+                <li class="active"></li>
+                <li class=""></li>
+            </ol>
+           <mip-carousel
+    autoplay
+    defer="1000"  
+    layout="responsive" 
+    width="600" 
+    height="400"
+    indicator
+    buttonController
+    >
+    <a target="_blank" href="http://wenda.tianya.cn/m/question/1almfj0foas94gc7vtoq6ejbfbmdk3e78ehaa">
+        <mip-img 
+            src="https://www.mipengine.org/static/img/sample_01.jpg" layout="responsive" 
+        width="600" 
+        height="400">
+        </mip-img>
+        <div class="mip-carousle-subtitle">这里是title2</div>
+    </a>
+    <mip-img 
+        src="https://www.mipengine.org/static/img/sample_02.jpg">
+    </mip-img>
+    <mip-img 
+        src="https://www.mipengine.org/static/img/sample_03.jpg">
+    </mip-img>
+</mip-carousel>
+            <div class="article-wrap">
+                <ul class="article-feed-ul">
+                    {dede:arclist titlelen='60' flag='h'}
+                    <li>
+                        <a href="[field:arcurl /]">
+                            <div class="article-md-img-box">
+                                <mip-img class="lazy" src="[field:picname/]">
+                            </div>
+                            <div class="article-info-box">
+                                <div class="article-md-title">[field:title /]</div>
+                                <div class="author-box">
+                                    <span>
+
+<a href="[field:arcurl /]" class="author-a1">[field:typename/]</a>
+
+</span>
+                                    <span><i class="icon icon-time"></i>[field:pubdate function="MyDate('Y-m',@me)"/]</span>
+                                    <span><i class="icon icon-pl-praise"></i>[field:click/]</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+                <div class="placeholder-line"></div>
+                <div class="index-ad-box">
+                </div>
+                <div class="placeholder-line"></div>
+                <div class="article-feed-ul-story-box">
+                    <h2 class="title ">新闻推荐</h2>
+                    <span class="span-mark-two"></span>
+                </div>
+                <ul class="article-feed-ul article-append-box">
+                    {dede:arclist typeid='7' titlelen='60' row='1' limit='0,1'}
+                    <li class="article-big-image-box">
+                        <a href="[field:arcurl/]">
+                            <div class="rec-index-box rec-index-big-box">
+                                <div class="rec-tag">推荐阅读</div>
+                                <em class="quot">“</em> [field:title/]
+                                <em class="quot">”</em>
+                            </div>
+                            <div class="article-md-img-box">
+                                <mip-img class="lazy" src="[field:picname/]">
+                            </div>
+                            <div class="article-info-box">
+                                <div class="article-md-title">[field:title/]</div>
+                                <div class="author-box">
+                                    <span>
+
+<a href="[field:typeurl/]" class="author-a1">[field:typename/]</a>
+
+</span>
+                                    <span><i class="icon icon-time"></i>[field:pubdate function="MyDate('Y-m',@me)"/]</span>
+                                    <span><i class="icon icon-pl-praise"></i>[field:click/]</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    {/dede:arclist} {dede:arclist typeid='7' titlelen='60' row='8' limit='1,8'}
+                    <li>
+                        <a href="[field:arcurl/]">
+                            <div class="article-md-img-box">
+                                <mip-img class="lazy" src="[field:picname/]">
+                            </div>
+                            <div class="article-info-box">
+                                <div class="article-md-title">[field:title/]</div>
+                                <div class="author-box">
+                                    <span><i class="icon icon-time"></i>[field:pubdate function="MyDate('Y-m',@me)"/]</span>
+                                    <span><i class="icon icon-pl-praise"></i>[field:click/]</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+                <div class="bottom-more"><a href="/jkxw/">点击查看更多</a></div>
+                <div class="placeholder-line"></div>
+                <div class="article-feed-ul-story-box">
+                    <h2 class="title ">最新文章</h2>
+                    <span class="span-mark-two"></span>
+                </div>
+                <ul class="article-feed-ul article-append-box">
+                    {dede:arclist titlelen='60' row='12' }
+                    <li>
+                        <a href="[field:arcurl/]">
+                            <div class="article-md-img-box">
+                                <mip-img class="lazy" src="[field:picname/]">
+                            </div>
+                            <div class="article-info-box">
+                                <div class="article-md-title">[field:title/]</div>
+                                <div class="author-box">
+                                    <span><i class="icon icon-pl-praise"></i>[field:click/]</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+                <div class="bottom-more"><a href="/jkxw/">点击查看更多</a></div>
+            </div>
+        </div>
+        <div class="mod-sidebar">
+            <div class="goTo go-to-box"><i class="icon icon-goTo js-go-to"></i></div>
+        </div>
+        {dede:include filename="footer.htm"/}
+    </div>
+<!--百度统计组件-->
+<mip-stats-baidu token="68a622f660ec1d8f0d462a03b786db61"></mip-stats-baidu>
+<!--mip 运行环境-->
+<script src="https://mipcache.bdstatic.com/static/v1/mip.js"></script>
+<script src="https://c.mipcdn.com/static/v1/mip-nav-slidedown/mip-nav-slidedown.js"></script>
+<script src="https://c.mipcdn.com/static/v1/mip-lightbox/mip-lightbox.js"></script>
+<script src="https://c.mipcdn.com/static/v1/mip-semi-fixed/mip-semi-fixed.js"></script>
+<script src="https://c.mipcdn.com/static/v1/mip-gototop/mip-gototop.js"></script>
+<script src="https://mipcache.bdstatic.com/extensions/platform/v1/mip-cambrian/mip-cambrian.js"></script>
+<!--分享组件 代码-->
+<script src="https://mipcache.bdstatic.com/static/v1/mip-share/mip-share.js"></script>
+<!--百度统计组件 代码-->
+<script src="https://mipcache.bdstatic.com/static/v1/mip-stats-baidu/mip-stats-baidu.js"></script>
+</body>
+</html>

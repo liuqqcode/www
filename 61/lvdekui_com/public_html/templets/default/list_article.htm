@@ -1,0 +1,68 @@
+﻿<!DOCTYPE HTML>
+<!--[if lt IE 7 ]> <html lang="zh-CN" class="ie6 ielt8"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="zh-CN" class="ie7 ielt8"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="zh-CN" class="ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="zh-CN">
+<!--<![endif]-->
+
+<head>
+    <meta charset="UTF-8">
+    <title>{dede:field.seotitle /}_西南儿童医院（lvdekui.com）</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/css/list.css" />
+    <script src="/js/jquery-1.9.1.min.js"></script>
+    <script src="/js/jquery.SuperSlide.2.1.1.js"></script>
+</head>
+
+
+
+
+<body>
+    <div class="warp">
+        {dede:include filename="header.htm" /}
+        <div class="content">
+            <div class="content_home">
+                <div class="home_left">
+                    <div class="hlgd">
+                        <div class="hlgd-title">
+                            <div class="hlgdttxt">医疗新闻</div>
+                            <hr>
+                        </div>
+                        <div class="hlgd-content">
+                            {dede:list pagesize="10" titlelen='100'}
+                            <div class="hlgd-box">
+                                <dl>
+                                    <dt><a href='[field:arcurl/]' target='_blank' title='[field:title/]'><img src='[field:picname/]' alt='[field:title/]' width='250' height='165' /></a></dt>
+                                    <dd>
+                                        <h3><a href="[field:arcurl/]" target="_blank" title="[field:title/]">[field:title/]</a></h3>
+                                        <p class="txtindex">[field:description/]</p>
+                                        <div class="arcfu">
+                                            <div class="arcfu_r">
+                                                <span class="map">[field:typename/]</span>
+                                                <span class="arctime">[field:pubdate  function="MyDate('m-d',@me)" /]</span>
+                                                <span class="comments">[field:click/]</span></div>
+                                        </div>
+                                    </dd>
+                                </dl>
+                            </div>
+                            {/dede:list}
+                            <div class="hlgd-page page-nav">
+                                <ul class="paginationall">
+                                    {dede:pagelist listitem="info,index,end,pre,next,pageno,option" listsize="5"/}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {dede:include filename="right.htm" /}
+            </div>
+        </div>
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

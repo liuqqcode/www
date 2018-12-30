@@ -1,0 +1,265 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.divStudentsWrapper{
+	background:black;
+}
+
+
+.divStudentsWrapper img{
+        width:auto !important;
+}
+
+.imgTxtStu{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+
+.divStudentsWrap{
+	width:1318px;
+	height:1100px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+
+.divStudents{
+	width:990px;
+	height:1100px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	padding-left:50px;
+	background:url(../images/crossBg.gif) no-repeat 350px 135px;
+        font-size:14px;
+}
+
+
+.divStudent{
+	width:399px;
+	float:left;
+	text-align:center;
+	font:"微软雅黑";
+	margin-top:15px;
+}
+
+.divStuL{
+	margin-right:80px;
+}
+
+.divStuR{
+	margin-left:80px;
+}
+
+.divStudent p{
+	margin-top:9px;
+	margin-bottom:9px;
+}
+
+.pTxtSmall{
+	font-size:12px;
+}
+
+.pTxtBig{
+	font-size:18px;
+}
+
+
+.certificate{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:50px;
+}
+
+i{
+	font-style:normal;
+	font-size:24px;
+	color:#e74159;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.comparingTxt{
+	padding-top:25px;
+	padding-bottom:25px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+.divTxtNoFear{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:25px;
+	padding-bottom:40px;
+}
+
+.nofearAll{
+	width:1000px; 
+	height:790px;
+	margin:auto;
+}
+
+.nofearAll img{
+        width:auto !important;
+}
+.schoolName{
+	float:left;
+	width:490px; 
+	text-align:right; 
+	padding-right:45px;
+}
+
+.otherSchool{
+	text-align:left; 
+	padding-top:23px;
+}
+
+.compareLine{
+	 clear:both;
+	 padding-top:15px;
+	 margin-top:0px;
+	 background:url(../images/vLine.gif) no-repeat 500px;
+}
+
+.compareLineLeft{
+	 float:left;
+	 width:465px; 
+	 text-align:right; 
+	 padding-right:70px;
+}
+
+.divIcon{
+	width:80px;
+	float:right;
+	text-align:right;
+}
+
+.compareLeftTxt{
+	float:left; 
+	width:365px;
+	padding-top:5px;
+}
+
+.schoolAdvantage{
+	color:#6c9b21; 
+	font-size:22px;
+}
+
+.p1{
+	 margin-top:5px; 
+	 font-size:14px;
+	 margin-bottom:5px;
+}
+
+.p2{
+	 margin-top:5px;
+	 margin-bottom:5px; 
+	 font-size:14px;
+}
+
+
+.compareLineRight{
+	text-align:left; 
+	padding-left:150px;
+	font-size:18px;
+}
+
+.imgShortage{
+	vertical-align:middle;
+}
+
+.divRightIcon{
+	 float:left; 
+	 width:100px;
+}
+
+.divHotRecruitmentWrapper{
+	background:#e74159;
+}
+
+.divHotRecruitmentWrapper img{
+        width:auto !important;
+}
+.shell{ 
+	border:none; 
+	width:440px; 
+	float:left;
+	margin-top:10px;
+}
+
+.shell1{
+	margin-right:100px;
+}
+
+ 
+#div1,#div2{ 
+	height:210px; 
+	overflow:hidden;
+	font-size:14px;
+	color:#666;
+	line-height:35px;
+} 
+
+.companyAd{
+	float:left; 
+	width:160px;
+}
+
+.recruitLine{
+	 clear:both;
+	 border-bottom: 1px dotted #ccc;
+}
+
+.shellWrapper{
+	width:980px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:25px;
+}
+
+.divTxtLatestRe{
+	float:left;
+	width:530px;
+	font-size:24px;
+	font-style:italic;
+}
+
+.divTxtLatestReR{
+	font-size:24px;
+	font-style:italic;
+}
+
+.spanRecruifInfo{
+	font-size:24px;
+	color:#e74159;
+	font-style:normal;
+}
+
+i{
+	font-style:normal;
+	font-size:24px;
+	color:#e74159;
+}
+

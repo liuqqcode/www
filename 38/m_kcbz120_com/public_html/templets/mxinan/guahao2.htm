@@ -1,0 +1,35 @@
+<div class="cone inbox">
+            <h2 class="text-center">湖南省交通医院预约挂号平台</h2>
+            <h3 class="text-center">（凡手机预约挂号者，享优先就诊权）</h3>
+            <form id="form1" method="post">
+                <p class="clear">
+                    <label for="">孩子姓名：</label>
+                    <input type="text" name="name" id="name">
+                </p>
+                <p class="clear">
+                    <label for="">联系方式：</label>
+                    <input type="text" name="tel" id="tel">
+                </p>
+                <p class="clear">
+                    <label for="">病情描述：</label>
+                    <input type="text" name="time" id="time" class="date-pick">
+                </p>
+                <p class="clear">
+                    <label for="">预约医生：</label>
+                    <select name="zj">
+                        <option value="楚天舒">伊忠博</option>
+                        <option value="吕建光">张青霞</option>
+                        <option value="楚天舒">蒋兆瑜</option>
+                        <option value="罗荣峰">楚天舒</option>
+                    </select>
+                </p>
+                <p class="clear">
+                    <label for="">预约时间：</label>
+                    <input type="date" name="time">
+                </p>
+                <div class="form_btn clear">
+                    <input type="button" onclick="openZoosUrl()" value="在线咨询" class="fl">
+                    <input type="button" onclick="yuyue('form1','1','4','name','tel')" class="fr" value="加密提交">
+                </div>
+            </form>
+        </div>

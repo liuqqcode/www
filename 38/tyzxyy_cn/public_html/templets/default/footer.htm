@@ -1,0 +1,351 @@
+<div class="footer2">
+    <div class="footer2z">
+        <div class="footer2zt">
+            <ul>
+                <li><a href="javascript:openZoosUrl()"><img src="/images/footerzx.png" alt=""></a></li>
+                <li><a href="javascript:openZoosUrl()"><img src="/images/footerpd.png" alt=""></a></li>
+                <li><a href="/dianhua/" target="_blank"><img src="/images/footerdh.png" alt=""></a></li>
+                <li><a href="javascript:openZoosUrl()"><img src="/images/footerqq.png" alt=""></a></li>
+            </ul>
+        </div>
+        <div class="footer2zb">
+            <p>门诊时间：8:00-17:30 晋ICP备16005031号</p>
+            <p>医院地址：太原市万柏林区南内环西街众纺路29号 </p>
+            <p>Copyright © 太原市中心医院第三医院版权所有 </p>
+            <p>声明：本站部分图片来源于网络，如涉及版权， 可发送邮件联系删除。 网站信息仅供参考， </p>
+            <p>不能作为诊断及医疗的依据，就医请遵照医生诊断。</p>
+        </div>
+    </div>
+</div>
+<aside class="aside" id="aside">
+    <ul class="aside-service" id="aside-service">
+        <li><a href="/ysjs/" target="_blank"><i class="iconfont"></i><span>门诊时间</span></a></li>
+        <li><a href="/hefw/jzxz/" target="_blank"><i class="iconfont"></i><span>就诊须知</span></a></li>
+        <li><a href="/kssz/" target="_blank"><i class="iconfont"></i><span>特色专科</span></a></li>
+        <li><a href="/lylx/" target="_blank"><i class="iconfont"></i><span>医院导航</span></a></li>
+        <li><a href="/hefw/yygh/" target="_blank"><i class="iconfont"></i><span>预约挂号</span></a></li>
+        <li><a href="javascript:openZoosUrl('chatwin','&e=医患交流')"><i class="iconfont"></i><span>医患交流</span></a></li>
+        <li><a href="/hefw/yjjy/" target="_blank"><i class="iconfont"></i><span>意见建议</span></a></li>
+    </ul>
+    <!--     <div class="aside-follow">
+        <a class="weibo" href="http://weibo.com/etzkyy" target="_blank" rel="nofollow"><i class="iconfont"></i><span><img src="/images/weibo.png" alt="太原市中心医院第三医院官方微博"/></span></a>
+        <a class="weixin" href="javascript:"><i class="iconfont"></i><span><img src="/images/weixin.png" alt="太原市中心医院第三医院官方微信"/></span></a>
+    </div> -->
+    <div class="gotop">
+        <a id="gotop" href="#header"><i class="iconfont"></i></a>
+    </div>
+</aside>
+<div class="login-dialog" id="login-dialog">
+    <div class="login-pop" id="login-pop">
+        <div class="pop-tit">
+            <strong>请登录</strong>
+            <a class="fr iconfont" href="javascript:;"></a>
+        </div>
+        <div class="alert alert-error hidden"></div>
+        <div class="login-form">
+            <form name='form1' method='POST' action='/member/index_do.php' onsubmit="return Dologin();">
+                <input type="hidden" name="fmdo" value="login">
+                <input type="hidden" name="dopost" value="login">
+                <input type="hidden" name="gourl" value="">
+                <p>
+                    <input class="login-input" type="text" name="userid" placeholder="用户名" />
+                </p>
+                <p>
+                    <input class="login-input" type="password" name="pwd" placeholder="密码" />
+                </p>
+                <p>
+                    <input id="vdcode" class="text login_from3" type="text" name="vdcode" placeholder="验证码" />
+                    <img id="vdimgck" align="absmiddle" onclick="this.src=this.src+'?'" style="cursor: pointer;" alt="看不清？点击更换" src="../include/vdimgck.php" /></p>
+                <input type="radio" value="2592000" name="keeptime" id="ra1" style="display:none;" />
+                <p>
+                    <label for="">
+                        <input type="checkbox" checked="checked" /> 10天免登录</label>
+                    <a class="fr" href="/member/resetpassword.php" target="_blank">忘记密码？</a>
+                </p>
+                <p>
+                    <button class="btn" type="submit">登录</button>
+                    <span class="fr">没有帐号？<a href="/member/index_do.php?fmdo=user&dopost=regnew" target="_blank">立即注册</a></span>
+                </p>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/jquery.plugin.min.js"></script>
+<script src="/js/jquery-main.js"></script>
+<script src="/js/smoothscroll.min.js"></script>
+<script type="text/javascript" src="/js/jquery.SuperSlide.2.1.1.js"></script>
+<script>
+var regForm = $("#regform"),
+
+    regUsr = $("#username"),
+
+    regPwd = $("#password"),
+
+    ckCode = $("#ckcode"),
+
+    regCode = $("#acode"),
+
+    regAlert = $(".alert", regForm);
+
+
+
+$(".regform .login").click(function() {
+
+    userLogin.dialogIn();
+
+});
+
+$(function() {
+    var neirong = "<span class=\"seleced blue\"></span>";
+    $(".shangwu").each(function() {
+        if ($(this).text().indexOf("周一") > -1) {
+            $(this).children("td:eq(1)").html(neirong);
+        }
+        if ($(this).text().indexOf("周二") > -1) {
+            $(this).children("td:eq(2)").html(neirong);
+        }
+        if ($(this).text().indexOf("周三") > -1) {
+            $(this).children("td:eq(3)").html(neirong);
+        }
+        if ($(this).text().indexOf("周四") > -1) {
+            $(this).children("td:eq(4)").html(neirong);
+        }
+        if ($(this).text().indexOf("周五") > -1) {
+            $(this).children("td:eq(5)").html(neirong);
+        }
+        if ($(this).text().indexOf("周六") > -1) {
+            $(this).children("td:eq(6)").html(neirong);
+        }
+        if ($(this).text().indexOf("周日") > -1) {
+            $(this).children("td:eq(7)").html(neirong);
+        }
+
+    });
+    $(".xiawu").each(function() {
+        if ($(this).text().indexOf("周一") > -1) {
+            $(this).children("td:eq(1)").html(neirong);
+        }
+        if ($(this).text().indexOf("周二") > -1) {
+            $(this).children("td:eq(2)").html(neirong);
+        }
+        if ($(this).text().indexOf("周三") > -1) {
+            $(this).children("td:eq(3)").html(neirong);
+        }
+        if ($(this).text().indexOf("周四") > -1) {
+            $(this).children("td:eq(4)").html(neirong);
+        }
+        if ($(this).text().indexOf("周五") > -1) {
+            $(this).children("td:eq(5)").html(neirong);
+        }
+        if ($(this).text().indexOf("周六") > -1) {
+            $(this).children("td:eq(6)").html(neirong);
+        }
+        if ($(this).text().indexOf("周日") > -1) {
+            $(this).children("td:eq(7)").html(neirong);
+        }
+    });
+});
+</script>
+<script src="http://v3.jiathis.com/code/jia.js"></script>
+<script src="/swt/swt.js"></script>
+<script src="/js/sp.js"></script>
+<script>
+//<![CDATA[
+
+$("#slider").ruifoxSlide();
+
+$("#home-imgnews").unslider({
+
+    dots: true
+
+});
+
+$("#home-ad").unslider({
+
+    dots: true
+
+});
+
+$("#department-nav").myTabs({
+
+    tab_tit: ".tab-tit a",
+
+    tab_con: ".tab-pannel"
+
+});
+//-------------------------------------------------------------------
+
+var departmentSelect = $("#department-select"),
+    selectInput = $(".select-input", departmentSelect),
+    selectTabs = $(".letter-box", departmentSelect);
+
+$("select", departmentSelect).hide();
+
+selectInput.click(function(e) {
+
+    if ($(this).is(".open")) {
+
+        $(this).removeClass("open");
+
+        selectTabs.slideUp(100);
+
+    } else {
+
+        $(this).addClass("open");
+
+        selectTabs.slideDown(100);
+
+    }
+
+    e.stopPropagation();
+
+});
+
+$(window).click(function() {
+
+    if (selectInput.is(".open")) {
+
+        selectInput.click();
+
+    }
+
+});
+
+selectTabs.click(function(e) {
+
+    e.stopPropagation();
+
+});
+
+selectTabs.myTabs({
+
+    tab_tit: ".letter-tit li",
+
+    tab_con: ".letter-pannel li",
+
+    event: "click"
+
+});
+
+$("#department-group a").click(function(e) {
+
+    var newText = $(this).text(),
+        newVal = $(this).attr("data-id");
+
+    $("span", selectInput).text(newText);
+
+    $("select", departmentSelect).val(newVal);
+
+    selectInput.click();
+
+    e.stopPropagation();
+
+});
+
+//-------------------------------------------------------------------
+
+$("#right-news").myTabs({
+
+    tab_tit: ".tab-tit a",
+
+    tab_con: ".tab-pannel"
+
+});
+
+$("#home-notice").myTabs({
+
+    tab_tit: ".tab-tit a",
+
+    tab_con: ".tab-pannel"
+
+});
+
+//---------------------------------------------------------------------
+
+var homeExpert = $("#home-expert-box"),
+    liNum = $("ul li", homeExpert).length,
+    slideIndex = 0,
+    liWidth, expertTimer = 0,
+    time = 3000;
+
+if (liNum > 5) slideExpert();
+
+function slideExpert() {
+
+    var li = $("ul li", homeExpert);
+
+    li.css({
+        "width": li.width(),
+        "margin-right": li.css("margin-right")
+    });
+
+    liWidth = li.outerWidth(true);
+
+    $("ul", homeExpert).width(liNum * liWidth);
+
+}
+
+var dotsLeft = $("#expert-dots a:eq(0)"),
+    dotsRight = $("#expert-dots a:eq(1)");
+
+var moveWidth = homeExpert.width() - $("ul", homeExpert).width();
+
+dotsLeft.click(function() {
+
+    slideIndex--;
+
+    if (slideIndex < 0) {
+
+        slideIndex = liNum - 5;
+
+    }
+
+    showSlide(slideIndex);
+
+    window.clearInterval(expertTimer);
+
+    expertTimer = window.setInterval("dotsRight.triggerHandler('click');", time);
+
+});
+
+dotsRight.click(function() {
+
+    slideIndex++;
+
+    if (slideIndex > liNum - 5) {
+
+        slideIndex = 0;
+
+    }
+
+    showSlide(slideIndex);
+
+    window.clearInterval(expertTimer);
+
+    expertTimer = window.setInterval("dotsRight.triggerHandler('click');", time);
+
+});
+
+expertTimer = window.setInterval("dotsRight.triggerHandler('click');", time);
+
+$("a", homeExpert).hover(function() {
+
+    window.clearInterval(expertTimer);
+
+}, function() {
+
+    expertTimer = window.setInterval("dotsRight.triggerHandler('click');", time);
+
+});
+
+function showSlide(n) {
+
+    var newLeft = -liWidth * n;
+
+    $("ul", homeExpert).animate({
+        "margin-left": newLeft
+    }, 300);
+
+}
+</script>

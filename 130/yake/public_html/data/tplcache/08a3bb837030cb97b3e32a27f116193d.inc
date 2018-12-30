@@ -1,0 +1,36 @@
+{dede:field name='keywords'}根管治疗后吃什么药比较{/dede:field}
+{dede:field name='description'}很多牙齿问题都需要进行根管治疗，牙髓炎自然是不用说的了，而根尖周炎这样的问题也是需要它帮忙的，根管治疗费用也并不贵。去看医生之{/dede:field}
+{dede:field name='title'}根管治疗后吃什么药比较好{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size: 16px;">&nbsp; &nbsp; 很多牙齿问题都需要进行根管治疗，牙髓炎自然是不用说的了，而根尖周炎这样的问题也是需要它帮忙的，根管治疗费用也并不贵。去看医生之后，医生制定的方案都是更大限度的保留牙齿，较好的方式就是做根管治疗。那么，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>根管治疗吃什么药呢？</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="根管治疗示意图" src="http://beij.wekq.net/uploadfile/2017/0722/20170722044421581.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span><br />
+<div>&nbsp;</div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size: 18px;"><span style="line-height: 22.3906px;">根管治疗吃什么药？</span><span style="text-align: center; color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif;">&nbsp; &nbsp;</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; 我们先来了解一下根管治疗。它是通过清除我们牙髓里的死髓，达到去除病痛、保护牙齿的目的。根管治疗是一项很基础的项目，很多牙齿被判&ldquo;死刑&rdquo;面临拔牙之时我们还可以通过根管治疗来保留它，从而让许多人避免了缺牙的烦恼，根管治疗后牙齿寿命大大延长，因此，它是备受医患双方重视的一种技术。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp;根管治疗吃什么药?一般来说，我们自己是不需要给自己配什么药的，医生在根管治疗的整个方案里面会通盘考虑这些事情，只有当我们的炎症特别厉害，才可能提供一些用药，但是如果情况不严重，一般知识在治疗之前使用麻醉药或笑气麻醉。而在整个过程中，医师会根据患者的情况进行麻醉调剂，患者是不会感觉到很大疼痛的。所以切记不要为了自己的恐惧心理，而错失了口腔诊治的较佳时机。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; 在根管治疗之后，我们所要考虑的还不是吃什么药，而是较好做一个牙套保护牙齿。因为根管治疗后的牙脆性会逐渐增加，当咬硬食物时，牙齿可能会因无法承受较大的压力而发生折断。为了避免这样的事情发生，可以做一个小小的牙套保护真牙。&nbsp;<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>根管治疗后牙龈发炎怎么回事</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0722/20170722044442447.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size: 16px;">&nbsp; &nbsp; 很多牙齿问题都需要进行根管治疗，牙髓炎自然是不用说的了，而根尖周炎这样的问题也是需要它帮忙的，根管治疗费用也并不贵。去看医生之后，医生制定的方案都是更大限度的保留牙齿，较好的方式就是做根管治疗。那么，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>根管治疗吃什么药呢？</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="根管治疗示意图" src="/uploads/allimg/c180322/1521DZc1K10-N157.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span><br />
+<div>&nbsp;</div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size: 18px;"><span style="line-height: 22.3906px;">根管治疗吃什么药？</span><span style="text-align: center; color: rgb(34, 34, 34); font-family: Arial, Verdana, sans-serif;">&nbsp; &nbsp;</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; 我们先来了解一下根管治疗。它是通过清除我们牙髓里的死髓，达到去除病痛、保护牙齿的目的。根管治疗是一项很基础的项目，很多牙齿被判&ldquo;死刑&rdquo;面临拔牙之时我们还可以通过根管治疗来保留它，从而让许多人避免了缺牙的烦恼，根管治疗后牙齿寿命大大延长，因此，它是备受医患双方重视的一种技术。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp;根管治疗吃什么药?一般来说，我们自己是不需要给自己配什么药的，医生在根管治疗的整个方案里面会通盘考虑这些事情，只有当我们的炎症特别厉害，才可能提供一些用药，但是如果情况不严重，一般知识在治疗之前使用麻醉药或笑气麻醉。而在整个过程中，医师会根据患者的情况进行麻醉调剂，患者是不会感觉到很大疼痛的。所以切记不要为了自己的恐惧心理，而错失了口腔诊治的较佳时机。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; 在根管治疗之后，我们所要考虑的还不是吃什么药，而是较好做一个牙套保护牙齿。因为根管治疗后的牙脆性会逐渐增加，当咬硬食物时，牙齿可能会因无法承受较大的压力而发生折断。为了避免这样的事情发生，可以做一个小小的牙套保护真牙。&nbsp;<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>根管治疗后牙龈发炎怎么回事</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521DZcA430-U5I.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DZc1K10-N157_lit.jpg{/dede:field}

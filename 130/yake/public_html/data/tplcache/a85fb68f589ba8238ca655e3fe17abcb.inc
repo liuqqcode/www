@@ -1,0 +1,64 @@
+{dede:field name='keywords'}年代{/dede:field}
+{dede:field name='description'}众所周知，天然牙将口腔内的咀嚼压力通过牙根传递至牙槽骨，而种植牙将咀嚼压力通过人工牙根传递至牙槽骨，生物力学原理相同，故能承受{/dede:field}
+{dede:field name='title'}种植牙进入无痛种植年代{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}　　众所周知，天然牙将口腔内的咀嚼压力通过牙根传递至牙槽骨，而种植牙将咀嚼压力通过人工牙根传递至牙槽骨，生物力学原理相同，故能承受强大的力量，咀嚼效率较传统假牙有大幅度提高。而传统的烤瓷桥是通过固位体粘贴固定于缺牙间隙两侧被磨小的天然牙上，并利用天然牙作支撑和传递咀嚼压力，加重天然牙负担且影响其使用年限。
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0506/20170506070848976.jpg" style="width: 300px; height: 200px;" /></a></div>
+<div>
+<h2 style="line-height: 28px; margin: 8px 0px 0px; padding: 0px; font-size: 16px; font-weight: 500; font-family: 微软雅黑; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; line-height: 20px; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">1</span><strong>微创无痛种植牙&mdash;&mdash;种植牙进入无痛时代</strong></h2>
+</div>
+<p>　　传统种植牙因治疗时间久、创伤大、固定力量薄弱等缺点，已满足不了爱美人士的需求，北京维尔纯韩微创无痛即刻种植牙，解决了人们牙齿缺失问题。</p>
+<p>　　种植牙不仅有着媲美真牙的咀嚼力，且外观自然美观<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"> 》》》》了解种植牙价格</span></a></p>
+<p>　　纯韩微创无痛即刻种植牙就是电脑导向微创种植，具有不需要植骨手术、不需要翻瓣手术的优点，避免了漫长的愈合期，大大减轻患者的痛苦。为让种植牙过程更轻松，北京维尔采用的纯韩微创无痛即刻种植牙。微创种植牙不需要开刀手术，仅需将牙龈打开一个微孔，然后植入人工牙根，种植牙治疗后几乎不会疼痛和肿胀。</p>
+<p>　　微创种植牙是基于当今 先进的三维成像检测技术、电脑导航技术、激光定位技术、即刻微创种植技术等前沿口腔科技术，特别是其中的电脑三维模拟骨成像技术，能够根据患者的口腔CT断层扫描数据自动形成准确立体的三维口腔骨骼图像，医生据此可以准确、具体地检测出原来传统二维平面X光片所无法测量出的牙槽骨的质和量，从而能够准确、客观地判断出患者的牙槽骨是否适合种植，需要不需要进行种植牙植骨手术。</p>
+<div>
+<h2 style="line-height: 28px; margin: 8px 0px 0px; padding: 0px; font-size: 16px; font-family: 微软雅黑; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; line-height: 20px; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">2</span>传统种植牙VS微创种植牙</h2>
+</div>
+<p>　　传统种植牙需要切开翻起牙肉、缝合、拆线等步骤，创伤大，治疗时间久，更会引起口腔感染，传统种植牙固定力量薄弱，不但容易松动，咀嚼功能也不佳。微创种植牙是在传统种植牙的基础上用特殊的技术方式来完成种植牙的植入过程，利用微小切口(3～4毫米)将人工牙根&ldquo;种&rdquo;入口腔内，摆脱了传统种植牙切开翻起牙肉、缝合、拆线等步骤，将创伤降低到 小程度，大大减少了肿痛和出血量，大幅度缩短了种植过程所需的时间，仅需5～10分钟，而且减少了感染的风险，是广泛使用的种植方式。</p>
+<p><strong>　　微创种植牙对设备要求更加精密</strong></p>
+<p>　　微创种植牙对于其种植牙的设备有一定的要求，如若没有精密的科学仪器，则无法完成众多爱美者迅速种植牙的愿望，无法实现微创，精密种植牙的过程。</p>
+<div>
+<h2 style="line-height: 28px; margin: 8px 0px 0px; padding: 0px; font-size: 16px; font-weight: 500; font-family: 微软雅黑; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; line-height: 20px; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">3</span><strong>维尔口腔种植牙&mdash;&mdash;院长推荐</strong></h2>
+<div style="font-size: 14px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; line-height: 21px; text-align: center;"><br />
+<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn&amp;r=&amp;rf1=http%3A//beij.wekq&amp;rf2=.net/ycqsf/&amp;p=http%3A//beij.wekq.net/2017/ycqsf_0422/223.html&amp;cid=1492216894929970060446&amp;sid=1494031675098436880077" style="text-decoration: none;" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0422/20170422091915131.jpg" style="width: 450px; height: 280px;" /></a></div>
+<div style="color: rgb(102, 102, 102); font-family: Simsun; font-size: 14px; line-height: 28px;">&nbsp;</div>
+<div style="color: rgb(102, 102, 102); font-family: Simsun; font-size: 14px; line-height: 28px;">
+<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; font-weight: 500; font-family: 微软雅黑; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; line-height: 20px; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">4</span><strong>维尔口腔刘院长&mdash;&mdash;全口一日得种植牙技术真实案例</strong></h2>
+<br />
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn&amp;r=&amp;rf1=http%3A//beij.wekq&amp;rf2=.net/ycqsf/&amp;p=http%3A//beij.wekq.net/2017/ycqsf_0422/223.html&amp;cid=1492216894929970060446&amp;sid=1494031675098436880077" style="text-decoration: none;" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0423/20170423085132145.jpg" style="width: 300px; height: 165px;" /></a><br />
+<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn&amp;r=&amp;rf1=http%3A//beij.wekq&amp;rf2=.net/ycqsf/&amp;p=http%3A//beij.wekq.net/2017/ycqsf_0422/223.html&amp;cid=1492216894929970060446&amp;sid=1494031675098436880077" style="text-decoration: none;" target="_blank"><span style="color: rgb(0, 0, 0);">刘先生 &nbsp; &nbsp; 年龄：53 &nbsp; &nbsp;牙齿全口缺失</span></a><br />
+<u><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn&amp;r=&amp;rf1=http%3A//beij.wekq&amp;rf2=.net/ycqsf/&amp;p=http%3A//beij.wekq.net/2017/ycqsf_0422/223.html&amp;cid=1492216894929970060446&amp;sid=1494031675098436880077" style="text-decoration: none;" target="_blank"><strong><span style="color: rgb(0, 128, 128);">治疗方案&ldquo;一日得&rdquo;全口种植技术点击咨询详情</span></strong></a></u></div>
+</div>
+</div>
+<p>　　我院专家团队对纯韩微创无痛即刻种植牙都积累丰富的临床经验，借康复患者之间的口碑相传，声名远播，患者纷纷前来就诊。北京维尔口腔医院您的好的选择。如有有任何疑问，你可在线咨询或者<strong>拨打热线4006655111</strong>得到想要的蜕变答案，专家会根据您的实际情况为您推荐较好的治疗方案。</p>{/dede:field}
+{dede:field name='body'}　　众所周知，天然牙将口腔内的咀嚼压力通过牙根传递至牙槽骨，而种植牙将咀嚼压力通过人工牙根传递至牙槽骨，生物力学原理相同，故能承受强大的力量，咀嚼效率较传统假牙有大幅度提高。而传统的烤瓷桥是通过固位体粘贴固定于缺牙间隙两侧被磨小的天然牙上，并利用天然牙作支撑和传递咀嚼压力，加重天然牙负担且影响其使用年限。
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D44G25a0-1IU.jpg" style="width: 300px; height: 200px;" /></a></div>
+<div>
+<h2 style="line-height: 28px; margin: 8px 0px 0px; padding: 0px; font-size: 16px; font-weight: 500; font-family: 微软雅黑; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; line-height: 20px; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">1</span><strong>微创无痛种植牙&mdash;&mdash;种植牙进入无痛时代</strong></h2>
+</div>
+<p>　　传统种植牙因治疗时间久、创伤大、固定力量薄弱等缺点，已满足不了爱美人士的需求，北京维尔纯韩微创无痛即刻种植牙，解决了人们牙齿缺失问题。</p>
+<p>　　种植牙不仅有着媲美真牙的咀嚼力，且外观自然美观<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"> 》》》》了解种植牙价格</span></a></p>
+<p>　　纯韩微创无痛即刻种植牙就是电脑导向微创种植，具有不需要植骨手术、不需要翻瓣手术的优点，避免了漫长的愈合期，大大减轻患者的痛苦。为让种植牙过程更轻松，北京维尔采用的纯韩微创无痛即刻种植牙。微创种植牙不需要开刀手术，仅需将牙龈打开一个微孔，然后植入人工牙根，种植牙治疗后几乎不会疼痛和肿胀。</p>
+<p>　　微创种植牙是基于当今 先进的三维成像检测技术、电脑导航技术、激光定位技术、即刻微创种植技术等前沿口腔科技术，特别是其中的电脑三维模拟骨成像技术，能够根据患者的口腔CT断层扫描数据自动形成准确立体的三维口腔骨骼图像，医生据此可以准确、具体地检测出原来传统二维平面X光片所无法测量出的牙槽骨的质和量，从而能够准确、客观地判断出患者的牙槽骨是否适合种植，需要不需要进行种植牙植骨手术。</p>
+<div>
+<h2 style="line-height: 28px; margin: 8px 0px 0px; padding: 0px; font-size: 16px; font-family: 微软雅黑; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; line-height: 20px; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">2</span>传统种植牙VS微创种植牙</h2>
+</div>
+<p>　　传统种植牙需要切开翻起牙肉、缝合、拆线等步骤，创伤大，治疗时间久，更会引起口腔感染，传统种植牙固定力量薄弱，不但容易松动，咀嚼功能也不佳。微创种植牙是在传统种植牙的基础上用特殊的技术方式来完成种植牙的植入过程，利用微小切口(3～4毫米)将人工牙根&ldquo;种&rdquo;入口腔内，摆脱了传统种植牙切开翻起牙肉、缝合、拆线等步骤，将创伤降低到 小程度，大大减少了肿痛和出血量，大幅度缩短了种植过程所需的时间，仅需5～10分钟，而且减少了感染的风险，是广泛使用的种植方式。</p>
+<p><strong>　　微创种植牙对设备要求更加精密</strong></p>
+<p>　　微创种植牙对于其种植牙的设备有一定的要求，如若没有精密的科学仪器，则无法完成众多爱美者迅速种植牙的愿望，无法实现微创，精密种植牙的过程。</p>
+<div>
+<h2 style="line-height: 28px; margin: 8px 0px 0px; padding: 0px; font-size: 16px; font-weight: 500; font-family: 微软雅黑; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; line-height: 20px; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">3</span><strong>维尔口腔种植牙&mdash;&mdash;院长推荐</strong></h2>
+<div style="font-size: 14px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; line-height: 21px; text-align: center;"><br />
+<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn&amp;r=&amp;rf1=http%3A//beij.wekq&amp;rf2=.net/ycqsf/&amp;p=http%3A//beij.wekq.net/2017/ycqsf_0422/223.html&amp;cid=1492216894929970060446&amp;sid=1494031675098436880077" style="text-decoration: none;" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D44GP020-24926.jpg" style="width: 450px; height: 280px;" /></a></div>
+<div style="color: rgb(102, 102, 102); font-family: Simsun; font-size: 14px; line-height: 28px;">&nbsp;</div>
+<div style="color: rgb(102, 102, 102); font-family: Simsun; font-size: 14px; line-height: 28px;">
+<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; font-weight: 500; font-family: 微软雅黑; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; line-height: 20px; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">4</span><strong>维尔口腔刘院长&mdash;&mdash;全口一日得种植牙技术真实案例</strong></h2>
+<br />
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn&amp;r=&amp;rf1=http%3A//beij.wekq&amp;rf2=.net/ycqsf/&amp;p=http%3A//beij.wekq.net/2017/ycqsf_0422/223.html&amp;cid=1492216894929970060446&amp;sid=1494031675098436880077" style="text-decoration: none;" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D44H34430-32943.jpg" style="width: 300px; height: 165px;" /></a><br />
+<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn&amp;r=&amp;rf1=http%3A//beij.wekq&amp;rf2=.net/ycqsf/&amp;p=http%3A//beij.wekq.net/2017/ycqsf_0422/223.html&amp;cid=1492216894929970060446&amp;sid=1494031675098436880077" style="text-decoration: none;" target="_blank"><span style="color: rgb(0, 0, 0);">刘先生 &nbsp; &nbsp; 年龄：53 &nbsp; &nbsp;牙齿全口缺失</span></a><br />
+<u><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn&amp;r=&amp;rf1=http%3A//beij.wekq&amp;rf2=.net/ycqsf/&amp;p=http%3A//beij.wekq.net/2017/ycqsf_0422/223.html&amp;cid=1492216894929970060446&amp;sid=1494031675098436880077" style="text-decoration: none;" target="_blank"><strong><span style="color: rgb(0, 128, 128);">治疗方案&ldquo;一日得&rdquo;全口种植技术点击咨询详情</span></strong></a></u></div>
+</div>
+</div>
+<p>　　我院专家团队对纯韩微创无痛即刻种植牙都积累丰富的临床经验，借康复患者之间的口碑相传，声名远播，患者纷纷前来就诊。北京维尔口腔医院您的好的选择。如有有任何疑问，你可在线咨询或者<strong>拨打热线4006655111</strong>得到想要的蜕变答案，专家会根据您的实际情况为您推荐较好的治疗方案。</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D44G25a0-1IU_lit.jpg{/dede:field}

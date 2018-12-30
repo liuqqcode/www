@@ -1,0 +1,1 @@
+<dd><a style="border:none" href="[field:typelink/]#honor">[field:typename/]</a></dd>

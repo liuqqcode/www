@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="zh" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1280">
+    <title>{dede:field.title /}-{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<!--[if lt IE 9]><body class="ie"><![endif]-->
+<!--[if !(IE 7) | !(IE 8)]><!-->
+
+<body>
+    <!--<![endif]-->
+{dede:include filename="head.htm"/}
+    <div class="two-nav">
+        <div class="layout">
+            <ul class="clearfix">
+                <li>
+                    <a href="http://www.samsph.com/visittime/93/1/">门诊时间</a></li>
+                <li>
+                    <a href="http://www.samsph.com/visitnotive/94/1/">就诊须知</a></li>
+                <li>
+                    <a href="http://www.samsph.com/spe_subject/95/1/">特色专科</a></li>
+                <li>
+                    <a href="http://www.samsph.com/location/103/1/">医院导航</a></li>
+                <li>
+                    <a href="http://www.samsph.com/tel114/390/1/">预约挂号</a></li>
+                <li>
+                    <a href="http://www.scsyytj.com/" target="_blank">健康体检</a></li>
+                <li>
+                    <a href="http://www.samsph.com/service_nav/98/1/">医疗保险</a></li>
+                <li class="cur">
+                    <a href="http://www.samsph.com/hos_ask/100/1/">医患交流</a></li>
+                <li>
+                    <a href="http://www.samsph.com/zfhfpy/760/1/">意见建议</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+        <div class="layout">
+            <div class="container-inner clearfix mt25">
+                <div class="department-tab" id="department-tab">
+                    <div class="three-nav">
+                        <ul class="clearfix">
+                            <li class="cur"><a href="javascript:;">手术科室</a></li>
+                            <li><a href="javascript:;">非手术科室</a></li>
+                            <li><a href="javascript:;">医技科室</a></li>
+                            <li><a href="javascript:;">中心及其他</a></li>
+                        </ul>
+                    </div>
+                    <ul class="department-select">
+                        <li>
+                            <a href="/hos_ask/100/1/dp/3432/"><span>妇产科</span></a>
+                            <a href="/hos_ask/100/1/dp/3433/"><span>肝胆外科Ⅱ</span></a>
+                            <a href="/hos_ask/100/1/dp/3434/"><span>肝胆外科Ｉ</span></a>
+                            <a href="/hos_ask/100/1/dp/3435/"><span>肝胆胰脾外科&amp;细胞移植...</span></a>
+                            <a href="/hos_ask/100/1/dp/3436/"><span>骨科</span></a>
+                            <a href="/hos_ask/100/1/dp/3437/"><span>口腔科</span></a>
+                            <a href="/hos_ask/100/1/dp/3438/"><span>麻醉科</span></a>
+                            <a href="/hos_ask/100/1/dp/3439/"><span>泌尿外科</span></a>
+                            <a href="/hos_ask/100/1/dp/3530/"><span>器官移植中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3531/"><span>乳腺外科</span></a>
+                            <a href="/hos_ask/100/1/dp/3532/"><span>烧伤科</span></a>
+                            <a href="/hos_ask/100/1/dp/3533/"><span>神经外科</span></a>
+                            <a href="/hos_ask/100/1/dp/3534/"><span>疼痛科</span></a>
+                            <a href="/hos_ask/100/1/dp/3535/"><span>胃肠外科</span></a>
+                            <a href="/hos_ask/100/1/dp/3536/"><span>小儿外科</span></a>
+                            <a href="/hos_ask/100/1/dp/3537/"><span>胸外科</span></a>
+                            <a href="/hos_ask/100/1/dp/3538/"><span>心脏外科中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3539/"><span>血管·甲状腺外科</span></a>
+                            <a href="/hos_ask/100/1/dp/3630/"><span>眼科</span></a>
+                            <a href="/hos_ask/100/1/dp/3631/"><span>整形外科</span></a>
+                            <a href="/hos_ask/100/1/dp/3431/"><span>耳鼻喉头颈外科</span></a>
+                        </li>
+                        <li>
+                            <a href="/hos_ask/100/1/dp/3633/"><span>儿科</span></a>
+                            <a href="/hos_ask/100/1/dp/3634/"><span>风湿免疫科</span></a>
+                            <a href="/hos_ask/100/1/dp/3635/"><span>感染科</span></a>
+                            <a href="/hos_ask/100/1/dp/3636/"><span>高压氧诊疗中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3637/"><span>呼吸内科</span></a>
+                            <a href="/hos_ask/100/1/dp/3638/"><span>康复科</span></a>
+                            <a href="/hos_ask/100/1/dp/3639/"><span>老年医学科</span></a>
+                            <a href="/hos_ask/100/1/dp/3730/"><span>内分泌科</span></a>
+                            <a href="/hos_ask/100/1/dp/3732/"><span>全科医学中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3733/"><span>神经内科</span></a>
+                            <a href="/hos_ask/100/1/dp/3734/"><span>肾内科</span></a>
+                            <a href="/hos_ask/100/1/dp/3735/"><span>消化内科</span></a>
+                            <a href="/hos_ask/100/1/dp/3736/"><span>心内科</span></a>
+                            <a href="/hos_ask/100/1/dp/3737/"><span>心身医学中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3738/"><span>血液科</span></a>
+                            <a href="/hos_ask/100/1/dp/3632/"><span>肿瘤中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3739/"><span>中医科</span></a>
+                        </li>
+                        <li>
+                            <a href="/hos_ask/100/1/dp/3830/"><span>病案统计科</span></a>
+                            <a href="/hos_ask/100/1/dp/3831/"><span>病理科</span></a>
+                            <a href="/hos_ask/100/1/dp/3832/"><span>超声科</span></a>
+                            <a href="/hos_ask/100/1/dp/3833/"><span>放射科</span></a>
+                            <a href="/hos_ask/100/1/dp/3834/"><span>核医学科</span></a>
+                            <a href="/hos_ask/100/1/dp/3835/"><span>检验科</span></a>
+                            <a href="/hos_ask/100/1/dp/3836/"><span>心血管超声及心功能科</span></a>
+                            <a href="/hos_ask/100/1/dp/3837/"><span>药学部</span></a>
+                            <a href="/hos_ask/100/1/dp/3838/"><span>营养科</span></a>
+                        </li>
+                        <li>
+                            <a href="/hos_ask/100/1/dp/3731/"><span>皮肤病性病研究所(皮肤科)</span></a>
+                            <a href="/hos_ask/100/1/dp/3839/"><span>急救中心</span></a>
+                            <a href="/hos_ask/100/1/dp/383631/"><span>重症医学中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3931/"><span>生殖医学中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3930/"><span>健康管理中心</span></a>
+                            <a href="/hos_ask/100/1/dp/3932/"><span>药物临床试验机构</span></a>
+                            <a href="/hos_ask/100/1/dp/333836/"><span>院感办</span></a>
+                            <a href="/hos_ask/100/1/dp/383831/"><span>远程医疗会诊中心</span></a>
+                            <a href="/hos_ask/100/1/dp/31303932/"><span>护士学校</span></a>
+                            <a href="/hos_ask/100/1/dp/31303935/"><span>学术期刊部</span></a>
+                            <a href="/hos_ask/100/1/dp/31303938/"><span>医学图书馆</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="question-main mt25">
+                    <div class="fl">
+                        <div class="list-tit sort">
+                            <h2>
+
+                  <a class="cur" href="/hos_ask/100/1/ty/null/" >全部问题</a>
+
+                  <a  href="/hos_ask/100/1/ty/33/">已解决问题</a>
+
+                  <a  href="/hos_ask/100/1/ty/32/">待解决问题</a>
+
+                  <a  href="/hos_ask/100/1/ty/35/">热门问题</a>
+
+                </h2>
+                        </div>
+                        <div class="list-content question-list">
+                            <ul>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/853/">[妇产科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/853/">怀孕了做甲功三项检查需不需要空腹</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">06-01 16:29</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/852/">您好，本人22岁，女，眼部下方长汗管瘤，想根治，挂号该挂什...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">06-01 13:38</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/851/">医生：您好，我想问一下我女儿现在1岁半了还不能自己独立走路...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">06-01 13:18</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/846/">[血液科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/846/">你好，我查地中海贫血查出SEA基因缺失，我想再确诊一下，我需...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-30 15:30</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/845/">查饿血费用大概是多少</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-28 18:05</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/843/">男性 21岁 包皮过长 可下翻。有必要做包皮手术吗?包皮环套...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-27 10:29</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/840/">请问我父亲皮肤老是过敏，是看皮肤科还是血液科呢？
+
+</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-26 09:59</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/836/">您好，乙肝病史多年，于3月底服用香菇多糖片，于5月15号查出...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-24 19:02</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/835/">你好，请问甲状腺结节是看血管甲状腺外科，还是甲状腺疾病科？</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-24 11:20</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/834/">你好，我是5月17号查的全套血常规，但是产检时间要一个月后，...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-24 09:44</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/828/">[检验科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/828/">请问一下，单项血型检查费用多少？谢谢</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-22 12:11</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/827/">我爸爸一天喝2顿酒（中午和晚上），今年60岁了，在以前我也没...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-19 16:09</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/825/">[整形外科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/825/">脚趾畸形能做手术恢复成正常人的脚趾那样吗？</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-18 18:42</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/823/">[整形外科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/823/">我想做一个腋臭微创小切口手术，星期一至星期五挂整形科任何...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-17 22:13</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/821/">糖尿病肾病，尿毒症，在何强老师那里做了动静脉造瘘术后4月，...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-16 19:47</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/820/">医生，您好，想咨询一下，怎么查血型呢?</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-16 13:34</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/818/">[心脏外科中心]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/818/">你好，我爸爸61岁，16年前得过风湿心脏病做了心中扩张手术，...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-14 21:14</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/817/">晚睡，整晚做梦，经常不爱主动跟人说话，有时候会觉得别人说...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-14 16:14</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/816/">右手小臂上有一个小疙瘩，有很多年了，也不痛，只有自己去捏...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-14 14:22</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/815/">晚上睡觉突然感到人胸闷，呼吸困难，心跳加快前后有4年时间了...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-13 17:28</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/814/">您好，我一个月前由医生开单已经缴纳了ABO溶血检查费用。请问...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-12 14:01</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/812/">我现在AFP由12.38下降为11.37，再下降为9.66。多次检查肝脏欠...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-12 11:21</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                                            <a href="/content/yygh/show_guestbook/catid/100/id/810/">我现在AFP由12.38下降为11.37，再下降为9.66。多次检查肝脏欠...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-12 07:11</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/809/">[整形外科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/809/">医生您好！想咨询下狐臭做手术的话，大概要住院几天？交多少...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-11 12:42</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/808/">[整形外科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/808/">玻尿酸隆鼻需要多少钱</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-10 12:33</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/807/">[整形外科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/807/">医生您好：我眼睛小，主要表现眼睛眼睑遮住眼球，看起来像眯...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-09 22:07</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/806/">[整形外科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/806/">我脸上有几颗痣，想祛掉。有颗比较大，大概直径有5mm，其他几...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-09 16:05</span>
+                                </li>
+                                <li class="column-tit">
+                                    <span class="col-tit">
+
+                      <a class="col-cat" href="/content/yygh/show_guestbook/catid/100/id/805/">[骨科]</a>                      <a href="/content/yygh/show_guestbook/catid/100/id/805/">请问，我父亲在去年11月做了腰间盘手术，目前感觉腰椎非常沉...</a>
+
+                    </span>
+                                    <span class="col-state completed">已解决</span>
+                                    <span class="col-time completed">05-09 13:32</span>
+                                </li>
+                            </ul>
+                            <div class="pager mt25"><a class="a1">717条</a> <a href="/content/index/lists/catid/100/page/0/" class="a1">上一页</a> <a class="cur" href="javascript:;">1</a> <a href="/content/index/lists/catid/100/page/2/">2</a> <a href="/content/index/lists/catid/100/page/3/">3</a> <a href="/content/index/lists/catid/100/page/4/">4</a> <a href="/content/index/lists/catid/100/page/5/">5</a> <a href="/content/index/lists/catid/100/page/6/">6</a> <a href="/content/index/lists/catid/100/page/7/">7</a> <a href="/content/index/lists/catid/100/page/8/">8</a> <a href="/content/index/lists/catid/100/page/9/">9</a> <a href="/content/index/lists/catid/100/page/10/">10</a><span>...</span><a href="/content/index/lists/catid/100/page/26/">26</a> <a href="/content/index/lists/catid/100/page/2/" class="a1">下一页</a></div>
+                        </div>
+                    </div>
+                    <div class="fr right-side">
+                        <div class="right-ask">
+                            <div class="myask-btn">
+                                <a class="btn" id="showMyQuest" href="/member/index/init/">查看我提交的问题</a>
+                            </div>
+                            <div class="list-tit">
+                                <h2><span>我要提问</span></h2>
+                            </div>
+                            <div class="list-content">
+                                <div class="alert alert-error"><strong>注意：</strong>请不要重复提问，管理员会定期回复。 网上咨询回复仅作参考，如需准确诊断病情，请前往医院相应科室就诊。祝您健康！</div>
+                                <form action="/content/yygh/add_guestbook/catid/100/" method="post">
+                                    <textarea class="question" name="info[content]" placeholder="请详细描述您的提问，有助医生快速帮您解答！"></textarea>
+                                    <div class="text-right mt15">
+                                        <button class="btn" type="submit">提交问题</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="right-doctor">
+                            <div class="list-tit">
+                                <h2><span>推荐医师</span></h2>
+                            </div>
+                            <div class="list-content">
+                                <ul>
+                                    <li>
+                                        <a class="doctor-img" href="http://www.samsph.com/experts/38/138/1/">
+                                            <img src="images/thumb_85_116_20150806033528442.jpg" />
+                                        </a>
+                                        <h2><a href="http://www.samsph.com/experts/38/138/1/">刘仲前</a><span>主任医师</span></h2>
+                                        <p>
+                                            <strong>科室：</strong>
+                                            <br>
+                                            <strong>级别：</strong>一级医师
+                                            <br>
+                                            <strong>擅长：</strong>脊柱外科诊疗：颈椎脊柱脊髓外伤、腰椎退变狭窄、椎间盘突出、儿童... </p>
+                                    </li>
+                                    <li>
+                                        <a class="doctor-img" href="http://www.samsph.com/">
+                                            <img src="images/thumb_85_116_20150804051850756.jpg" />
+                                        </a>
+                                        <h2><a href="http://www.samsph.com/">陈昌辉</a><span>主任医师</span></h2>
+                                        <p>
+                                            <strong>科室：</strong>
+                                            <br>
+                                            <strong>级别：</strong>一级医师
+                                            <br>
+                                            <strong>擅长：</strong>新生儿黄疸、缺氧缺血性脑损伤、免疫系统疾病及各种危急重症的诊治 </p>
+                                    </li>
+                                    <li>
+                                        <a class="doctor-img" href="http://www.samsph.com/experts/38/807/1/">
+                                            <img src="images/thumb_85_116_20150925085427389.jpg" />
+                                        </a>
+                                        <h2><a href="http://www.samsph.com/experts/38/807/1/">周晓芳</a><span>主任医师</span></h2>
+                                        <p>
+                                            <strong>科室：</strong>
+                                            <br>
+                                            <strong>级别：</strong>一级医师
+                                            <br>
+                                            <strong>擅长：</strong>从事心血管疾病的临床诊治、科研、教学20余年，是高血压、冠心病、... </p>
+                                    </li>
+                                    <li>
+                                        <a class="doctor-img" href="http://www.samsph.com/experts/38/514/1/">
+                                            <img src="images/thumb_85_116_20150811021746207.jpg" />
+                                        </a>
+                                        <h2><a href="http://www.samsph.com/experts/38/514/1/">刘文英</a><span>主任医师</span></h2>
+                                        <p>
+                                            <strong>科室：</strong>
+                                            <br>
+                                            <strong>级别：</strong>一级医师
+                                            <br>
+                                            <strong>擅长：</strong>小儿普胸（包括胸壁畸形、隔疝、纵膈肿瘤等），普外科疾病的诊治，... </p>
+                                    </li>
+                                    <li>
+                                        <a class="doctor-img" href="http://www.samsph.com/experts/38/516/1/">
+                                            <img src="images/thumb_85_116_20150811021909940.jpg" />
+                                        </a>
+                                        <h2><a href="http://www.samsph.com/experts/38/516/1/">陈绍基</a><span>主任医师</span></h2>
+                                        <p>
+                                            <strong>科室：</strong>
+                                            <br>
+                                            <strong>级别：</strong>一级医师
+                                            <br>
+                                            <strong>擅长：</strong>小儿泌尿系疾病，尿道下裂，外生殖器整形，肾输尿管畸形等 </p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{dede:include filename="footer.htm"/}
+</body>
+
+</html>

@@ -1,0 +1,92 @@
+<script>
+function top_show() {
+    $("#top_over").addClass("top_show");
+};
+
+function top_hidd() {
+    $("#top_over").removeClass("top_show");
+};
+</script>
+<div class="top_over" id="top_over">
+    <div class="top_tit"> <span>特色专科</span> <a href="javascript:;" target="_self" onClick="top_hidd()"><img src="/images/closePopMenu.png" /></a></div>
+    <div class="clear"></div>
+    <div class="top_nav" id="top_nav">
+        <div class="top_nav_a left">
+            <ul>
+                <li>发育行为科</li>
+                <li>内分泌科</li>
+            </ul>
+        </div>
+        <div class="top_nav_b right">
+            <ul>
+                <li>
+                    <div class="top_nav_bt">发育行为科</div>
+                    <div class="top_nav_bt">按病种</div>
+                    <div class="top_nav_ba">
+                        <a href="{dede:type typeid='27'}[field:typeurl/]{/dede:type}">多动症</a>
+                        <a href="{dede:type typeid='28'}[field:typeurl/]{/dede:type}">抽动症</a>
+                        <a href="{dede:type typeid='30'}[field:typeurl/]{/dede:type}">自闭症</a>
+                        <a href="{dede:type typeid='40'}[field:typeurl/]{/dede:type}">遗尿症</a>
+                        <a href="{dede:type typeid='194'}[field:typeurl/]{/dede:type}">语言障碍</a>
+                        <a href="{dede:type typeid='32'}[field:typeurl/]{/dede:type}">注意力不集中</a>
+                        <a href="{dede:type typeid='330'}[field:typeurl/]{/dede:type}">感统失调</a>
+                        <a href="{dede:type typeid='29'}[field:typeurl/]{/dede:type}">学习困难</a>
+                        <a href="{dede:type typeid='33'}[field:typeurl/]{/dede:type}">智力低下</a>
+                        <a href="{dede:type typeid='34'}[field:typeurl/]{/dede:type}">发育迟缓</a>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="top_nav_bt">按症状</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=频繁眨眼')">频繁眨眼</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=活动过多')">活动过多</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=经常尿床')">经常尿床</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=说话晚')">说话晚</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=冲动任性')">冲动任性</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=上课走神')">上课走神</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=不爱说话')">不爱说话</a>
+                        <a href=""></a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <li>
+                    <div class="top_nav_bt">内分泌科</div>
+                    <div class="top_nav_bt">按病种</div>
+                    <div class="top_nav_ba">
+                        <a href="/nfm/axz/">增高</a>
+                        <a href="/nfm/xzs/">性早熟（男）</a>
+                        <a href="/nfm/xzs/">性早熟（女）</a>
+                        <a href="javascript:openZoosUrl()">青春期发育延迟</a>
+                        <!--<a href="{dede:type typeid='43'}[field:typeurl/]{/dede:type}">肥胖症</a>-->
+                        <a href="javascript:openZoosUrl('chatwin','&e=肥胖症') ">肥胖症</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=性发育不良')">性发育不良</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=甲状腺')">甲状腺</a>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="top_nav_bt">按症状</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=身材矮小')">身材矮小</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=生长落后')">生长落后</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=身体肥胖')">身体肥胖</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=月经初潮')">月经初潮</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=乳房发育')">乳房发育</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=睾丸增大')">睾丸增大</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=变声')">变声</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=长胡子')">长胡子</a>
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=比同龄人矮')">比同龄人矮</a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+TouchSlide({
+    slideCell: "#top_nav",
+    titCell: ".top_nav_a li",
+    mainCell: ".top_nav_b ul",
+    effect: "left",
+    autoPlay: false,
+    autoPage: false,
+});
+</script>

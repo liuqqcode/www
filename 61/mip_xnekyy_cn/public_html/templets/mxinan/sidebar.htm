@@ -1,0 +1,259 @@
+<!-- 侧栏展开 -->
+<script>
+function top_show() {
+    $("#top_over").addClass("top_show");
+};
+
+function top_hidd() {
+    $("#top_over").removeClass("top_show");
+};
+</script>
+<div class="top_over" id="top_over">
+    <div class="top_tit"> <span>特色专科</span> <a href="javascript:;" target="_self" onClick="top_hidd()"><img src="/images/closePopMenu.png" /></a></div>
+    <div class="clear"></div>
+    <div class="top_nav" id="top_nav">
+        <div class="top_nav_a left">
+            <ul>
+                <li>发育行为科</li>
+                <li>内分泌科</li>
+                <li>神经内科</li>
+                <li>小儿外科</li>
+                <!-- <li>儿童眼科</li> -->
+                <li>普儿科</li>
+                <li>中医科</li>
+                <li>康复科</li>
+            </ul>
+        </div>
+        <div class="top_nav_b right">
+            <ul>
+                <li>
+                    <div class="top_nav_bt">发育行为科</div>
+                    <div class="top_nav_bt">按病种</div>
+                    <div class="top_nav_ba">
+                        <a href="{dede:type typeid='27'}[field:typeurl/]{/dede:type}">多动症</a>
+                        <a href="{dede:type typeid='28'}[field:typeurl/]{/dede:type}">抽动症</a>
+                        <a href="{dede:type typeid='30'}[field:typeurl/]{/dede:type}">自闭症</a>
+                        <a href="{dede:type typeid='40'}[field:typeurl/]{/dede:type}">遗尿症</a>
+                        <a href="{dede:type typeid='194'}[field:typeurl/]{/dede:type}">语言障碍</a>
+                        <a href="{dede:type typeid='32'}[field:typeurl/]{/dede:type}">注意力不集中</a>
+                        <a href="{dede:type typeid='330'}[field:typeurl/]{/dede:type}">感统失调</a>
+                        <a href="{dede:type typeid='29'}[field:typeurl/]{/dede:type}">学习困难</a>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="top_nav_bt">按症状</div>
+                    <div class="top_nav_ba">
+                        <a href="/zt/ceshi/">频繁眨眼</a>
+                        <a href="/zt/ddzz/">活动过多</a>
+                        <a href="/zt/ynzzt/">经常尿床</a>
+                        <a href="/zt/yyza1/">说话晚</a>
+                        <a href="/zt/ddz2/">冲动任性</a>
+                        <a href="/zt/zylzt/">上课走神</a>
+                        <a href="/zt/yyza1/">不爱说话</a>
+                        <a href=""></a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <li>
+                    <div class="top_nav_bt">内分泌科</div>
+                    <div class="top_nav_bt">按病种</div>
+                    <div class="top_nav_ba">
+                        <a href="/swt">增高</a>
+                        <a href="/nfm/xzs/">性早熟（男）</a>
+                        <a href="/nfm/xzs/">性早熟（女）</a>
+                        <a href="javascript:openZoosUrl()">青春期发育延迟</a>
+                        <a href="{dede:type typeid='43'}[field:typeurl/]{/dede:type}">肥胖症</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=性发育不良')">性发育不良</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=甲状腺')">甲状腺</a>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="top_nav_bt">按症状</div>
+                    <div class="top_nav_ba">
+                        <a href="/zt/swt2/axz.html">身材矮小</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=生长落后')">生长落后</a>
+                        <a href="/zt/feipang/">身体肥胖</a>
+                        <a href="/zt/xzs/">月经初潮</a>
+                        <a href="/zt/xzs/">乳房发育</a>
+                        <a href="/zt/xzs/">睾丸增大</a>
+                        <a href="/zt/xzs/">变声</a>
+                        <a href="/zt/xzs/">长胡子</a>
+                        <a href="/zt/swt2/axz.html">比同龄人矮</a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <li>
+                    <div class="top_nav_bt">神经内科</div>
+                    <div class="top_nav_bt">按病种</div>
+                    <div class="top_nav_ba">
+                        <a href="{dede:type typeid='36'}[field:typeurl/]{/dede:type}">脑瘫</a>
+                        <a href="{dede:type typeid='187'}[field:typeurl/]{/dede:type}">癫痫</a>
+                        <a href="{dede:type typeid='33'}[field:typeurl/]{/dede:type}">智力低下</a>
+                        <a href="{dede:type typeid='34'}[field:typeurl/]{/dede:type}">发育迟缓</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=脑发育不良')">脑发育不良</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=脑炎后遗症')">脑炎后遗症</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=脑白质脱髓鞘')">脑白质脱髓鞘</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=脑萎缩')">脑萎缩</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=脑白质软化')">脑白质软化</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=共济失调')">共济失调</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=肌张力异常')">肌张力异常</a>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="top_nav_bt">按症状</div>
+                    <div class="top_nav_ba">
+                        <a href="/zt/dxjingjue/">四肢抽搐</a>
+                        <a href="/sjj/qita/1965.html">姿势异常</a>
+                        <a href="/fyx/ddz/zl/1534.html">记忆力差</a>
+                        <a href="/sjj/nxth/zz/1767.html">反应迟钝</a>
+                        <a href="/sjj/qita/1952.html">重症肌无力</a>
+                        <a href="/sjj/zldx/by/941.html">理解能力差</a>
+                        <a href="/zt/fych2/">不会走路</a>
+                        <a href="/zt/fych2/">三翻六坐</a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <li>
+                    <div class="top_nav_bt">小儿外科</div>
+                    <div class="top_nav_bt">按病种</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&e=隐匿阴茎')">隐匿阴茎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=包皮包茎')">包皮包茎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=隐睾')">隐睾</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=尿道下裂')">尿道下裂</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=疝气')">疝气</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=鞘膜积液')">鞘膜积液</a>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="top_nav_bt">按症状</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&e=包皮过长')">包皮过长</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=尿道口鼓包')">尿道口鼓包</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=小鸡鸡内缩')">小鸡鸡内缩</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=包皮尖尖')">包皮尖尖</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=阴茎短小')">阴茎短小</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=尿道异味')">尿道异味</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=包皮分布异常')">包皮分布异常</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=腹股沟肿块')">腹股沟肿块</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=睾丸一大一小')">睾丸一大一小</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=没有蛋蛋')">没有蛋蛋</a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <!-- <li>
+                    <div class="top_nav_bt">儿童眼科</div>
+                    <div class="top_nav_bt">按病种</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&e=近视')">近视</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=斜视')">斜视</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=散光')">散光</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=远视')">远视</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=结膜炎')">结膜炎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=角膜炎')">角膜炎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=弱势')">弱势</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=畏光')">畏光</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=飞蚊症')">飞蚊症</a>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="top_nav_bt">按症状</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&e=眼睛红肿')">眼睛红肿</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=流眼泪')">流眼泪</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=眼睛异物感')">眼睛异物感</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=看东西重影')">看东西重影</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=眼前黑影')">眼前黑影</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=干涩')">干涩</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=干痒')">干痒</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=分泌物异常')">分泌物异常</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=眼屎多')">眼屎多</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=看东西变色')">看东西变色</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=胀痛')">胀痛</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=眼睑病')">眼睑病</a>
+                        <div class="clear"></div>
+                    </div>
+                </li> -->
+                <li>
+                    <div class="top_nav_bt">普儿科</div>
+                    <div class="top_nav_bt">按病种</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&e=口腔疾病')">口腔疾病</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=肠道疾病')">肠道疾病</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=皮肤类疾病')">皮肤类疾病</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=呼吸类疾病')">呼吸类疾病</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=其他疾病')">其他疾病</a>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="top_nav_bt">按症状</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&e=口臭')">口臭</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=口角炎')">口角炎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=腹泻')">腹泻</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=便秘')">便秘</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=胃肠炎')">胃肠炎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=湿疹')">湿疹</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=过敏性皮炎')">过敏性皮炎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=咳嗽')">咳嗽</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=鼻炎')">鼻炎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=肺炎')">肺炎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=支气管炎')">支气管炎</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=发热')">发热</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=哮喘')">哮喘</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=高热惊厥')">高热惊厥</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=贫血')">贫血</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=厌食症')">厌食症</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=低血糖')">低血糖</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=腹痛')">腹痛</a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <li>
+                    <div class="top_nav_bt">中医科</div>
+                    <div class="top_nav_bt">按项目</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&e=小儿推拿')">小儿推拿</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=中药熏蒸')">中药熏蒸</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=拔罐')">拔罐</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=刮痧')">刮痧</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=针灸')">针灸</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=调制中频疗法')">调制中频疗法</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=低频脉冲疗法')">低频脉冲疗法</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=穴位注射')">穴位注射</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=中药离子导入疗法')">中药离子导入疗法</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=中医诊断学')">中医诊断学</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=疑难杂症')">疑难杂症</a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+                <li>
+                    <div class="top_nav_bt">康复科</div>
+                    <div class="top_nav_bt">按课程</div>
+                    <div class="top_nav_ba">
+                        <a href="javascript:openZoosUrl('chatwin','&e=PT物理治疗')">PT物理治疗</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=OT作业治疗')">OT作业治疗</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=ST言语治疗')">ST言语治疗</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=感统训练')">感统训练</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=音乐治疗')">音乐治疗</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=心理干预')">心理干预</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=旋转激活')">旋转激活</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=听觉统合')">听觉统合</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=多感官训练')">多感官训练</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=社交游戏')">社交游戏</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=律动课程')">律动课程</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=亲子课程')">亲子课程</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=托马斯听力训练')">托马斯听力训练</a>
+                        <a href="javascript:openZoosUrl('chatwin','&e=悬吊训练')">悬吊训练</a>
+                        <div class="clear"></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+TouchSlide({
+    slideCell: "#top_nav",
+    titCell: ".top_nav_a li",
+    mainCell: ".top_nav_b ul",
+    effect: "left",
+    autoPlay: false,
+    autoPage: false,
+});
+</script>
+<!-- 侧栏展开 -->

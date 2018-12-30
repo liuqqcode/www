@@ -1,0 +1,44 @@
+{dede:field name='keywords'}隐形牙套矫正{/dede:field}
+{dede:field name='description'}想要拥有更灿烂迷人的笑容，最基本的条件就是拥有整齐的牙齿，而目前医疗水平较高，牙齿整形的方法也是多种多样，为了矫正牙齿，很多人{/dede:field}
+{dede:field name='title'}隐形牙套矫正{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">　　想要拥有更灿烂迷人的笑容， 基本的条件就是拥有整齐的牙齿，而目前医疗水平较高，牙齿整形的方法也是多种多样，为了矫正牙齿，很多人都会选择通过戴牙套来修复牙齿，牙套的种类有很多，不同的牙套在价格上也会有差异。</span>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0704/20170704023347922.jpg" style="width: 300px; height: 324px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　想了解价格多少?点击咨询</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　与传统矫正的对比 &mdash;&mdash; 隐形矫正不是梦</span></strong></p>
+<p><span style="font-size:16px;">　　与传统的矫正系统相比，隐形正畸矫治的时间更短，降低了牙槽操作时间，延长复诊间隔时间，一般可提前3个月完成正畸。定位准确，疗程简化。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">想要整齐牙齿?点击咨询</span></a></span></p>
+<p><span style="font-size:16px;">　　特制的托槽具有记忆功能，能确保弓丝在正确位置上，提高了畸牙移动的有效性，具有治疗效果的可预见性。</span></p>
+<p><span style="font-size:16px;">　　此外，该技术正畸着力点在牙槽表面，降低摩擦力，又能保护口腔黏膜，不仅快捷完美，而且过程舒适。</span></p>
+<p><strong><span style="font-size:16px;">　　隐形矫正更具优势</span></strong></p>
+<p><strong><span style="font-size:16px;">　　360&deg;隐形：告别铁齿钢牙</span></strong></p>
+<p><span style="font-size:16px;">　　传统正牙方式，常常被冠以&ldquo;钢牙妹&rdquo;&ldquo;牙套哥&rdquo;的名号。隐形正牙，矫治器完全透明，隐形指数包，有效告别钢牙时代!</span></p>
+<p><strong><span style="font-size:16px;">　　佩戴舒适：告别口腔溃疡</span></strong></p>
+<p><span style="font-size:16px;">　　轻薄牙套，摘戴轻松，舒适指数包!告别传统正牙口腔溃疡频发的困扰，完全不影响学习。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">点击咨询你的牙齿现状</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　自信微笑：花样青春从齿开启</span></strong></p>
+<p><span style="font-size:16px;">　　隐形正牙，助寻回牙齿美丽，恢复自信，拥有完美青春。</span></p>
+<p><strong><span style="font-size:16px;">　　超值选择：比想要的给你更多</span></strong></p>
+<p><span style="font-size:16px;">　　隐形正牙跟普通正牙同等价格，3D精算每颗牙的萌出通道、牙齿生长空间，正牙过程更舒适、高效、美观、微痛，是你正牙更好的选择!</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0704/20170704023409472.jpg" style="width: 450px; height: 280px;" /><br />
+有问题？点击咨询在线专家</span></a></span></p>
+<p><span style="font-size:16px;">　　<strong>【温馨提示】：</strong>如果您还有其他疑问，可点击<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">【在线咨询】</span></a>，维尔在线医生会详细为您解析。如想就诊，您可提前<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">【预约挂号】</span></a>，凭号到院优先就诊。维尔不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">　　想要拥有更灿烂迷人的笑容， 基本的条件就是拥有整齐的牙齿，而目前医疗水平较高，牙齿整形的方法也是多种多样，为了矫正牙齿，很多人都会选择通过戴牙套来修复牙齿，牙套的种类有很多，不同的牙套在价格上也会有差异。</span>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploads/allimg/c180322/1521D5MZSZ-5QZ.jpg" style="width: 300px; height: 324px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　想了解价格多少?点击咨询</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　与传统矫正的对比 &mdash;&mdash; 隐形矫正不是梦</span></strong></p>
+<p><span style="font-size:16px;">　　与传统的矫正系统相比，隐形正畸矫治的时间更短，降低了牙槽操作时间，延长复诊间隔时间，一般可提前3个月完成正畸。定位准确，疗程简化。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">想要整齐牙齿?点击咨询</span></a></span></p>
+<p><span style="font-size:16px;">　　特制的托槽具有记忆功能，能确保弓丝在正确位置上，提高了畸牙移动的有效性，具有治疗效果的可预见性。</span></p>
+<p><span style="font-size:16px;">　　此外，该技术正畸着力点在牙槽表面，降低摩擦力，又能保护口腔黏膜，不仅快捷完美，而且过程舒适。</span></p>
+<p><strong><span style="font-size:16px;">　　隐形矫正更具优势</span></strong></p>
+<p><strong><span style="font-size:16px;">　　360&deg;隐形：告别铁齿钢牙</span></strong></p>
+<p><span style="font-size:16px;">　　传统正牙方式，常常被冠以&ldquo;钢牙妹&rdquo;&ldquo;牙套哥&rdquo;的名号。隐形正牙，矫治器完全透明，隐形指数包，有效告别钢牙时代!</span></p>
+<p><strong><span style="font-size:16px;">　　佩戴舒适：告别口腔溃疡</span></strong></p>
+<p><span style="font-size:16px;">　　轻薄牙套，摘戴轻松，舒适指数包!告别传统正牙口腔溃疡频发的困扰，完全不影响学习。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">点击咨询你的牙齿现状</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　自信微笑：花样青春从齿开启</span></strong></p>
+<p><span style="font-size:16px;">　　隐形正牙，助寻回牙齿美丽，恢复自信，拥有完美青春。</span></p>
+<p><strong><span style="font-size:16px;">　　超值选择：比想要的给你更多</span></strong></p>
+<p><span style="font-size:16px;">　　隐形正牙跟普通正牙同等价格，3D精算每颗牙的萌出通道、牙齿生长空间，正牙过程更舒适、高效、美观、微痛，是你正牙更好的选择!</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploads/allimg/c180322/1521D5M953230-613Y.jpg" style="width: 450px; height: 280px;" /><br />
+有问题？点击咨询在线专家</span></a></span></p>
+<p><span style="font-size:16px;">　　<strong>【温馨提示】：</strong>如果您还有其他疑问，可点击<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">【在线咨询】</span></a>，维尔在线医生会详细为您解析。如想就诊，您可提前<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">【预约挂号】</span></a>，凭号到院优先就诊。维尔不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D5MZSZ-5QZ_lit.jpg{/dede:field}

@@ -1,0 +1,44 @@
+{dede:field name='keywords'}材料{/dede:field}
+{dede:field name='description'}补牙是一种很常见的修复方式，效果奇佳，也因此许多要补牙的朋友都对价格问题比较敏感，但又对不了解影响补牙价格的各种原因，下面就一{/dede:field}
+{dede:field name='title'}补牙哪种材料好{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<p><span style="font-size: 16px;">　　补牙是一种很常见的修复方式，效果奇佳，也因此许多要补牙的朋友都对价格问题比较敏感，但又对不了解影响补牙价格的各种原因，下面就一起去了解下吧!</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size: 16px;"><span style="display: none;">&nbsp;</span><img alt="" src="/uploadfile/2017/1128/20171128043852229.jpg" style="width: 300px; height: 204px;" /><span style="display: none;">&nbsp;</span></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　北京补牙齿多少钱?</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　维尔口腔医师介绍到，补牙的价格很难有一个确定值，因为它受到各方面因素的共同影响。以下是主要原因：</span></strong></p>
+<p><span style="font-size:16px;">　　<strong>一、与患者的口腔情况有关。</strong>补牙前需对患者口腔进行全面的检查，对各种口腔炎症等进行适当的治疗，而由于口腔的差异，导致了补牙价格的不同。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;哪些情况下不能补牙?点击在线咨询&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　<strong>二、与补牙的材料有关。</strong>同的补牙材料，其性能、美观度、磨耐度等各方面有着一定的区别，因此选用不同的补牙材料，补牙的价格也各不相同。</span></p>
+<p><span style="font-size:16px;">　<strong>　三、与补牙机构的选择有关。</strong>正规的口腔机构拥有前沿的补牙设备及技术，医师经验丰富，而且其收费按 标准进行，具有更高的透明性及规范性，而私人诊所由于各方面的不到位，极易引发各种后遗症的发生。</span></p>
+<p><span style="font-size:16px;">　　<strong>四、与患牙的龋坏程度有关。</strong>早期的龋病仅需简单的填充治疗即可，而如果龋病发展到深龋，补牙前需要拍X光片，并进行根管治疗等相关操作，所以费用上会比填充治疗贵。</span></p>
+<p><strong><span style="font-size:16px;">　　补牙哪种材料好?</span></strong></p>
+<p><strong><span style="font-size:16px;">　　补牙材料有许多，需要根据不同情况选用，常用的是银汞合金和复合树脂。</span></strong></p>
+<p><span style="font-size:16px;">　　1.银汞合金临床使用最多，大多用于需要承受牙合力，且不必考虑美观的牙洞。用银汞合金修复牙体时，应保持一定的体积，才能承受牙合力而不致折断。</span></p>
+<p><span style="font-size:16px;">　　2.复合树脂是在有机合成树脂内加入大量经特殊处理的无机物的充填材料，尤其是光敏固化复合树脂，色泽稳定、黏结性强，特别适宜前牙的美齿修复，而化学固化复合树脂虽有轻度的色泽改变，但用于后牙及前牙舌侧洞也是适宜的</span></p>
+<p><strong><span style="font-size:16px;">　　健康补牙&mdash;&mdash;就选北京维尔口腔舒适补牙</span></strong></p>
+<p><span style="font-size:16px;">　　如何才能舒适的补牙呢?北京维尔口腔医院经过十九年临床研究，分析牙齿的作用与硬度、柔韧度、美观度的关系，总结出科学性、舒适性、个性化的舒适补牙技术，这项技术能够根据患者口腔状况选择适宜的安全、卫生的材料，然后由经验丰富的专家亲自操作，根据患者的上下牙、左右邻牙的形态，恢复牙齿自然外形和咀嚼功能。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1128/20171128043758587.jpg" style="width: 450px; height: 280px;" /></span></span></a></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">　　&gt;&gt;&gt;我有牙齿问题，咨询医生&lt;&lt;&lt;</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　价格公开透明&mdash;&mdash;收费更正规!</span></strong></p>
+<p><span style="font-size:16px;">　　维尔口腔医院所有收费都严格按照收费标准执行，秉着合理收费，明码标价的原则，服务于患者。该机构严格执行病人收费一日清单制、费用查询制、主要收费项目公示制等公开、严格、合理的收费制度。</span></p>
+<p><span style="font-size:16px;">　　维尔口腔医院温馨提示：牙齿问题不容忽视，发现问题及早治疗是对牙齿的保护!看牙齿一定要选择正规医院，服务规范效果更有保障。若有更多关于牙齿的问题，请点击在线咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">维尔口腔热线电话:400-6655-111</span></a>我们将竭诚为您服务!</span></p>{/dede:field}
+{dede:field name='body'}<p><span style="font-size: 16px;">　　补牙是一种很常见的修复方式，效果奇佳，也因此许多要补牙的朋友都对价格问题比较敏感，但又对不了解影响补牙价格的各种原因，下面就一起去了解下吧!</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size: 16px;"><span style="display: none;">&nbsp;</span><img alt="" src="/uploadfile/2017/1128/20171128043852229.jpg" style="width: 300px; height: 204px;" /><span style="display: none;">&nbsp;</span></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　北京补牙齿多少钱?</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　维尔口腔医师介绍到，补牙的价格很难有一个确定值，因为它受到各方面因素的共同影响。以下是主要原因：</span></strong></p>
+<p><span style="font-size:16px;">　　<strong>一、与患者的口腔情况有关。</strong>补牙前需对患者口腔进行全面的检查，对各种口腔炎症等进行适当的治疗，而由于口腔的差异，导致了补牙价格的不同。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;哪些情况下不能补牙?点击在线咨询&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　<strong>二、与补牙的材料有关。</strong>同的补牙材料，其性能、美观度、磨耐度等各方面有着一定的区别，因此选用不同的补牙材料，补牙的价格也各不相同。</span></p>
+<p><span style="font-size:16px;">　<strong>　三、与补牙机构的选择有关。</strong>正规的口腔机构拥有前沿的补牙设备及技术，医师经验丰富，而且其收费按 标准进行，具有更高的透明性及规范性，而私人诊所由于各方面的不到位，极易引发各种后遗症的发生。</span></p>
+<p><span style="font-size:16px;">　　<strong>四、与患牙的龋坏程度有关。</strong>早期的龋病仅需简单的填充治疗即可，而如果龋病发展到深龋，补牙前需要拍X光片，并进行根管治疗等相关操作，所以费用上会比填充治疗贵。</span></p>
+<p><strong><span style="font-size:16px;">　　补牙哪种材料好?</span></strong></p>
+<p><strong><span style="font-size:16px;">　　补牙材料有许多，需要根据不同情况选用，常用的是银汞合金和复合树脂。</span></strong></p>
+<p><span style="font-size:16px;">　　1.银汞合金临床使用最多，大多用于需要承受牙合力，且不必考虑美观的牙洞。用银汞合金修复牙体时，应保持一定的体积，才能承受牙合力而不致折断。</span></p>
+<p><span style="font-size:16px;">　　2.复合树脂是在有机合成树脂内加入大量经特殊处理的无机物的充填材料，尤其是光敏固化复合树脂，色泽稳定、黏结性强，特别适宜前牙的美齿修复，而化学固化复合树脂虽有轻度的色泽改变，但用于后牙及前牙舌侧洞也是适宜的</span></p>
+<p><strong><span style="font-size:16px;">　　健康补牙&mdash;&mdash;就选北京维尔口腔舒适补牙</span></strong></p>
+<p><span style="font-size:16px;">　　如何才能舒适的补牙呢?北京维尔口腔医院经过十九年临床研究，分析牙齿的作用与硬度、柔韧度、美观度的关系，总结出科学性、舒适性、个性化的舒适补牙技术，这项技术能够根据患者口腔状况选择适宜的安全、卫生的材料，然后由经验丰富的专家亲自操作，根据患者的上下牙、左右邻牙的形态，恢复牙齿自然外形和咀嚼功能。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1128/20171128043758587.jpg" style="width: 450px; height: 280px;" /></span></span></a></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">　　&gt;&gt;&gt;我有牙齿问题，咨询医生&lt;&lt;&lt;</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　价格公开透明&mdash;&mdash;收费更正规!</span></strong></p>
+<p><span style="font-size:16px;">　　维尔口腔医院所有收费都严格按照收费标准执行，秉着合理收费，明码标价的原则，服务于患者。该机构严格执行病人收费一日清单制、费用查询制、主要收费项目公示制等公开、严格、合理的收费制度。</span></p>
+<p><span style="font-size:16px;">　　维尔口腔医院温馨提示：牙齿问题不容忽视，发现问题及早治疗是对牙齿的保护!看牙齿一定要选择正规医院，服务规范效果更有保障。若有更多关于牙齿的问题，请点击在线咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">维尔口腔热线电话:400-6655-111</span></a>我们将竭诚为您服务!</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DT0W4G0-1054b_lit.jpg{/dede:field}

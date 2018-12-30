@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport" />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <meta content="telephone=no" name="format-detection" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/js/rootresize.js"></script>
+</head>
+
+<body>
+    <div class="box">
+        {dede:include filename="header.htm" /}
+        <div class="pos">{dede:field name='position'/}</div>
+        <div class="clear"></div>
+        <div id="inner-box">
+            <div class="box">
+                <div class="wap_doclist" id="tabBox1">
+                    <div class="wap_doclist_bd bd" id="tabBox1-bd">
+                        <ul>
+                            <div class="wap_doclist_li">
+                                <div class="wap_doclist_bd2">
+                                    {dede:list pagesize="4" titlelen='42' channelid="1" addfields="zhicheng,shanchang" isweight='y' orderby='weight'}
+                                    <div class="wap_doclist_bddiv zjpb">
+                                        <div class="wap_doclist_bd3"><a href="[field:arcurl/]"><img src="[field:picname/]"></a></div>
+                                        <h2>[field:fulltitle/]<span>[field:zhicheng/]</span></h2>
+                                        <div class="wap_wzlist1_sc">[field:shanchang function="cn_substr(@me,100)"/]...</div>
+                                        <!-- <p class="zjpbb">周二,周四,周五</p> -->
+                                        <div class="wap_wzlist1_yy"><a href="javascript:openZoosUrl()">预约专家</a></div>
+                                    </div>
+                                    {/dede:list}
+                                </div>
+                                <div class="wap_doclist_prow">
+                                    <ul>
+                                        {dede:pagelist istitem="index,pre,next,end,option,info"listsize="1"/}
+                                    </ul>
+                                </div>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+                <div class="wap_doc_wite"></div>
+            </div>
+        </div>
+        <!--修改结束-->
+        <div class="yygh_top mt10">
+            <div class="yygh_topa zjtd_zhe mc clear">
+                <div class="yygh_topb fl">
+                    <img class="fl" src="/images/yygh_zha.png" /> 官方预约挂号平台
+                </div>
+                <div class="yygh_topc fl">
+                    <img class="fl" src="/images/yygh_zhd.png" /> 预约电话：0351-6860923
+                </div>
+            </div>
+        </div>
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

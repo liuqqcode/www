@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta content="telephone=no" name="format-detection">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field.keywords/}" name="Keywords">
+    <meta content="{dede:field.description  function='html2text(@me)'/}" name="Description">
+    <link rel="stylesheet" href="/css/css.css" />
+    <script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/rootResizeFont.js"></script>
+</head>
+
+<body>
+    {dede:include filename="header.htm" /}
+    <div class="linep">
+        <p>
+            <a href="/" target="_blank"><img src="/images/sine_03.png" /></a>当前： {dede:field name='position'/}
+        </p>
+    </div>
+    <!--<div class="kong"></div>-->
+    <div class="tone">
+        <div class="her">
+            <div class="one1"><img src="{dede:field.litpic /}" /></div>
+            <img src="/images/vv1_03.png" class="vv1" />
+            <p class="vvp"><span>{dede:field.title/}</span>
+                <br/>{dede:field.zjzc/}
+                <br/><i>{dede:field.zjjy/}</i></p>
+            <a href="javascript:openZoosUrl()" class="jk1"><img src="/images/jh1_03.png"/> 在线预约</a>
+        </div>
+    </div>
+    <div class="ttwo">
+        <div class="tka" id="tka">
+            <ul>
+                <li><a href="#maio1">个人简介</a> </li>
+                <li><a href="#maio2">在线服务</a><img src="/images/mfff_03.png" /> </li>
+            </ul>
+        </div>
+        <div class="tban ">
+            <div class="banp banl" id="banl">
+                <div class="okg" {dede:field.xsrz runphp="yes"}if(@me == "") @me = "id='hides'"; else @me = "";{/dede:field.xsrz}>
+                    <h3>
+
+        <img src="/images/sb1_01.png" /> 学术任职</h3>
+                    <p>
+                        {dede:field.xsrz/}</p>
+                </div>
+                <div class="okg" {dede:field.ysjj runphp="yes"}if(@me == "") @me = "id='hides'"; else @me = "";{/dede:field.ysjj}>
+                    <h3>
+
+        <img src="/images/sb1_01.png" /> 医生简介</h3>
+                    <p>
+                        {dede:field.ysjj/}</p>
+                </div>
+                <div class="okg" {dede:field.zjsc runphp="yes"}if(@me == "") @me = "id='hides'"; else @me = "";{/dede:field.zjsc}>
+                    <h3>
+
+        <img src="/images/sb2_03.png" />主诊疾病</h3>
+                    <p>
+                        {dede:field.zjsc/}</p>
+                </div>
+                <div class="okg" {dede:field.grjl runphp="yes"}if(@me == "") @me = "id='hides'"; else @me = "";{/dede:field.grjl}>
+                    <h3>
+
+        <img src="/images/sb1_01.png" /> 个人经历</h3>
+                    <p>
+                        {dede:field.grjl/}</p>
+                </div>
+                <div class="okg" {dede:field.xscj runphp="yes"}if(@me == "") @me = "id='hides'"; else @me = "";{/dede:field.xscj}>
+                    <h3>
+
+        <img src="/images/sb3_03.png" />学术成绩</h3>
+                    <p>
+                        {dede:field.xscj/}</p>
+                </div>
+                <div class="okg" {dede:field.zzsj runphp="yes"}if(@me == "") @me = "id='hides'"; else @me = "";{/dede:field.zzsj}>
+                    <h3>
+
+        <img src="/images/sb4_03.png" />坐诊时间</h3>
+                    <p>
+                        {dede:field.zzsj/}</p>
+                </div>
+                <div class="okg" {dede:field.hzyx runphp="yes"}if(@me == "") @me = "id='hides'"; else @me = "";{/dede:field.hzyx}>
+                    <h3>
+
+        <img src="/images/sb5_03.png" />患者印象</h3> {dede:field.hzyx/}
+                </div>
+                <div class="jui">
+                    <ul>
+                        <li>
+                            <a href="javascript:void(0);return false;" onclick="openZoosUrl();return false;"><img src="/images/ui1_03.png" /> </a>
+                            <p>
+                                <a href="javascript:void(0);return false;" onclick="openZoosUrl();return false;">在线咨询</a></p>
+                        </li>
+                        <li>
+                            <a href="javascript:openZoosUrl()"><img src="/images/ui2_03.png" /> </a>
+                            <p>
+                                <a href="javascript:openZoosUrl()">网络预约</a></p>
+                        </li>
+                        <li>
+                            <a href="tel:0731-89912120"><img src="/images/ui3_03.png" /> </a>
+                            <p>
+                                <a href="tel:0731-89912120">电话咨询</a></p>
+                        </li>
+                    </ul>
+                </div>
+                <br />
+            </div>
+            <div class="banp banr" id="banr">
+                <ul>
+                    <li id="maio2">
+                        <a href="javascript:void(0);return false;" onclick="openZoosUrl();return false;">
+
+                                <i class="ju ju1"></i>
+
+                                <p class="ggh"><span>在线咨询</span><br/>支持文本、图片形式</p>
+
+                                <p class="bhh">免费<span>咨询</span></p>
+
+                            </a>
+                    </li>
+                    <li>
+                        <a href="javascript:openZoosUrl()">
+
+                                <i class="ju ju2"></i>
+
+                                <p class="ggh"><span>会诊咨询</span><br/>在线申请多学科会诊</p>
+
+                                <p class="bhh">免费<span>预约</span></p>
+
+                            </a>
+                    </li>
+                    <li>
+                        <a href="tel:0731-89912120">
+
+                                <i class="ju ju3"></i>
+
+                                <p class="ggh"><span>电话咨询</span><br/>人工服务、实时咨询</p>
+
+                                <p class="bhh">免费<span>咨询</span></p>
+
+                            </a>
+                    </li>
+                    <li>
+                        <a href="javascript:openZoosUrl()">
+
+                                <i class="ju ju4"></i>
+
+                                <p class="ggh"><span>网络挂号</span><br/>自助提交、在线挂号</p>
+
+                                <p class="bhh">免费<span>预约</span></p>
+
+                            </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script>
+    $(".ttwo").slide({ titCell: ".tka ul li", mainCell: ".tban", effect: "fade", autoPlay: false, interTime: 5000 });
+    $(function() {
+        var elm = $('#tka');
+        var startPos = $(elm).offset().top;
+        $.event.add(window, "scroll", function() {
+            var p = $(window).scrollTop();
+            $(elm).css('position', ((p) > startPos) ? 'fixed' : 'relative');
+            $(elm).css('top', ((p) > startPos) ? '0px' : '');
+        });
+
+    });
+    </script>
+    <div class="cl"></div>
+    <div class="kong"></div>
+    <div class="zxwd" {dede:field.fengcai1 runphp="yes"}if(@me == "") @me = "id='hides'"; else @me = "";{/dede:field.fengcai1}>
+        <div class="short">
+            <img src="/images/sen1_03.png">
+            <p><b>专家风采</b><span>Expert demeanor</span></p>
+            <div class="b_xian1"></div>
+        </div>
+        <div class="fire" id="fire">
+            <div class="bolt">
+                <ul>
+                    {dede:field.fengcai1 runphp="yes"}if(@me == "") @me = ""; else @me = "
+                    <li><img src='@me' /></li>";{/dede:field.fengcai1} {dede:field.fengcai2 runphp="yes"}if(@me == "") @me = ""; else @me = "
+                    <li><img src='@me' /></li>";{/dede:field.fengcai2} {dede:field.fengcai3 runphp="yes"}if(@me == "") @me = ""; else @me = "
+                    <li><img src='@me' /></li>";{/dede:field.fengcai3} {dede:field.fengcai4 runphp="yes"}if(@me == "") @me = ""; else @me = "
+                    <li><img src='@me' /></li>";{/dede:field.fengcai4} {dede:field.fengcai5 runphp="yes"}if(@me == "") @me = ""; else @me = "
+                    <li><img src='@me' /></li>";{/dede:field.fengcai5}
+                </ul>
+            </div>
+            <div class="sign">
+                <input class="sigl fl" type="text" value="" placeholder="输入您的问题，在线图文咨询" />
+                <a href="javascript:void(0);return false;" onclick="openZoosUrl();return false;" class="sigr fl">发送</a>
+            </div>
+            <div class="meld fl">
+                <ul>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    TouchSlide({ slideCell: "#fire", titCell: ".meld ul", mainCell: ".bolt ul", effect: "leftLoop", autoPlay: false, interTime: 5000, autoPage: true });
+    </script>
+    <div class="cl"></div>
+    <div class="kong"></div>
+    <div class="keytel">
+        <a href="tel:0731-89912120" target="_self"><img src="/images/sd1_02.jpg"/></a>
+    </div>
+    <div class="kong"></div>
+    <div class="short">
+        <img src="/images/sen1_03.png">
+        <p><b>便民在线服务</b><span>ONLINE SERVICE</span></p>
+        <div class="b_xian1"></div>
+    </div>
+    <ul class="c2017_3 clear">
+        <li>
+            <a href="javascript:openZoosUrl()" target="_blank">
+            <img src="/images/pd2017_16.jpg" alt="">
+            <p>医保查询</p>
+        </a>
+        </li>
+        <li>
+            <a href="javascript:openZoosUrl()" target="_blank">
+            <img src="/images/pd2017_18.jpg" alt="">
+            <p>医师查询</p>
+        </a>
+        </li>
+        <li>
+            <a href="javascript:openZoosUrl()" target="_blank">
+            <img src="/images/pd2017_20.jpg" alt="">
+            <p>来院路线</p>
+        </a>
+        </li>
+    </ul>
+    <div class="kong zsdtnone"></div>
+    {dede:include filename="footer.htm" /}
+    <script src="/swt/swt.js"></script>
+</body>
+
+</html>

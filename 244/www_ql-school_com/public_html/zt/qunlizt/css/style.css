@@ -1,0 +1,1020 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+img {
+    border: none;
+}
+
+li {
+    list-style: none;
+}
+
+.all {
+    width: 100%;
+    /*background:#ccc;*/
+    min-width: 1140px;
+}
+
+.main {
+    width: 100%;
+    min-width: 1140px;
+    max-width: 1920px;
+}
+
+input,
+button {
+    border: 0;
+    outline: none;
+}
+
+a {
+    color: #fff;
+}
+
+
+
+
+
+/*-----------------------------------导航框--------------------------------*/
+
+.slideBox {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    max-height: 1920px;
+    min-width: 1140px;
+    overflow: hidden;
+    padding-top: 110px;
+}
+
+.imgBox {
+    position: relative;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+
+.imgBox a {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 555;
+    display: none;
+}
+
+.imgBox a img {
+    width: 100%;
+    height: 100%;
+}
+
+.imgBox .currentImg {
+    display: block;
+}
+
+.slideBox ol {
+    position: absolute;
+    left: 600px;
+    width: 180px;
+    bottom: 20px;
+    z-index: 9999;
+}
+
+.slideBox ol li {
+    float: left;
+    margin-left: 20px;
+}
+
+.slideBox ol li a {
+    display: block;
+    width: 8px;
+    height: 8px;
+    background: black;
+    border-radius: 4px;
+}
+
+.slideBox ol li a.slideCurrent {
+    background: red;
+}
+
+.navBox {
+    height: 110px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99999999;
+    background: url("../images/nav_bigbg.png") #000 repeat-x 0 -2px;
+}
+
+.logo1 {
+    display: block;
+    text-align: center;
+    height: 55px;
+    width: 255px;
+    padding-top: 10px;
+}
+
+.logo1 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.navBox ul {
+    height: 40px;
+    width: 1000px;
+    margin-top: 0px;
+}
+
+.navBox ul li {
+    float: left;
+    height: 40px;
+    width: 120px;
+    position: relative;
+    background: url("../images/nav_bg.png") no-repeat 0 5px;
+}
+
+.navBox ul li dl {
+    position: absolute;
+    left: 0;
+    top: 42px;
+    z-index: 999;
+    width: 100%
+}
+
+.navBox ul li a {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    width: 80px;
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 0, 0, 0);
+}
+
+.navBox ul li>a:hover {
+    border-bottom: 2px solid red;
+    /*color:red;*/
+}
+
+.navBox ul li:hover dl {
+    height: auto;
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    -ms-transition: all 0.3s ease-in;
+}
+
+.navBox ul dl {
+    background: black;
+    height: 0;
+    opacity: 0.9;
+    -ms-filter: -webkit-appearance:none;
+    -moz-appearance: none;
+    appearance: none;
+    ;
+    filter: alpha(opacity=90);
+    overflow: hidden;
+}
+
+.navBox ul dl dd a {
+    font-size: 12px;
+    width: 100%;
+    color: white;
+    border-bottom: 1px solid white;
+    opacity: 1;
+}
+
+.navBox ul dl dd a:hover {
+    color: red;
+}
+
+
+.hotLine {
+    display: block;
+    width: 900px;
+    position: absolute;
+    left: 50%;
+    margin-left: -470px;
+    text-align: right;
+    height: 0;
+    top: 60px;
+}
+
+.hotLine img {
+    width: 150px;
+
+    position: relative;
+    top: -40px;
+}
+
+
+.production {
+    width: 100%;
+    position: relative;
+    height: 800px;
+    font-family: "微软雅黑";
+    margin: 0;
+}
+
+.production .titleBox {
+    background: #e74159;
+    height: 180px;
+    padding-top: 40px;
+}
+
+.production .titleBox h1 a {
+    display: block;
+    width: 300px;
+}
+
+.worksContent {
+    width: 1000px;
+    position: absolute;
+    top: 160px;
+    left: 180px;
+}
+
+.progress {
+    clear: both;
+    height: 3px;
+    background: #8c8c8c;
+    margin: 50px 0;
+    position: relative;
+}
+
+.progress div {
+    position: absolute;
+    width: 500px;
+    height: 3px;
+    top: 0;
+    left: 0;
+    background: #b02133;
+}
+
+
+.students {
+    width: 100%;
+    height: 427px;
+    background-image: url('../images/students.png');
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader( src='../images/students.png',
+    sizingMethod='scale');
+}
+
+.students h1 {
+    padding-top: 40px;
+}
+
+.students h1 a {
+    width: 220px;
+    display: block;
+}
+
+.girlsBox {
+    width: 1000px;
+    position: relative;
+}
+
+.girls {
+    height: 160px;
+    width: 850px;
+    overflow: hidden;
+}
+
+.girls ul {
+    margin-left: 10px;
+}
+
+.girls ul li {
+    float: left;
+    margin-left: 46px;
+}
+
+.girls ul li a {
+    display: block;
+    width: 158px;
+    height: 160px;
+}
+
+#girls ul li a {
+    border-radius: 80px;
+    overflow: hidden;
+}
+
+.hoverimg {
+    display: none;
+}
+
+.click {
+    position: absolute;
+    top: 30px;
+    width: 80px;
+    height: 80px;
+}
+
+.clickL {
+    left: 0;
+    background: url("../images/clickL1.png") no-repeat;
+}
+
+.clickR {
+    right: 0;
+    background: url("../images/clickR1.png") no-repeat 40px 0;
+}
+
+#demo {
+    background: #FFF;
+    overflow: hidden;
+    width: 1000px;
+    height: 275px
+}
+
+#indemo {
+    float: left;
+    width: 2000%;
+}
+
+#demo1 {
+    float: left;
+}
+
+#demo1 .smallImg,
+#demo2 .smallImg {
+    height: 137px;
+    margin: 0;
+    padding: 0;
+}
+
+#demo2 li,
+#demo1 li {
+    float: left;
+    display: inline-block;
+}
+
+#demo1 li>div,
+#demo2 li>div {
+    position: relative;
+    cursor: pointer;
+}
+
+#demo2 {
+    float: left;
+}
+
+.wid2 img {
+    width: 322px !important;
+}
+
+.clear dt {
+    height: 30px;
+    padding-left: 30px;
+    line-height: 30px;
+    background: url("../images/phone.png") no-repeat;
+    color: white;
+}
+
+.clear dd a {
+    display: block;
+    margin: 8px 0;
+    text-decoration: none;
+    color: #aaa;
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+.clear ul {
+    margin-top: 15px;
+}
+
+.clear ul li {
+    float: left;
+    margin-left: 15px;
+}
+
+.clear ul li a {
+    display: block;
+    width: 25px;
+    height: 25px;
+}
+
+.clear ul li a.weixin {
+    background: url("../images/lianxi.png") no-repeat 0 0;
+}
+
+.clear ul li a.xinlang {
+    background: url("../images/lianxi.png") no-repeat -32px 0;
+}
+
+.clear ul li a.tengxun {
+    background: url("../images/lianxi.png") no-repeat -65px 0;
+}
+
+.clear ul li a.qq {
+    background: url("../images/lianxi.png") no-repeat -99px 0;
+}
+
+.part h5 {
+    color: #aaa;
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.part ol li a {
+    display: block;
+    margin-top: 5px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #aaa;
+    margin: 12px 0;
+}
+
+.end {
+    height: 40px;
+}
+
+.end p {
+    width: 1000px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    color: #aaa;
+}
+
+.rightFixed {
+    width: 50px;
+    position: fixed;
+    right: 0;
+    bottom: 200px;
+    z-index: 999999;
+}
+
+.rightFixed ul li a {
+    display: block;
+    width: 45px;
+    height: 40px;
+}
+
+.rightFixed ul li a.f1 {
+    background: url("../images/f.png") no-repeat 0 0;
+}
+
+.rightFixed ul li a.f1:hover {
+    background: url("../images/f_hvoer.png") no-repeat 0 0;
+}
+
+.rightFixed ul li a.f2 {
+    background: url("../images/f.png") no-repeat 0 -40px;
+}
+
+.rightFixed ul li a.f2:hover {
+    background: url("../images/f_hvoer.png") no-repeat 0 -40px;
+}
+
+.rightFixed ul li a.f3 {
+    background: url("../images/f.png") no-repeat 0 -80px;
+}
+
+.rightFixed ul li a.f3:hover {
+    background: url("../images/f_hvoer.png") no-repeat 0 -80px;
+}
+
+.rightFixed ul li a.f4 {
+    background: url("../images/f.png") no-repeat 0 -120px;
+}
+
+.rightFixed ul li a.f4:hover {
+    background: url("../images/f_hvoer.png") no-repeat 0 -120px;
+}
+
+
+.contactUs {
+    width: 100%;
+    background: #e74159;
+    padding: 60px 0 30px 0;
+}
+
+.contactUs h1 a {
+    display: block;
+    width: 220px;
+}
+
+.mapBox {
+    width: 100%;
+    height: 300px;
+}
+
+
+.news {
+    width: 100%;
+    min-width: 1140px;
+}
+
+.news h1 {
+    margin-top: 40px;
+}
+
+.news h1 a {
+    display: block;
+    width: 240px;
+}
+
+.newsContent {
+    width: 1000px;
+    font-family: "微软雅黑";
+    margin-top: 30px;
+}
+
+.newsContent>div {
+    width: 475px;
+    float: left;
+}
+
+.newsContent dt {
+    font-size: 16px;
+    color: #353434;
+    margin-bottom: 10px;
+}
+
+.newsContent dd {
+    height: 35px;
+    border-bottom: 1px dotted #ccc;
+    line-height: 35px;
+    font-size: 12px;
+    position: relative;
+}
+
+.newsContent dd a {
+    text-decoration: none;
+    position: absolute;
+    left: 0;
+    color: #666;
+}
+
+.newsContent dd em {
+    position: absolute;
+    right: 0;
+    font-size: 12px;
+    color: #ccc;
+}
+
+.newsContent div>a {
+    display: block;
+    width: 120px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    margin-left: 0;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    background: #e74159;
+    margin-top: 40px;
+}
+
+.newsContent div>a:hover {
+    text-decoration: underline;
+}
+
+.headnav {
+    width: 100%;
+    height: 36px;
+    background: #816932;
+    color: #fff;
+}
+
+.headnavs {
+    width: 1185px;
+    margin: 0 auto;
+    line-height: 36px;
+}
+
+.header {
+    width: 1185px;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.icon {
+    margin-right: 5px;
+}
+
+.banner {
+    width: 100%;
+    margin-bottom: -5px;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.nav {
+    width: 720px;
+    margin-top: 10px;
+}
+
+.nav img {
+    float: left;
+    margin-left: 40px;
+}
+
+.footer {
+    background: #4B3D1B;
+    height: 510px;
+}
+
+.foot {
+    color: #fff;
+    width: 1200px;
+    margin: 0px auto;
+}
+
+.foot1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 28px;
+    background: url(../images/erweima.png) right center no-repeat;
+}
+
+.foot1 p {
+    line-height: 45px;
+}
+
+.footk {
+    background: url(../images/xian.png) right center no-repeat;
+    float: left;
+    width: 25%;
+    height: 256px;
+}
+
+.footk h3 {
+    text-align: center;
+}
+
+.footk p {
+    width: 225px;
+    margin: 10px auto;
+}
+
+.footk p.zixunrx {
+    background: url(../images/tel.png) 10px center no-repeat;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+    margin: 10px auto;
+}
+
+.cl {
+    clear: both;
+}
+
+.no-bg {
+    background: none;
+}
+
+.copy {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.baoming {
+    width: 100%;
+    background: url(../images/biaodan.jpg) no-repeat;
+    height: 408px;
+}
+
+.baomings {
+    width: 540px;
+    height: 408px;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+}
+
+.baomings h1 {
+    margin-bottom: 70px;
+}
+
+.xingming {
+    margin-bottom: 40px;
+    font-size: 32px;
+}
+
+.xingming input {
+    font-size: 23px;
+    text-indent: 2em;
+    color: #fff;
+    height: 43px;
+    width: 400px;
+    border: 2px #fff solid;
+    border-radius: 40px;
+    background: none;
+}
+
+.tijiao {
+    width: 160px;
+    height: 40px;
+    background: #fff;
+    color: red;
+    line-height: 40px;
+    border-radius: 40px;
+    font-size: 28px;
+}
+
+.pinpai {
+    width: 100%;
+    background: url(../images/pinpai.jpg) center center no-repeat #d3a01f;
+    height: 626px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.pinpai2 {
+    width: 1200px;
+    margin: 0px auto;
+    padding-top: 300px;
+}
+
+.pinpai2 a {
+    background: #fff;
+    color: #aa8016;
+    width: 170px;
+    height: 48px;
+    font-size: 40px;
+    border-radius: 40px;
+    display: inline-block;
+    line-height: 48px;
+    margin-right: 60px;
+    text-align: center;
+}
+
+.pinpais {
+    background: url(../images/pinpai_sm.jpg) center center no-repeat;
+    width: 100%;
+    height: 859px;
+}
+
+.pinpai3 {
+    background: url(../images/pinpai3.jpg) center center no-repeat;
+    width: 100%;
+    height: 658px;
+}
+
+.shizi_title {
+    background: url(../images/shizi.jpg) center center no-repeat;
+    width: 100%;
+    height: 279px;
+}
+
+.tuandui {
+    padding-bottom: 50px;
+    background: url(../images/tuandui_bgs.png) center bottom no-repeat #d3a01f;
+}
+
+.tuanduis {
+    width: 1238px;
+    margin: 0px auto;
+}
+
+.tuanduis img {
+    margin: 10px auto;
+}
+
+.liaojie {
+    display: block;
+    margin: 10px auto;
+}
+
+.zuopin_title {
+    background: url(../images/zuopin_title.png) center center no-repeat #d3a01f;
+    height: 247px;
+}
+
+.top {
+    position: fixed;
+    top: 70%;
+    right: 30px;
+}
+
+.zuopins {
+    background: url(../images/fenwei.jpg) bottom center no-repeat #faefd4;
+    width: 100%;
+    height: 1470px;
+}
+
+.fenwei2 {
+    background: url(../images/fenwei2.jpg) center center no-repeat;
+    height: 826px;
+    width: 100%;
+}
+
+.fenwei3 {
+    background: url(../images/fenwei3.jpg) center center no-repeat;
+    height: 722px;
+    width: 100%;
+}
+
+.rongyuzizhi {
+    background: url(../images/rongyuzizhi.jpg) center center no-repeat;
+    height: 232px;
+    width: 100%;
+}
+
+.shiting {
+    display: block;
+    margin: 0 auto;
+}
+
+.rongyu {
+    background: #d3a01f;
+}
+
+.shiting {
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.picScroll-left {
+    overflow: hidden;
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.picScroll-left .hd {
+    overflow: hidden;
+    height: 30px;
+    background: #f4f4f4;
+    padding: 0 10px;
+}
+
+.picScroll-left .hd .prev,
+.picScroll-left .hd .next {
+    display: block;
+    width: 5px;
+    height: 9px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    background: url("../images/arrow.png") 0 0 no-repeat;
+}
+
+.picScroll-left .hd .next {
+    background-position: 0 -50px;
+}
+
+.picScroll-left .hd .prevStop {
+    background-position: -60px 0;
+}
+
+.picScroll-left .hd .nextStop {
+    background-position: -60px -50px;
+}
+
+.picScroll-left .hd ul {
+    float: right;
+    overflow: hidden;
+    zoom: 1;
+    margin-top: 10px;
+    zoom: 1;
+}
+
+.picScroll-left .hd ul li {
+    float: left;
+    width: 9px;
+    height: 9px;
+    overflow: hidden;
+    margin-right: 5px;
+    text-indent: -999px;
+    cursor: pointer;
+    background: url("../images/icoCircle.gif") 0 -9px no-repeat;
+}
+
+.picScroll-left .hd ul li.on {
+    background-position: 0 0;
+}
+
+.picScroll-left .bd {}
+
+.picScroll-left .bd ul {
+    overflow: hidden;
+    zoom: 1;
+}
+
+.picScroll-left .bd ul li {
+    margin: 0 8px;
+    float: left;
+    _display: inline;
+    overflow: hidden;
+    text-align: center;
+}
+
+.picScroll-left .bd ul li .pic {
+    text-align: center;
+}
+
+.picScroll-left .bd ul li .pic img {
+    display: block;
+}
+
+.picScroll-left .bd ul li .pic a:hover img {
+    border-color: #999;
+}
+
+.picScroll-left .bd ul li .title {
+    line-height: 24px;
+}
+
+.prevCell i {
+    font-size: 40px;
+    color: #fff;
+    float: left;
+    margin-top: 70px;
+}
+
+.picScroll-left .bd {
+    float: left;
+}
+
+.nextCell i {
+    font-size: 40px;
+    color: #fff;
+    float: left;
+    margin-top: 70px;
+}
+
+.zuopins ul {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.zuopins ul li {
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.zuopins ul li h3 {
+    text-align: center;
+    font-size: 28px;
+}
+
+.zuopins ul li p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.return-home a {
+    color: #fff;
+}
+
+/*#showdiv {
+    display: none !important
+}*/
+
+.nav a {
+    float: left;
+    color: #8f6b10;
+    width: 20%;
+    text-align: center;
+}
+
+.nav a h3 {
+    font-size: 24px;
+}
+
+.nav a:hover {
+    color: #e00b3d;
+}
+
+.nav a.hover {
+    color: #e00b3d;
+}
+
+.nav a span {
+    font-size: 12px;
+}

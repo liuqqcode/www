@@ -1,0 +1,52 @@
+#mobile_minchat_div {
+    display: none !important;
+}
+#LXB_CONTAINER,
+.lxb-container {
+    right: -10000px !important;
+}
+
+#qiao-wrap,
+#QIAO_INVITE_CONTAINER,
+#QIAO_ICON_CONTAINER.qiao-icon-sector,
+#qiao-mobile-wrap,
+#qiao-wrap,
+#LXB_CONTAINER_SHOW,
+#LRdiv1,
+#LRdiv0,
+#k_s_ol_inviteWin,
+#_ks_ol_inviteWin_fl,
+#_ks_ol_inviteWin,
+#k_s_ol_floatWin_fl,
+#open_xs_yx,
+#ks_ol_floatWin,
+#_ks_ol_inviteWin,
+#k_s_ol_chatWinSm {
+    display: none !important;
+}
+
+#LXB_CONTAINER_SHOW {
+    right: -10000px !important;
+}
+
+#BDBridgeIconWrap,
+#BDBridgeInviteWrap,
+#BDBridgeMess,
+.bds-credit-pop,
+#qiao-wrap,
+#LXB_CONTAINER,
+.lxb-container,
+.qiao-icon-sector-inner,
+#qiao-wrap,
+#qiao-icon-body,
+#qiao-icon-wrap,
+#qiao-icon-wrap .qiao-icon-head,
+#qiao-wrap #qiao-icon-wrap,
+#ks_ol_floatWin,
+#_ks_ol_inviteWin {
+    display: none !important;
+}
+
+#LRfloater1 {
+    display: none !important;
+}

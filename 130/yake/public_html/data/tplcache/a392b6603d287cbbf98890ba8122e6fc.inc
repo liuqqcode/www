@@ -1,0 +1,26 @@
+{dede:field name='keywords'}智齿,北京{/dede:field}
+{dede:field name='description'}俗话说牙痛不是病，但痛起来要人命，这说的就是长智齿时发炎的情形。智齿不仅不会产生咀嚼力，还会由于刷牙刷不到而产生蛀牙，进而影响{/dede:field}
+{dede:field name='title'}北京拔一颗智齿多少钱{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">　　俗话说牙痛不是病，但痛起来要人命，这说的就是长智齿时发炎的情形。智齿不仅不会产生咀嚼力，还会由于刷牙刷不到而产生蛀牙，进而影响旁边的真牙。因此对于智齿，较好是将其拔掉。那么，北京拔一颗智齿多少钱呢?</span>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1026/20171026112121981.jpg" style="width: 308px; height: 221px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　智齿拔除会疼吗?</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　对此，维尔口腔医院医生表示，拔智齿的价格并不是固定的，与很多因素有关，具体如下：</span></strong></p>
+<p><span style="font-size:16px;">　　1、患者的口腔情况会影响拔智齿的价格。这是因为如果患者的口腔情况较差，患有各种牙周疾病，那么还需要先治疗好这些疾病，然后才能拔牙。</span></p>
+<p><span style="font-size:16px;">　　2、智齿的拔除难度会影响价格。一般来说，拔智齿的价格是按照智齿的拔除难度来收费的，在拔牙之前，医生都会先对牙齿进行拍片，查看智齿的生长情况，从而确定拔除的难度。如果拔牙的难度较大，那么收费就会比较高。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【点击咨询】【在线预约】</span></a></span></p>
+<p><span style="font-size:16px;">　　3、还与患者选择的医院和医生有关。不同的医院，规模实力、技术设备、医生水平等都是有差别的，拔牙的价格自然就会有所不同。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2017/1026/20171026112138942.jpg" style="width: 450px; height: 280px;" /><br />
+有疑问？点击咨询在线专家</span></a></span></p>
+<p><span style="font-size:16px;">　　温馨提示：北京拔一颗智齿要多少钱?以上就是回答，希望对您有所帮助。拔智齿较好是到正规专业的口腔医院，这样才能保证手术的安全。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">拨打咨询电话：400-6655-111</span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">　　俗话说牙痛不是病，但痛起来要人命，这说的就是长智齿时发炎的情形。智齿不仅不会产生咀嚼力，还会由于刷牙刷不到而产生蛀牙，进而影响旁边的真牙。因此对于智齿，较好是将其拔掉。那么，北京拔一颗智齿多少钱呢?</span>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1026/20171026112121981.jpg" style="width: 308px; height: 221px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　智齿拔除会疼吗?</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　对此，维尔口腔医院医生表示，拔智齿的价格并不是固定的，与很多因素有关，具体如下：</span></strong></p>
+<p><span style="font-size:16px;">　　1、患者的口腔情况会影响拔智齿的价格。这是因为如果患者的口腔情况较差，患有各种牙周疾病，那么还需要先治疗好这些疾病，然后才能拔牙。</span></p>
+<p><span style="font-size:16px;">　　2、智齿的拔除难度会影响价格。一般来说，拔智齿的价格是按照智齿的拔除难度来收费的，在拔牙之前，医生都会先对牙齿进行拍片，查看智齿的生长情况，从而确定拔除的难度。如果拔牙的难度较大，那么收费就会比较高。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【点击咨询】【在线预约】</span></a></span></p>
+<p><span style="font-size:16px;">　　3、还与患者选择的医院和医生有关。不同的医院，规模实力、技术设备、医生水平等都是有差别的，拔牙的价格自然就会有所不同。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2017/1026/20171026112138942.jpg" style="width: 450px; height: 280px;" /><br />
+有疑问？点击咨询在线专家</span></a></span></p>
+<p><span style="font-size:16px;">　　温馨提示：北京拔一颗智齿要多少钱?以上就是回答，希望对您有所帮助。拔智齿较好是到正规专业的口腔医院，这样才能保证手术的安全。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">拨打咨询电话：400-6655-111</span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DXa0220-11M0_lit.jpg{/dede:field}

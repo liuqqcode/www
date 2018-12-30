@@ -1,0 +1,44 @@
+{dede:field name='keywords'}寿命{/dede:field}
+{dede:field name='description'}种植牙是我们在生活中当面出现了牙齿缺损的时候，或者是当牙齿在患有疾病的时候拔掉牙齿以后，对牙齿进行修复的一种方法 ,被称为人类{/dede:field}
+{dede:field name='title'}种植牙寿命有多长{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">　　种植牙是我们在生活中当面出现了牙齿缺损的时候，或者是当牙齿在患有疾病的时候拔掉牙齿以后，对牙齿进行修复的一种方法 ,被称为人类的第三幅牙齿，那么种植牙可以用多久?它的寿命有多长呢?有些牙齿缺失的中年人误以为种植牙只能维持十年，担忧种植牙脱落后，因牙槽骨受损，无法再补救。而牙齿的使用寿命与个人维护、口腔卫生情况以及全身健康情况有密切关系。如今，随着技术的改进和人们对口腔卫生的重视，种植牙的使用寿命也在不断延长。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">种植牙可以用多久？</span></span></a>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0525/20170525033649234.jpg" style="width: 300px; height: 198px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;种植牙能用多长时间&lt;&lt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　种植牙的使用寿命受种植者自身条件的因素影响</span></strong></p>
+<p><span style="font-size:16px;">　　如骨量充足(包括高度与厚度)，骨密度适宜，牙龈条件好则使用寿命长，相反则影响义齿使用寿命;</span></p>
+<p><strong><span style="font-size:16px;">　　种植牙的使用寿命受病人对种植牙的维护与清洁的因素影响</span></strong></p>
+<p><span style="font-size:16px;">　　种植牙与天然牙一样，使用者的爱惜及保养都非常重要，须配合医生定期检查及为种植牙进行维护。种植牙应保持清洁并定期到医院复查，以避免发生种植体周围组织的感染。在种上种植牙后，要注意与邻牙之间区域的卫生，以防邻牙发生龋坏。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;点击400-6655-111进行咨询，提前定制种牙方案&lt;&lt;</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　种植牙的寿命取决于后期的维护</span></strong></p>
+<p><span style="font-size:16px;">　　种植牙本身是依赖相容性很好的种植体植入牙槽骨充分相容后安装连接种植体牙根和烤瓷冠的基台，本身是非常牢固稳定的，而且又方便清洁牙齿，外边看来就和真牙无任何差别，可以恢复真牙的咀嚼能力，只要维护的好是可以达到终身受用的。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;种植牙注意事项&lt;&lt;</span></a></span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><span style="color:#ff0000;"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0525/20170525034258569.jpg" style="width: 450px; height: 280px;" /><br />
+&gt;&gt;有问题？点击咨询在线专家&lt;&lt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　【专业推荐&mdash;&mdash;维尔口腔种植牙】</span></strong></p>
+<p><span style="font-size:16px;">　　一直以来，北京维尔都秉承着以患者为核心的服务理念，追求服务流程标准化，服务细节个性化，做到主动服务，感动服务，准确服务，亲情服务，预见性服务，珍惜为每一个顾客服务的机会，让患者来到维尔体验&ldquo;你是顾客不是病人&rdquo;的服务目标。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【在线咨询】【点击预约】</span></a></span></p>
+<p><span style="font-size:16px;">　　在种植牙技术方面，维尔采用先进种植系统。维尔种植系统是依据亚洲人的骨密度，骨厚度，骨宽度，成骨量等要素，集多种植体之长，它有效解决了种植体生物相容性的问题，使种植牙的得到了提升。</span></p>
+<p><span style="font-size:16px;">　　在消毒防护方面，维尔口腔将消毒模式提升至16层，为患室一医一助一机一用一消毒&rdquo;的诊疗模式，有效避免了肺结核，肝炎，艾滋病等各种传染性疾病的交叉感染，避免了患者因器械污染引发的感染，保障了患者在维尔种牙的安全提供&ldquo;一人一诊室一治疗。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0525/20170525033947145.jpg" style="width: 300px; height: 183px;" /><br />
+<span style="color:#ff0000;">&gt;&gt;点击查看更多维尔种植牙成功案例&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　在医生团队方面，维尔口腔拥有经验丰富临床经验种植牙医生团队，参与并成功为上万例患者进行了牙齿种植</span></p>
+<p><span style="font-size:16px;">　　维尔温馨提示：提前预约挂号，到院无需挂号(免挂号费)即可实现轻松无障碍就诊!这里不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话：400-6655-111。</span></a></span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">　　种植牙是我们在生活中当面出现了牙齿缺损的时候，或者是当牙齿在患有疾病的时候拔掉牙齿以后，对牙齿进行修复的一种方法 ,被称为人类的第三幅牙齿，那么种植牙可以用多久?它的寿命有多长呢?有些牙齿缺失的中年人误以为种植牙只能维持十年，担忧种植牙脱落后，因牙槽骨受损，无法再补救。而牙齿的使用寿命与个人维护、口腔卫生情况以及全身健康情况有密切关系。如今，随着技术的改进和人们对口腔卫生的重视，种植牙的使用寿命也在不断延长。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">种植牙可以用多久？</span></span></a>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploads/allimg/c180322/1521D421O14P-1LC.jpg" style="width: 300px; height: 198px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;种植牙能用多长时间&lt;&lt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　种植牙的使用寿命受种植者自身条件的因素影响</span></strong></p>
+<p><span style="font-size:16px;">　　如骨量充足(包括高度与厚度)，骨密度适宜，牙龈条件好则使用寿命长，相反则影响义齿使用寿命;</span></p>
+<p><strong><span style="font-size:16px;">　　种植牙的使用寿命受病人对种植牙的维护与清洁的因素影响</span></strong></p>
+<p><span style="font-size:16px;">　　种植牙与天然牙一样，使用者的爱惜及保养都非常重要，须配合医生定期检查及为种植牙进行维护。种植牙应保持清洁并定期到医院复查，以避免发生种植体周围组织的感染。在种上种植牙后，要注意与邻牙之间区域的卫生，以防邻牙发生龋坏。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;点击400-6655-111进行咨询，提前定制种牙方案&lt;&lt;</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　种植牙的寿命取决于后期的维护</span></strong></p>
+<p><span style="font-size:16px;">　　种植牙本身是依赖相容性很好的种植体植入牙槽骨充分相容后安装连接种植体牙根和烤瓷冠的基台，本身是非常牢固稳定的，而且又方便清洁牙齿，外边看来就和真牙无任何差别，可以恢复真牙的咀嚼能力，只要维护的好是可以达到终身受用的。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;种植牙注意事项&lt;&lt;</span></a></span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><span style="color:#ff0000;"><img alt="" src="/uploads/allimg/c180322/1521D421T31Z-24210.jpg" style="width: 450px; height: 280px;" /><br />
+&gt;&gt;有问题？点击咨询在线专家&lt;&lt;</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　【专业推荐&mdash;&mdash;维尔口腔种植牙】</span></strong></p>
+<p><span style="font-size:16px;">　　一直以来，北京维尔都秉承着以患者为核心的服务理念，追求服务流程标准化，服务细节个性化，做到主动服务，感动服务，准确服务，亲情服务，预见性服务，珍惜为每一个顾客服务的机会，让患者来到维尔体验&ldquo;你是顾客不是病人&rdquo;的服务目标。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【在线咨询】【点击预约】</span></a></span></p>
+<p><span style="font-size:16px;">　　在种植牙技术方面，维尔采用先进种植系统。维尔种植系统是依据亚洲人的骨密度，骨厚度，骨宽度，成骨量等要素，集多种植体之长，它有效解决了种植体生物相容性的问题，使种植牙的得到了提升。</span></p>
+<p><span style="font-size:16px;">　　在消毒防护方面，维尔口腔将消毒模式提升至16层，为患室一医一助一机一用一消毒&rdquo;的诊疗模式，有效避免了肺结核，肝炎，艾滋病等各种传染性疾病的交叉感染，避免了患者因器械污染引发的感染，保障了患者在维尔种牙的安全提供&ldquo;一人一诊室一治疗。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D421YH40-352E.jpg" style="width: 300px; height: 183px;" /><br />
+<span style="color:#ff0000;">&gt;&gt;点击查看更多维尔种植牙成功案例&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　在医生团队方面，维尔口腔拥有经验丰富临床经验种植牙医生团队，参与并成功为上万例患者进行了牙齿种植</span></p>
+<p><span style="font-size:16px;">　　维尔温馨提示：提前预约挂号，到院无需挂号(免挂号费)即可实现轻松无障碍就诊!这里不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话：400-6655-111。</span></a></span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D421O14P-1LC_lit.jpg{/dede:field}

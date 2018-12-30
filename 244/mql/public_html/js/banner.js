@@ -1,0 +1,13 @@
+document.writeln("<div class=\"swiper-container lunBo1\">");
+document.writeln("    <div class=\"swiper-wrapper\">");
+document.writeln("        <div class=\"swiper-slide\"><a href=\"javascript:openZoosUrl('chatwin','&e=banner美团')\"><img src=\"/images/mbanner_meituan.jpg\" alt=\"\" /></a></div>");
+document.writeln("        <div class=\"swiper-slide\"><a href=\"javascript:openZoosUrl('chatwin','&e=banner补贴')\"><img src=\"/images/banner_bt.jpg\" alt=\"\" /></a></div>");
+document.writeln("        <div class=\"swiper-slide\"><a href=\"javascript:openZoosUrl('chatwin','&e=banner就业保障')\"><img src=\"/images/banner_jybz.jpg\" alt=\"\" /></a></div>");
+document.writeln("        <div class=\"swiper-slide\"><a href=\"javascript:openZoosUrl('chatwin','&e=banner老师')\"><img src=\"/images/banner_laoshi.jpg\" alt=\"\" /></a></div>");
+document.writeln("        <div class=\"swiper-slide\"><a href=\"javascript:openZoosUrl('chatwin','&e=banner证书')\"><img src=\"/images/banner_zz.jpg\" alt=\"\" /></a></div>");
+document.writeln("        <div class=\"swiper-slide\"><a href=\"javascript:openZoosUrl('chatwin','&e=banner美丽人生')\"><img src=\"/images/banner_1.jpg\" alt=\"\" /></a></div>");
+document.writeln("        <div class=\"swiper-slide\"><a href=\"javascript:openZoosUrl('chatwin','&e=banner学校')\"><img src=\"/images/banner.jpg\" alt=\"\" /></a></div>");
+document.writeln("        <div class=\"swiper-slide\"><a href=\"javascript:openZoosUrl('chatwin','&e=banner暑期特惠')\"><img src=\"/images/banner_2.jpg\" alt=\"\" /></a></div>");
+document.writeln("    </div>");
+document.writeln("    <div class=\"swiper-pagination\"></div>");
+document.writeln("</div>");

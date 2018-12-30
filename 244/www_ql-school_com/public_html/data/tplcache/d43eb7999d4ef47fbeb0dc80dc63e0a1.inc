@@ -1,0 +1,1 @@
+<dd><a href="[field:typelink/]#integrated">[field:typename/]</a></dd>

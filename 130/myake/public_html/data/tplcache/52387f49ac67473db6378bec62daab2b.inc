@@ -1,0 +1,80 @@
+{dede:field name='keywords'}牙齿{/dede:field}
+{dede:field name='description'}牙齿稀疏容易嵌塞食物而损伤牙周组织，引起牙龈炎，牙周炎，同时易于龋变。严重者可影响患者的容貌美观，造成心理精神障碍。所以，建议{/dede:field}
+{dede:field name='title'}牙齿稀疏怎么矫正？{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 牙齿稀疏容易嵌塞食物而损伤牙周组织，引起牙龈炎，牙周炎，同时易于龋变。严重者可影响患者的容貌美观，造成心理精神障碍。所以，建议进行牙齿稀疏矫正。</span><br />
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/0829/20170829023842430.jpg" style="width: 300px; height: 200px;" /></a></span></p>
+<div>
+<div style="text-align: center;">
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size: 18px;"><span style="line-height: 22.3906px;">牙齿稀疏怎么矫正</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">　　<strong>牙列稀疏有四种类型：</strong>1、牙体形态小，颌骨形态正常;2、先天缺牙，颌骨形态正常;3、牙体形态正常，颌骨过大;4、拔牙后不镶牙，引起近远中邻牙移位而产生间隙。</span></p>
+<p><span style="font-size:16px;">　　对于牙齿稀疏矫正方法有多种，如牙齿矫正器，只需一两年就能还您完美健康的牙齿;另一种方法就是美容冠，通过使用美容冠能够快速完成牙齿稀疏的矫正。</span></p>
+<p><span style="font-size:16px;">　　牙齿矫正器，就是我们常说的牙齿矫正。它是通过外力将牙齿移动到合适的位置，这种方案需要时间较长，一般是1、2年左右。牙齿正畸有多种矫正技术，如MBT直丝弓矫正、舌侧矫正等。</span></p>
+<p><span style="font-size:16px;">　　美容冠，它是流行于欧美、日韩的一种新兴牙齿修复技术，在传统烤瓷牙的基础上强调牙齿的美容效果，对错位牙、畸形牙的临床冠部分施以专业手段，用美容冠加以修复。它的优点是修复时间短，7天就可以修复。另外材质的生物相容性很好，可以与口腔高度相容，原装进口材质，仿生设计。通过29个色阶对比设计，颜色逼真美观，可以达到好的效果。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>牙齿矫正需要多少钱</strong></span></a></span></p>
+<div>
+<div style="text-align: center;">
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-size: 16px; font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">维尔口腔医院，专业塑造品牌！</span></h2>
+</section>
+</div>
+</div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　1、专业团队 放心诊疗</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　国内知名口腔教授刘志杰领衔的口腔医师团队，让您轻松拥有自然、美观、精细、逼真的牙齿。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　2、即刻手术 节约时长</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔引进先进技术，手术过程仅需5-10分钟，短暂的手术时间降低了手术风险;仅需一次手术，恒久支撑牙冠，咀嚼更给力。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　3、品牌优势 个性修复</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔安全放心，材质安全无害，经久耐用，治疗时会根据顾客牙齿的颜色与形状等实际情况来综合考量，力求整体协调和美观的效果。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/0829/20170829024112797.jpg" style="width: 450px; height: 280px;" /></a></span><br />
+&nbsp;</div>
+<div><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></div>
+<div>&nbsp;</div>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 牙齿稀疏容易嵌塞食物而损伤牙周组织，引起牙龈炎，牙周炎，同时易于龋变。严重者可影响患者的容貌美观，造成心理精神障碍。所以，建议进行牙齿稀疏矫正。</span><br />
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/0829/20170829023842430.jpg" style="width: 300px; height: 200px;" /></a></span></p>
+<div>
+<div style="text-align: center;">
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size: 18px;"><span style="line-height: 22.3906px;">牙齿稀疏怎么矫正</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">　　<strong>牙列稀疏有四种类型：</strong>1、牙体形态小，颌骨形态正常;2、先天缺牙，颌骨形态正常;3、牙体形态正常，颌骨过大;4、拔牙后不镶牙，引起近远中邻牙移位而产生间隙。</span></p>
+<p><span style="font-size:16px;">　　对于牙齿稀疏矫正方法有多种，如牙齿矫正器，只需一两年就能还您完美健康的牙齿;另一种方法就是美容冠，通过使用美容冠能够快速完成牙齿稀疏的矫正。</span></p>
+<p><span style="font-size:16px;">　　牙齿矫正器，就是我们常说的牙齿矫正。它是通过外力将牙齿移动到合适的位置，这种方案需要时间较长，一般是1、2年左右。牙齿正畸有多种矫正技术，如MBT直丝弓矫正、舌侧矫正等。</span></p>
+<p><span style="font-size:16px;">　　美容冠，它是流行于欧美、日韩的一种新兴牙齿修复技术，在传统烤瓷牙的基础上强调牙齿的美容效果，对错位牙、畸形牙的临床冠部分施以专业手段，用美容冠加以修复。它的优点是修复时间短，7天就可以修复。另外材质的生物相容性很好，可以与口腔高度相容，原装进口材质，仿生设计。通过29个色阶对比设计，颜色逼真美观，可以达到好的效果。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>牙齿矫正需要多少钱</strong></span></a></span></p>
+<div>
+<div style="text-align: center;">
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-size: 16px; font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">维尔口腔医院，专业塑造品牌！</span></h2>
+</section>
+</div>
+</div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　1、专业团队 放心诊疗</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　国内知名口腔教授刘志杰领衔的口腔医师团队，让您轻松拥有自然、美观、精细、逼真的牙齿。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　2、即刻手术 节约时长</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔引进先进技术，手术过程仅需5-10分钟，短暂的手术时间降低了手术风险;仅需一次手术，恒久支撑牙冠，咀嚼更给力。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　3、品牌优势 个性修复</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔安全放心，材质安全无害，经久耐用，治疗时会根据顾客牙齿的颜色与形状等实际情况来综合考量，力求整体协调和美观的效果。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/0829/20170829024112797.jpg" style="width: 450px; height: 280px;" /></a></span><br />
+&nbsp;</div>
+<div><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></div>
+<div>&nbsp;</div>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D54O44960-M4R_lit.jpg{/dede:field}

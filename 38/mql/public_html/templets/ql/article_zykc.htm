@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta charset="utf-8">
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field.keywords/}" name="Keywords">
+    <meta content="{dede:field.description  function='html2text(@me)'/}" name="Description">
+    <link rel="stylesheet" href="/css/news.css">
+    <link rel="stylesheet" href="/css/swiper.min.css" />
+</head>
+
+<body>
+    {dede:include filename="header.htm" /} {dede:include filename="banner.htm" /}
+    <div class="pos">{dede:field name='position'/}</div>
+    <div id="content">
+        <h1>{dede:field.title/}</h1>
+        <div class="art_kcjj" style="background: url({dede:field.kcbjt/}) center center no-repeat;background-size: 100%;">
+            <div class="art_kcjj2">
+                <h2>{dede:field.zylx/}</h2>
+                <p><b>学期：</b>{dede:field.xuexi/}</p>
+                <p><b>班级人数：</b>{dede:field.renshu/}</p>
+                <p><b>学费：</b>{dede:field.yxuefei/}</p>
+                <p><b>活动价：</b>{dede:field.youhui/}</p>
+                <p><b>上课时间：</b>{dede:field.sksj/}</p>
+                <p><b>AM：</b>{dede:field.am/}</p>
+                <p><b>PM：</b>{dede:field.pm/}</p>
+            </div>
+        </div>
+        <div class="cont1">
+            {dede:field.body/}
+            <div class="cl2"></div>
+            <h2 class='{dede:field.dyktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dyktp}'>课程内容</h2>
+        </div>
+        <div class='zykcnr {dede:field.dyktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dyktp}'>
+            <div class="zykcnrr">
+                {dede:field.dyknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dyktp/}" alt=""></div>
+        </div>
+        <!-- 第一天 -->
+        <div class='zykcnr {dede:field.dektp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dektp}'>
+            <div class="zykcnrr">
+                {dede:field.deknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dektp/}" alt=""></div>
+        </div>
+        <!-- 第二天 -->
+        <div class='zykcnr {dede:field.dsktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dsktp}'>
+            <div class="zykcnrr">
+                {dede:field.dsknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dsktp/}" alt=""></div>
+        </div>
+        <!-- 第三天 -->
+        <div class='zykcnr {dede:field.dsiktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dsiktp}'>
+            <div class="zykcnrr">
+                {dede:field.dsiknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dsiktp/}" alt=""></div>
+        </div>
+        <!-- 第四天 -->
+        <div class='zykcnr {dede:field.dwuktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dwuktp}'>
+            <div class="zykcnrr">
+                {dede:field.dwuknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dwuktp/}" alt=""></div>
+        </div>
+        <!-- 第五天 -->
+        <div class='zykcnr {dede:field.dliuktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dliuktp}'>
+            <div class="zykcnrr">
+                {dede:field.dliuknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dliuktp/}" alt=""></div>
+        </div>
+        <!-- 第六天 -->
+        <div class='zykcnr {dede:field.dqiktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dqiktp}'>
+            <div class="zykcnrr">
+                {dede:field.dqiknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dqiktp/}" alt=""></div>
+        </div>
+        <!-- 第七天 -->
+        <div class='zykcnr {dede:field.dbaktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dbaktp}'>
+            <div class="zykcnrr">
+                {dede:field.dbaknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dbaktp/}" alt=""></div>
+        </div>
+        <!-- 第八天 -->
+        <div class='zykcnr {dede:field.djiuktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.djiuktp}'>
+            <div class="zykcnrr">
+                {dede:field.djiuknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.djiuktp/}" alt=""></div>
+        </div>
+        <!-- 第九天 -->
+        <div class='zykcnr {dede:field.dshiktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dshiktp}'>
+            <div class="zykcnrr">
+                {dede:field.dshiknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dshiktp/}" alt=""></div>
+        </div>
+        <!-- 第十天 -->
+        <div class='zykcnr {dede:field.dshiyiktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dshiyiktp}'>
+            <div class="zykcnrr">
+                {dede:field.dshiyiknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dshiyiktp/}" alt=""></div>
+        </div>
+        <!-- 第十一天 -->
+        <div class='zykcnr {dede:field.dshierktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dshierktp}'>
+            <div class="zykcnrr">
+                {dede:field.dshierknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dshierktp/}" alt=""></div>
+        </div>
+        <!-- 第十二天 -->
+        <div class='zykcnr {dede:field.dshisanktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dshisanktp}'>
+            <div class="zykcnrr">
+                {dede:field.dshisanknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dshisanktp/}" alt=""></div>
+        </div>
+        <!-- 第十三天 -->
+        <div class='zykcnr {dede:field.dshisiktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dshisiktp}'>
+            <div class="zykcnrr">
+                {dede:field.dshisiknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dshisiktp/}" alt=""></div>
+        </div>
+        <!-- 第十四天 -->
+        <div class='zykcnr {dede:field.dshiwuktp runphp="yes"}if(@me == "") @me ="hide"; else @me ="";{/dede:field.dshiwuktp}'>
+            <div class="zykcnrr">
+                {dede:field.dshiwuknr/}
+            </div>
+            <div class="zykcnrl"><img src="{dede:field.dshiwuktp/}" alt=""></div>
+        </div>
+        <!-- 第十五天 -->
+    </div>
+    {dede:include filename="footer.htm" /}
+</body>
+
+</html>

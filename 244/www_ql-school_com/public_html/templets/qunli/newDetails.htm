@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/details.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+</head>
+<script language="javascript" type="text/javascript" src="{dede:global.cfg_cmsurl/}/include/dedeajax2.js"></script>
+<script>
+function multi(pagenum,tagid)
+{
+var taget_obj = document.getElementById(tagid);
+var taget_obj_page = document.getElementById("page_"+tagid);
+myajax = new DedeAjax(taget_obj,false,false,'','','');
+myajax.SendGet2("/plus/arcmulti.php?mtype=0&pnum="+pagenum+'&tagid='+tagid);
+myajax = new DedeAjax(taget_obj_page,false,false,'','','');
+myajax.SendGet2("/plus/arcmulti.php?mtype=1&pnum="+pagenum+'&tagid='+tagid);
+DedeXHTTP = null;
+}
+</script> 
+<body>
+<div class="all">
+{dede:include filename="head2.htm"/}
+    <!--课程详情-->
+    <div class="classDetails">
+        <div>
+            <h1>
+                <img src="{dede:global.cfg_templets_skin/}/images/newLogo.png"/>
+                <ul>
+                    <li>{dede:field name='position'/}</li>
+
+                </ul>
+            </h1>
+        </div>
+
+    </div>
+    <div class="claIntro">
+        <div>
+            {dede:arclist  tagid='index' typeid="3" orderby='pubdate' pagesize='5'}
+            <div>
+                <h5><a href="[field:arcurl/]" target="_blank">[field:title/]</a></h5>
+                <span>[field:pubdate function="GetDateTimeMK(@me)"/]</span>
+            </div>
+            <p class="dash">
+                [field:description/]
+            </p>               
+            {/dede:arclist}
+        </div>
+
+    </div>
+        <!--page-->
+    <div class="pageBox">
+        <div class="page">
+            <!--<ul>-->
+                <!-- <li><a href="" class="prev"></a></li>
+               
+                <li><a href="" class="next"></a></li> -->
+                <!--<li>-->
+                    {dede:arcpagelist tagid='index'/}
+                <!--</li>-->
+            <!--</ul>-->
+        </div>
+    </div>
+    <!--footer-->
+    <div class="footer" style="margin-top:50px;">
+        <div class="footerContent">
+            <div class="clear" style="padding-left:0">
+                <dl>
+                    <dt>详询热线：400-88888888</dt>
+                    <dd><a href="">地址：文案暂代文案暂代文案暂代</a></dd>
+                    <dd><a href="">电话：028-88888888</a></dd>
+                    <dd><a href="">传真：028-88888888</a></dd>
+                    <dd><a href="">邮箱：qunlihuazhuang@163.com</a></dd>
+                </dl>
+                <ul>
+                    <li style="margin-left:0;"><a href="" class="weixin"></a></li>
+                    <li><a href="" class="xinlang"></a></li>
+                    <li><a href="" class="tengxun"></a></li>
+                    <li><a href="" class="qq"></a></li>
+                </ul>
+                <h6 style="clear: both"></h6>
+            </div>
+            <div class="part">
+                <h5>关于</h5>
+                <ol>
+                    <li><a href="">学校简介 • School Profile</a></li>
+                    <li><a href="">办学文化 • School Culture</a></li>
+                    <li><a href="">学校环境 • School Environment</a></li>
+                    <li><a href="">学校荣誉 • School Honor</a></li>
+                </ol>
+            </div>
+            <div class="part">
+                <h5>课程</h5>
+                <ol>
+                    <li><a href="">彩妆专业 • Professional Makeup</a></li>
+                    <li><a href="">美容专业 • Beauty Professional</a></li>
+                    <li><a href="">美甲专业 • Nail Professional</a></li>
+                    <li><a href="">综合培训 • Training</a></li>
+                </ol>
+            </div>
+            <div class="part" style="border: none;padding-right: 0">
+                <h5>动态</h5>
+                <ol>
+                    <li><a href="">开班信息 • Openning Information</a></li>
+                    <li><a href="">最新资讯 • Latest News</a></li>
+                    <li><a href="">学校新闻 • School News</a></li>
+                    <li><a href="">就业信息 • Employment Information</a></li>
+                </ol>
+            </div>
+            <h6 style="clear:both;">
+            </h6>
+        </div>
+    </div>
+    <!--end-->
+    <div class="end">
+        <p>©COPYRIGHT2015 艾邦视觉 全程设计&技术支持 蜀ICP备：201500313-1号</p>
+    </div>
+    </div>
+    <!--固定框-->
+    <div class="rightFixed">
+        <ul>
+            <li><a href="" class="f1"></a></li>
+            <li><a href="" class="f2"></a></li>
+            <li><a href="" class="f3"></a></li>
+            <li><a href="" class="f4 goTop"></a></li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>

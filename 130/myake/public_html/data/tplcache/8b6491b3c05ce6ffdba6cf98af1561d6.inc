@@ -1,0 +1,48 @@
+{dede:field name='keywords'}拔牙后多久可以镶牙{/dede:field}
+{dede:field name='description'}拔牙后多久可以镶牙?很多前牙需要拔除的患者生活中会给我们带来很大的影响，特别是人际交往中让我们面临很多的尴尬，而后牙需要拔除的{/dede:field}
+{dede:field name='title'}拔牙后多久可以镶牙{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 拔牙后多久可以镶牙?很多前牙需要拔除的患者生活中会给我们带来很大的影响，特别是人际交往中让我们面临很多的尴尬，而后牙需要拔除的患者呢?会给我们的咀嚼功能带来一定的影响，造成了口臭等现象，因此很多患者都比较关系拔牙后多久可以镶牙?那么针对这个问题，我们来看看维尔口腔医师给我们的介绍吧。</span>
+<p align="center"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="拔牙后多久可以镶牙" src="http://beij.wekq.net/uploadfile/2017/0628/20170628035919384.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></span></a></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">拔牙后多久可以镶牙</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 针对拔牙后多久可以镶牙这个疑问，维尔口腔的医师表示，在通常情况，拔掉一两颗牙齿，牙槽骨多半不会出现不好的情况，只有在多数牙或全口牙拔掉后，才需要作修整术。所以，拔牙后应在一到两周内去口腔科复查，以便及时作牙槽骨修整术，为镶牙作准备。另外，由于拔牙后原牙根的牙槽骨在恢复的过程中，有时会出现骨尖，症状较轻者，患者本人可每天早晚将手洗净后，用手指揉按，揉按十天左右骨尖即会消失，如果骨尖较大应到医院手术治疗。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>点击咨询在线医生</strong></span></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 而对于拔牙后多久可以镶牙?维尔口腔医师介绍说，一般来说，拔牙后必须待创口有效愈合才能镶牙，拔牙后牙槽窝要在两到三个月才能有效形成骨组织。前牙只有一个根，牙槽窝小，恢复较快，而后牙因多根，牙槽窝常需一个半到两个月才长平，即表面没有凹凸现象方可镶牙。所以，一般在拔牙后两到三个月为镶牙的较佳时间。拔牙后又未及时镶牙，可能会造成更多的牙齿移位，发生牙齿排列紊乱，引起长时间的痛苦。因此，牙齿缺失后一定要及时镶牙。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">推荐技术：维尔口腔一日得美学种植牙</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔一日得仿生美学种植牙是将纯钛金属或钛合金经过细密的电脑设计，制造成牙根型的圆柱体，经由手术植入患者牙槽骨内，经过一段时间后，当人工牙根与牙槽骨密合后，再于人工牙根上戴上牙冠。由于人工牙根深植于牙槽骨内，患者的咀嚼能力可以恢复很大，坚固耐用的程度和自然牙很接近。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0628/20170628040323379.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 拔牙后多久可以镶牙?很多前牙需要拔除的患者生活中会给我们带来很大的影响，特别是人际交往中让我们面临很多的尴尬，而后牙需要拔除的患者呢?会给我们的咀嚼功能带来一定的影响，造成了口臭等现象，因此很多患者都比较关系拔牙后多久可以镶牙?那么针对这个问题，我们来看看维尔口腔医师给我们的介绍吧。</span>
+<p align="center"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="拔牙后多久可以镶牙" src="/uploads/allimg/c180322/1521DV00504P-10T08.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></span></a></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">拔牙后多久可以镶牙</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 针对拔牙后多久可以镶牙这个疑问，维尔口腔的医师表示，在通常情况，拔掉一两颗牙齿，牙槽骨多半不会出现不好的情况，只有在多数牙或全口牙拔掉后，才需要作修整术。所以，拔牙后应在一到两周内去口腔科复查，以便及时作牙槽骨修整术，为镶牙作准备。另外，由于拔牙后原牙根的牙槽骨在恢复的过程中，有时会出现骨尖，症状较轻者，患者本人可每天早晚将手洗净后，用手指揉按，揉按十天左右骨尖即会消失，如果骨尖较大应到医院手术治疗。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>点击咨询在线医生</strong></span></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 而对于拔牙后多久可以镶牙?维尔口腔医师介绍说，一般来说，拔牙后必须待创口有效愈合才能镶牙，拔牙后牙槽窝要在两到三个月才能有效形成骨组织。前牙只有一个根，牙槽窝小，恢复较快，而后牙因多根，牙槽窝常需一个半到两个月才长平，即表面没有凹凸现象方可镶牙。所以，一般在拔牙后两到三个月为镶牙的较佳时间。拔牙后又未及时镶牙，可能会造成更多的牙齿移位，发生牙齿排列紊乱，引起长时间的痛苦。因此，牙齿缺失后一定要及时镶牙。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">推荐技术：维尔口腔一日得美学种植牙</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔一日得仿生美学种植牙是将纯钛金属或钛合金经过细密的电脑设计，制造成牙根型的圆柱体，经由手术植入患者牙槽骨内，经过一段时间后，当人工牙根与牙槽骨密合后，再于人工牙根上戴上牙冠。由于人工牙根深植于牙槽骨内，患者的咀嚼能力可以恢复很大，坚固耐用的程度和自然牙很接近。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521DV010K10-11GJ.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DV00504P-10T08_lit.jpg{/dede:field}

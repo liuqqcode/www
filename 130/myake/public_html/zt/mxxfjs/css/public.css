@@ -1,0 +1,387 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+
+.prev,.next{background:url(../images/jihe.png) no-repeat;}
+
+.prev{
+
+	width:19px;
+
+	height:36px;
+
+	float:left;
+
+	background-position:0 -147px;
+
+	margin-top:250px;
+
+	cursor:pointer;	
+
+	}
+
+.next{
+
+	width:19px;
+
+	height:36px;
+
+	float:right;
+
+	background-position:0 -197px;
+
+	margin-top:250px;
+
+	cursor:pointer;	
+
+	}
+
+	
+
+.zjCtrl,.alCtrl{
+
+	height:42px;
+
+	line-height:32px;
+
+	z-index:1005;
+
+	position:absolute;
+
+	margin-top:-40px;
+
+	margin-left:840px;
+
+	}
+
+.zjCtrl span,.alCtrl span{
+
+	padding:3px 15px;
+
+	text-align:center;
+
+	cursor:pointer;
+
+	background:url(../images/jihe.png) no-repeat;
+
+	background-position:0 -540px;
+
+	}
+
+.zjCtrl span.j_prev,.alCtrl span.l_prev{
+
+	padding:3px 20px;
+
+	background-position:0 -74px;
+
+	}
+
+.zjCtrl span.j_next,.alCtrl span.l_next{
+
+	margin-left:20px;
+
+	background-position:0 -105px;
+
+	}
+
+.zjCtrl span.zjFlowSel,.alCtrl span.alFlowSel{ background-position:0 -502px;}
+
+.pro{
+
+	float:left;
+
+	width:210px;
+
+	height:132px;
+
+	margin:10px 0 6px 10px;
+
+	text-align:center;
+
+	}
+
+.pro img{width:200px;height:102px}
+
+.pro a:hover{text-decoration:none;color:#f60}
+
+
+
+
+
+
+
+/* 专家 */
+
+.zzy-zjBox1{
+
+	width:548px;
+
+	float:left;
+
+	color:#525252;
+
+	}
+
+.zzy-zjBox1-1,.zzy-zjBox1-2{background:#f6f6f6;}
+
+.zjImg1{
+
+	width:235px;
+
+	float:left;
+
+	height:313px;
+
+	}
+
+.zjTxt1{
+
+	width:263px;
+
+	float:right;
+
+	margin-right:25px;
+
+	height:313px;
+
+	}
+
+.zzy-zjBox1 h2,.zzy-zjBox2 h2{margin-top:20px;}
+
+.zzy-zjBox1 h2 em,.zzy-zjBox2 h2 em{
+
+	font-style:normal;
+
+	font-weight:normal;
+
+	font-size:14px;
+
+	margin-left:5px;	
+
+	}
+
+.zzy-zjBox1 ul,.zzy-zjBox2 ul{ margin:20px 0;}
+
+.zzy-zjBox1 ul li,.zzy-zjBox2 ul li{
+
+	border-bottom:1px solid #949494;
+
+	line-height:30px;
+
+	}
+
+.zzy-zjBox1 p{ line-height:25px;}
+
+
+
+
+
+.zzy-zjBox1-2{ margin-top:40px;}
+
+.zjImg2{
+
+	width:235px;
+
+	float:right;
+
+	height:313px;
+
+	}
+
+.zjTxt2{
+
+	width:250px;
+
+	float:left;
+
+	margin-left:25px;
+
+	}
+
+
+
+/* 专家2 */	
+
+.zzy-zjBox2{
+
+	width:260px;
+
+	float:left;
+
+
+
+	color:#525252;	
+
+	background:#f6f6f6;
+
+	}
+
+.zzy-zjBox2 img{ height:286px;}
+
+.zjTxt3{
+
+	width:230px;
+
+	margin-left:15px;
+
+	height:361px;
+
+	}
+
+.zzy-zjBox2 p{margin-bottom:40px;}
+
+
+
+
+
+/* 如何选择专家 */
+
+.zjChoice{
+
+	width:260px;
+
+	float:left;
+
+	margin-left:150px;
+
+	color:#5e5e5e;	
+
+	}
+
+.zjChoice img{ margin-left:50px; height:209px;}
+
+.zjChoice h2{ margin-left:85px;}
+
+.zjChoice p{ margin:20px 0 0 5px;}
+
+
+
+
+
+/*-------------------------- 种植牙案例 -----------------------------------------------*/	
+
+.alBox{
+
+	width:300px;
+
+	float:left;
+
+	margin:0 50px 45px;
+
+	background:#f7f7f7;
+
+	}
+
+.alBox h2{ margin:20px; color:#666666;}
+
+.alBox h2 em{
+
+	font-size:14px;
+
+	font-style:normal;
+
+	padding-left:5px;	
+
+	}
+
+.alBox ul{
+
+	width:260px;
+
+	margin:0 auto;
+
+	color:#747474;	
+
+	}
+
+.alBox li{
+
+	border-bottom:1px solid #a2a2a2;
+
+	line-height:35px;	
+
+	}
+
+.alBox a.big{
+
+	width:100px;
+
+	display:block;
+
+	float:left;
+
+	margin:20px;
+
+	height:32px;
+
+	line-height:32px;
+
+	text-align:center;
+
+	color:#fff;	
+
+	}
+
+.a1{ background:#e67e22;}
+
+.a1:hover{background:#5c9054;}
+
+.a2{ background:#5c9054;}
+
+.a2:hover{ background:#e67e22;}
+
+.a1.h1{background:#5c9054;}
+
+.a2.h2{background:#5c9054;}
+
+
+
+
+
+/*-------------------------- 种植牙相关 -----------------------------------------------*/	
+
+.xgBox{
+
+	width:290px;
+
+	float:left;
+
+	color:#525252;	
+
+	}
+
+.xgBox h2{ padding-left:10px;}
+
+.xgBox h2 span{
+	float: right;
+	display: block;
+	font-size: 16px;
+	font-weight: 100;
+}
+
+.xgBox img{ height:119px; margin:10px 0 20px 0;}
+
+.xgBox li{
+
+	border-bottom:1px solid #a3a3a3;
+
+	line-height:30px;
+
+	margin-top:10px;	
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+

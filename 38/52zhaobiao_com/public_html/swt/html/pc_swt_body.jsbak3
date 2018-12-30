@@ -1,0 +1,98 @@
+var LiveAutoInvite0='您好，来自%IP%的朋友';
+var LiveAutoInvite1=window.location.href;
+var LiveAutoInvite2='';
+var LrinviteTimeout=10;
+var LR_next_invite_seconds=10;	
+var lr_xCenter=448/2;		
+var lr_yCenter=324/2;		
+var newswthtml='';
+
+document.writeln('<div id="pcnewswt2"><div id="pcnewswt"><a class="sl_swt_body" href="javascript:void(0)" onclick="openZoosUrl(\'chatwin\',\'&e=中间弹窗\');LR_HideInvite();return false;"></a><a href="javascript:;" onclick="hideswt();LR_RefuseChat();return false;" class="sl_swt_close"></a></div></div>');
+var swttopBanner_top=400;
+swttopBannerHTML='<ul class="sl_top_nav"></ul>'
+var swttopBanner=document.createElement('div');
+swttopBanner.id="swttopBanner";
+document.body.appendChild(swttopBanner);
+
+document.writeln('<script language="javascript" src="http://{swturl}/JS/LsJS.aspx?siteid={swtid}&float=1&lng=cn"></script>');
+showYQ3()
+subyc2()
+function showYQ3(){
+	$('#swtscyq').remove();
+}
+showYQ2()
+function showYQ2(){
+	setTimeout("showYQ()",5000);
+}
+function showYQ(){
+	var swttopBanner_top=300;
+	var t=document.documentElement.scrollTop || document.body.scrollTop;  
+	var swttopBanner=document.getElementById("swttopBanner"); 
+	if(swttopBanner){
+		if(t>=swttopBanner_top) { 
+			document.getElementById("pcnewswt").style.display = 'block';
+		}else{ 
+			document.getElementById("pcnewswt").style.display = 'none';
+			setTimeout("showYQ()",500);
+		}
+	}
+	
+}
+function hideswt(){
+	document.getElementById("pcnewswt").style.display = 'none';
+	setTimeout("showYQ()",20000);
+}
+function subyc(){
+	document.getElementById(".sub").style.display = 'none';
+}
+function subyc2(){
+	setTimeout("subyc()",5000);
+}
+
+//var curIndex=0; 
+////时间间隔 单位毫秒 
+//var timeInterval=2000; 
+//var arr=new Array(); 
+//arr[0]="/swt/html/img/swt_fst.png"; 
+//arr[1]="/swt/html/img/swt_xxm.png"; 
+//setInterval(changeImg,timeInterval); 
+//function changeImg() 
+//{ 
+//    var obj=document.getElementById("objs"); 
+//    if (curIndex==arr.length-1)  
+//    { 
+//        curIndex=0; 
+//    } 
+//    else 
+//    { 
+//        curIndex+=1; 
+//    } 
+//    obj.src=arr[curIndex]; 
+//} 
+function wplSwt2() {
+  if (document.getElementById('swtscyq')) { 
+	  showYQ();
+	 $('#swtscyq').remove();
+  }
+};
+var wplTimer = setInterval('wplSwt2()', 1000);
+jQuery(".nav").slide({ type:"menu", titCell:".nLi", targetCell:".sub",effect:"slideDown",delayTime:300,triggerTime:0,returnDefault:true});
+$(document).ready(function(){
+setTimeout("subyc2()",2000);
+});
+
+ function subyc2(){
+$("#sub").fadeIn();
+setTimeout("subyc()",3000);
+   };
+ function subyc(){
+$("#sub").fadeOut();
+   };
+ 
+function wplSwt3() {
+ $('#LXB_CONTAINER').remove();
+};
+var wplTimer = setInterval('wplSwt3()', 50);
+document.writeln("<div style=\"display:none\">");
+var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1255948705'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1255948705' type='text/javascript'%3E%3C/script%3E"));
+document.writeln("</div>");

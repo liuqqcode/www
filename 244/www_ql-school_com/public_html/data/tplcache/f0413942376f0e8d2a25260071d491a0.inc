@@ -1,0 +1,1 @@
+<dd><a href="[field:typelink/]#schoolTeacherBox">[field:typename/]</a></dd>

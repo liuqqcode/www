@@ -1,0 +1,530 @@
+@charset "utf-8";
+@import url(iconfont.css);
+
+/*通用样式*/
+
+#qiao-wrap {
+    display: none !important;
+}
+
+#LXB_CONTAINER,
+.lxb-container {
+    right: -10000px !important;
+}
+
+#qiao-wrap,
+#QIAO_INVITE_CONTAINER,
+#QIAO_ICON_CONTAINER.qiao-icon-sector,
+#LRdiv1,#k_s_ol_inviteWin,
+#LRdiv0 {
+    display: none !important;
+}
+
+#LXB_CONTAINER_SHOW {
+    right: -10000px !important;
+}
+
+#BDBridgeIconWrap,
+#BDBridgeInviteWrap,
+#BDBridgeMess,
+.bds-credit-pop,
+#qiao-wrap,
+#LXB_CONTAINER,
+.lxb-container,
+.qiao-icon-sector-inner,
+#qiao-wrap,
+#qiao-icon-body,
+#qiao-icon-wrap,
+#qiao-icon-wrap .qiao-icon-head,
+#qiao-wrap #qiao-icon-wrap {
+    display: none !important;
+}
+
+#LRfloater1 {
+    display: none !important;
+}
+
+
+/*商务通PC邀请界面样式*/
+
+#pcnewswt {
+    width: 500px;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    z-index: 2147483640;
+    position: fixed !important;
+    left: 48%;
+    margin-left: -240px !important;
+    top: 50%;
+    margin-top: -190px !important;
+    background: url(/swt/img/swt.gif) no-repeat;
+    height: 320px;
+}
+
+#pcnewswt .sl_swt_body {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    display: block;
+    z-index: 99;
+}
+
+#pcnewswt2 {
+    display: none;
+}
+
+#lefttel {
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    left: 50px;
+    top: 117px;
+    font-size: 16px;
+    border: none;
+    z-index: 100;
+    display: none;
+}
+
+#lefttel:focus {
+    outline: none;
+}
+
+.teltijiao {
+    width: 121px;
+    height: 47px;
+    position: absolute;
+    right: 40px;
+    top: 112px;
+    z-index: 100;
+    display: none;
+}
+
+#pcnewswt .sl_swt_close {
+    position: relative;
+    left: 460px;
+    top: 0px;
+    width: 35px;
+    height: 40px;
+    display: block;
+    z-index: 100;
+}
+
+.form {
+    width: 635px;
+    float: left;
+}
+
+.pic_1 {
+    float: left;
+    margin: 12px 5px 0 37px;
+}
+
+.pic_1 a,
+.pic_2 a {
+    display: block;
+    width: 107px;
+    height: 30px;
+}
+
+.pic_2 {
+    float: left;
+    margin-top: 25px;
+}
+
+.img_none {
+    position: absolute;
+    top: -55px;
+    left: 613px;
+    display: none;
+}
+
+#wtall {
+    float: left;
+    margin: 14px 140px 0 14px;
+    padding-left: 40px;
+    color: #FFF;
+    font-family: "微软雅黑";
+    font-size: 18px;
+    color: #FFFF00
+}
+
+#MEIQIA-BTN-HOLDER {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 60px;
+    z-index: 2147483639;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+    background-color: transparent;
+}
+
+#MEIQIA-BTN {
+    display: block;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    border-left: 1px solid rgba(0, 0, 0, .1);
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    border-right: 1px solid rgba(0, 0, 0, .1);
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, .16);
+    cursor: pointer;
+    text-decoration: none;
+    background-color: #007aff;
+}
+
+#MEIQIA-BTN,
+#MEIQIA-BTN span,
+#MEIQIA-BTN div,
+#MEIQIA-BTN img {
+    float: none;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background: none;
+}
+
+#MEIQIA-BTN-HOLDER {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 60px;
+    z-index: 2147483639;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+    background-color: transparent;
+}
+
+#MEIQIA-BTN #MEIQIA-BTN-ICON {
+    display: block;
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin: 10px 10px 0;
+}
+
+#MEIQIA-BTN,
+#MEIQIA-BTN span,
+#MEIQIA-BTN div,
+#MEIQIA-BTN img {
+    float: none;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background: none;
+}
+
+.MEIQIA-ICON {
+    background-size: 40px auto !important;
+    background-repeat: no-repeat !important;
+    background-image: url("http://static.meiqia.com/dist/images/icon-mq.png?v=rxtuj25odjjj1yvi") !important;
+}
+
+#MEIQIA-BTN {
+    display: block;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    border-left: 1px solid rgba(0, 0, 0, .1);
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    border-right: 1px solid rgba(0, 0, 0, .1);
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, .16);
+    cursor: pointer;
+    text-decoration: none;
+    background-color: #007aff;
+}
+
+#MEIQIA-BTN-HOLDER {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 60px;
+    z-index: 2147483639;
+    width: auto;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+    background-color: transparent;
+}
+
+#MEIQIA-BTN #MEIQIA-BTN-LINE {
+    display: block;
+    float: left;
+    width: 1px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .08);
+    background-color: #000\9;
+    opacity: .1\9;
+    filter: alpha(opacity=10)\9;
+    vertical-align: middle;
+}
+
+#MEIQIA-BTN #MEIQIA-BTN-TEXT {
+    display: block;
+    float: left;
+    height: 40px;
+    margin: 0 10px;
+    line-height: 40px;
+    overflow-y: hidden;
+    font-size: 16px;
+    color: #fff;
+}
+
+#MEIQIA-BTN #MEIQIA-CIRCLE {
+    position: absolute;
+    top: -13px;
+    left: -13px;
+    display: none;
+    width: 26px;
+    height: 26px;
+    text-align: center;
+    line-height: 26px;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 15px;
+    background-color: #ff3b30;
+}
+
+#MEIQIA-BTN #MEIQIA-BUBBLE {
+    position: absolute;
+    bottom: 64px;
+    display: none;
+    width: 260px;
+    border: 1px solid #f7f7f7;
+    border-radius: 4px;
+    color: #000;
+    text-align: left;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, .16);
+    line-height: 1.428571429;
+    background-color: #fff;
+}
+
+#MEIQIA-INVITE {
+    position: fixed;
+    z-index: 2147483639;
+    display: none;
+    width: 325px;
+    height: 130px;
+    margin-bottom: 48px;
+    border-radius: 4px;
+    text-align: left;
+    cursor: pointer;
+    color: #000;
+    line-height: 1.428571429;
+    background-color: #fff;
+    right: 50px;
+    bottom: 0px;
+    background: url(/swt/html/img/ycfcbk.png) no-repeat;
+}
+
+#MEIQIA-INVITE #MEIQIA-INVITE-CLOSE {
+    position: absolute;
+    right: -20px;
+    top: -20px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-position: 0 -260px;
+}
+
+#MEIQIA-INVITE #MEIQIA-INVITE-INSIDE {
+    width: 300px;
+    height: 65px;
+    margin: 30px 20px 0;
+    text-align: left;
+    font-size: 18px;
+    line-height: 35px;
+    overflow: hidden;
+    color: #000;
+    word-break: break-all;
+}
+
+#MEIQIA-INVITE #MEIQIA-INVITE-ARROW1 {
+    right: 12px;
+    bottom: -8px;
+    border-top: 8px solid #fff;
+    border-right: 7px solid transparent;
+    border-left: 7px solid transparent;
+}
+
+#MEIQIA-INVITE #MEIQIA-INVITE-ARROW2 {
+    right: 11px;
+    bottom: -10px;
+    border-top: 9px solid #f7f7f7;
+    border-right: 8px solid transparent;
+    border-left: 8px solid transparent;
+}
+
+.swttc {
+    max-width: 480px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    background: #fff !important;
+    overflow: hidden;
+}
+
+.swttc i.icon-guanbi2 {
+    font-size: 30px;
+    color: #333;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-right: 1px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.swt_zxzz {
+    display: block;
+    width: 50%;
+    font-size: 20px;
+    line-height: 50px;
+    height: 50px;
+    float: left;
+    background: #1180c4;
+    border-bottom-left-radius: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.swt_zxzz i {
+    font-size: 26px;
+    padding-right: 2%;
+}
+
+.swt_djzz {
+    display: block;
+    width: 50%;
+    font-size: 20px;
+    line-height: 50px;
+    height: 50px;
+    float: left;
+    background: #f08200;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.swt_djzz i {
+    font-size: 20px;
+    padding-right: 2%;
+}
+
+.swttc3 {
+    text-align: center;
+    font-size: 16px;
+    padding-top: 10px;
+    line-height: 30px;
+    width: 80%;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+
+.swt_zixun {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 1px solid #d8d8d8;
+    overflow: hidden;
+    height: 35px;
+}
+
+.swt_zixun input {
+    color: #333;
+    border: 0;
+    line-height: 35px;
+    height: 35px;
+    width: 55%;
+    float: left;
+    border-radius: 10px;
+    outline: none;
+}
+
+.swt_zixun a {
+    display: block;
+    float: right;
+    width: 35%;
+    background: #f08200;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    line-height: 35px;
+    height: 35px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.swttc1 {
+    text-align: center;
+    color: #1180c4;
+    font-size: 30px;
+    padding-top: 20px;
+    line-height: 45px;
+}
+
+.swttc2 {
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+    line-height: 35px;
+}
+
+.weui-badge {
+    display: inline-block;
+    padding: .15em .4em;
+    min-width: 8px;
+    border-radius: 18px;
+    background-color: #E64340;
+    color: #FFFFFF;
+    line-height: 1.2;
+    text-align: center;
+    font-size: 12px;
+    vertical-align: middle;
+    position: relative;
+    top: -16px;
+    left: -5px;
+    -webkit-animation: scaleout 2s infinite ease-in-out;
+    animation: scaleout 2s infinite ease-in-out;
+}
+
+@-webkit-keyframes scaleout {
+    0% {
+        -webkit-transform: scale(1.0)
+    }
+    100% {
+        -webkit-transform: scale(1.1);
+        opacity: 0;
+    }
+}
+
+@keyframes scaleout {
+    0% {
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+    }
+    100% {
+        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        opacity: 0;
+    }
+}

@@ -1,0 +1,235 @@
+img{
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+}
+.classDetails{
+    width:100%;
+    font-family: "微软雅黑";
+    margin-top:20px;
+}
+
+.classDetails>div{
+    width:1000px;
+    overflow: hidden;
+
+}
+.classDetails>div h1{
+    height:120px;
+    position: relative;
+
+}
+.classDetails>div ul{
+    position: absolute;
+    right: 0;
+    top: 30px;
+    padding-top: 60px;
+}
+.classDetails>div ul li{
+    float: left;
+    font-size: 12px;color: #999;
+}
+.classDetails>div ul li a{
+    font-size:12px;
+    text-decoration: none;
+    color:#999;
+    margin:0 5px;
+}
+
+
+
+
+
+
+.classDetailsContents{
+    margin-top: 20px;
+}
+.classDetailsContents>div{
+    float: left;
+    height:300px;
+
+}
+.classDetailsContents>div.clearContent{
+    width:500px;
+    height:250px;
+    margin-left:40px;
+    float: right;
+}
+.clearContent>div,.clearContent>dl{
+    float: left;
+    padding: 0;
+    margin: 0;
+    margin-top:20px;
+
+
+}
+.classDetailsContents>div h2{
+    color: #e74159;
+    font-family: "宋体";
+    display: block;
+    clear: both;
+
+}
+.clearContent>dl dd{
+    height: 40px;
+    line-height:45px;
+    color: #999;
+    font-size:14px;
+}
+.clearContent>dl dd span{
+    font-size: 16px;
+    color:black;
+    font-family: "宋体";
+    font-weight: bold;
+    letter-spacing:1px;
+}
+.clearContent>dl dd span.colors{
+    color:#e74159;
+    font-size:20px;
+}
+.clearContent>div{
+    padding-top:150px;
+    margin-left:50px;
+    font-family: "微软雅黑";
+}
+.clearContent>div a{
+    height: 30px;
+    line-height: 30px;
+    color:white;
+    background: black;
+    text-decoration:none;
+    font-size: 12px;
+    padding:5px 30px;
+    border-radius:2px;
+}
+
+.claIntro{
+    margin-top:30px;
+}
+
+.claIntro>div{
+    width:1000px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-family: "微软雅黑";
+}
+.claIntro>div h3{
+    height:40px;
+}
+.claIntro>div h3 a{
+    text-decoration: none;
+    background: black;
+    color: white;
+    padding:5px 20px;
+    font-size:14px;
+    box-shadow:1px 1px 2px 1px #ccc;
+    display: block;
+    width: 60px;
+    text-align: center;
+    margin-left: 0;
+}
+.claIntro>div h6{
+    font-size: 14px;
+    margin-top:20px;
+}
+.claIntro>div p{
+    font-size: 14px;
+    margin-bottom: 20px;
+    text-align: left;
+
+}
+
+
+.claIntro>div>div h5{
+
+    font-size:14px;
+    margin: 10px 0;
+}
+
+.claIntro>div>div h5 a{
+    display: block;
+    text-decoration: none;
+    color:#e74159;
+
+}
+
+.claIntro>div>div span{
+    font-size:12px;
+    color:#999;
+    display: block;
+    margin-bottom:10px;
+}
+.claIntro  p.dash{
+    border-bottom:1px dashed #ccc;
+    padding-bottom:30px;
+}
+.claIntro  p.note{
+   margin:50px 0 0 0;
+}
+.claIntro  p.note a{
+    color: #999;
+    text-decoration: none;
+    margin-right:30px;
+}
+.pageBox{
+    width:100%;
+    margin-top: 40px;
+    clear: both;
+    height:30px;
+}
+.pageBox .page{
+    width:400px;
+    text-align: center;
+}
+/*.pageBox li{*/
+    /*float: left;*/
+    /*margin-left:10px;*/
+/*}*/
+/*.pageBox ul{*/
+    /*width:320px;*/
+/*}*/
+/*.pageBox li a{*/
+    /*border:1px solid red;*/
+    /*display: block;*/
+    /*width:28px;*/
+    /*height:28px;*/
+    /*text-align: center;*/
+    /*background: url("../images/page.png") no-repeat -104px 0;*/
+    /*text-decoration: none;color: white;*/
+    /*line-height:28px;*/
+    /*font-size: 12px;*/
+/*}*/
+.pageBox a{
+    display: block;
+    width:28px;
+    height:28px;
+    text-align: center;
+    background: url("../images/page.png") no-repeat -104px 0;
+    text-decoration: none;color: white;
+    line-height:28px;
+    float: left;
+    margin-right:10px;
+    font-size: 12px;
+}
+.pageBox a:hover{
+    background: url("../images/page.png") no-repeat -69px 0;
+
+}
+/*.pageBox li a:hover{*/
+    /*background: url("../images/page.png") no-repeat -69px 0;*/
+ /*}*/
+/*.pageBox li a.prev{*/
+    /*background:url("../images/page.png") no-repeat 0 0;*/
+/*}*/
+/*.pageBox li a.next{*/
+    /*background:url("../images/page.png") no-repeat -243px 0;*/
+
+/*}*/
+
+
+.claIntro .detailImg{
+    width:400px;
+    height:300px;
+    margin:30px auto;
+    background:#ccc;
+}

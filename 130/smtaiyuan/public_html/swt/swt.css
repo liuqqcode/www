@@ -1,0 +1,16 @@
+@charset "utf-8";
+	/*中间弹窗*/
+.absolute{position:absolute;}
+#swt-tanchuang {display:none;width:445px;height:198px; background-color:#FFF;position:fixed;left:50%;top:50%;margin-left:-222.5px;margin-top:-99px;background:url(/swt/swt.gif) no-repeat left top;z-index:100000000;}
+
+.swt_lists {bottom:8px;left:0;width:426px;padding:0 8px 0 9px;}
+.swt_lists a{display:block;width:213px;height:65px;}
+.swt_list1{float:left;}
+.swt_lists a.swt_listx{width:400px; height:95px;}
+.swt_list2{float:right;}
+
+.swt-close {right:0;top:0;width:60px;height:60px;cursor:pointer;position:absolute;}
+
+#swt-tanchuang p {width:335px;font-size:20px;color:#666;margin-left:50px;line-height:120%;background:#fff;}
+#LRdiv1,#LRfloater1{display:none!important}
+#LXB_CONTAINER{display:none!important;position:absolute;left:-10000px;top:-10000px;}

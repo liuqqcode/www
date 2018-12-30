@@ -1,0 +1,55 @@
+﻿﻿﻿<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <meta content="telephone=no" name="format-detection">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/rootresize.js"></script>
+</head>
+
+<body>
+    <div class="box">
+        {dede:include filename="header.htm" /}
+        <div class="layout mt11 clearfix">
+            <div class="hztd_tle">
+                <h3><i></i>医院简介</h3>
+            </div>
+        </div>
+        <div class="layout clearfix notice"><img src="/images/fd-jj_19.jpg" /></div>
+        <div class="layout mt11 clearfix">
+            <div class="hztd_tle">
+                <h3><i></i>联系我们</h3>
+            </div>
+        </div>
+        <div class="layout clearfix address-m">
+            <div class="address">
+                <div class="address-left fl">
+                    <p>地址：太原市万柏林区南内环西街众纺路29号</p>
+                    <p>咨询热线：0351-6860923</p>
+                    <p>门诊时间：8:00—17:30</p>
+                </div>
+                <div class="address-right fr">
+                    <a href="tel:03516860923">点击电话咨询</a></div>
+            </div>
+        </div>
+        <div class="layout clearfix">
+            <div class="main-txt">
+                {dede:field.content/}
+            </div>
+        </div>
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

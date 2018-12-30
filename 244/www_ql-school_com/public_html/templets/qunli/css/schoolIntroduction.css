@@ -1,0 +1,308 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	font-size:14px;
+	font-family:"宋体"
+	letter-spacing:0.9px;	
+}
+
+
+
+
+.divBriefIntroWrapper{
+	height:550px;
+	background-color:#e74159
+}
+
+
+.footer {
+    margin-top:0 !important;
+}
+
+.divBriefIntroWrapper img{
+	width:auto !important;
+}
+
+.divMiddle{
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.mar1{
+	margin-top:30px;
+	
+}
+
+
+.imgBriefIntro{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:50px;
+}
+
+.divIntroImgBig{
+	float:left;
+	width:310px;
+}
+
+.divIntroDetail{
+	float:left;
+	padding-left:40px;
+	line-height:35px;
+	width:640px;
+}
+
+.imgBriefIntroSamll{
+	margin-top:20px;
+}
+
+.divTeacherWrapper{
+	height:582px;
+	background-color:black;
+	color:white;
+}
+
+
+.divTeacherWrapper img{
+	width:auto !important;
+}
+.divTeacher{
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../images/lineSchoolTeacher.gif);
+	background-repeat:no-repeat;
+	/*overflow:hidden;*/
+}
+
+.divTeacherImgBig{
+	float:left;
+	width:333px;
+}
+
+.divTeacherDetail{
+	float:left;
+	padding-left:40px;
+	line-height:35px;
+	width:600px;
+}
+
+.pad1{
+	padding-left:17px;
+}
+
+.imgTeachers{
+	padding-left:17px;
+	padding-top:20px;
+	padding-bottom:35px;
+}
+
+.divPracticeWrapper{
+	height:900px;
+}
+
+.divPracticeWrapper img{
+	width:auto !important;
+}
+
+.divPracticeDetail{
+	float:left;
+	padding-left:40px;
+	line-height:28.4px;
+	width:550px;
+}
+
+.divPracticeDetail p{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+.divPractice{
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../images/linePractice.gif);
+	background-repeat:no-repeat;
+	overflow:hidden;
+}
+
+.pad2{
+	padding-left:45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divSecurityWrapper{
+	height:750px;
+	background-color:#e74159;
+	color:white;
+}
+
+
+.divSecurityWrapper img{
+	width:auto !important;
+}
+
+
+.divSecurity{
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../images/lineSecurity.gif);
+	background-repeat:no-repeat;
+	height:750px;
+}
+
+
+.imgThreeSecurity{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:40px;
+	padding-bottom:20px;
+}
+
+.txt{
+	text-align:center;
+	line-height:30px;
+	font-size:14px;
+	font-family:"微软雅黑";
+	color:black;
+	margin-bottom:25px;
+}
+
+/*.divMiddle{
+	width:930px;
+	margin-left:auto;
+	margin-right:auto;
+}*/
+
+.security{
+	float:left;
+	width:210px;
+	text-align:center;
+	padding-left:60px;
+	padding-right:60px;
+	font-weight:bold;
+	line-height:45px;
+}
+
+.security span{
+	font-size:13px;
+	line-height:20px;
+	color:black;
+	font-weight:100;
+	
+}
+
+.imgSecuritySmall{
+	padding-left:50px;
+	padding-top:20px;
+}
+
+
+
+
+.divCooperationWrapper{
+	height:1400px;
+}
+
+
+
+.divCooperationWrapper img{
+	width:auto !important;
+}
+
+.divCooperation{
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../images/lineCooperation.gif);
+	background-repeat:no-repeat;
+	height:1400px;
+}
+
+.divPractice{
+	width:990px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../images/linePractice.gif);
+	background-repeat:no-repeat;
+}
+
+
+.divMiddle2{
+	width:945px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.divCooperationDetail{
+	float:left;
+	padding-left:40px;
+	line-height:35px;
+	width:550px;
+}
+
+.imgCooperationSmall{
+	padding-left:45px;
+	padding-top:15px;
+}
+
+.divLogoWrapper{
+	width:945px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:0px;
+	margin-top:40px;
+}
+
+
+
+.divLogoBlock{
+	width:290px;
+	font-size:20px;
+	float:left;
+	margin-left:20px;
+	line-height:20px;
+	height:310px;
+	color:#666;
+}
+
+.divLogoBlock p{
+	font-size:22px;
+	font-weight:bold;
+	font-family:"微软雅黑";
+	margin-top:20px;
+	margin-bottom:20px;	
+	color:black
+}
+
+.divLogoBlock img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.divLogoTxt{
+	width:250px;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:13px;
+	
+}

@@ -1,0 +1,58 @@
+{dede:field name='keywords'}做种植牙可以用上几十年{/dede:field}
+{dede:field name='description'}牙齿缺牙是老年人常见的一种牙齿疾病，在很多方面严重影响了老年人的日常生活，为了恢复牙齿功能和身体健康，大多数老年人都会选择种植{/dede:field}
+{dede:field name='title'}做种植牙可以用上几十年吗?{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<div><span style="font-size: 16px;">　　牙齿缺牙是老年人常见的一种牙齿疾病，在很多方面严重影响了老年人的日常生活，为了恢复牙齿功能和身体健康，大多数老年人都会选择种植牙修复缺失的牙齿。但种植牙本身存在的一个疑问，那便是种植牙是否真的可以使用几十年?</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔专家回复:种植牙的使用寿命一般比固定义齿和活动义齿要长，临床上也有种植牙使用超过40年寿命的案例。但种植牙的寿命也受到许多因素的影响，如种植技术、种植材料和后期的个人护理等。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1018/20171018101518714.jpg" style="width: 300px; height: 198px;" /></span></a></div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　做种植牙注意事项 想免费挂号</span></span></a></div>
+<div>&nbsp;</div>
+<div><strong><span style="font-size:16px;">　　详解影响种植牙寿命的各种因素：</span></strong></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　一、做种植牙的医生技术及经验如何。种植牙的使用寿命很大程度上意味着在每天每月每年无数次的反复咀嚼中，这颗假牙的受力程度、耐受程度。如果种植牙植入的角度、植体的深浅恰到好处，那么就可以在反复咀嚼的洗礼中，光荣的坚持到最后;假若一开始设计就有问题，就像房子的地基没有打好，那么即使房子盖起来了，也是不坚固的。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　二、得看患者自身条件。假若房子设计师很有实力，房子设计的也很好，但是建在沙土地上，那么也容易坍塌。所以患者的自身的口腔条件，也就是牙槽骨的质量是很重要的。如果骨量充足(包括高度与厚度)，骨密度适宜，牙龈条件好则使用的寿命长，相反则影响义齿的使用寿命。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">推荐阅读：修复缺牙种植牙和烤瓷牙有什么区别呢</span></a></span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　三、看维护。真牙用了多少年不好好刷牙、平时爱吃硬东西也会掉碴、松动，更何况是后来植入的种植牙。所以对于种植牙的清洁、护理一点也马虎不得，否则容易出现种植体周围炎，导致牙齿松动和脱落。对于种植牙应当爱惜一些，这样使用的时间也会长久一些。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1018/20171018101554808.jpg" style="width: 450px; height: 280px;" /></span></a></div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;描述自己的情况，请在线医生来诊断确定治疗方案&lt;&lt;</span></span></a></div>
+<div>&nbsp;</div>
+<div><strong><span style="font-size:16px;">　　维尔即刻种植牙技术值得信赖：</span></strong></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔引进微创即刻种植技术(查看价格)，利用手术方式和技术来完成种植牙过程，仅有3～4毫米的小切口，将人工牙根种入口腔内，摆脱了传统种植牙切开翻起牙肉、缝合、拆线等步骤，一般种植体植入手术只需要十几分钟即可以完成。创伤小，术后即可进食，几乎没有痛苦。由于选用的是与人体相容性较好的材料，种植牙对人体没有什么副作用，广大美牙人士可以放心选择。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　以上是关于做种植牙可以用上几十年吗?的详细介绍。如果对于看牙相关的问题还有疑问，可以在线咨询与我们的医生进行一对一的交流，同时通过网上预约挂号，可享受免挂号费、全口检查费、到院优先就诊服务。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">预约电话：400-6655-111</span></a></span></div>
+<div>&nbsp;</div>{/dede:field}
+{dede:field name='body'}<div><span style="font-size: 16px;">　　牙齿缺牙是老年人常见的一种牙齿疾病，在很多方面严重影响了老年人的日常生活，为了恢复牙齿功能和身体健康，大多数老年人都会选择种植牙修复缺失的牙齿。但种植牙本身存在的一个疑问，那便是种植牙是否真的可以使用几十年?</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔专家回复:种植牙的使用寿命一般比固定义齿和活动义齿要长，临床上也有种植牙使用超过40年寿命的案例。但种植牙的寿命也受到许多因素的影响，如种植技术、种植材料和后期的个人护理等。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1018/20171018101518714.jpg" style="width: 300px; height: 198px;" /></span></a></div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　做种植牙注意事项 想免费挂号</span></span></a></div>
+<div>&nbsp;</div>
+<div><strong><span style="font-size:16px;">　　详解影响种植牙寿命的各种因素：</span></strong></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　一、做种植牙的医生技术及经验如何。种植牙的使用寿命很大程度上意味着在每天每月每年无数次的反复咀嚼中，这颗假牙的受力程度、耐受程度。如果种植牙植入的角度、植体的深浅恰到好处，那么就可以在反复咀嚼的洗礼中，光荣的坚持到最后;假若一开始设计就有问题，就像房子的地基没有打好，那么即使房子盖起来了，也是不坚固的。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　二、得看患者自身条件。假若房子设计师很有实力，房子设计的也很好，但是建在沙土地上，那么也容易坍塌。所以患者的自身的口腔条件，也就是牙槽骨的质量是很重要的。如果骨量充足(包括高度与厚度)，骨密度适宜，牙龈条件好则使用的寿命长，相反则影响义齿的使用寿命。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">推荐阅读：修复缺牙种植牙和烤瓷牙有什么区别呢</span></a></span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　三、看维护。真牙用了多少年不好好刷牙、平时爱吃硬东西也会掉碴、松动，更何况是后来植入的种植牙。所以对于种植牙的清洁、护理一点也马虎不得，否则容易出现种植体周围炎，导致牙齿松动和脱落。对于种植牙应当爱惜一些，这样使用的时间也会长久一些。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1018/20171018101554808.jpg" style="width: 450px; height: 280px;" /></span></a></div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;描述自己的情况，请在线医生来诊断确定治疗方案&lt;&lt;</span></span></a></div>
+<div>&nbsp;</div>
+<div><strong><span style="font-size:16px;">　　维尔即刻种植牙技术值得信赖：</span></strong></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔引进微创即刻种植技术(查看价格)，利用手术方式和技术来完成种植牙过程，仅有3～4毫米的小切口，将人工牙根种入口腔内，摆脱了传统种植牙切开翻起牙肉、缝合、拆线等步骤，一般种植体植入手术只需要十几分钟即可以完成。创伤小，术后即可进食，几乎没有痛苦。由于选用的是与人体相容性较好的材料，种植牙对人体没有什么副作用，广大美牙人士可以放心选择。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　以上是关于做种植牙可以用上几十年吗?的详细介绍。如果对于看牙相关的问题还有疑问，可以在线咨询与我们的医生进行一对一的交流，同时通过网上预约挂号，可享受免挂号费、全口检查费、到院优先就诊服务。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">预约电话：400-6655-111</span></a></span></div>
+<div>&nbsp;</div>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D420140510-31412_lit.jpg{/dede:field}

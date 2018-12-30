@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, font { padding:0; margin: 0; font-family:"Heiti SC","Droidsansfallback","微软雅黑", "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;}
+table { border-collapse:collapse; border-spacing:0; }
+fieldset, img { border:0; vertical-align:middle; }
+h1, h2, h3, h4, h5, h6 { font-weight:normal; font-size:100%; }
+ol, ul, li, dl, dt, dd { list-style:none; }
+input, button, textarea, checkbox, select, radio, form { vertical-align: top; }
+a { color:#727272; text-decoration:none; }
+a:link, a:visited { text-decoration:none; }
+a:hover{text-decoration:none;}
+body{font-size: 14px; width:6.4rem; margin:auto}
+.red, .red a { color:#F00; }
+.left { float:left; }
+.right { float:right; }
+.autohei { overflow:hidden; zoom:1; }
+.clear { font-size:0; line-height:0; clear:both; overflow:hidden; zoom:1; }
+.clear1{ height:0.1rem; clear:both}
+.clear2{ height:0.2rem; clear:both}
+.clear3{ height:0.3rem; clear:both}
+.clear4{ height:0.4rem; clear:both}
+.clear5{ height:0.5rem; clear:both}
+
+.w640{width: 6.4rem;margin: auto;}
+.w620{width: 96.875%;margin: auto;}
+.w600{width: 93.75%;margin: auto;}
+
+.banner{ background: url(../images/banner.jpg); height: 10.59rem; background-size: 100% 100% }
+.banner a{ display: block; margin: auto; padding-top: 8.52rem;  width: 5.38rem;}
+.banner p{ font-size:0.26rem; color: #fff; text-align:center; padding-top: 0.2rem;  }
+.banner p span{ text-decoration:underline; color: #be2714  }
+
+.b1_c ul li{ width: 5.81rem; height: 1.83rem; margin:auto; margin-bottom: 0.2rem }
+.b1_c ul li:nth-child(1){ background: url(../images/b1_1.jpg) no-repeat; background-size: 100% 100% }
+.b1_c ul li:nth-child(2){ background: url(../images/b1_2.jpg) no-repeat; background-size: 100% 100% }
+.b1_c ul li:nth-child(3){ background: url(../images/b1_3.jpg) no-repeat; background-size: 100% 100% }
+.b1_c ul li:nth-child(4){ background: url(../images/b1_4.jpg) no-repeat; background-size: 100% 100% }
+.b1_c ul li:nth-child(5){ background: url(../images/b1_5.jpg) no-repeat; background-size: 100% 100% }
+.b1_c ul li:nth-child(6){ background: url(../images/b1_6.jpg) no-repeat; background-size: 100% 100% }
+.b1_c ul li:nth-child(7){ background: url(../images/b1_7.png) no-repeat; background-size: 100% 100% }
+.b1_c ul li h1{ font-weight: bold; font-size: 0.36rem; color: #fff; line-height: 1.2; padding-left:0.43rem; padding-top: 0.14rem; }
+.b1_c ul li p{ padding-left: 0.43rem;  font-size: 0.24rem; line-height: 1.5; width: 3.54rem; color: #fff; text-align: justify; padding-top: 0.15rem;}
+.b1_c ul li:nth-child(2n) h1{ text-align: right; padding-right: 0.45rem; }
+.b1_c ul li:nth-child(2n) p{ float: right; padding-right: 0.20rem; width: 3.8rem; }
+
+.b2{ background: #ebebeb }
+.b2 a{ width: 4.45rem; display: block; text-align: center; margin: auto }
+.b3 img:nth-child(1){ width: 4.55rem; display: block; margin:auto; }
+.b3 p{ font-size: 0.24rem; color: #2d2d2d; line-height: 1.8; text-align: justify; text-indent: 2em; }
+.b4 a{ width: 4.44rem; display: block; margin:auto; }
+.gh{ background: url(../images/b5_tjbg.jpg) no-repeat #ffb400 center top; background-size: 6.2rem 8.43rem; }
+.gh form { padding-top: 3.3rem;  text-align: center; }
+.gh form p{ padding-bottom: 0.29rem; }
+.gh form input,.gh form textarea{ width: 4.35rem; height: 0.64rem; border:solid 1px #ff8705; padding-left: 0.76rem; font-size: 0.28rem; }
+.gh form textarea{ height: 1.3rem; }
+.gh form p:last-of-type{ text-align: center; }
+.gh form p:last-of-type input{    -webkit-appearance: none;  padding-left: 0px;font-size: 0.3rem; color: #fff; border:none; width: 2.2rem; height: 0.66rem; border-radius: 0.05rem; margin-left:0.15rem; margin-right:0.15rem; }
+.gh form p:last-of-type input:nth-child(1){ background: #fd5401 }
+.gh form p:last-of-type input:nth-child(2){ background: #a5a5a5 }
+.gh form p:nth-child(1) input{ background: url(../images/p1.jpg) no-repeat 0.2rem center; background-size: 0.4rem 0.37rem;  }
+.gh form p:nth-child(2) input{ background: url(../images/p2.jpg) no-repeat 0.2rem center; background-size: 0.4rem 0.37rem;  }
+.gh form p:nth-child(3) textarea{ background: url(../images/p3.jpg) no-repeat 0.2rem 0.13rem; background-size: 0.4rem 0.37rem;  padding-top: .12rem;}
+.gh ul{ padding-top: 1rem; }
+.gh ul li{ font-size: 0.24rem; line-height: 2; padding-left: 0.15rem; padding-right: 0.15rem; text-align: justify; }
+.gh ul li span{ color: #ff1200; font-size: 0.28rem; }

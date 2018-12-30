@@ -1,0 +1,30 @@
+ {dede:field.typeid runphp='yes'}if(@me==0){@me='
+<!--首页-->
+<header class="clear" id="header">
+    <div class="logo fl">
+        <a href="/"><img src="/images/home1_03.png" alt="太原市中心医院第三医院"></a>
+    </div>
+    <a href="tel:0351-6860923"><img class="fr headCall" src="/images/home1_06.png" alt=""></a>
+</header>';}else{@me='
+<!-- 非首页 -->
+<header class="clear header2" id="header">
+    <img class="header2img" src="/images/toubu123.jpg" alt="">
+    <a class="home2_logo" href="/"></a>
+    <a class="home2_phone" href="tel:0351-6860923"></a>
+</header>
+';}{/dede:field.typeid}
+<!--nav-->
+<nav class="clear">
+    <a href="{dede:type typeid='11'}[field:typeurl/]{/dede:type}">医院概况</a>
+    <a href="{dede:type typeid='3'}[field:typeurl/]{/dede:type}">特色科室</a>
+    <a href="{dede:type typeid='5'}[field:typeurl/]{/dede:type}">医师团队</a>
+    <a href="{dede:type typeid='2'}[field:typeurl/]{/dede:type}">新闻中心</a>
+</nav>
+<!--banner-->
+<script src="/js/banner.js"></script>
+<nav class="clear">
+    <a href="{dede:type typeid='8'}[field:typeurl/]{/dede:type}">党政建设</a>
+    <a href="{dede:type typeid='9'}[field:typeurl/]{/dede:type}">康复案例</a>
+    <a href="{dede:type typeid='10'}[field:typeurl/]{/dede:type}">来院路线</a>
+    <a href="{dede:type typeid='26'}[field:typeurl/]{/dede:type}">就诊指南</a>
+</nav>

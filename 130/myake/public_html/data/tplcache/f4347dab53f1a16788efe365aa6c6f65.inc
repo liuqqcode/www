@@ -1,0 +1,28 @@
+{dede:field name='keywords'}义齿{/dede:field}
+{dede:field name='description'}对于牙齿的修复，选择不同的烤瓷牙其价格是各不一样的，而对于大多数人来说，要想选择价格不算高，而效果安全性又比较好的烤瓷牙莫过于{/dede:field}
+{dede:field name='title'}义齿修复要多少钱{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">　　对于牙齿的修复，选择不同的烤瓷牙其价格是各不一样的，而对于大多数人来说，要想选择价格不算高，而效果安全性又比较好的烤瓷牙莫过于钴铬烤合金义齿了。那么这种义齿修复要多少钱呢?下面北京维尔口腔医院的专家详细的介绍下。</span>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110023609721.jpg" style="width: 300px; height: 185px;" /><br />
+&gt;点击咨询做烤瓷牙医院哪家好&lt;</span></span></a></div>
+<p><strong><span style="font-size:16px;">　　专家介绍 钴铬合金义齿的费用与下面几个因素有关</span></strong></p>
+<p><span style="font-size:16px;">　　钴铬合金义齿冠价格与您自身的情况有很大的关系，一般来说，人们需要进行牙齿修复的话，需要根据自身牙齿损害的具体情况与经济状况进行治疗方案的选择，不同的治疗方案，选择的填充材料不一样，一起不一样方式不同，其治疗的费用也是不一样的。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">【点击咨询】【</span></a></span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">在线预约</span><span style="font-size: 16px;">】</span></span></a></p>
+<p><span style="font-size:16px;">　　钴铬合金义齿价格与您选择的材料不一样。不同的材料效果是不一样的，北京维尔口腔医院的材料，均选用优质材料，不会出现质量问题，人们可以放心使用。价格方面的话，北京维尔口腔医院不会出现乱收费的情况。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">&gt;点击在线咨询，了解相关费用&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　钴铬合金义齿价格与您选择的医院也是分不开的，人们进行疾病的治疗，较重要的一点就在于医院的选择，一般小诊所也可以进行牙齿修复，但是其治疗的效果也是不可信任的，所以一定要到正规的医院进行修复。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0202/20180202023335449.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><strong><span style="font-size:16px;">　　冰晶高透全瓷冠 美学定制 无与伦比</span></strong></p>
+<p><span style="font-size:16px;">　　北京维尔口腔医院采用的冰晶高透全瓷冠技术源自德国。采用专利冰晶高透全瓷材料，具有和天然牙相媲美的效果，通过高精度CAD/CAM软件进行美学设计，经染色和烧结处理，无需烤瓷，攻克全瓷冠桥一次成型的技术难关，没有崩瓷风险，是 获得德国医学器械认证、欧洲医学93/42/BBC认证的齿科修复技术，是目前齿科修复的领导品牌。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">&lt;即刻预约挂号，治疗无需排队&gt;</span></a></span></p>
+<p><span style="font-size:16px;">　　维尔温馨提示：提前预约挂号，到院无需挂号(免挂号费)即可实现轻松无障碍就诊!这里不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话：400-6655-111</span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">　　对于牙齿的修复，选择不同的烤瓷牙其价格是各不一样的，而对于大多数人来说，要想选择价格不算高，而效果安全性又比较好的烤瓷牙莫过于钴铬烤合金义齿了。那么这种义齿修复要多少钱呢?下面北京维尔口腔医院的专家详细的介绍下。</span>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110023609721.jpg" style="width: 300px; height: 185px;" /><br />
+&gt;点击咨询做烤瓷牙医院哪家好&lt;</span></span></a></div>
+<p><strong><span style="font-size:16px;">　　专家介绍 钴铬合金义齿的费用与下面几个因素有关</span></strong></p>
+<p><span style="font-size:16px;">　　钴铬合金义齿冠价格与您自身的情况有很大的关系，一般来说，人们需要进行牙齿修复的话，需要根据自身牙齿损害的具体情况与经济状况进行治疗方案的选择，不同的治疗方案，选择的填充材料不一样，一起不一样方式不同，其治疗的费用也是不一样的。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">【点击咨询】【</span></a></span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">在线预约</span><span style="font-size: 16px;">】</span></span></a></p>
+<p><span style="font-size:16px;">　　钴铬合金义齿价格与您选择的材料不一样。不同的材料效果是不一样的，北京维尔口腔医院的材料，均选用优质材料，不会出现质量问题，人们可以放心使用。价格方面的话，北京维尔口腔医院不会出现乱收费的情况。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">&gt;点击在线咨询，了解相关费用&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　钴铬合金义齿价格与您选择的医院也是分不开的，人们进行疾病的治疗，较重要的一点就在于医院的选择，一般小诊所也可以进行牙齿修复，但是其治疗的效果也是不可信任的，所以一定要到正规的医院进行修复。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0202/20180202023335449.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><strong><span style="font-size:16px;">　　冰晶高透全瓷冠 美学定制 无与伦比</span></strong></p>
+<p><span style="font-size:16px;">　　北京维尔口腔医院采用的冰晶高透全瓷冠技术源自德国。采用专利冰晶高透全瓷材料，具有和天然牙相媲美的效果，通过高精度CAD/CAM软件进行美学设计，经染色和烧结处理，无需烤瓷，攻克全瓷冠桥一次成型的技术难关，没有崩瓷风险，是 获得德国医学器械认证、欧洲医学93/42/BBC认证的齿科修复技术，是目前齿科修复的领导品牌。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">&lt;即刻预约挂号，治疗无需排队&gt;</span></a></span></p>
+<p><span style="font-size:16px;">　　维尔温馨提示：提前预约挂号，到院无需挂号(免挂号费)即可实现轻松无障碍就诊!这里不仅给您提供温馨舒适的治疗环境，而且给您免费建立的档案。给牙齿不一样的呵护。医院特别开设在线咨询服务，在线为您解答疾病相关的问题，根据病情给予专业的个性化的指导意见，提供专业治疗方案，如需帮助，请点击咨询或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话：400-6655-111</span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D6120594F-133542_lit.jpg{/dede:field}

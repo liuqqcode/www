@@ -1,0 +1,46 @@
+{dede:field name='keywords'}优势{/dede:field}
+{dede:field name='description'}近年来，前来维尔口腔修整牙齿的人多了起来，很多都是子女替父母前来咨询数字化种植牙的。随着老年人年龄的增长，牙齿出现缺失的状况，{/dede:field}
+{dede:field name='title'}数字化无痛种牙优势有哪些?{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">　　近年来，前来维尔口腔修整牙齿的人多了起来，很多都是子女替父母前来咨询数字化种植牙的。随着老年人年龄的增长，牙齿出现缺失的状况，使很多老年人晚年生活都不愉快，因此子女们为了让老人们生活的快乐，都想趁着时间，把牙齿问题彻底解决。</span>
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2017/1106/20171106050709778.jpg" style="width: 359px; height: 242px;" /><br />
+&gt;&gt;牙齿缺失用哪种修复方法好&lt;&lt;</span></a></span></div>
+<p><strong><span style="font-size:16px;">　　数字化无痛种牙 消除种牙顾虑</span></strong></p>
+<p><span style="font-size:16px;">　　以往，由于种植牙对牙医和诊疗设备要求很高，让很多不熟悉种植牙的市民朋友望而却步。随着数字化无痛种植牙技术率先在维尔 口腔开展，这种情况已得到了很大改善。缺牙患者术前就可以预览术后的效果，而且手术变得更精准，手术时长变得更短，手术的疼痛感也进一步降低。患者大不必心存顾虑。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;做牙齿种植会疼吗&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　口腔种植是对精度要求很高的牙科手术，在数字化无痛种植技术引进之前，不少医生都是依靠经验&ldquo;盲种&rdquo;。&ldquo;有了数字化种牙技术的辅助，包括单颗牙缺失，多颗牙缺失、全口牙缺失、烤瓷牙失败、活动牙摘除重种等，尤其是无牙颌种植难题，数字化种植技术更有优势!&rdquo;</span></p>
+<p><span style="font-size:16px;">　　数字化无痛种植牙技术结合了当今 先进的三维成像检测技术、电脑导航技术、3D打印技术、CADCAM辅助设计、即刻种植技术等前沿口腔科技术等前沿牙齿种植技术，数字化无痛种植牙的落户，使维尔 口腔的种植牙技术进入数字化时代。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;种植牙价格贵不贵&lt;&lt;</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　可视化准确设计　高科技种牙&ldquo;显身手&rdquo;</span></strong></p>
+<p><span style="font-size:16px;">　　数字化无痛种植牙技术利用德国西诺德三维口腔CT精准判断全口牙槽骨的高度、厚度及角度，让医生能够做出精准的判断。医生在计算机上重建成3D数字模型，对颌骨进行观察和测量，进行手术模拟、同时兼顾后期修复等诸多因素进行综合考虑，设计出好的的种植方案，制造成准确的种植导板。&ldquo;这个导板能够帮助医生在种植时，准确达到种植方案所设计的种植位点、深度及角度，从而将创伤降低到 小程度，大幅度缩短了种植过程所需的时间。&rdquo;<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;了解更多详情请点击咨询&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　数字化种植牙设计过程完全&ldquo;可视&rdquo;，医生和患者都可预先看到准确的手术模型和种植效果;精准快捷，成功率高：按照&ldquo;种植导板&rdquo;制作的义齿的种植体和修复体将完全符合患者的口腔比例，使得手术更精准更安全，质量有保证。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2017/1106/20171106050721919.jpg" style="width: 450px; height: 280px;" /><br />
+&gt;&gt;有问题？点击咨询在线专家&lt;&lt;</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　【专业推荐&mdash;&mdash;维尔口腔种植牙】</span></strong></p>
+<p><span style="font-size:16px;">　　一直以来，北京维尔都秉承着以患者为核心的服务理念，追求服务流程标准化，服务细节个性化，做到主动服务，感动服务，准确服务，亲情服务，预见性服务，珍惜为每一个顾客服务的机会，让患者来到维尔体验&ldquo;你是顾客不是病人&rdquo;的服务目标。</span></p>
+<p><span style="font-size:16px;">　　在种植牙技术方面，维尔采用先进种植系统。维尔种植系统是依据亚洲人的骨密度，骨厚度，骨宽度，成骨量等要素，集多种植体之长，它有效解决了种植体生物相容性的问题，使种植牙的得到了提升。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【在线咨询】【点击预约】</span></a></span></p>
+<p><span style="font-size:16px;">　　在消毒防护方面，维尔口腔将消毒模式提升至16层，为患室一医一助一机一用一消毒&rdquo;的诊疗模式，有效避免了肺结核，肝炎，艾滋病等各种传染性疾病的交叉感染，避免了患者因器械污染引发的感染，为患者提供&ldquo;一人一诊室一治疗的诊疗模式，保障患者在维尔种牙的安全。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;种植牙前需要哪些准备&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　在医生团队方面，维尔口腔拥有经验丰富临床经验种植牙医生团队，参与并成功为上万例患者进行了牙齿种植</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/1106/20171106050733635.jpg" style="width: 300px; height: 200px;" /><br />
+<span style="color:#ff0000;">点击查看维尔更多种植牙成功案例</span></a></span></p>
+<p><span style="font-size:16px;">　　<strong>【北京维尔口腔医院】</strong>医院成立以来始终坚持&ldquo;把客人当亲人用行动换感动&rdquo;的服务理念，深受广大患者的好评，维尔是您选择口腔治疗的正确选择。如果您还有其它疑问或者想继续了解，可以在线点击咨询，也可以拨打我们的<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">健康热线400-6655-111</span></a>，免费咨询专家!</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">　　近年来，前来维尔口腔修整牙齿的人多了起来，很多都是子女替父母前来咨询数字化种植牙的。随着老年人年龄的增长，牙齿出现缺失的状况，使很多老年人晚年生活都不愉快，因此子女们为了让老人们生活的快乐，都想趁着时间，把牙齿问题彻底解决。</span>
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2017/1106/20171106050709778.jpg" style="width: 359px; height: 242px;" /><br />
+&gt;&gt;牙齿缺失用哪种修复方法好&lt;&lt;</span></a></span></div>
+<p><strong><span style="font-size:16px;">　　数字化无痛种牙 消除种牙顾虑</span></strong></p>
+<p><span style="font-size:16px;">　　以往，由于种植牙对牙医和诊疗设备要求很高，让很多不熟悉种植牙的市民朋友望而却步。随着数字化无痛种植牙技术率先在维尔 口腔开展，这种情况已得到了很大改善。缺牙患者术前就可以预览术后的效果，而且手术变得更精准，手术时长变得更短，手术的疼痛感也进一步降低。患者大不必心存顾虑。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;做牙齿种植会疼吗&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　口腔种植是对精度要求很高的牙科手术，在数字化无痛种植技术引进之前，不少医生都是依靠经验&ldquo;盲种&rdquo;。&ldquo;有了数字化种牙技术的辅助，包括单颗牙缺失，多颗牙缺失、全口牙缺失、烤瓷牙失败、活动牙摘除重种等，尤其是无牙颌种植难题，数字化种植技术更有优势!&rdquo;</span></p>
+<p><span style="font-size:16px;">　　数字化无痛种植牙技术结合了当今 先进的三维成像检测技术、电脑导航技术、3D打印技术、CADCAM辅助设计、即刻种植技术等前沿口腔科技术等前沿牙齿种植技术，数字化无痛种植牙的落户，使维尔 口腔的种植牙技术进入数字化时代。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;种植牙价格贵不贵&lt;&lt;</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　可视化准确设计　高科技种牙&ldquo;显身手&rdquo;</span></strong></p>
+<p><span style="font-size:16px;">　　数字化无痛种植牙技术利用德国西诺德三维口腔CT精准判断全口牙槽骨的高度、厚度及角度，让医生能够做出精准的判断。医生在计算机上重建成3D数字模型，对颌骨进行观察和测量，进行手术模拟、同时兼顾后期修复等诸多因素进行综合考虑，设计出好的的种植方案，制造成准确的种植导板。&ldquo;这个导板能够帮助医生在种植时，准确达到种植方案所设计的种植位点、深度及角度，从而将创伤降低到 小程度，大幅度缩短了种植过程所需的时间。&rdquo;<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;了解更多详情请点击咨询&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　数字化种植牙设计过程完全&ldquo;可视&rdquo;，医生和患者都可预先看到准确的手术模型和种植效果;精准快捷，成功率高：按照&ldquo;种植导板&rdquo;制作的义齿的种植体和修复体将完全符合患者的口腔比例，使得手术更精准更安全，质量有保证。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2017/1106/20171106050721919.jpg" style="width: 450px; height: 280px;" /><br />
+&gt;&gt;有问题？点击咨询在线专家&lt;&lt;</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　【专业推荐&mdash;&mdash;维尔口腔种植牙】</span></strong></p>
+<p><span style="font-size:16px;">　　一直以来，北京维尔都秉承着以患者为核心的服务理念，追求服务流程标准化，服务细节个性化，做到主动服务，感动服务，准确服务，亲情服务，预见性服务，珍惜为每一个顾客服务的机会，让患者来到维尔体验&ldquo;你是顾客不是病人&rdquo;的服务目标。</span></p>
+<p><span style="font-size:16px;">　　在种植牙技术方面，维尔采用先进种植系统。维尔种植系统是依据亚洲人的骨密度，骨厚度，骨宽度，成骨量等要素，集多种植体之长，它有效解决了种植体生物相容性的问题，使种植牙的得到了提升。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【在线咨询】【点击预约】</span></a></span></p>
+<p><span style="font-size:16px;">　　在消毒防护方面，维尔口腔将消毒模式提升至16层，为患室一医一助一机一用一消毒&rdquo;的诊疗模式，有效避免了肺结核，肝炎，艾滋病等各种传染性疾病的交叉感染，避免了患者因器械污染引发的感染，为患者提供&ldquo;一人一诊室一治疗的诊疗模式，保障患者在维尔种牙的安全。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;种植牙前需要哪些准备&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　在医生团队方面，维尔口腔拥有经验丰富临床经验种植牙医生团队，参与并成功为上万例患者进行了牙齿种植</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/1106/20171106050733635.jpg" style="width: 300px; height: 200px;" /><br />
+<span style="color:#ff0000;">点击查看维尔更多种植牙成功案例</span></a></span></p>
+<p><span style="font-size:16px;">　　<strong>【北京维尔口腔医院】</strong>医院成立以来始终坚持&ldquo;把客人当亲人用行动换感动&rdquo;的服务理念，深受广大患者的好评，维尔是您选择口腔治疗的正确选择。如果您还有其它疑问或者想继续了解，可以在线点击咨询，也可以拨打我们的<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">健康热线400-6655-111</span></a>，免费咨询专家!</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D40943W0-33N9_lit.jpg{/dede:field}

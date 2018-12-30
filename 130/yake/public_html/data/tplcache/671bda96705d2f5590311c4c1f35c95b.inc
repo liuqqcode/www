@@ -1,0 +1,28 @@
+{dede:field name='keywords'}寿命{/dede:field}
+{dede:field name='description'}牙齿脱落是年龄增长后的一个正常现象，很多人不太在乎。但对于年轻人意外的牙齿脱落造成的饮食困难也好，不够美观也好，都会影响正常的{/dede:field}
+{dede:field name='title'}种植牙的使用寿命是多久{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<p><span style="font-size:16px;">　　牙齿脱落是年龄增长后的一个正常现象，很多人不太在乎。但对于年轻人意外的牙齿脱落造成的饮食困难也好，不够美观也好，都会影响正常的生活。所以，种植牙就无意中成了很多人的备选。而种植牙寿命问题是他们选择的参考因素。今天就让我们一起来了解一下种植牙的使用寿命是多久?</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110045729329.jpg" style="width: 359px; height: 242px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt;五个因素影响种植牙的寿命</span></span></a></p>
+<p><span style="font-size:16px;">　　种植牙的使用年限一直是人们关注的话题，在发达 ，接受种植牙手术的人，5年使用率在90%以上，10年使用率在85%左右，由此可见，只要维护得当，种植牙的使用寿命是很长久的。</span></p>
+<p><span style="font-size:16px;">　　但这并不是决定种植牙寿命的 因素，牙根材料的选择，对牙根的固定作用有着较大的影响。其次是手术人员技术的熟练程度，以及手术医生对相关学科知识的全面理解。种植牙使用寿命除了与材料的选择治疗的好坏有关外，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">种植牙与患者日后的身体状况、使用及自我维护相关</span></a>。</span></p>
+<p><span style="font-size:16px;">　　接受了植牙的患者应严格按照医生的指导去做，包括自身清洁维护和定期的专业去除牙石及菌斑的复诊维护等，这样才能使种植牙更有效更长久地为患者服务。据了解，一颗最早的现代种植牙，为缺牙者完美地服务已超过60年了!只要做好口腔卫生并定期检查，种植牙能维持的时间就可以和真牙一样久。</span></p>
+<p><strong><span style="font-size:16px;">　　维尔技术推荐：　All-on-4&reg;&ldquo;一日得&rdquo;种植术</span></strong></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110045729117.jpg" style="width: 450px; height: 280px;" /></span></strong></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　有问题，点击在线医生咨询</span></span></a></p>
+<p><span style="font-size:16px;">　　All-on-4&reg;技术是目前国际全新种植技术，主要针对于全口无牙或者半口无牙的情况，仅需4颗种植体，于两颗前牙部位的种植体垂直植入牙槽骨内，而两颗中远部位的种植体采取倾斜角度植入牙槽骨内，然后在种植体的基台上安装&ldquo;拱形连桥&rdquo;牙冠，完成口腔种植修复。它是一种即刻负重种植牙技术，患者当天种植，当天戴冠，当天即可享受美食。但此项技术对种植医生的要求极高，因此目前在国内只有为数不多的医生能开展此项种植牙修复技术。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;种植牙哪家医院好？点击咨询&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　<strong>【北京维尔口腔医院】</strong>医院成立以来深受广大患者的好评，维尔是您选择口腔治疗的正确选择。如果您还有其它疑问或者想继续了解，可以在线点击咨询，也可以拨打我们的<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">健康热线400-6655-111</span></a>，免费咨询专家!</span></p>{/dede:field}
+{dede:field name='body'}<p><span style="font-size:16px;">　　牙齿脱落是年龄增长后的一个正常现象，很多人不太在乎。但对于年轻人意外的牙齿脱落造成的饮食困难也好，不够美观也好，都会影响正常的生活。所以，种植牙就无意中成了很多人的备选。而种植牙寿命问题是他们选择的参考因素。今天就让我们一起来了解一下种植牙的使用寿命是多久?</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110045729329.jpg" style="width: 359px; height: 242px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt;五个因素影响种植牙的寿命</span></span></a></p>
+<p><span style="font-size:16px;">　　种植牙的使用年限一直是人们关注的话题，在发达 ，接受种植牙手术的人，5年使用率在90%以上，10年使用率在85%左右，由此可见，只要维护得当，种植牙的使用寿命是很长久的。</span></p>
+<p><span style="font-size:16px;">　　但这并不是决定种植牙寿命的 因素，牙根材料的选择，对牙根的固定作用有着较大的影响。其次是手术人员技术的熟练程度，以及手术医生对相关学科知识的全面理解。种植牙使用寿命除了与材料的选择治疗的好坏有关外，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">种植牙与患者日后的身体状况、使用及自我维护相关</span></a>。</span></p>
+<p><span style="font-size:16px;">　　接受了植牙的患者应严格按照医生的指导去做，包括自身清洁维护和定期的专业去除牙石及菌斑的复诊维护等，这样才能使种植牙更有效更长久地为患者服务。据了解，一颗最早的现代种植牙，为缺牙者完美地服务已超过60年了!只要做好口腔卫生并定期检查，种植牙能维持的时间就可以和真牙一样久。</span></p>
+<p><strong><span style="font-size:16px;">　　维尔技术推荐：　All-on-4&reg;&ldquo;一日得&rdquo;种植术</span></strong></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1110/20171110045729117.jpg" style="width: 450px; height: 280px;" /></span></strong></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　有问题，点击在线医生咨询</span></span></a></p>
+<p><span style="font-size:16px;">　　All-on-4&reg;技术是目前国际全新种植技术，主要针对于全口无牙或者半口无牙的情况，仅需4颗种植体，于两颗前牙部位的种植体垂直植入牙槽骨内，而两颗中远部位的种植体采取倾斜角度植入牙槽骨内，然后在种植体的基台上安装&ldquo;拱形连桥&rdquo;牙冠，完成口腔种植修复。它是一种即刻负重种植牙技术，患者当天种植，当天戴冠，当天即可享受美食。但此项技术对种植医生的要求极高，因此目前在国内只有为数不多的医生能开展此项种植牙修复技术。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;种植牙哪家医院好？点击咨询&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　<strong>【北京维尔口腔医院】</strong>医院成立以来深受广大患者的好评，维尔是您选择口腔治疗的正确选择。如果您还有其它疑问或者想继续了解，可以在线点击咨询，也可以拨打我们的<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">健康热线400-6655-111</span></a>，免费咨询专家!</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D420645F-109557_lit.jpg{/dede:field}

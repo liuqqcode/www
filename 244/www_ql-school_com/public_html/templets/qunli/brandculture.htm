@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+    <script src="{dede:global.cfg_templets_skin/}/js/imgControl.js"></script><!--点击切换图片-->
+    <script src="{dede:global.cfg_templets_skin/}/js/autoImg.js"></script><!--无缝自动图片轮播-->
+</head>
+<body>
+<div class="all">
+  {dede:include filename="head.htm"/}
+        <!--最热消息-->
+        <div class="hotNews">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}  
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                         <span>028-8583 1188</span>
+                        <span>18981933384</span>
+                  
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!--品牌文化-->
+        <div class="" id="brandCulture">
+            <div class="brandCultureContent">
+                {dede:field.content/}
+            </div>
+        </div>
+        <!--footer-->
+{dede:include filename="footer.htm"/}
+</body>
+
+</html>

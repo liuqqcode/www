@@ -1,0 +1,1 @@
+<dd><a href="[field:typelink/]#news">[field:typename/]</a></dd>

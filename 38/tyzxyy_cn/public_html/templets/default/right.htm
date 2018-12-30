@@ -1,0 +1,55 @@
+<div class="fr">
+    <div class="list-item right-side">
+        <div class="list-tit">
+            <h2><span>热门新闻</span></h2>
+        </div>
+        <div class="list-content">
+            <ol class="hot-list">
+                {dede:arclist row="10" titlelen="100" typeid="2"}
+                <li><a href="[field:arcurl/]" title="[field:fulltitle /]"><em class="top[field:global name=autoindex/]">[field:global name=autoindex/]</em>[field:fulltitle /]</a></li>
+                {/dede:arclist}
+            </ol>
+        </div>
+    </div>
+    <div class="list-item right-side">
+        <div class="list-tit">
+            <h2><span>在线留言</span></h2>
+        </div>
+        <div class="gysly">
+            <form method="post" name="form1" id="form1">
+                <div class="gyslybd">
+                    <ul>
+                        <li><span class="bdms">姓名：</span>
+                            <input id="name" name="name" type="text" placeholder="孩子的姓名">
+                        </li>
+                        <li>
+                            <span class="bdms">性别：</span>
+                            <input type="radio" name="sex" class="npsex" value="男" checked=""><em>男</em>
+                            <input type="radio" name="sex" class="npsex" value="女"><em>女</em></li>
+                        <li>
+                            <span class="bdms">年龄：</span>
+                            <input id="name_right" name="age" type="number" placeholder="孩子的年龄">
+                        </li>
+                        <li><span class="bdms">电话：</span>
+                            <input type="text" id="tel" name="tel" placeholder="家长联系电话">
+                        </li>
+                        <div class="cl"></div>
+                        <li><span class="bdms">症状：</span>
+                            <textarea name="zzms" id="zzms" placeholder="简单的描述一下孩子的情况"></textarea>
+                        </li>
+                    </ul>
+                    <div class="cl"></div>
+                    <a onclick="yuyue('form1','1','3','name','tel')" class="gyslytj">提交挂号</a>
+                    <a href="javascript:void(0);return false;" onclick="openZoosUrl();return false;" class="gyslyzx">在线咨询</a>
+                    <div class="cl"></div>
+                    <div class="right_tel">
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=电话')"><img src="/images/pc_dh01.png" alt=""></a>
+                    </div>
+                    <div class="right_tel">
+                        <a href="javascript:openZoosUrl('chatwin','&amp;e=电话')"><img src="/images/pc_dh02.png" alt=""></a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <title>挂号中心_贵州省红十字会妇女儿童医院</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="stylesheet" href="css/a_common.css" />
+    <link rel="stylesheet" href="css/a_main.css" />
+    <script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type="text/javascript" src="js/rootResize.js"></script>
+    <script src="js/TouchSlide.1.1.js"></script>
+
+    <script type="text/javascript">
+
+    function showTime() {
+        var show_day = new Array('星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六');
+        var time = new Date();
+        var year = time.getFullYear();
+        var month = time.getMonth() + 1;
+        var date = time.getDate();
+        var day = time.getDay();
+//        console.log(show_day);
+//        console.log(day);
+        var hour = time.getHours();
+        var minutes = time.getMinutes();
+        var second = time.getSeconds();
+        hour < 10 ? hour = '0' + hour : hour;
+        minutes < 10 ? minutes = '0' + minutes : minutes;
+        second < 10 ? second = '0' + second : second;
+        var now_time = '今天' + month + '月' + date + '日' + ' ' + show_day[day] + '';
+        document.getElementById('showtime').innerHTML = now_time;
+    }
+    $(function()
+        {
+            showTime();
+        });
+    ///////以下是表格日期
+    function GetDateStr(AddDayCount) {
+        var dd = new Date();
+        dd.setDate(dd.getDate() + AddDayCount); //获取AddDayCount天后的日期
+        var y = dd.getFullYear();
+        var m = dd.getMonth() + 1; //获取当前月份的日期
+        var d = dd.getDate();
+        var a = new Array("周日", "周一", "周二", "周三", "周四", "周五", "周六", "周日", "周一", "周二", "周三", "周四", "周五", "周六", "周日");
+        var week = new Date().getDay() + AddDayCount;
+        var w = a[week];
+        return m + "-" + d + "" + "<br />" + w;
+    }
+    //随机相加和等于20预约不小于10
+    var x = Math.round(Math.random() * 4) + 1;
+    var y = 20 - x;
+    var b = Math.round(Math.random() * 5) + 1;
+    var a = 20 - b;
+    var f = Math.round(Math.random() * 4) + 1;
+    var h = 20 - f;
+    var m = Math.round(Math.random() * 4) + 1;
+    var g = 20 - m;
+    var l = Math.round(Math.random() * 5) + 1;
+    var j = 20 - l;
+
+    </script>
+
+</head>
+
+<body>
+<div class="headerr" id="goto-top">
+    <div class="headerr-home">
+        <a href="/"><img src="/images/new-sytop1.png" alt=""></a>
+    </div>
+    <div class="headerr-logo">
+        <a href="/"><img src="/images/new-sytop2.jpg" alt=""></a>
+    </div>
+    <div class="headerr-tel">
+        <a href="tel:0851-85573120"><img src="/images/new-sytop3.png" alt=""></a>
+    </div>
+</div>
+<div class="headder1">
+
+    <ul>
+
+        <li>
+
+            <a href="/yyjj/212.html">
+
+                <p>医院简介</p>
+
+            </a>
+
+        </li>
+
+        <li>
+
+            <a href="/zlbz/">
+
+                <p>科室介绍</p>
+
+            </a>
+
+        </li>
+
+        <li>
+
+            <a href="/zjtd/">
+
+                <p>医师团队</p>
+
+            </a>
+
+        </li>
+
+        <li>
+
+            <a href="/yyjj/news/">
+
+                <p>新闻动态</p>
+
+            </a>
+
+        </li>
+        <li>
+
+            <a href="/wenda">
+
+                <p>有问必答</p>
+
+            </a>
+
+        </li>
+
+    </ul>
+</div>
+    <div class="box">
+        <div class="yygh_top">
+            <div class="yygh_topa mc clear">
+                <div class="yygh_topb fl"><img class="fl" src="images/guaho_t.jpg">每天仅限20个医师号</div>
+                <div class="yygh_topc fr"><i></i><span id="showtime" class="wel"></span></div>
+            </div>
+        </div>
+        <div class="gua_a">
+            <table width="100%">
+                <tr class="gua_b">
+                    <td class="gua_c">时间</td>
+                    <td class="gua_d">预约量</td>
+                    <td class="gua_e">余号</td>
+                    <td class="gua_f">是否可约</td>
+                </tr>
+                <tr>
+                    <td>
+                        <script>
+                        document.write(GetDateStr(0));
+                        </script>
+                    </td>
+                    <td class="gua_h" id="yyme">已满</td>
+                    <td class="gua_h" id="syme">无</td>
+                    <td><a href="#001" id="zxyy_a"><span class="gua_g" id="sqjh">在线预约</span></a></td>
+                </tr>
+                <tr>
+                    <td>
+                        <script>
+                        document.write(GetDateStr(1));
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(a);
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(b);
+                        </script>
+                    </td>
+                    <td><a href="#001"><span class="gua_g">在线预约</span></a></td>
+                </tr>
+                <tr>
+                    <td>
+                        <script>
+                        document.write(GetDateStr(2));
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(y);
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(x);
+                        </script>
+                    </td>
+                    <td><a href="#001"><span class="gua_g">在线预约</span></a></td>
+                </tr>
+                <tr>
+                    <td>
+                        <script>
+                        document.write(GetDateStr(3));
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(h);
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(f);
+                        </script>
+                    </td>
+                    <td><a href="#001"><span class="gua_g">在线预约</span></a></td>
+                </tr>
+                <tr>
+                    <td>
+                        <script>
+                        document.write(GetDateStr(4));
+                        </script>
+                    </td>
+                    <td class="gua_h">已满</td>
+                    <td class="gua_h">无</td>
+                    <td><a href="javascript:void(0);return false;" onclick="openZoosUrl();return false;"><span class="gua_i">申请加号</span></a></td>
+                </tr>
+                <tr>
+                    <td>
+                        <script>
+                        document.write(GetDateStr(5));
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(g);
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(m);
+                        </script>
+                    </td>
+                    <td><a href="#001"><span class="gua_g">在线预约</span></a></td>
+                </tr>
+                <tr>
+                    <td>
+                        <script>
+                        document.write(GetDateStr(6));
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(j);
+                        </script>
+                    </td>
+                    <td>
+                        <script>
+                        document.write(l);
+                        </script>
+                    </td>
+                    <td><a href="#001"><span class="gua_g">在线预约</span></a></td>
+                </tr>
+            </table>
+        </div>
+        <!--01yygh_topc-->
+        <!--01yygh_topc-->
+        <div class="yygh_top" id="001">
+            <div class="yygh_topa mc clear">
+                <div class="yygh_topb fl"><img class="fl" src="images/yygh_zha.png" /> 在线预约挂号平台</div>
+                <div class="yygh_topc fr"><img class="fl" src="images/yygh_zhd.png" /> 预约电话：0851-85573120</div>
+            </div>
+        </div>
+        <!--02zhgh_gh-->
+        <div class="zhgh_gh">
+            <div class="ghgl mc">
+                <form method="post" id="gh_form" name="gh_form">
+                    <script type="text/javascript">
+                    $(function() {
+                        $('.input_test').bind({
+                            focus: function() {
+                                if (this.value == this.defaultValue) {
+                                    this.value = "";
+                                }
+                            },
+                            blur: function() {
+                                if (this.value == "") {
+                                    this.value = this.defaultValue;
+                                }
+                            }
+                        });
+                    })
+                    </script>
+                    <div class="user_input">
+                        <label for="names">孩子的姓名:</label>
+                        <br />
+                        <input id="name" class="input_test" type="text" name="name" value="请输入孩子的真实名字" onfocus="if(this.value=='请输入孩子的真实名字'){this.value='';this.style.color='#333'}" onblur="if(this.value==''){this.value='请输入孩子的真实名字';this.style.color='#999'}" />
+                    </div>
+                    <div class="user_input">
+                        <label for="tel">联系电话：</label>
+                        <br />
+                        <input id="tel" class="input_test" name="tel" type="tel" value="请输入您的手机号码" onfocus="if(this.value=='请输入您的手机号码'){this.value='';this.style.color='#333'}" onblur="if(this.value==''){this.value='请输入您的手机号码';this.style.color='#999'}" />
+                    </div>
+                    <div class="user_input">
+                        <label for="">预约病种：</label>
+                        <br />
+                        <span id="sleBG" class="sleBGa"> <span id="sleHid">
+          <select id="diseases1" name="bz">
+            <option>--请选择病种--</option>
+            <option value="多动症">多动症</option>
+            <option value="抽动症">抽动症</option>
+            <option value="自闭症">自闭症</option>
+            <option value="遗尿症">遗尿症</option>
+            <option value="语言障碍">语言障碍</option>
+            <option value="智力低下">智力低下</option>
+            <option value="脑瘫">脑瘫</option>
+            <option value="癫痫">癫痫</option>
+            <option value="矮小症">矮小症</option>
+            <option value="肥胖症">肥胖症</option>
+            <option value="性早熟">性早熟</option>
+            <option value="其他">其他</option>
+          </select>
+          </span> </span>
+                    </div>
+                    <div class="user_input">
+                        <label for="times">预约日期：</label>
+                        <br />
+                        <input id="time" class="times timea" name="time" onclick="WdatePicker();" />
+                    </div>
+                    <div class="user_input">
+                        <label for="times">病情描述：</label>
+                        <br />
+                        <textarea onclick="this.value=''" class="bqms" name="zzms" id="describe">请简要描述孩子的情况，以便于得到更专业的咨询指导</textarea>
+                    </div>
+                    <div class="tjbtna">
+                        <div class="submita fl">
+                            <input type="reset" value="">
+                        </div>
+                        <div class="ipona fr">
+                            <input type="button" onclick="yuyue('gh_form','3','2','name','tel')" value="" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="yygh_topd">
+            <div class="yygh_tope">
+                <h1><span></span>网上留言/预约挂号须知</h1>
+            </div>
+            <div class="yygh_topf mc">
+                <p>1、预约挂号为实名制，只限患者本人使用。</p>
+                <p>2、建议提前预约挂号，具体时间以挂号中心客服核对为准。</p>
+                <p>3、为了保障广大患者的就医权利，一位患者当天只能预约同一科室的一个医师号。</p>
+                <p>4、挂号中心将于24小时内与您联系，请保持手机畅通，注意来电。</p>
+            </div>
+        </div>
+    </div>
+    <div class="new-footer">
+        <ul>
+            <li class="footer-first-lis"><a href="/">首页</a></li>
+            <li><a href="/yyjj/212.html">医院简介</a></li>
+            <li><a href="javascript:openZoosUrl()">在线咨询</a></li>
+            <li class="footer-last-lis"><a href="#goto-top">回到顶部</a></li>
+        </ul>
+    </div>
+    <div class="foot-map">
+        <div class="foot-map-left">
+            <a href="/yyjj/lylx"><img src="/images/footer-map.jpg" alt=""></a>
+        </div>
+        <div class="foot-map-right">
+            <div class="yy-name"><span><img src="/images/foot-log1.png" alt=""></span>贵州省红十字会妇女儿童医院</div>
+            <div class="yy-time"><span><img src="/images/foot-log3.png" alt=""></span>门诊时间：08:30—18:00</div>
+            <div class="yy-adress"><span><img src="/images/foot-log2.png" alt=""></span>地址：贵阳市南明区瑞金南路345号</div>
+        </div>
+    </div>
+    <div class="online-consultation">
+        <ul>
+            <li><a href="javascript:openZoosUrl()"><div><img src="/images/new-zxzx.png" alt=""></div>在线咨询</a></li>
+            <li class="online-consultation-lis"><a href="tel:085185573120"><div><img src="/images/new-zxzx.png" alt=""></div>免费电话</a></li>
+            <li><a href="javascript:openZoosUrl()"><div><img src="/images/new-zxzx.png" alt=""></div>自助挂号</a></li>
+        </ul>
+    </div>
+    <script>
+            //                获取预约量
+            var reservations = $("#yyme");
+            //                获取余号
+            var surplus = $("#syme");
+            //                获取在线预约
+            var $sqjh = $("#sqjh");
+            //                console.log(surplus,reservations);
+            function subscribe() {
+                //        获取当前时间;
+                var now_my_date = new Date();
+                //        获取当前小时;
+
+                var now_my_hour = now_my_date.getHours();
+                if(1 <= now_my_hour && now_my_hour <= 10){
+                    reservations.html("0");
+                    surplus.html("20");
+                    restore_sqjh();
+                }else if(11 <= now_my_hour && now_my_hour <= 13){
+                    reservations.html("10");
+                    surplus.html("10");
+                    restore_sqjh();
+                }else if(14<= now_my_hour && now_my_hour <= 15){
+                    reservations.html("16");
+                    surplus.html("4");
+                    restore_sqjh();
+                }else if(16 <= now_my_hour && now_my_hour <= 24){
+                    reservations.html("20");
+                    surplus.html("0");
+                    change_sqjh();
+                }
+            }
+            subscribe()
+
+//            还原是否预约;
+            function restore_sqjh() {
+                $sqjh.html("在线预约").addClass("gua_g");
+                $("#zxyy_a").attr("href","#001");
+                $("#zxyy_a").attr("openZoosUrl()");
+            }
+//            改变是否预约;
+            function change_sqjh() {
+                $sqjh.html("申请加号").addClass("gua_i");
+                $("#zxyy_a").attr("href","javascript:openZoosUrl()");
+            }
+
+    </script>
+    <script src="/swt/swt.js"></script>
+</body>
+
+</html>

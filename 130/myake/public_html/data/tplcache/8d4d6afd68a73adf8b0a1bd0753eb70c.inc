@@ -1,0 +1,22 @@
+{dede:field name='keywords'}牙龈炎,方法{/dede:field}
+{dede:field name='description'}北京牙周治疗哪家好?就选北京维尔口腔!牙龈炎是发生在牙龈上的一种炎症，牙龈发炎的典型症状就是牙龈红肿，并伴随着牙龈出血，这种现象{/dede:field}
+{dede:field name='title'}预防出现牙龈炎的方法有哪些{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp;　　北京牙周治疗哪家好?就选北京维尔口腔!牙龈炎是发生在牙龈上的一种炎症，牙龈发炎的典型症状就是牙龈红肿，并伴随着牙龈出血，这种现象是比较常见的，往往会受到人们的忽视，牙龈炎要不及时治疗，时间久了会引发其他牙齿问题，所以要重视起来，那么预防出现牙龈炎的方法有哪些?</span><br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0607/20170607022029411.jpg" style="width: 475px; height: 259px;" /><br />
+<span style="color:#ff0000;">&gt;点击咨询牙龈出血怎么办？&lt;</span></a></span></div>
+<p><span style="font-size:16px;">　　齿龈会红肿，或有出血现象。若刷牙时发觉牙齿容易出血，或牙齿有触痛情况，便需要看牙科医生。首先，牙医会建议清除积聚在牙齿上所有的牙菌膜和牙石，使牙龈炎消退，然后会提供有效的口腔卫生资料， 保持牙齿清洁。控制潜在的疾病可更易治疗，如糖尿病;修补蛀牙可以清除慢性刺激齿龈的根源。</span></p>
+<p><span style="font-size:16px;">　　习惯早晚刷牙及使用牙线清洁牙缝，尤其是在睡前，可以清除牙菌膜，减少在睡觉时牙菌膜的积聚。每6个月至1年，定期往牙科医生处清洁牙齿，预防牙菌膜变成牙石，及清除在牙齿上已形成的牙石。 常见的、发病率较好的是慢性单纯性龈炎，这又称为不洁性龈炎、边缘性龈炎，通常所说 的就是慢性单纯性龈炎。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0); font-size: 16px;">推荐阅读：牙齿松动后要注意什么?</span></a></p>
+<p><span style="font-size:16px;">　　慢性单纯性龈炎只侵犯牙龈组织，不侵犯其他牙周组织。这种龈炎是由于龈缘附近牙面上的菌斑引起的一种慢性炎症，病因明确，在儿童和青少年中较普遍，患病率在70%-90%左右，4-5岁以前通常不发生龈炎， 大多数从5岁开始，随着年龄的增长，其患病率和严重性也逐渐增加，到青春期达高峰，青春期过后，患 病率随年龄的才长而缓慢下降，成年人患病率较低。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2018/0203/20180203035512162.jpg" style="width: 550px; height: 130px;" /></span></p>
+<p><span style="font-size:16px;">　　温馨提示：更多关于牙周治疗等各种牙齿口腔问题的详情，由于这里条件有限，文章并不能解决您的所有疑问，如果您还有其他疑问，建议您点击下方的&ldquo;在线咨询&rdquo;即时免费与在线医生沟通，或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">热线电话：400-6655-111</span></a>，同时，您通过网络预约的话，免挂号费、检查费，免排队，优先会诊，为您节省宝贵时间。北京维尔口腔为您的口腔健康保驾护航。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp;　　北京牙周治疗哪家好?就选北京维尔口腔!牙龈炎是发生在牙龈上的一种炎症，牙龈发炎的典型症状就是牙龈红肿，并伴随着牙龈出血，这种现象是比较常见的，往往会受到人们的忽视，牙龈炎要不及时治疗，时间久了会引发其他牙齿问题，所以要重视起来，那么预防出现牙龈炎的方法有哪些?</span><br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D96303H0-41011.jpg" style="width: 475px; height: 259px;" /><br />
+<span style="color:#ff0000;">&gt;点击咨询牙龈出血怎么办？&lt;</span></a></span></div>
+<p><span style="font-size:16px;">　　齿龈会红肿，或有出血现象。若刷牙时发觉牙齿容易出血，或牙齿有触痛情况，便需要看牙科医生。首先，牙医会建议清除积聚在牙齿上所有的牙菌膜和牙石，使牙龈炎消退，然后会提供有效的口腔卫生资料， 保持牙齿清洁。控制潜在的疾病可更易治疗，如糖尿病;修补蛀牙可以清除慢性刺激齿龈的根源。</span></p>
+<p><span style="font-size:16px;">　　习惯早晚刷牙及使用牙线清洁牙缝，尤其是在睡前，可以清除牙菌膜，减少在睡觉时牙菌膜的积聚。每6个月至1年，定期往牙科医生处清洁牙齿，预防牙菌膜变成牙石，及清除在牙齿上已形成的牙石。 常见的、发病率较好的是慢性单纯性龈炎，这又称为不洁性龈炎、边缘性龈炎，通常所说 的就是慢性单纯性龈炎。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0); font-size: 16px;">推荐阅读：牙齿松动后要注意什么?</span></a></p>
+<p><span style="font-size:16px;">　　慢性单纯性龈炎只侵犯牙龈组织，不侵犯其他牙周组织。这种龈炎是由于龈缘附近牙面上的菌斑引起的一种慢性炎症，病因明确，在儿童和青少年中较普遍，患病率在70%-90%左右，4-5岁以前通常不发生龈炎， 大多数从5岁开始，随着年龄的增长，其患病率和严重性也逐渐增加，到青春期达高峰，青春期过后，患 病率随年龄的才长而缓慢下降，成年人患病率较低。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><img alt="" src="/uploads/allimg/c180322/1521D963091630-51596.jpg" style="width: 550px; height: 130px;" /></span></p>
+<p><span style="font-size:16px;">　　温馨提示：更多关于牙周治疗等各种牙齿口腔问题的详情，由于这里条件有限，文章并不能解决您的所有疑问，如果您还有其他疑问，建议您点击下方的&ldquo;在线咨询&rdquo;即时免费与在线医生沟通，或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">热线电话：400-6655-111</span></a>，同时，您通过网络预约的话，免挂号费、检查费，免排队，优先会诊，为您节省宝贵时间。北京维尔口腔为您的口腔健康保驾护航。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D96303H0-41011_lit.jpg{/dede:field}

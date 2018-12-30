@@ -1,0 +1,54 @@
+{dede:field name='keywords'}智齿{/dede:field}
+{dede:field name='description'}智齿是口腔临床上很常见的一种牙齿疾病，由于它生长的位置特殊，给清洁和治疗带来许多问题，极易引发口腔问题，因此很多情况下，需要{/dede:field}
+{dede:field name='title'}智齿拔牙需要多少钱{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; &nbsp; 智齿是口腔临床上很常见的一种牙齿疾病，由于它生长的位置特殊，给清洁和治疗带来许多问题，极易引发口腔问题，因此很多情况下，需要及时拔除，而智齿拔牙价格是很多人关注的问题，那么智齿拔牙多少钱呢?</span><br />
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1030/20171030045820396.jpg" style="width: 308px; height: 221px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt;哪些情况需要拔智齿?点击咨询&lt;&lt;&lt;</span></span></a></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16px;">拔智齿多少钱?</span></strong></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">对于拔尽头牙的价格，需要具体分析，不可一概而论，因为它的价格受多重因素共同影响。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">1、患者个体差异：在拔尽头牙前，口腔医师会对患者进行全面的口腔及身体检查，对拔尽头牙禁忌人群进行排除，如果口腔内有龋病或炎症则需进行适当的处理，而由于每个人口腔健康状况的不同，导致了拔尽头牙前治疗费用的不同。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">2、尽头牙所处位置的不同：根据尽头牙所处的部位、数量、尽头牙病变程度、尽头牙结构及口腔状况的不同价格有着一定的区别。如果是上颌的尽头牙，其结构较为简单，因此上颌拔尽头牙价格较下颌拔尽头牙价格便宜。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【点击咨询】【点击预约】</span></a></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">3、与医院设备和医生水平有关：好的口腔医院一定拥有国际领先的技术设备和的服务，这是一般小诊所无法企及的。同时还有多位临床经验丰富的医师，可以满足不同患者的治疗需求。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">4、地区影响价格：不同区域的消费水平不同，所以拔尽头牙的价格也不同，一线城市普遍高于二三线城市。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;&gt;拔智齿要多少钱?点击咨询&lt;&lt;&lt;</span></a></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16px;">维尔口腔 &mdash;&mdash; 受国家物价局、卫生局监督、收费更正规!</span></strong></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">维尔口腔所有收费都严格按照市卫生局、财政局、物价局制定的医疗卫生机构收费标准执行，秉着合理收费，明码标价的原则，服务于患者。该机构严格执行病人收费一日清单制、费用查询制、主要收费项目公示制等公开、严格、合理的收费制度。同时，维尔口腔多个项目都可以使用医保，包括拔牙。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;&gt;拔牙痛不痛&lt;&lt;&lt;</span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><span style="color:#ff0000;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0203/20180203111950479.jpg" style="width: 500px; height: 118px;" /></a></span></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16px;">无菌诊疗模式，杜绝感染更放心!</span></strong></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">维尔口腔建立了 &ldquo;全透明化&rdquo;的国际消毒中心和&ldquo;十个一&rdquo;无菌诊疗服务制度等科学地、先进的消毒管理系统，依照国家卫生部《医疗机构口腔诊疗器械消毒技术操作规范》和《国际口腔医学消毒标准》，在全市&ldquo;全透明化服务、患者阳光监督&rdquo;的无菌诊疗模式，有效杜绝肺结核、肝炎、艾滋病等各种传染性疾病的交叉感染，实现感染几率为&ldquo;0&rdquo;。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16px;">维尔微创无痛拔牙术</span></strong></p>
+<p><span style="font-size:16px;">维尔微创无痛拔牙术集、舒适、安全、健康于一体，是维尔口腔通过十多年临床积累，深入分析牙齿组织结构，结合先进的无痛麻醉技术，总结出符合现代口腔理念的新项目，具有创伤小、无痛苦、治疗时间短、愈合快、个性化服务等优势。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;有问题？点击咨询在线专家&lt;&lt;</span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2018/0203/20180203112013475.jpg" style="width: 390px; height: 257px;" /><br />
+点击详解维尔微创拔牙术</span></a></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">高效&mdash;&mdash;通过全面口腔检查，准确定位病牙，快速拔除病牙;</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">安全&mdash;&mdash;经验丰富的牙齿专家亲自手术，不伤正常血管与神经，更有安全保障;</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">微创&mdash;&mdash;进口微创拔牙器械，缩小创口，减少出血、张口受限等并发症;</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">无痛&mdash;&mdash;引进进口的无痛技术，作用快，效果好，整个过程舒适无痛。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">维尔口腔温馨提示：牙齿问题不容忽视，发现问题及早治疗是对牙齿的保护!看牙齿一定要选择正规医院，服务规范效果更有保障。若有更多关于牙齿的问题，请点击在线咨询，我们将竭诚为您服务!<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话:400-6655-111</span></a>。维尔口腔服务10余年,给牙齿专业级的美!</span><br />
+&nbsp;</p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; &nbsp; 智齿是口腔临床上很常见的一种牙齿疾病，由于它生长的位置特殊，给清洁和治疗带来许多问题，极易引发口腔问题，因此很多情况下，需要及时拔除，而智齿拔牙价格是很多人关注的问题，那么智齿拔牙多少钱呢?</span><br />
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1030/20171030045820396.jpg" style="width: 308px; height: 221px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt;哪些情况需要拔智齿?点击咨询&lt;&lt;&lt;</span></span></a></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16px;">拔智齿多少钱?</span></strong></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">对于拔尽头牙的价格，需要具体分析，不可一概而论，因为它的价格受多重因素共同影响。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">1、患者个体差异：在拔尽头牙前，口腔医师会对患者进行全面的口腔及身体检查，对拔尽头牙禁忌人群进行排除，如果口腔内有龋病或炎症则需进行适当的处理，而由于每个人口腔健康状况的不同，导致了拔尽头牙前治疗费用的不同。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">2、尽头牙所处位置的不同：根据尽头牙所处的部位、数量、尽头牙病变程度、尽头牙结构及口腔状况的不同价格有着一定的区别。如果是上颌的尽头牙，其结构较为简单，因此上颌拔尽头牙价格较下颌拔尽头牙价格便宜。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【点击咨询】【点击预约】</span></a></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">3、与医院设备和医生水平有关：好的口腔医院一定拥有国际领先的技术设备和的服务，这是一般小诊所无法企及的。同时还有多位临床经验丰富的医师，可以满足不同患者的治疗需求。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">4、地区影响价格：不同区域的消费水平不同，所以拔尽头牙的价格也不同，一线城市普遍高于二三线城市。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;&gt;拔智齿要多少钱?点击咨询&lt;&lt;&lt;</span></a></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16px;">维尔口腔 &mdash;&mdash; 受国家物价局、卫生局监督、收费更正规!</span></strong></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">维尔口腔所有收费都严格按照市卫生局、财政局、物价局制定的医疗卫生机构收费标准执行，秉着合理收费，明码标价的原则，服务于患者。该机构严格执行病人收费一日清单制、费用查询制、主要收费项目公示制等公开、严格、合理的收费制度。同时，维尔口腔多个项目都可以使用医保，包括拔牙。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;&gt;拔牙痛不痛&lt;&lt;&lt;</span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><span style="color:#ff0000;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0203/20180203111950479.jpg" style="width: 500px; height: 118px;" /></a></span></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16px;">无菌诊疗模式，杜绝感染更放心!</span></strong></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">维尔口腔建立了 &ldquo;全透明化&rdquo;的国际消毒中心和&ldquo;十个一&rdquo;无菌诊疗服务制度等科学地、先进的消毒管理系统，依照国家卫生部《医疗机构口腔诊疗器械消毒技术操作规范》和《国际口腔医学消毒标准》，在全市&ldquo;全透明化服务、患者阳光监督&rdquo;的无菌诊疗模式，有效杜绝肺结核、肝炎、艾滋病等各种传染性疾病的交叉感染，实现感染几率为&ldquo;0&rdquo;。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:16px;">维尔微创无痛拔牙术</span></strong></p>
+<p><span style="font-size:16px;">维尔微创无痛拔牙术集、舒适、安全、健康于一体，是维尔口腔通过十多年临床积累，深入分析牙齿组织结构，结合先进的无痛麻醉技术，总结出符合现代口腔理念的新项目，具有创伤小、无痛苦、治疗时间短、愈合快、个性化服务等优势。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;有问题？点击咨询在线专家&lt;&lt;</span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2018/0203/20180203112013475.jpg" style="width: 390px; height: 257px;" /><br />
+点击详解维尔微创拔牙术</span></a></span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">高效&mdash;&mdash;通过全面口腔检查，准确定位病牙，快速拔除病牙;</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">安全&mdash;&mdash;经验丰富的牙齿专家亲自手术，不伤正常血管与神经，更有安全保障;</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">微创&mdash;&mdash;进口微创拔牙器械，缩小创口，减少出血、张口受限等并发症;</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">无痛&mdash;&mdash;引进进口的无痛技术，作用快，效果好，整个过程舒适无痛。</span></p>
+<p><span style="font-size: 16px;">&nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size:16px;">维尔口腔温馨提示：牙齿问题不容忽视，发现问题及早治疗是对牙齿的保护!看牙齿一定要选择正规医院，服务规范效果更有保障。若有更多关于牙齿的问题，请点击在线咨询，我们将竭诚为您服务!<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">咨询电话:400-6655-111</span></a>。维尔口腔服务10余年,给牙齿专业级的美!</span><br />
+&nbsp;</p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DU6221Q0-L125_lit.jpg{/dede:field}

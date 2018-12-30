@@ -1,0 +1,78 @@
+<extend name="Public/base" />
+
+<block name="body">
+    <!-- 标题栏 -->
+    <div class="main-title">
+        <h2>帖子管理</h2>
+    </div>
+    <div class="cf">
+        <div class="fl">
+            <a class="btn" href="{:U('add')}">添 加</a>
+            <!--<button class="btn ajax-post confirm" url="{:U('User/delete',array
+('method'=>'deleteUser'))}" target-form="ids">删 除</button>-->
+        </div>
+        <!-- 高级搜索 -->
+        <!--<div class="search-form fr cf">
+            <div class="sleft">
+                <input type="text" name="nickname" class="search-input" value="{:I
+('nickname')}" placeholder="">
+                <a class="sch-btn" href="javascript:;" id="search" url="{:U('index')}"><i 
+class="btn-search"></i></a>
+            </div>
+        </div>-->
+    </div>
+    <!-- 数据列表 -->
+    <div class="data-table table-striped">
+        <table class="">
+            <thead>
+            <tr>
+                <!--<th class="row-selected row-selected"><input class="check-all" 
+type="checkbox"/></th>-->
+                <th class="">编号</th>
+                <th class="">帖子标题</th>
+                <th class="">回复人数</th>
+                <th class="">发帖人</th>
+                <th class="">发帖时间</th>
+                <th class="">修改时间</th>
+                <th class="">是否通过审核</th>
+                <th class="">是否置顶</th>
+                <th class="">是否精华</th>
+                <th class="">操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            <notempty name="rows">
+                <volist name="rows" id="vo">
+                    <tr>
+                        <td>{$vo.id} </td>
+                        <td>{$vo.title} </td>
+                        <td>{$vo.reply} </td>
+                        <td>{$vo.publish_name} </td>
+                        <td>{$vo.upload_time|date='Y-m-d H:i:s',###}</td>
+                        <td>{$vo.save_time|date='Y-m-d H:i:s',###}</td>
+                        <td><if condition="$vo['type'] eq 1 ">审核通过</if><if condition="$vo
+['type'] eq 0 ">待审核</if></td>
+                        <td><if condition="$vo['is_top'] eq 1 ">是</if><if condition="$vo
+['is_top'] eq 0 ">否</if></td>
+                        <td><if condition="$vo['is_cream'] eq 1 ">是</if><if
+                                condition="$vo['is_cream'] eq 0 ">否</if></td>
+                        <td>
+                            <a href="{:U('edit',array('id'=>$vo['id']))}">编辑</a>&nbsp|&nbsp
+                            <a href="{:U('tzsh',array('id'=>$vo['id'],'p'=>$p))}" class="confirm ajax-get">通过审核</a>&nbsp|&nbsp
+                            <a href="{:U('delete',array('id'=>$vo['id']))}" class="confirm ajax-get">删除</a>
+                        </td>
+                    </tr>
+                </volist>
+                <else/>
+                <td colspan="9" class="text-center"> aOh! 暂时还没有内容! </td>
+            </notempty>
+            </tbody>
+        </table>
+    </div>
+    <div class="page">
+        {$page}
+    </div>
+</block>
+
+
+

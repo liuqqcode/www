@@ -1,0 +1,1 @@
+<li><a href="/kecheng/meijie/1402.html"><img src="/templets/qunli/images/profession4.png" alt="半永久培训"/></a></li>

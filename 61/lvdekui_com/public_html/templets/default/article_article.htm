@@ -1,0 +1,83 @@
+﻿<!DOCTYPE HTML>
+<!--[if lt IE 7 ]> <html lang="zh-CN" class="ie6 ielt8"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="zh-CN" class="ie7 ielt8"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="zh-CN" class="ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="zh-CN">
+<!--<![endif]-->
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:field.title/}_西南儿童医院（lvdekui.com）</title>
+    <meta content="{dede:field.keywords/}" name="Keywords">
+    <meta content="{dede:field.description  function='html2text(@me)'/}" name="Description">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/css/list.css" />
+    <script src="/js/jquery-1.9.1.min.js"></script>
+    <script src="/js/jquery.SuperSlide.2.1.1.js"></script>
+</head>
+
+<body>
+    <div class="warp">
+        {dede:include filename="header.htm" /}
+        <div class="content">
+            <div class="content_home">
+                <div class="home_left">
+                    <div class="hl_content">
+                        <div class="hl_c_title">
+                            <h2><span class="title">{dede:field.title/}</span><i class="tag 5450">{dede:field.typename/}</i></h2>
+                        </div>
+                        <div class="hl_c_twid 5450">{dede:field.typename/} / {dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/} / 点击：
+                            <script src="{dede:field name='phpurl'/}/count.php?view=yes&aid={dede:field name='id'/}&mid={dede:field name='mid'/}" type='text/javascript' language="javascript"></script>   来源：{dede:field.source/}   作者：{dede:field.writer/}
+                        </div>
+                        <div class="hl_c_wcid 5450">
+                            <div class="intro">{dede:field.description/}</div>
+                        </div>
+                        <div class="hl_body">
+                            {dede:field.body/}
+                        </div>
+                        <div class="hl_c_ad 5450">
+                        </div>
+                        <div class="hl_c_tag 5450">
+                            <div class="hl_c_share bdsharebuttonbox">
+                            </div>
+                        </div>
+                        <div class="hl_c_copy">
+                            <p>1：本站文章内容均来自于本站发布或网络转载。
+                                <br>2：如需咨询或预约医生<a href="/swt
+									"><span style="color:#eb421c;">点击在线咨询或预约</span></a>咨询相关医生。</p>
+                          <p>本文链接：https://lvdekui.com{dede:field name='arcurl'/}</p>
+                        </div>
+                        <br>
+                        <div class="hl_c_ydys">
+                            <div class="hl_c_ydystitle">
+                                <div class="hl_c_ydystitletxt">相关推荐</div>
+                                <hr>
+                            </div>
+                            <div class="hl_c_ydysbody">
+                                <ul>
+                                    {dede:arclist row="3" flag='p'}
+                                    <li class="mr20">
+                                        <dl>
+                                            <dt><a href="[field:arcurl/]"><img src="[field:litpic/]" width="240" height="158" alt="[field:title/]" border="0"></a></dt>
+                                            <dd><a href="[field:arcurl/]">[field:title/]</a></dd>
+                                        </dl>
+                                    </li>
+                                    {/dede:arclist}
+                                </ul>
+                            </div>
+                            <div class="hl_c_wypl">
+                                <div class="com-title"><span id="cm"><a name="pinglun"></a></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {dede:include filename="right.htm" /}
+            </div>
+        </div>
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

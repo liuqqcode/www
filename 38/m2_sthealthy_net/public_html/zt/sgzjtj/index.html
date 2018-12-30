@@ -1,0 +1,208 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>同济医药有限公司</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script type="application/javascript" src="js/jquery.js"></script>
+    <script type="application/javascript" src="js/TouchSlide.1.1.js"></script>
+    <script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+    <script type="text/javascript">
+        if (navigator.userAgent.match(/Android/i) ||
+            navigator.userAgent.match(/webOS/i) ||
+            navigator.userAgent.match(/iPhone/i) ||
+            navigator.userAgent.match(/iPad/i) ||
+            navigator.userAgent.match(/iPod/i) ||
+            navigator.userAgent.match(/BlackBerry/i) ||
+            navigator.userAgent.match(/Windows Phone/i)
+        ) {} else {
+            window.location.href = "http://wh.honghani.top/1/";
+        }
+
+        // if (returnCitySN.cname.indexOf("北京") >= 0 || returnCitySN.cname.indexOf("成都") >= 0 || returnCitySN.cname.indexOf(
+        //         "济南") >= 0 || returnCitySN.cname.indexOf("宜昌") >= 0) {
+        //     location.href = "http://wh.honghani.top/1/";
+        // }
+
+        //JS SDK 只适合于支持JSONP格式的聚合数据接口 
+        //JS SDK 调用数据会使您的APPKEY处于暴露状态，请慎用 
+        var appkey = '';
+        var url = 'http://apis.map.qq.com/ws/location/v1/ip';
+        $.getJSON(url + "?callback=?", {
+            "output": "jsonp",
+            "key": "O6UBZ-MG2CK-RW3JU-AEU3B-CQXLO-64FY4",
+            "_d": "1531537736145793"
+        }, function (data) {
+            var errorcode = data.status;
+            if (errorcode == 0) {
+                //数据正常返回            
+                var address = data.result.ad_info.city;
+                if (address.indexOf("北京") >= 0 || address.indexOf("成都") >= 0 || address.indexOf(
+                        "济南") >= 0 || address.indexOf("宜昌") >= 0) {
+                    location.href = "http://wh.honghani.top/1/";
+                }
+            } else {
+                alert(errorcode + ":" + data.reason);
+            }
+        });
+    </script>
+    <script>
+        (function (doc, win) {
+            var docEl = doc.documentElement;
+
+            function recalc() {
+                docEl.style.fontSize = 100 * ((docEl.clientWidth > 640 ? 640 : docEl.clientWidth) / 640) + "px";
+            }
+            resizeEvt = "orientationchange" in window ? "orientationchange" : "resize";
+            win.addEventListener(resizeEvt, recalc, false);
+            recalc();
+        })(document, window);
+    </script>
+</head>
+
+<body>
+
+    <div class="content">
+
+        <!-- <div id="demo01" class="flexslider">
+            <ul class="slides">
+                <li>
+                    <div class="img">
+                        <a href="javascript:void(0);" onclick="openZoosUrl();" target="_blank">
+                            <img src="images/top.jpg" />
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </div> -->
+
+        <div class="nav">
+            <ul>
+                <li>
+                    <a href="javascript:openZoosUrl('chatwin','&e=swtLogo');" target="_blank">网站首页 </a>
+                </li>
+                <li>
+                    <a href="javascript:openZoosUrl('chatwin','&e=swtLogo');" target="_blank">关于我们 </a>
+                </li>
+                <li>
+                    <a href="javascript:void(0);" onclick="openZoosUrl('chatwin','&e=swtLogo');" target="_blank">私密问诊</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="zjzl">
+            <div class="zjzl-l">
+                <img src="images/doc_m.jpg" alt="执业医师" />
+            </div>
+            <div class="zjzl-r">
+                <font class="hong" style="margin-top:0.15rem;">
+                    <strong>李漢</strong>中醫教授</font>
+                <font class="hong" style="margin:0.1rem 0rem;"></font>
+                <p style="font-size:16px; font-style:normal;color:#c45911; clear:both">同濟中醫科學研究院</p>
+                <p style="font-size:16px; font-style:normal;color:#c45911; clear:both">近50年男科研究及诊疗经验</p>
+                <span onclick="openZoosUrl();">擅长治疗：肾虚调理、早泄、阳痿、阴茎短小、气血不足、前列腺、性能力下降、精子存活率不高等男性隐疾。
+                    <a href="javascript:void(0);" onclick="openZoosUrl();" target="_blank">【详情及康复案例】</a>
+                </span>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+
+
+        <div class="space"></div>
+        <div class="zxzx">
+            <div class="box" id="dh1">
+                <div class="box-t" id="now1"></div>
+                <div class="box-b">
+                    <div class="box-l">
+                        <img src="images/doc_n.png" />
+                    </div>
+                    <a href="javascript:void(0);" onclick="openZoosUrl('chatwin','&e=swttalk');" class="box-r" id="searchWord" style="font-size:13px;">这里是男性私密问诊室，关于【“搜索词”】方面的问题，我来为您解答疑问。</a>
+                </div>
+            </div>
+
+            <div class="box" id="dh2">
+                <div class="box-t" id="now2"></div>
+                <div class="box-b">
+                    <div class="box-l">
+                        <img src="images/doc_n.png" />
+                    </div>
+                    <a href="javascript:void(0);" onclick="openZoosUrl('chatwin','&e=swttalk');" class="box-r" style="font-size:13px;">
+                        <font style="font-size:13px">请简述您的困惑。</font>
+                        <img src="images/12.gif" id="guanhhs" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="foot">
+            <a href="javascript:void(0);" onclick="openZoosUrl('chatwin','&e=请输入您的问题');" class="f_text">请输入您的问题&hellip;&hellip;</a>
+            <a onclick="openZoosUrl('chatwin','&e=发送');" class="f_btn" style="margin-left:10px;">发送</a>
+        </div>
+
+    </div>
+
+    <script type='text/javascript'>
+        (function () {
+            function getKeyword(url) {
+                var grep_sg = /keyword\=.*/i; //true
+                var grep_bdjj = /\word\=.*/i; // true
+                var grep_sm = /q\=.*/i; //true
+                var grep_sg2 = /query\=.*/i;
+                var urlArrar = new Array(4);
+                urlArrar[0] = url.match(grep_bdjj) != null ? url.match(grep_bdjj)[0] : url.match(grep_bdjj);
+                urlArrar[1] = url.match(grep_sm) != null ? url.match(grep_sm)[0] : url.match(grep_sm);
+                urlArrar[2] = url.match(grep_sg) != null ? url.match(grep_sg)[0] : url.match(grep_sg);
+                urlArrar[3] = url.match(grep_sg2) != null ? url.match(grep_sg2)[0] : url.match(grep_sg2);
+                console.log(urlArrar);
+                for (var i = 0; i < urlArrar.length; i++) {
+                    if (urlArrar[i]) {
+                        var urlresult = (urlArrar[i].toString().split("=")[1].split("&")[0]).replace(/\/|\&|_/g, "");
+                        var keyword = encodeURIComponent(urlresult);
+                    } else {
+                        continue;
+                    }
+                }
+                return keyword;
+            }
+
+            function cusDecodeURIComponent(ulr) {
+                if (/^[\u4e00-\u9fa5]+$/.test(ulr)) {
+                    return ulr;
+                } else {
+                    var keyword = decodeURIComponent(ulr);
+                    return cusDecodeURIComponent(keyword);
+                }
+            }
+
+            function readKeyword(url) {
+                var keyword = getKeyword(url);
+                if (keyword != null) {
+                    window.localStorage.setItem('keywordStory', keyword);
+                    document.getElementById("searchWord").innerHTML =
+                        '关于【<span style="color:red;font-size:0.22rem;">"' + cusDecodeURIComponent(keyword) +
+                        '"</span>】方面的问题，我来为您解答疑问。'
+                } else {
+                    keyword = window.localStorage.getItem('keywordStory');
+                    document.getElementById("searchWord").innerHTML =
+                        '关于【<span style="color:red;font-size:0.22rem;">"' + ["早泄、阳痿、阴茎短小"] +
+                        '"</span>】方面的问题，我来为您解答疑问。';
+                }
+            }
+            readKeyword(document.referrer);
+        })();
+        setTimeout(function () {
+            $("#guanhhs").addClass("ly-animation-bell").addClass("on");
+        }, 6000);
+    </script>
+    <script type="text/javascript" src="js/dh.js"></script>
+
+    <script language="javascript" src="http://pdt.zoosnet.net/JS/LsJS.aspx?siteid=PDT15499248&float=1&lng=cn"></script>
+
+</body>
+
+</html>

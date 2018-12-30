@@ -1,0 +1,883 @@
+@charset "utf-8";
+
+
+/* CSS Document */
+
+body {
+    color: #222222;
+    font: 14px "微软雅黑", Tahoma, Arial;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    text-align: center;
+}
+
+img {
+    border: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+blockquote,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+pre,
+form,
+fieldset,
+legend,
+button,
+input,
+textarea,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol,
+dl {
+    list-style: none;
+    cursor: pointer;
+}
+
+a {
+    color: #555;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: #555;
+    text-decoration: underline;
+}
+
+p {
+    line-height: 30px;
+}
+
+b {
+    font-weight: bold;
+}
+
+.clear {
+    clear: both;
+}
+
+.xfWarp {
+    width: 1100px;
+    margin: 0 auto;
+    background: url(../images/xfBx_bg.png) left top repeat-y;
+    padding-left: 35px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+@charset "utf-8";
+
+
+/* CSS Document */
+
+.prev,
+.next {
+    background: url(../images/jihe.png) no-repeat;
+}
+
+.prev {
+
+    width: 19px;
+
+    height: 36px;
+
+    float: left;
+
+    background-position: 0 -147px;
+
+    margin-top: 250px;
+
+    cursor: pointer;
+}
+
+.next {
+
+    width: 19px;
+
+    height: 36px;
+
+    float: right;
+
+    background-position: 0 -197px;
+
+    margin-top: 250px;
+
+    cursor: pointer;
+}
+
+
+
+.zjCtrl,
+.alCtrl {
+
+    height: 42px;
+
+    line-height: 32px;
+
+    z-index: 1005;
+
+    position: absolute;
+
+    margin-top: -40px;
+
+    margin-left: 840px;
+}
+
+.zjCtrl span,
+.alCtrl span {
+
+    padding: 3px 15px;
+
+    text-align: center;
+
+    cursor: pointer;
+
+    background: url(../images/jihe.png) no-repeat;
+
+    background-position: 0 -540px;
+}
+
+.zjCtrl span.j_prev,
+.alCtrl span.l_prev {
+
+    padding: 3px 20px;
+
+    background-position: 0 -74px;
+}
+
+.zjCtrl span.j_next,
+.alCtrl span.l_next {
+
+    margin-left: 20px;
+
+    background-position: 0 -105px;
+}
+
+.zjCtrl span.zjFlowSel,
+.alCtrl span.alFlowSel {
+    background-position: 0 -502px;
+}
+
+.pro {
+
+    float: left;
+
+    width: 210px;
+
+    height: 132px;
+
+    margin: 10px 0 6px 10px;
+
+    text-align: center;
+}
+
+.pro img {
+    width: 200px;
+    height: 102px
+}
+
+.pro a:hover {
+    text-decoration: none;
+    color: #f60
+}
+
+
+
+
+
+
+
+
+/* 专家 */
+
+.zzy-zjBox1 {
+
+    width: 548px;
+
+    float: left;
+
+    color: #525252;
+
+    text-align: left;
+}
+
+.zzy-zjBox1-1,
+.zzy-zjBox1-2 {
+    background: #f6f6f6;
+}
+
+.zjImg1 {
+
+    width: 235px;
+
+    float: left;
+
+    height: 313px;
+}
+
+.zjTxt1 {
+
+    width: 263px;
+
+    float: right;
+
+    margin-right: 25px;
+
+    height: 313px;
+}
+
+.zzy-zjBox1 h2,
+.zzy-zjBox2 h2 {
+    margin-top: 20px;
+}
+
+.zzy-zjBox1 h2 em,
+.zzy-zjBox2 h2 em {
+
+    font-style: normal;
+
+    font-weight: normal;
+
+    font-size: 14px;
+
+    margin-left: 5px;
+}
+
+.zzy-zjBox1 ul,
+.zzy-zjBox2 ul {
+    margin: 20px 0;
+}
+
+.zzy-zjBox1 ul li,
+.zzy-zjBox2 ul li {
+
+    border-bottom: 1px solid #949494;
+
+    line-height: 30px;
+}
+
+.zzy-zjBox1 p {
+    line-height: 25px;
+}
+
+
+
+
+
+.zzy-zjBox1-2 {
+    margin-top: 40px;
+}
+
+.zjImg2 {
+
+    width: 235px;
+
+    float: right;
+
+    height: 313px;
+}
+
+.zjTxt2 {
+
+    width: 250px;
+
+    float: left;
+
+    margin-left: 25px;
+}
+
+
+
+
+/* 专家2 */
+
+.zzy-zjBox2 {
+
+    width: 260px;
+
+    float: left;
+
+    margin-left: 40px;
+
+    color: #525252;
+
+    background: #f6f6f6;
+}
+
+.zzy-zjBox2 img {
+    height: 286px;
+}
+
+.zjTxt3 {
+
+    width: 230px;
+
+    margin-left: 15px;
+
+    height: 361px;
+}
+
+.zzy-zjBox2 p {
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
+/* 如何选择专家 */
+
+.zjChoice {
+
+    width: 260px;
+
+    float: left;
+
+    margin-left: 150px;
+
+    color: #5e5e5e;
+
+    text-align: left;
+}
+
+.zjChoice img {
+    margin-left: 50px;
+    height: 209px;
+}
+
+.zjChoice h2 {
+    margin-left: 85px;
+}
+
+.zjChoice p {
+    margin: 20px 0 0 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* nav */
+
+.xfNav-cont {
+
+    width: 100%;
+
+    height: 65px;
+
+    position: relative;
+
+    border-bottom: 1px solid #ededed;
+
+    border-top: 1px solid #ededed;
+
+    background: #f6f6f6;
+}
+
+.xfNav-box {
+
+    width: 1100px;
+
+    height: 63px;
+
+    margin: 0 auto;
+}
+
+.xfNav-cont-fixed {
+
+    width: 100%;
+
+    position: fixed;
+
+    z-index: 9999;
+
+    height: 63px;
+}
+
+.fixedNav {
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+}
+
+
+
+
+
+
+/* title */
+
+.zhTote {
+
+    height: 50px;
+
+    padding-left: 35px;
+
+    width: 1100px;
+
+    margin: 0 auto;
+
+    line-height: 22px;
+
+    color: #bfbfbf;
+
+    text-align: left;
+}
+
+.zhTote h2 {
+
+    font-size: 26px;
+
+    color: #009F96;
+
+    font-weight: bold;
+}
+
+.zhTit {
+
+    background: url(../images/xfTit_bg2.png) left bottom no-repeat;
+
+    margin: 50px auto;
+
+    margin-bottom: 0;
+}
+
+.zhTit2 {
+
+    background: url(../images/xfTit_bg.png) no-repeat;
+
+    background-position: 0 -70px;
+}
+
+.zhTit3 {
+
+    height: 18px;
+
+    background: url(../images/xfTit_bg.png) no-repeat;
+
+    background-position: 0 -130px;
+
+    width: 1100px;
+
+    margin: 30px auto;
+
+    padding-left: 35px;
+
+    margin-top: 0;
+}
+
+
+
+
+
+
+/*  为什么选择？  */
+
+.ztbar {
+
+    height: 88px;
+
+    padding-left: 35px;
+
+    width: 1100px;
+
+    margin: 0 auto;
+
+    text-align: left;
+}
+
+.ztbarBox {
+
+    height: 88px;
+
+    background: url(../images/ztBg.jpg) right center repeat-x;
+}
+
+.Left {
+    float: left;
+}
+
+.Right {
+    float: right;
+}
+
+.textp1 {
+    width: 640px;
+    height: auto;
+    font-size: 14px;
+    line-height: 180%;
+    text-align: left;
+}
+
+.textp1 dl {
+    width: 160px;
+    height: auto;
+    float: left;
+    padding: 15px 53px 0 0;
+}
+
+.textp1 dl dd {
+    text-align: center;
+}
+
+.p1 {
+    font-size: 12px;
+}
+
+.textp2 {
+    margin-right: 50px;
+    text-align: left;
+}
+
+.wyTit2 {
+
+    background: url(../images/xfTit_bg3.png) no-repeat;
+}
+
+.textp3 {
+    width: 600px;
+    padding: 0 0 20px 0;
+    line-height: 200%;
+    text-align: left;
+}
+
+
+/* ======================================  */
+
+.zzytxt {
+    width: 1000px;
+    height: 40px;
+    border-bottom: 1px solid #0070C3;
+    background: #fff url(../images/txa.gif) no-repeat 350px center;
+    font-size: 24px;
+    margin: 0px auto;
+    line-height: 30px;
+    text-indent: 36px;
+    color: #226ba7;
+}
+
+.zzytxb {
+    width: 1000px;
+    height: 70px;
+    background: #fff url(../images/txb.gif) no-repeat top left;
+    margin: 0px auto;
+    padding-top: 1px;
+}
+
+.zzytxbtn {
+    width: 187px;
+    height: 24px;
+    text-align: center;
+    float: right;
+    padding-left: 10px;
+    background: url(../images/txbtn.gif) right no-repeat;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding-top: 3px;
+    cursor: pointer;
+}
+
+.zzytxc {
+    width: 974px;
+    height: 230px;
+    margin: 0px auto;
+    display: none;
+}
+
+.txp {
+    width: 240px;
+    height: 200px;
+    border: 1px solid #D5D5D5;
+    float: left;
+    margin-right: 25px;
+}
+
+
+/* ======================================  */
+
+.ztimg {
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.zzytxbtn {
+    width: 120px;
+    height: 27px;
+    background: url(../images/txbtn1.jpg) right no-repeat;
+}
+
+.zzytxc1 {
+    width: 900px;
+    padding: 30px 50px 40px 50px;
+    background: #fff;
+    margin: 0 auto;
+    text-align: left;
+    display: none;
+}
+
+.txti {
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    color: #3291c7;
+    background: url(../images/img.jpg) no-repeat right top;
+}
+
+.txp1 {
+    width: 900px;
+    height: auto;
+    padding: 10px 0 30px 0;
+    font-size: 14px;
+}
+
+.ztimg1 {
+    width: 900px;
+}
+
+.zzyly {
+    width: 950px;
+    height: 350px;
+    margin: 0px auto;
+    padding: 20px 0 0 50px;
+    background: #fff;
+}
+
+.zzylyp {
+    width: 263px;
+    height: 345px;
+    padding: 0 50px 0 0;
+    float: left;
+    color: #999999;
+}
+
+.zzylyp span {
+    font-size: 18px;
+    line-height: 40px;
+    color: #333333;
+}
+
+.ztalbox {
+    height: 350px;
+}
+
+.ztalp {
+    width: 300px;
+    height: 350px;
+    float: left;
+    padding-left: 25px;
+    line-height: 24px;
+}
+
+
+
+
+
+
+/*-------------------------- 种植牙相关 -----------------------------------------------*/
+
+.xgBox {
+
+    width: 290px;
+
+    float: left;
+
+    color: #525252;
+
+    text-align: left;
+}
+
+.xgBox a {
+    color: #000
+}
+
+.xgBox h2 {
+    padding-left: 10px;
+}
+
+.xgBox h2 span {
+
+    float: right;
+
+    display: block;
+
+    font-size: 16px;
+
+    font-weight: 100;
+}
+
+.xgBox img {
+    height: 119px;
+    margin: 10px 0 20px 0;
+}
+
+.xgBox li {
+
+    border-bottom: 1px solid #a3a3a3;
+
+    line-height: 30px;
+
+    margin-top: 10px;
+}
+
+.xfxgBox {
+    margin: 0 38px 70px 38px;
+}
+
+
+
+
+/*-------------------------- 种植牙案例 -----------------------------------------------*/
+
+.alBox {
+
+    width: 300px;
+
+    height: 500px;
+
+    float: left;
+
+    margin: 0 30px 45px;
+
+    background: #f7f7f7;
+
+    text-align: left;
+}
+
+.alBox h2 {
+    margin: 20px;
+    color: #666666;
+}
+
+.alBox h2 em {
+
+    font-size: 14px;
+
+    font-style: normal;
+
+    padding-left: 5px;
+}
+
+.alBox ul {
+
+    width: 260px;
+
+    margin: 0 auto;
+
+    color: #747474;
+}
+
+.alBox li {
+
+    border-bottom: 1px solid #a2a2a2;
+
+    line-height: 35px;
+}
+
+.alBox a.big {
+
+    width: 100px;
+
+    display: block;
+
+    float: left;
+
+    margin: 20px;
+
+    height: 32px;
+
+    line-height: 32px;
+
+    text-align: center;
+
+    color: #fff;
+}
+
+.a1 {
+    background: #e67e22;
+}
+
+.a1:hover {
+    background: #5c9054;
+}
+
+.a2 {
+    background: #5c9054;
+}
+
+.a2:hover {
+    background: #e67e22;
+}
+
+.a1.h1 {
+    background: #5c9054;
+}
+
+.a2.h2 {
+    background: #5c9054;
+}
+
+.xfalBox {
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.xfa4 {
+    background: #3e71b2;
+}
+
+.xfa3 {
+    background: #91979e;
+}
+
+.xfa4:hover {
+    background: #91979e;
+}
+
+.xfa3:hover {
+    background: #3e71b2;
+}

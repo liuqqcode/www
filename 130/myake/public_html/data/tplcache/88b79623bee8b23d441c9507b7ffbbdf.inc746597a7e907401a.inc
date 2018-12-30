@@ -1,0 +1,19 @@
+<?php
+$z[0]=Array("field","北京,成年人,牙齿",0,64);
+$z[0][4]['name']="keywords";
+$z[1]=Array("field","由于口腔保健意识的落后，我国许多成人牙齿均存在凌乱不齐的问题，严重影响了自身的形象，并损害口腔功能。那么?如果需要矫正牙齿不齐",66,297);
+$z[1][4]['name']="description";
+$z[2]=Array("field","成年人牙齿不齐价格是多少?",299,374);
+$z[2][4]['name']="title";
+$z[3]=Array("field","",376,415);
+$z[3][4]['name']="writer";
+$z[4]=Array("field","",417,456);
+$z[4][4]['name']="source";
+$z[5]=Array("field","<p><span style=\"font-size:16px;\">　　由于口腔保健意识的落后，我国许多成人牙齿均存在&ldquo;凌乱不齐&rdquo;的问题，严重影响了自身的形象，并损害口腔功能。那么?如果需要矫正牙齿不齐那大概需要多少价格呢?北京成年人进行牙齿不齐价格会不会很贵?</span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><img alt=\"\" src=\"/uploadfile/2017/1016/20171016032044205.jpg\" style=\"width: 300px; height: 324px;\" /></a></span></p>\r\n<p><span style=\"font-size:16px;\">　　北京维尔口腔医生介绍，一般牙齿矫正是没有统一价格的，不同资质等级的医院的价格是不同的，还与患者年龄有关，而且每个人牙齿畸形情况不同，牙齿正畸治疗难易程度不同，价格也就不一样。而且每个人牙齿畸形情况不同，治疗难易程度不同，成年人进行牙齿矫正一般要多少钱也是不同的。</span><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><span style=\"color: rgb(255, 0, 0); font-size: 16px;\">推荐阅读：北京成人牙齿做隐形矫正有哪些优点?</span></a></p>\r\n<p><span style=\"font-size:16px;\">　　牙齿矫正前期治疗包括检查、拍X光片，设计，有的可能需要拔牙。因此，在牙齿正畸的价格的问题上，也是受到矫正时间、矫正的方法、矫正的难易程度等影响。此外，要想保证最好的效果，一定要选择正规医院进行。</span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\"><img alt=\"\" src=\"/uploadfile/2017/1016/20171016032058828.jpg\" style=\"width: 450px; height: 280px;\" /></a></span></p>\r\n<p><span style=\"font-size:16px;\">　　<strong>【北京维尔口腔温馨提示】</strong>牙齿矫正是比较安全的矫正方法，可以很好的解决牙齿排列不够整齐的问题。如果您有更多关于牙齿矫正的问题想了解，欢迎在线咨询或者拨打<a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><span style=\"color:#ff0000;\">电话：400-6655-111</span>。</a></span></p>",458,2798);
+$z[5][4]['name']="pubdate";
+$z[6]=Array("field","<p><span style=\"font-size:16px;\">　　由于口腔保健意识的落后，我国许多成人牙齿均存在&ldquo;凌乱不齐&rdquo;的问题，严重影响了自身的形象，并损害口腔功能。那么?如果需要矫正牙齿不齐那大概需要多少价格呢?北京成年人进行牙齿不齐价格会不会很贵?</span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><img alt=\"\" src=\"/uploadfile/2017/1016/20171016032044205.jpg\" style=\"width: 300px; height: 324px;\" /></a></span></p>\r\n<p><span style=\"font-size:16px;\">　　北京维尔口腔医生介绍，一般牙齿矫正是没有统一价格的，不同资质等级的医院的价格是不同的，还与患者年龄有关，而且每个人牙齿畸形情况不同，牙齿正畸治疗难易程度不同，价格也就不一样。而且每个人牙齿畸形情况不同，治疗难易程度不同，成年人进行牙齿矫正一般要多少钱也是不同的。</span><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><span style=\"color: rgb(255, 0, 0); font-size: 16px;\">推荐阅读：北京成人牙齿做隐形矫正有哪些优点?</span></a></p>\r\n<p><span style=\"font-size:16px;\">　　牙齿矫正前期治疗包括检查、拍X光片，设计，有的可能需要拔牙。因此，在牙齿正畸的价格的问题上，也是受到矫正时间、矫正的方法、矫正的难易程度等影响。此外，要想保证最好的效果，一定要选择正规医院进行。</span></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\"><img alt=\"\" src=\"/uploadfile/2017/1016/20171016032058828.jpg\" style=\"width: 450px; height: 280px;\" /></a></span></p>\r\n<p><span style=\"font-size:16px;\">　　<strong>【北京维尔口腔温馨提示】</strong>牙齿矫正是比较安全的矫正方法，可以很好的解决牙齿排列不够整齐的问题。如果您有更多关于牙齿矫正的问题想了解，欢迎在线咨询或者拨打<a href=\"http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn\" target=\"_blank\"><span style=\"color:#ff0000;\">电话：400-6655-111</span>。</a></span></p>",2800,5137);
+$z[6][4]['name']="body";
+$z[7]=Array("field","/uploads/allimg/c180322/1521D5021460F-WR4_lit.jpg",5139,5227);
+$z[7][4]['name']="litpic";
+
+?>

@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <link href="/css/common.css" rel="stylesheet" type="text/css" />
+    <script language="javascript" type="text/javascript" src="/My97DatePicker/WdatePicker.js"></script>
+</head>
+
+<body>
+    {dede:include filename="header.htm"/}
+    <div class="w1000 location">
+        <p>您现在的位置：{dede:field name='position'/}</p>
+        <div class="search">
+            <input type="submit" value="" class="btn" onclick="openZoosUrl();return false;" />
+            <input type="text" value="请输入关键词…" class="name" onfocus="if(this.value=='请输入关键词…'){this.value='';}" onblur="if(this.value==''){this.value='请输入关键词…';}" />
+        </div>
+    </div>
+    <div class="w1000 addvace" id="slideshow4">
+        <div class="hd">
+            <ul>
+            </ul>
+        </div>
+        <div class="bd">
+            <ul>
+                <li>
+                    <a href="/zt/sgyc/" target="_blank"><img src="/images/tl_img1.jpg" border="0" width="1000" height="120" /></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <script type="text/javascript">
+    jQuery("#slideshow4").slide({
+        titCell: ".hd ul",
+        mainCell: ".bd ul",
+        effect: "fold",
+        autoPlay: true,
+        autoPage: true,
+    });
+    </script>
+    <div class="channel w1000 list_wz">
+        <div class="ch_left fl list_left">
+            <div class="cl"></div>
+            <div class="list_con02" id="page_sizes"> {dede:list pagesize="7"}
+                <dl>
+                    <dt>
+                        <a href="[field:arcurl/]" title="[field:title/]" target="_blank"><img src="[field:picname/]" border="0" width="174" height="131" /></a>
+                    </dt>
+                    <dd>
+                        <a href="[field:arcurl/]" title="[field:title/]" target="_blank">
+                            <h3>[field:title/]</h3>
+                        </a><span class="zixun"><a href="/zt/sgyc/" target="_blank">身高预测>></a></span>
+                        <a href="[field:arcurl/]" title="[field:title/]" target="_blank">
+                            <p>[field:infos function="cn_substr(@me,500)"/]...<span>【阅读全文】</span></p>
+                        </a>
+                    </dd>
+                </dl>
+                {/dede:list}
+                <div class="pagesize">
+                    <ul>
+                        <ul id="changpage">
+                            {dede:pagelist istitem="index,pre,next,end,option,info," listsize="2"/}
+                        </ul>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        {dede:include filename="right.htm"/} {dede:include filename="jzgz.htm"/} </div>
+    <div class="channel02 w1000">
+        <div class="cl"></div>
+        <div class="ch02_con02">
+            <div class="left fl">
+                <form id="form3" enctype="multipart/form-data" method="post">
+                    <dl>
+                        <dd><span>*</span>
+                            <label style="letter-spacing: 8px;">姓名：</label>
+                            <input class="name" type="text" name="name" value="" id="zgname">
+                            <span>*</span>
+                            <label>性 别：</label>
+                            <input class="sex" type="radio" checked="checked" name="sex" value="男">
+                            <label>男</label>
+                            <input class="sex" type="radio" name="sex" value="女">
+                            <label>女</label>
+                        </dd>
+                        <dd><span>*</span>
+                            <label>联系电话：</label>
+                            <input class="name" type="text" name="tel" value="" id="zgtel">
+                            <span>*</span>
+                            <label style="letter-spacing: 4px;">年 龄：</label>
+                            <input class="name" type="text" name="age" value="" id="age">
+                        </dd>
+                        <dd><span>*</span>
+                            <label>预约医师：</label>
+                            <select name='zj' class="name">
+                                <option value='熊友华'>熊友华</option>
+                                <option value='付师亭'>付师亭</option>
+                                <option value='景玉华'>景玉华</option>
+                            </select>
+                            <span>*</span>
+                            <label>预约时间：</label>
+                            <input type="text" id="date" onclick="WdatePicker()" readonly="readonly" class="Wdate yyInput name" name="time" />
+                        </dd>
+                        <dd class="last">
+                            <h3><span>*</span>
+              <label>病情描述：</label>
+            </h3>
+                            <p>
+                                <textarea name='miaoshu' id='miaoshu' class="des" name="description" onclick="this.value=''">请您简单描述一下孩子的症状
+                                </textarea>
+                            </p>
+                        </dd>
+                        <dt>
+                            <input type="button" value="" onclick="yuyue('form3','1','1','zgname','zgtel')" />
+                            <input type="reset" value="" class="gh_btn" />
+                        </dt>
+                    </dl>
+                </form>
+            </div>
+            <div class="right fr section">
+                <ul class="clearfix">
+                    <li class="li01">
+                        <div class="photo">
+                            <a href="javascript:openZoosUrl('chatwin','&e=提前预约')"><img src="/images/chyy01.jpg" border="0" width="234" height="82" /></a>
+                        </div>
+                        <div class="rsp"></div>
+                        <div class="text">
+                            <a href="javascript:openZoosUrl('chatwin','&e=提前预约')">
+                                <h3>提前预约，到院后直接就诊，无需排队提前预约，到院后直接就诊，无需排队提前预约，到院后直接就诊，无需排队</h3>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="li02">
+                        <div class="photo">
+                            <a href="javascript:openZoosUrl('chatwin','&e=提前预约')"><img src="/images/chyy02.gif" border="0" width="116" height="96" /></a>
+                        </div>
+                        <div class="rsp"></div>
+                        <div class="text">
+                            <a href="javascript:openZoosUrl('chatwin','&e=提前预约')">
+                                <h3>提前预约，到院后直接就诊，无需排队提前预约.</h3>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="last li03">
+                        <div class="photo">
+                            <a href="javascript:openZoosUrl('chatwin','&e=chyy03')"><img src="/images/chyy03.gif" border="0" width="116" height="96" /></a>
+                        </div>
+                        <div class="rsp"></div>
+                        <div class="text">
+                            <a href="javascript:openZoosUrl('chatwin','&e=提前预约')">
+                                <h3>提前预约，到院后直接就诊，无需排队提前预约.</h3>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="li04">
+                        <div class="photo">
+                            <a href="/online/" target="_blank"><img src="/images/chyy04.gif" border="0" width="116" height="96" /></a>
+                        </div>
+                        <div class="rsp"></div>
+                        <div class="text">
+                            <a href="/online/" target="_blank">
+                                <h3>提前预约，到院后直接就诊，无需排队提前预约.</h3>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="last li05">
+                        <div class="photo">
+                            <a href="javascript:openZoosUrl('chatwin','&e=chyy05')"><img src="/images/chyy05.gif" border="0" width="116" height="96" /></a>
+                        </div>
+                        <div class="rsp"></div>
+                        <div class="text">
+                            <a href="javascript:openZoosUrl('chatwin','&e=提前预约')">
+                                <h3>提前预约，到院后直接就诊，无需排队提前预约.</h3>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="li06">
+                        <div class="photo">
+                            <a href="/online/" target="_blank"><img src="/images/chyy06.gif" border="0" width="235" height="96" /></a>
+                        </div>
+                        <div class="rsp"></div>
+                        <div class="text">
+                            <a href="/online/" target="_blank">
+                                <h3>提前预约，到院后直接就诊，无需排队提前预约，到院后直接就诊，无需排队提前预约，到院后直接就诊，无需排队</h3>
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+</head>
+<link href="/css/2016.css" rel="stylesheet" type="text/css" />
+    <script src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/TouchSlide.1.1.js"></script>
+
+<body>
+    {dede:include filename="header2.htm" /}
+    <div class="ask_banner"><img src="/images/ask_banner.jpg" alt="问答"></div>
+    <div class="ask_nav"><span><i class="fa fa-home fa-lg"></i>当前位置：</span>{dede:field name='position'/}</div>
+    <div class="ask_kuai">
+        <a>发育行为科</a>
+        <a href="javascript:openZoosUrl();">多动症</a>
+        <a href="javascript:openZoosUrl();">抽动症</a>
+        <a href="javascript:openZoosUrl();">眨眼睛</a>
+        <a href="javascript:openZoosUrl();">遗尿症</a>
+        <a href="javascript:openZoosUrl();">注意力不集中</a>
+    </div>
+    <div class="ask_kuai ask_kuai2">
+        <a>神经内科</a>
+        <a href="javascript:openZoosUrl();">自闭症</a>
+        <a href="javascript:openZoosUrl();">发育迟缓</a>
+        <a href="javascript:openZoosUrl();">脑瘫</a>
+        <a href="javascript:openZoosUrl();">癫痫</a>
+        <a href="javascript:openZoosUrl();">智力低下</a>
+    </div>
+    <div class="ask_kuai ask_kuai3">
+        <a>内分泌科</a>
+        <a href="javascript:openZoosUrl();">矮小症</a>
+        <a href="javascript:openZoosUrl();">增高</a>
+        <a href="javascript:openZoosUrl();">肥胖症</a>
+        <a href="javascript:openZoosUrl();">性早熟（男）</a>
+        <a href="javascript:openZoosUrl();">性早熟（女）</a>
+    </div>
+    <div class="ask_list">
+        <ul>
+            {dede:list pagesize="10" titlelen='100' orderby='weight' orderway='desc' channelid="22" isweight='y' orderby='weight' addfields='miaoshu,lbhd'}
+            <li><a href="[field:arcurl/]">问：[field:title/]</a>
+                <p>答：[field:lbhd function="cn_substr(@me,180)"/]...... <a href="[field:arcurl/]">【详情】</a></p>
+            </li>
+            {/dede:list}
+        </ul>
+    </div>
+    <div class="ask_page">
+        {dede:pagelist istitem="index,pre,next,end,option,info"listsize="1"/}
+    </div>
+    <div class="ask_zjtd">
+        <div class="ask_zjtdt">
+            <p>成都西南儿童医院·有问必答</p>
+        </div>
+        <div class="ask_zjtdz">
+            <ul>
+                <li>
+                    <div class="ask_zjtdz1">
+                        <a href="/zjtd/xnhzzj/589.html"><img src="/uploads/160422/3-1604221QU41Q.png" alt="付师亭丨主任医师"></a>
+                        <div class="zjtdz2">
+                            <p class="ask_zjtds">付师亭丨主任医师</p>
+                            <p>从医经验五十余年</p>
+                            <p>四川儿科十大名医之一</p>
+                        </div>
+                    </div>
+                    <div>
+                        <a class="ask_zx" href="javascript:openZoosUrl();">点击咨询</a>
+                        <a class="ask_tw" href="javascript:openZoosUrl();">在线提问</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="ask_zjtdz1">
+                        <a href="/zjtd/1016.html"><img src="/uploads/160422/3-1604221RJ0T5.png" alt="孟青丨主任医师"></a>
+                        <div class="zjtdz2">
+                            <p class="ask_zjtds">孟青丨主任医师</p>
+                            <p>从医经验40余年</p>
+                            <p>中国医师协会副理事长</p>
+                        </div>
+                    </div>
+                    <div>
+                        <a class="ask_zx" href="javascript:openZoosUrl();">点击咨询</a>
+                        <a class="ask_tw" href="javascript:openZoosUrl();">在线提问</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="ask_zjtdz1">
+                        <a href="/zjtd/fyxk/903.html"><img src="/uploads/160422/3-1604221R445220.png" alt="颜泽明丨儿童发育行为科主任"></a>
+                        <div class="zjtdz2">
+                            <p class="ask_zjtds">颜泽明丨主治医师</p>
+                            <p>从医经验三十余年</p>
+                            <p>中华医学会儿科委员</p>
+                        </div>
+                    </div>
+                    <div>
+                        <a class="ask_zx" href="javascript:openZoosUrl();">点击咨询</a>
+                        <a class="ask_tw" href="javascript:openZoosUrl();">在线提问</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="ask_zjtdz1">
+                        <a href="/zjtd/zyk/584.html"><img src="/uploads/160422/3-1604221QF1B8.png" alt="曹正良丨副主任医师"></a>
+                        <div class="zjtdz2">
+                            <p class="ask_zjtds">曹正良丨副主任医师</p>
+                            <p>从医经验四十余年</p>
+                            <p>四川儿科医师</p>
+                        </div>
+                    </div>
+                    <div>
+                        <a class="ask_zx" href="javascript:openZoosUrl();">点击咨询</a>
+                        <a class="ask_tw" href="javascript:openZoosUrl();">在线提问</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="ask_zjtdz1">
+                        <a href="/zjtd/nfmk/588.html"><img src="/uploads/160422/3-1604221R232538.png" alt="熊友华丨副主任医师"></a>
+                        <div class="zjtdz2">
+                            <p class="ask_zjtds">熊友华丨副主任医师</p>
+                            <p>从医经验三十余年</p>
+                            <p>中华预防医学会委员</p>
+                        </div>
+                    </div>
+                    <div>
+                        <a class="ask_zx" href="javascript:openZoosUrl();">点击咨询</a>
+                        <a class="ask_tw" href="javascript:openZoosUrl();">在线提问</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="ask_zjtdz1">
+                        <a href="/zjtd/1378.html"><img src="/uploads/160620/3-160620151036435.png" alt="阴平丨主治医师"></a>
+                        <div class="zjtdz2">
+                            <p class="ask_zjtds">阴平丨主治医师</p>
+                            <p>从医经验43年</p>
+                            <p>儿童神经科医师</p>
+                        </div>
+                    </div>
+                    <div>
+                        <a class="ask_zx" href="javascript:openZoosUrl();">点击咨询</a>
+                        <a class="ask_tw" href="javascript:openZoosUrl();">在线提问</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    {dede:include filename="footer2.htm"/}
+</body>
+
+</html>

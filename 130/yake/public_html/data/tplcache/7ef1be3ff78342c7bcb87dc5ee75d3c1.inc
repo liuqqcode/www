@@ -1,0 +1,42 @@
+{dede:field name='keywords'}结石{/dede:field}
+{dede:field name='description'}牙结石是怎么形成的。我们很多人都有着牙结石的情况，并且严重的会导致牙龈炎的出现。牙结石是怎么形成的呢?生活中我们为了保持牙齿和{/dede:field}
+{dede:field name='title'}牙结石是怎么形成的{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 牙结石是怎么形成的。我们很多人都有着牙结石的情况，并且严重的会导致牙龈炎的出现。牙结石是怎么形成的呢?生活中我们为了保持牙齿和口腔的健康，每天都坚持着口腔清洁，但不知道为什么还是会出现牙结石来影响着我们口腔的健康，下面维尔口腔的医师就为大家介绍牙结石的形成原因，这样才能做好防护准备。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="洗牙之前的牙结石" src="http://beij.wekq.net/uploadfile/2017/0719/20170719033327453.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙石是怎么形成的</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp;牙石就是矿化了的菌斑，它沉积在牙面上，质地较硬，附着较紧，牙刷是刷不下来的，有时会自行脱落一块，人们常会误认为牙齿崩裂。牙结石如同水壶里的水垢一样，都是钙盐的沉积物，是引起牙龈炎和牙周炎的原因。同时，由于牙石表面粗糙，有利于细菌、烟斑及多种色素的附着，使牙齿呈现褐色或黑色，影响美观。牙结石的形成原因主要有以下几点。</span></p>
+<p><span style="font-size:16px;">1、由于唾液中的二氧化碳浓度降低，促使无机盐沉淀于牙齿表面上。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">洗牙的医院</span></strong></a></span></p>
+<p><span style="font-size:16px;">2、由于退化细胞的磷酸盐酵素使有机磷水解产生磷沉淀于牙齿表面而形成。</span></p>
+<p><span style="font-size:16px;">3、由于细菌使唾液的酸碱值升高而呈碱性，造成唾液中的蛋白质分解，放出钙盐，沉淀于牙齿表面上而成。</span></p>
+<p><span style="font-size:16px;">4、与口水浓度有关，浓度愈大，愈易沉淀。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">洗牙要多少钱</span></strong></a><strong><span style="color:#ff0000;"><a href="http://www.szmayo.com/yachimeibai/12273.html" target="_blank"> </a></span></strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 刷牙可以预防牙结石的形成，但牙结石一旦形成，刷牙和化学方法并不能将其去除，目前多采用超声波技术，它能有效去除牙结石、菌斑和色素，而对牙齿相对友好。建议您到正规的口腔医院进行系统的检查和治疗，每半年洁牙一次。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0719/20170719033818274.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 牙结石是怎么形成的。我们很多人都有着牙结石的情况，并且严重的会导致牙龈炎的出现。牙结石是怎么形成的呢?生活中我们为了保持牙齿和口腔的健康，每天都坚持着口腔清洁，但不知道为什么还是会出现牙结石来影响着我们口腔的健康，下面维尔口腔的医师就为大家介绍牙结石的形成原因，这样才能做好防护准备。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="洗牙之前的牙结石" src="/uploads/allimg/c180322/1521DQ01230Z-I535.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙石是怎么形成的</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp;牙石就是矿化了的菌斑，它沉积在牙面上，质地较硬，附着较紧，牙刷是刷不下来的，有时会自行脱落一块，人们常会误认为牙齿崩裂。牙结石如同水壶里的水垢一样，都是钙盐的沉积物，是引起牙龈炎和牙周炎的原因。同时，由于牙石表面粗糙，有利于细菌、烟斑及多种色素的附着，使牙齿呈现褐色或黑色，影响美观。牙结石的形成原因主要有以下几点。</span></p>
+<p><span style="font-size:16px;">1、由于唾液中的二氧化碳浓度降低，促使无机盐沉淀于牙齿表面上。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">洗牙的医院</span></strong></a></span></p>
+<p><span style="font-size:16px;">2、由于退化细胞的磷酸盐酵素使有机磷水解产生磷沉淀于牙齿表面而形成。</span></p>
+<p><span style="font-size:16px;">3、由于细菌使唾液的酸碱值升高而呈碱性，造成唾液中的蛋白质分解，放出钙盐，沉淀于牙齿表面上而成。</span></p>
+<p><span style="font-size:16px;">4、与口水浓度有关，浓度愈大，愈易沉淀。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">洗牙要多少钱</span></strong></a><strong><span style="color:#ff0000;"><a href="http://www.szmayo.com/yachimeibai/12273.html" target="_blank"> </a></span></strong></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 刷牙可以预防牙结石的形成，但牙结石一旦形成，刷牙和化学方法并不能将其去除，目前多采用超声波技术，它能有效去除牙结石、菌斑和色素，而对牙齿相对友好。建议您到正规的口腔医院进行系统的检查和治疗，每半年洁牙一次。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521DQ0211c0-QE6.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DQ01230Z-I535_lit.jpg{/dede:field}

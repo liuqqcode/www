@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html mip>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+    <title>{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link rel="stylesheet" type="text/css" href="https://mipcache.bdstatic.com/static/v1/mip.css">
+    <link rel="canonical" href="{dede:global.cfg_basehost/}">
+    <link rel="shortcut icon" href="{dede:global.cfg_basehost/}/favicon.ico" type="image/x-icon" />
+    <style mip-custom>
+    li {
+
+        list-style: none;
+    }
+
+    header {
+
+        width: 100%;
+
+        position: fixed;
+
+        top: 0px;
+
+        height: 41px;
+
+        z-index: 99;
+
+        background-color: #6bbf11;
+    }
+
+    header .home {
+
+        display: block;
+
+        float: left;
+
+        margin-left: 5px;
+
+        width: 32px;
+
+        height: 44px;
+    }
+
+    header .logo {
+
+        position: absolute;
+
+        left: 30%;
+
+        top: 5px;
+    }
+
+    header .logo img {
+
+        height: 32px;
+
+        width: auto;
+    }
+
+    .fl {
+
+        float: left
+    }
+
+    .fr {
+
+        float: right
+    }
+
+    .f12 {
+
+        font-size: 12px;
+    }
+
+    .hr1 {
+
+        height: 40px;
+    }
+
+    .shou {
+
+        height: 41px;
+
+        width: 41px;
+    }
+
+    .nav {
+
+        background-color: #444;
+
+        text-align: left;
+
+        width: 200px;
+    }
+
+    .nav a {
+
+        padding-left: 20px;
+
+        color: #fff;
+
+        display: block;
+
+        border-bottom: 1px solid #3b3b3b;
+
+        background: #444444;
+
+        height: 45px;
+
+        line-height: 45px;
+
+        font-size: 1.0em;
+    }
+
+    .nav .on a {
+
+        background: #3b3b3b;
+    }
+
+    .nav a:hover {
+
+        background: #3b3b3b;
+    }
+
+    .index-list {
+
+        margin: 0 auto 0 0;
+
+        width: 100%;
+    }
+
+    .index-list-title {
+
+        border-left: 6px solid #6bbf11;
+
+        height: 30px;
+
+        line-height: 30px;
+
+        margin: 10px auto;
+
+        padding-right: 0.5%;
+    }
+
+    .index-list .taglist {
+
+        border-color: #6bbf11;
+    }
+
+    .index-list-list {
+
+        text-align: center;
+    }
+
+    .index-list-title .titlebt-r {
+
+        float: right;
+
+        text-align: right;
+    }
+
+    .index-list-title strong {
+
+        color: #6bbf11;
+
+        font-size: 16px;
+
+        margin-left: 9px;
+    }
+
+    .index-list-title strong a {
+
+        color: #6bbf11;
+    }
+
+    .index-list .taglist strong a {
+
+        color: #6bbf11;
+    }
+
+    .index-list-list.tag-list a {
+
+        display: inline-block;
+
+        width: 30.1%;
+
+        margin-bottom: 0.5%;
+
+        margin-right: 1%;
+    }
+
+    .index-list-list img {
+
+        width: 100%;
+
+        height: auto;
+    }
+
+    .index-list-list ul {
+
+        text-align: center;
+    }
+
+    .index-list-list ul li {
+
+        align-items: stretch;
+
+        box-sizing: border-box;
+
+        display: inline-block;
+
+        margin-bottom: 0.5%;
+
+        overflow: hidden;
+
+        text-align: center;
+
+        vertical-align: bottom;
+
+        width: 30%;
+
+        margin-right: 1%;
+
+        margin-left: 1%;
+    }
+
+    .index-list-listul li div.libox {
+
+        align-items: stretch;
+
+        background-color: #fff;
+
+        border-radius: 5px;
+
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+
+        height: auto;
+
+        width: 100%;
+    }
+
+    .index-list-list ul li img {
+
+        border-radius: 5px;
+
+        width: 100%;
+    }
+
+    .index-list-list ul li div.libox span {
+
+        display: block;
+
+        height: 100%;
+
+        overflow: hidden;
+
+        padding: 5px 0;
+
+        text-align: center;
+
+        text-overflow: ellipsis;
+
+        white-space: nowrap;
+    }
+
+    .index-list-list .libox {
+
+        position: relative;
+
+        min-height: 100px;
+    }
+
+    .index-list-list .libox span {
+
+        background: none repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+
+        font-size: 12px;
+
+        position: absolute;
+
+        width: 100%;
+
+        line-height: 20px;
+
+        height: 20px !important;
+
+        bottom: 4px;
+
+        border-radius: 0 0 5px 5px;
+
+        color: #fff;
+    }
+
+    legend {
+
+        padding: 0 10px;
+
+        margin-left: 10px;
+
+        color: #6bbf11;
+    }
+
+    fieldset {
+
+        width: 96%;
+
+        margin: 0 auto;
+    }
+
+    .link li {
+
+        display: inline;
+
+        float: left;
+
+        height: 26px;
+
+        line-height: 26px;
+
+        padding-left: 12px;
+    }
+
+    footer p {
+
+        text-align: center;
+
+        margin: 8px 0;
+    }
+    </style>
+    <base target="_self" />
+<link rel="canonical" href="https://pinjuxuan.net"/>
+<link rel="canonical" href="https://{dede:global.cfg_basehost/}{dede:fieldname= 'arcurl'/}"/>
+<script src="//msite.baidu.com/sdk/c.js?appid=1564904504007014"></script>
+
+</head>
+
+<body>
+<script>cambrian.render('head')</script>
+    <div class="hr1"></div>
+    {dede:include filename="head.htm"/}
+    <main class="mip-html">
+        <mip-carousel autoplay defer='3000' layout="responsive" width="600" height="300"> {dede:arclist row=3 flag=f titlelen=68}
+            <a href="[field:arcurl/]" target="_blank">
+                <mip-img class="mip-img" popup alt="[field:title/]" src="[field:litpic/]">
+                    <p class="mip-img-subtitle">[field:title/]</p>
+                </mip-img>
+            </a> {/dede:arclist} </mip-carousel>
+        <!--tag -->
+        <div class="clearfix index-list">
+            <div class="index-list-title taglist"> <strong>推荐阅读</strong> </div>
+            <div class="index-list-list tag-list"> {dede:arclist row=6 orderby=click}
+                <a title="[field:title/]" href="[field:arcurl/]" target="_blank">
+                    <mip-img src="[field:litpic/]"></mip-img>
+                </a> {/dede:arclist} </div>
+        </div>
+        <mip-img src="/images/p1.gif"> </mip-img>
+        <!--list -->{dede:channelartlist}
+        <div class="clearfix index-list">
+            <div class="index-list-title"> <strong><a href="{dede:field name='typeurl'/}" target="_blank">{dede:field name='typename'/}</a></strong> </div>
+            <div class="index-list-list">
+                <ul class="container lazy-load">
+                    {dede:arclist titlelen='60' row='6'}
+                    <li>
+                        <div class="libox">
+                            <a href="[field:arcurl /]" target="_blank">
+                                <mip-img data-original="[field:picname/]" alt="[field:fulltitle/]" src="[field:picname/]"></mip-img>
+                                <span>[field:title /]</span></a>
+                        </div>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+            </div>
+        </div>
+        {/dede:channelartlist}
+        <!--link -->
+        <mip-img src="/images/p2.gif"></mip-img>
+        <fieldset>
+            <legend><strong>友情链接</strong></legend>
+            <div class="link">
+                <ul>
+                    {dede:flink/}
+                </ul>
+            </div>
+        </fieldset>
+    </main>
+    {dede:include filename="footer.htm"/}
+
+</body>
+
+</html>

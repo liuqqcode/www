@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html mip>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+<title>TAG标签_{dede:global.cfg_webname/}</title>
+<meta name="description" content="{dede:global.cfg_description/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+<link rel="stylesheet" type="text/css" href="https://mipcache.bdstatic.com/static/mipmain-v1.1.1.css">
+<link rel="canonical" href="{dede:global.cfg_basehost/}/tags.php">
+<link rel="shortcut icon" href="{dede:global.cfg_basehost/}/favicon.ico" type="image/x-icon" />
+<style mip-custom>
+li {
+	list-style:none;
+}
+header {
+	width:100%;
+	position: fixed;
+	top: 0px;
+	height:41px;
+	z-index:99;
+	background-color: #6bbf11;
+}
+header .home {
+	display: block;
+	float: left;
+	margin-left: 5px;
+	width: 32px;
+	height: 44px;
+}
+header .logo {
+	position: absolute;
+	left: 30%;
+	top:5px;
+}
+header .logo img {
+	height: 32px;
+	width: auto;
+}
+.fl {
+	float:left
+}
+.fr {
+	float:right
+}
+.f12 {
+	font-size:12px;
+}
+.hr1 {
+	height:40px;
+}
+.shou {
+	height:41px;
+	width:41px;
+}
+.nav {
+	background-color:#444;
+	text-align:left;
+	width:200px;
+}
+.nav a {
+	padding-left:20px;
+	color:#fff;
+	display:block;
+	border-bottom: 1px solid #3b3b3b;
+	background: #444444;
+	height:45px;
+	line-height:45px;
+	font-size:1.0em;
+}
+.nav .on a {
+	background:#3b3b3b;
+}
+.nav a:hover {
+	background:#3b3b3b;
+}
+.nav-title {
+	font-size: 16px;
+	height: 23px;
+	line-height:23px;
+	padding-top: 5px;
+	padding: 0 3.1%;
+	margin:5px 0;
+}
+.nav-title a {
+	border-left: 3px solid #1592e5;
+	display: block;
+	height: 18px;
+	line-height: 20px;
+	padding-left: 8px;
+}
+.nav-list {
+	line-height: 1.8;
+	padding: 7px 1.5% 15px 3.1%;
+	background:#f9f9f9;
+}
+.nav-list a, .nav-list a:visited {
+	color: #858585;
+	display: inline-block;
+	margin-right: 2%;
+	white-space: nowrap;
+	width: 30%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+legend {
+	padding:0 10px;
+	margin-left:10px;
+	color: #cc0000;
+}
+fieldset {
+	width:96%;
+	margin:0 auto;
+}
+.link li {
+	display: inline;
+	float: left;
+	height: 26px;
+	line-height: 26px;
+	padding-left: 12px;
+}
+footer p {
+	text-align: center;
+	margin: 8px 0;
+}
+</style>
+<base target="_self" />
+</head>
+
+<body>
+<div class="hr1"></div>
+{dede:include filename="head.htm"/}
+<main class="mip-html">
+  <h2 class="clearfix nav-title"><a href="{dede:global.cfg_mip/}/tags.php" target="_blank">最新标签</a></h2>
+  <div class="clearfix nav-list">{dede:tag row='60' sort='new'}<a href='http://mip.pinjuxuan.net[field:link/]' target='_blank'>[field:tag /]</a>{/dede:tag}</div>
+  <h2 class="clearfix nav-title"><a href="{dede:global.cfg_mip/}/tags.php" target="_blank">最近热门</a></h2>
+  <div class="clearfix nav-list"> {dede:tag row='60' sort='month'}<a href='http://mip.pinjuxuan.net[field:link/]' target='_blank'>[field:tag /]</a>{/dede:tag}</div>
+  <h2 class="clearfix nav-title"><a href="{dede:global.cfg_mip/}/tags.php" target="_blank">猜你喜欢</a></h2>
+  <div class="clearfix nav-list"> {dede:tag row='100' sort='rand'}<a href='http://mip.pinjuxuan.net[field:link/]' target='_blank'>[field:tag /]</a>{/dede:tag}</div>
+</main>
+{dede:include filename="footer.htm"/}
+</body>
+</html>

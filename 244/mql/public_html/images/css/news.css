@@ -1,0 +1,82 @@
+*{margin: 0;padding: 0;}
+
+html{
+    font-size: 100px;
+}
+.list1{
+    margin: .2rem 0;
+    background: #f5f9fa;
+    padding: .2rem;
+	font-size.3rem;
+}
+.list1 .list_p{
+    font-size: .28rem;
+}
+.list1 .list_d:after{
+    display: block;
+    clear: both;
+    content: "";
+}
+.list1 .list_d a{
+    float: left;
+    width: 32%;
+    margin-left: 2%;
+    margin-top: .2rem;
+	 display:block;
+}
+.list1 .list_d>a:first-child{
+    margin-left: 0;
+}
+.list_p a{
+	font-size:.3rem
+}
+
+
+.list2{
+    margin: .2rem 0;
+    background: #f5f9fa;
+    padding: .2rem;
+    font-size: .3rem;
+}
+.list2:after{
+    display: block;
+    clear: both;
+    content: "";
+}
+.list2>div{
+    float: left;
+    width: 30%;
+}
+.list2>div:first-child{
+	width:70%;
+	box-sizing:border-box;
+	padding:.1rem .3rem
+}
+.list2 img{
+    width: 100%;
+}
+.list2 .list_p{
+    box-sizing: border-box;
+    padding:0 .05rem;
+}
+
+
+
+.list2 .list_p a{ display:block; word-wrap:break-word;}
+/*超出图片影藏*/
+.list2 .list_d a:nth-child(n+2) , .list3 .list_d a:nth-child(n+2){ display:none;}
+/*************/
+
+.list3{
+    margin: .2rem 0;
+    background: #f5f9fa;
+    padding: .2rem;
+	font-size.356rem;
+}
+.list3 div{
+    font-size: .28rem;
+}
+.list3 img{
+    margin-top: .2rem;
+    width: 100%;
+}

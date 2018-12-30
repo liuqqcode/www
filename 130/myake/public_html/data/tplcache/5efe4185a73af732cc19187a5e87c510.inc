@@ -1,0 +1,58 @@
+{dede:field name='keywords'}注意事项{/dede:field}
+{dede:field name='description'}做美容冠有哪些注意事项?美容冠是一种比较常见的美齿手段，已经得到了大家的普遍承认，对于我们来说，牙齿的缺损、黑黄都是难以接受的{/dede:field}
+{dede:field name='title'}做美容冠有哪些注意事项{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 做美容冠有哪些注意事项?美容冠是一种比较常见的美齿手段，已经得到了大家的普遍承认，对于我们来说，牙齿的缺损、黑黄都是难以接受的事情，为此而必须加以解决，而美容冠的适用范围又特别广，可以帮我们的牙齿焕然一新，那么，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>做美容冠有哪些注意事项？</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="精美的全瓷美容" src="http://beij.wekq.net/uploadfile/2017/0627/20170627033622987.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span><br />
+&nbsp;</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔的医师说，了解牙齿美容冠的前后注意事项，有助于牙齿美容冠的快速恢复和达到更佳的术后效果。下面维尔口腔医师就来给大家介绍下牙齿美容冠的前后注意事项。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">做美容冠之前需要做哪些准备？美容冠手术前准备：</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">1、选择美容冠材料。</span></p>
+<p><span style="font-size:16px;">挑选适合自己的美容冠，必须根据个人的肤色、脸型进行选择，材料有多种，适合自己的才是较好的，美牙后效果也会更好。因此，选择美容冠材料要有针对性，另外进行牙齿美容时选择正规的机构更为重要。</span></p>
+<p><span style="font-size:16px;">2、进行根管治疗除了要选择适合自己的美容冠材料，还要对口腔健康状况进行的检查，对有需要的牙齿进行根管治疗，将牙病消灭在做美容冠前。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔介绍， 好的材料有好的物理化学性能和稳定性，生物相容性好的金属可以和口腔软硬组织&ldquo;和平相处&rdquo;，生物相容性差的金属会对周围组织产生不良刺-激，出现过敏、腐蚀、金属离子渗出等现象，从而产生牙龈炎、牙周炎、龈缘黑线、口腔异味等，影响烤瓷牙的寿命，使得做了的美容冠不能有效使用。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">做完美容冠要注意什么</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 而且，患者对美容冠的维护也是很重要的。如果不刷牙，随便乱啃东西，那么将大大减少它的使用寿命上。当你认真刷牙，定期到医院洁牙、保健不吃很硬的食物(正常使用），美容冠就会寿命相对较长。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>查询做美容冠要多长时间</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0627/20170627035837404.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp;&nbsp;维尔牙科用技术成就中国齿科行业的创新者和引导者，为东方人量&ldquo;齿&rdquo;订造，让您拥有灿烂自信的笑容。维尔牙科先进的技术设备，雄厚的医资实力、专业的专家团队，让您的牙齿美丽有保障。咨询电话：<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 做美容冠有哪些注意事项?美容冠是一种比较常见的美齿手段，已经得到了大家的普遍承认，对于我们来说，牙齿的缺损、黑黄都是难以接受的事情，为此而必须加以解决，而美容冠的适用范围又特别广，可以帮我们的牙齿焕然一新，那么，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>做美容冠有哪些注意事项？</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="精美的全瓷美容" src="/uploads/allimg/c180322/1521DJ131I0-QS1.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span><br />
+&nbsp;</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔的医师说，了解牙齿美容冠的前后注意事项，有助于牙齿美容冠的快速恢复和达到更佳的术后效果。下面维尔口腔医师就来给大家介绍下牙齿美容冠的前后注意事项。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">做美容冠之前需要做哪些准备？美容冠手术前准备：</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">1、选择美容冠材料。</span></p>
+<p><span style="font-size:16px;">挑选适合自己的美容冠，必须根据个人的肤色、脸型进行选择，材料有多种，适合自己的才是较好的，美牙后效果也会更好。因此，选择美容冠材料要有针对性，另外进行牙齿美容时选择正规的机构更为重要。</span></p>
+<p><span style="font-size:16px;">2、进行根管治疗除了要选择适合自己的美容冠材料，还要对口腔健康状况进行的检查，对有需要的牙齿进行根管治疗，将牙病消灭在做美容冠前。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔介绍， 好的材料有好的物理化学性能和稳定性，生物相容性好的金属可以和口腔软硬组织&ldquo;和平相处&rdquo;，生物相容性差的金属会对周围组织产生不良刺-激，出现过敏、腐蚀、金属离子渗出等现象，从而产生牙龈炎、牙周炎、龈缘黑线、口腔异味等，影响烤瓷牙的寿命，使得做了的美容冠不能有效使用。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="line-height: 22.3906px;">做完美容冠要注意什么</span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 而且，患者对美容冠的维护也是很重要的。如果不刷牙，随便乱啃东西，那么将大大减少它的使用寿命上。当你认真刷牙，定期到医院洁牙、保健不吃很硬的食物(正常使用），美容冠就会寿命相对较长。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>查询做美容冠要多长时间</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521DJ13C160-94004.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp;&nbsp;维尔牙科用技术成就中国齿科行业的创新者和引导者，为东方人量&ldquo;齿&rdquo;订造，让您拥有灿烂自信的笑容。维尔牙科先进的技术设备，雄厚的医资实力、专业的专家团队，让您的牙齿美丽有保障。咨询电话：<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DJ131I0-QS1_lit.jpg{/dede:field}

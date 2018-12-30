@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <h3>个人资料档案</h3><br/>
+    <h4><a href="{:U('User/xgzl',array('nikan'=>$info['userid']))}">编 辑</a></h4>
+
+    <table border="1px">
+    <tr>
+        <td>姓名</td>
+        <td>性别</td>
+        <td>出生日期</td>
+        <td>绑定的手机</td>
+    </tr>
+        <tr>
+            <td>{$info.name}</td>
+            <td><if condition="$info['sex'] eq 1 ">男</if><if condition="$info['sex'] eq 0 ">女</if></td>
+            <td>{$info.birthday}</td>
+            <td>{$info.mobile}</td>
+        </tr>
+    </table>
+</head>
+<body>
+
+</body>
+</html>

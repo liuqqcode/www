@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{dede:field.title /}-{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/css/jquery.fancybox-1.3.4.css" media="screen" />
+    <script type="text/javascript">
+    if (window.location.toString().indexOf('pref=padindex') != -1) {} else {
+        if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+            if (window.location.href.indexOf("?mobile") < 0) {
+                try {
+                    if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                        window.location.href = "http://5gek.tywybbyy.com/";
+                    } else if (/iPad/i.test(navigator.userAgent)) {} else {}
+                } catch (e) {}
+            }
+        }
+    }
+    </script>
+</head>
+
+<body>
+    {dede:include filename="head.htm"/}
+    <div class="lm_yyhj">
+        <p>医院环境<span>Hospital environment</span></p>
+    </div>
+    <div class="list-item mt25 yyhjpb">
+        <div class="list-content">
+            <ul class="atlaslist">
+                <li class="img1">
+                    <img class="lazy" alt="" src="/images/yyjjx1.jpg">
+                </li>
+                <li class="img2">
+                    <img class="lazy" alt="" src="/images/yyjjx2.jpg">
+                </li>
+                <li class="img3">
+                    <img class="lazy" alt="" src="/images/yyjjx3.jpg">
+                </li>
+                <li class="img4">
+                    <img class="lazy" alt="" src="/images/yyjjx4.jpg">
+                </li>
+                <li class="img5">
+                    <img class="lazy" alt="" src="/images/yyjjx5.jpg">
+                </li>
+                <li class="img6">
+                    <img class="lazy" alt="" src="/images/yyjjx6.jpg">
+                </li>
+                <li class="img7">
+                    <img class="lazy" alt="" src="/images/yyjjx7.jpg">
+                </li>
+                <li class="img8">
+                    <img class="lazy" alt="" src="/images/yyjjx8.jpg">
+                </li>
+            </ul>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

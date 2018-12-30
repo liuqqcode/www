@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh" class="no-js">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1024, initial-scale=1.0">
+    <title>{dede:field.title /}-{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/special.css">
+    <link rel="stylesheet" href="/css/sp-style5.css">
+</head>
+{dede:include filename="head.htm"/}
+
+<body class="subweb">
+    <div class="slider" id="slider">
+        <ul>
+            <li style="background-image:url(/images/jzjt_banner.jpg);"></li>
+        </ul>
+    </div>
+    <div class="container">
+        <div class="preface">
+            <div class="layout">
+                <div class="clearfix">
+                    <p><strong>导读：</strong>家长课堂栏目依托四川卫视平台，关注儿童健康话题。我们每期诚邀专业儿科医师通过视频访谈的形式让大家了解更多儿童健康。 我们希望通过这个栏目，为更多新生的家长提供有效的建议，让更多年轻的父母知道健康的育儿方法。我们希望通过医师坐堂的形式，能够真正做到健康护航，让家长课堂成为大家健康的守护神。愿我们为孩子过上健康生活的初衷能都实现，我们会为这个目标不断奋斗，为大家呈上最精彩的内容。</p>
+                    <div class="fr share color-share">
+                        <span>分享专题：</span>
+                        <a href="javascript:;" class="jiathis_button_qzone" title="分享到QQ空间"><i class="iconfont">&#xe60f;</i></a>
+                        <a href="javascript:;" class="jiathis_button_tsina" title="分享到新浪微博"><i class="iconfont">&#xe60d;</i></a>
+                        <a href="javascript:;" class="jiathis_button_weixin" title="分享到微信"><i class="iconfont">&#xe612;</i></a>
+                        <a href="javascript:;" class="jiathis_button_fb" title="分享到Facebook"><i class="iconfont">&#xe605;</i></a>
+                        <a href="javascript:;" class="jiathis_button_twitter" title="分享到twitter"><i class="iconfont">&#xe602;</i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="inner-row video-list">
+            <div class="layout">
+                <ul class="clearfix">
+                    <!--{dede:list pagesize="8" orderby="id"}
+                    <li>
+                        <a class="vdimg" href="[field:arcurl/]" target="_blank">
+                            <img src="[field:picname/]" alt="[field:title/]" />
+                            <i class="iconfont">&#xe619;</i>
+                        </a>
+                        <a href="[field:arcurl/]" title="[field:title/]" target="_blank">[field:title/]</a>
+                    </li>
+                    {/dede:list} -->
+                    {dede:sql sql="Select b.*,a.* from dede_archives as a left join dede_addonarticle as b on b.aid=a.id where typeid2='339' order by id desc" appname="xinanertong"}
+                    <li onclick="openNewDiv('newDiv',[field:video/])">
+                        <a class="vdimg">
+                            <img src="http://et.xnekyy.cn[field:litpic/]" alt="[field:title/]" />
+                            <i class="iconfont">&#xe619;</i>
+                        </a>
+                        <a title="[field:title/]">[field:title/]</a>
+                    </li>
+                    {/dede:sql}
+                </ul>
+            </div>
+        </div>
+        <div style="width: 1000px; margin: 0 auto;">
+            <div class="pager">{dede:pagelist istitem="index,pre,next,end,option,info," listsize="2"/}</div>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+    <script src="/js/sp.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1280">
+    <title>{dede:field.title/}-{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field.keywords/}">
+    <meta name="description" content="{dede:field.description  function='html2text(@me)'/}">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    {dede:include filename="head.htm"/}
+    <div class="path">
+        <div class="layout">
+            <span>您的位置：</span>{dede:field name='position'/}</div>
+    </div>
+    <div class="container">
+        <div class="layout">
+            <div class="container-inner mt25">
+                <div class="video-show">
+                    <h1>{dede:field.title/}</h1>
+                    <div class="vdinfo clearfix">
+                        <div class="fl"><span>发布时间：{dede:field.pubdate function="MyDate('Y-m-d',@me)"/}</span><span>本视频出处  太原市中心医院第三医院</span></div>
+                        <div class="fr color-share">
+                            <span>分享到：</span>
+                            <a href="javascript:;" class="jiathis_button_qzone" title="分享到QQ空间"><i class="iconfont">&#xe60f;</i></a>
+                            <a href="javascript:;" class="jiathis_button_tsina" title="分享到新浪微博"><i class="iconfont">&#xe60d;</i></a>
+                            <a href="javascript:;" class="jiathis_button_weixin" title="分享到微信"><i class="iconfont">&#xe612;</i></a>
+                            <a href="javascript:;" class="jiathis_button_fb" title="分享到Facebook"><i class="iconfont">&#xe605;</i></a>
+                            <a href="javascript:;" class="jiathis_button_twitter" title="分享到twitter"><i class="iconfont">&#xe602;</i></a>
+                        </div>
+                    </div>
+                    <div class="vdplayer" id="vdplayer" data-url="http://shipin.xnekyy.com/swf/yyjj_{dede:field name='spid'/}.mp4"></div>
+                    <div class="vddesc mt25">
+                        <p>{dede:field.title/}</p>
+                    </div>
+                    <div class="vdhot video-list">
+                        <div class="list-tit">
+                            <h2><a class="cur" href="">热门视频</a></h2>
+                        </div>
+                        <ul class="clearfix mt25">
+                            {dede:arclist row="4" titlelen="100"}
+                            <li>
+                                <a class="vdimg" href="[field:arcurl/]">
+                                    <img src="[field:picname/]" alt="[field:fulltitle /]" />
+                                    <i class="iconfont">&#xe619;</i>
+                                </a>
+                                <a href="[field:arcurl/]">[field:fulltitle /]</a>
+                            </li>
+                            {/dede:arclist}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+    <script src="/ckplayer/ckplayer.js"></script>
+    <script>
+    var vdUrl = $("#vdplayer").attr("data-url");
+    var flashvars = {
+        f: vdUrl,
+        c: 0,
+        p: 1,
+        h: 4,
+        my_url: encodeURIComponent(window.location.href),
+        my_title: encodeURIComponent(document.title),
+        loaded: 'loadedHandler'
+    };
+    var video = [vdUrl + '->video/mp4'];
+    CKobject.embed('http://static.samsph.com/images/ckplayer.swf', 'vdplayer', 'ckplayer_vdplayer', '100%', '100%', false, flashvars, video);
+    </script>
+</body>
+
+</html>

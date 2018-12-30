@@ -1,0 +1,275 @@
+
+
+
+/*professional*/
+
+.professional{
+    width:100%;
+    position: relative;
+    background: #01000b;
+}
+.rows{
+    height:200px;
+}
+.black{
+    background:#01000b;
+    padding-top: 45px;
+}
+.black h1 a {
+    display: block;
+    width:350px;
+}
+.red{
+    background:#e74159;
+}
+.professional ul{
+    position: absolute;
+    width:1000px;
+    left:200px;
+    bottom:50px;
+    padding: 0;
+}
+.professional ul li{
+    width:211px;
+    float: left;
+    margin-left:52px;
+
+}
+
+/*aboutus*/
+.aboutUs{
+    position: relative;
+    height:420px;
+   background-image: url('../images/white_bg.png');
+   background-size: cover;
+   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+  src='../images/white_bg.png',
+    sizingMethod='scale');
+}
+.aboutUs .cols{
+    height:300px;
+    float: left;
+}
+.aboutUs .col-left{
+    width:350px;
+    background:#e74159 ;
+}
+.aboutUs .col-right{
+    width:650px;
+    background:#01000b ;
+    color: white;
+}
+.col-right h1{
+    margin-top: 60px;
+}
+.col-right h1 a{
+    display: block;
+    width:200px;
+    margin-left:120px;
+}
+.col-right p{
+    margin:0 20px 0 120px;
+    font-size: 12px;
+    font-family: "微软雅黑";
+}
+.aboutUs .video{
+    width:400px;
+    position: absolute;
+    left:30px;
+    top: 20px;
+
+}
+
+/*teacherPower*/
+.teacherPower{
+    width:100%;
+    height:400px;
+    min-width:1140px;
+    background-image: url('../images/teacher_bg.png');
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+              src='../images/teacher_bg.png',
+                sizingMethod='scale');
+
+}
+.teacherPower h1 a{
+    display: block;
+    width: 180px;
+}
+.sliderBox{
+    width: 1000px;
+    position: relative;height:250px;
+}
+
+.clickBox{
+    width:850px;
+    height:140px;
+    overflow: hidden;
+    position: relative;
+}
+.clickBox ul{
+    position: absolute;left:-20px;
+    top: 0;
+    padding:0;
+}
+.clickBox ul li
+{
+    float: left;
+    position:relative;
+    margin-left:70px;
+    width:140px;
+    height:142px;
+}
+.clickBox ul li>a{
+    display: block;
+    width: 140px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height:152px;
+    z-index:999;
+}
+
+
+.clickBox ul li>div{
+   position: absolute;
+   left:2px;top:0;
+    z-index: 888;
+    width:350px;background: white;border-radius:125px;height:141px;
+    display:none;
+}
+
+.clickBox ul li div .showDetails{
+    width:150px;
+    font-family: "微软雅黑";
+    position:absolute;
+    right:20px;
+    height:140px;
+
+}
+
+.showDetails h4{
+    font-size: 14px;
+    margin-top:10px;
+    color:#e74159
+}
+.showDetails span{
+    font-size: 14px;
+    display: block;
+    margin:5px 0;
+}
+.showDetails p{
+   font-size: 12px;
+}
+
+
+/*showLeft*/
+.clickBox ul li.four>div.showDetailsL{
+    left:-212px;
+    top: 0;
+}
+.clickBox ul li.four>div.showDetailsL div{
+    position: absolute;
+    left: -80px;
+    top: 0;
+}
+
+/*information*/
+.information{
+    height:225px;
+    width:1000px;
+}
+.information>div,.information ul{
+    float: left;
+}
+
+.information ul {
+    width:760px;
+    font-family: "微软雅黑";
+    margin-left:45px;
+}
+.information ul li{
+    cursor: pointer;
+    float: left;
+    width:166px;
+    height:225px;
+    margin-left:24px;
+
+}
+.information ul li h3{
+    height:50px;
+    width: 100%;
+    box-shadow:1px 1px 1px #ccc;
+}
+.information ul .infoImg1 h3{
+    background: url("../images/caizhuang.png") no-repeat;
+}
+.information ul .infoImg2 h3{
+    background: url("../images/meirong.png") no-repeat;
+}
+.information ul .infoImg3 h3{
+    background: url("../images/meijia.png") no-repeat;
+}
+.information ul .infoImg4 h3{
+     background: url("../images/zonghe.png") no-repeat;
+ }
+
+.information ul li div{
+    width:100%;
+    display: block;
+    margin: 24px 0;
+
+}
+.information ul li dl dd{
+    margin-top: 15px;font-size:12px;
+}
+.information ul li dl dd span{
+    font-size: 16px;
+    color:#f66b6b;
+}
+.information ul li a.baoming{
+    clear: both;text-align: center;
+    line-height: 40px;
+    display: block;
+    height:40px;
+    width: 166px;
+    background:#28272c;
+    color: white;
+    font-size:16px;
+    text-decoration: none;
+}
+.information ul li:hover .baoming{
+    background:#e74159;
+
+}
+.information ul li.infoImg1:hover h3{
+    background: url("../images/caizhuanghover.png") no-repeat;
+    transition:all 0.5s ease-in;
+    -webkit-transition:all 0.5s ease-in;
+    -moz-transition:all 0.5s ease-in;
+    -o-transition:all 0.5s ease-in;
+}
+.information ul li.infoImg2:hover h3{
+    background: url("../images/meironghover.png") no-repeat;
+    transition:all 0.5s ease-in;
+    -webkit-transition:all 0.5s ease-in;
+    -moz-transition:all 0.5s ease-in;
+    -o-transition:all 0.5s ease-in;
+}
+.information ul li.infoImg3:hover h3{
+    background: url("../images/meijiahover.png") no-repeat;
+    transition:all 0.5s ease-in;
+    -webkit-transition:all 0.5s ease-in;
+    -moz-transition:all 0.5s ease-in;
+    -o-transition:all 0.5s ease-in;
+}
+.information ul li.infoImg4:hover h3{
+    background: url("../images/zonghehover.png") no-repeat;
+    transition:all 0.5s ease-in;
+    -webkit-transition:all 0.5s ease-in;
+    -moz-transition:all 0.5s ease-in;
+    -o-transition:all 0.5s ease-in;
+}
+
+
+

@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>群丽化妆学校</title>
+    <link rel="stylesheet" href="/templets/qunli/css/public.css"/>
+    <link rel="stylesheet" href="/templets/qunli/css/aboutUs.css"/>
+    <script src="/templets/qunli/js/jquery.js"></script>
+    <script src="/templets/qunli/js/public.js"></script><!--公用js-->
+</head>
+<style>
+
+
+    #zhuanti1{
+        width: 100%;
+        height: 155px;
+        background: #fc1047;
+
+    }
+    #zhuanti1 img{
+        width: 100%;
+        height: 100%;
+    }
+
+    #zhuanti2{
+        width: 100%;
+        height:440px;
+        background:#e2e6ea;
+        margin-top: 1px;
+    }
+    #zhuanti2>div{
+        width: 1000px;
+        margin: 0 auto;
+    }
+    #zhuanti2>div ul li {
+        float: left;width:250px;
+        height:440px ;
+    }
+    #zhuanti2>div ul li  a{
+        display: block;
+        height:100%
+    }
+    #zhuanti2>div ul li  a img{
+        width: 100%;
+        height:100%;
+        margin: 0;
+    }
+
+    #zhuanti3{
+        width:100%;
+        min-width: 1140px;
+        max-width: 1920px;
+        margin:0 auto;
+        /*background:url("/templets/qunli/images/zhuanti7.png") no-repeat 0 0;*/
+    background-image: url('/templets/qunli/images/zhuanti7.png');
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+              src='/templets/qunli/images/zhuanti7.png',
+                sizingMethod='scale');
+        padding-top:1px;
+        background-size:100% 100%;
+    }
+
+
+
+    #classSet{
+        width: 1000px;
+        clear: both;
+    }
+
+    #classSet .classSetCon{
+        width: 1000px;
+    }
+    #classSet h1{
+        height: 40px;
+        margin: 0;
+        background: black;
+        width: 960px;
+        color: white;
+        font-size: 20px;
+        line-height:40px;
+        font-family:"微软雅黑";
+        padding-left:40px;
+    }
+    #classSet .classSetCon>div{
+        float: left;
+        height: 503px;
+
+    }
+
+    #classSet .classSetCon>div.classSetConL{
+        width:400px;
+        background:#cfcece;
+    }
+    #classSet .classSetCon>div.classSetConL>img{
+        width: 100%;
+        height:350px ;
+    }
+    #classSet .classSetCon>div.classSetConL p{
+        margin-top: 10px;
+        width:250px;
+    }
+    #classSet .classSetCon>div.classSetConL p>*{
+        display: block;
+        margin: 0;
+        color: black;
+        font-family: "微软雅黑";
+        font-size:14px;
+
+    }
+    #classSet .classSetCon>div.classSetConL p>img{
+        width: auto;
+    }
+    #classSet .classSetCon>div.classSetConR{
+        width: 600px;
+    }
+    #classSet .classSetCon>div.classSetConR li{
+        float: left;
+        width: 198px;
+        height: 250px;
+        border:1px solid white;
+        background:#e8e8e9;
+    }
+    #classSet .classSetCon>div.classSetConR li p{
+        color: black;
+        font-family: "微软雅黑";
+        font-size: 14px;
+        margin-top: 10px;
+        width: 180px;
+    }
+    #classSet .classSetCon>div.classSetConR li p img{
+        width: auto;
+    }
+    #classSet .classSetCon>div.classSetConR li>img{
+        width: 100%;
+        height:150px;
+        margin: 0;
+        border-bottom:2px solid white;
+    }
+
+
+    #zhuanti4,#zhuanti5{
+        width:100%;
+        margin-top: 30px;
+    }
+    #zhuanti4>div{
+        width: 1000px;
+
+    }
+    #zhuanti4>div>img{
+        display: block;
+        margin: 0;
+        width: 100%;
+    }
+
+    #zhuanti5{
+        background:#ffb9c7;
+        padding: 30px 0;
+    }
+    #zhuanti5>*{
+        width: 1000px;
+        margin-bottom: 20px;
+
+    }
+    #zhuanti5 h1{
+        
+    }
+    /*aboutus*/
+    .aboutUs{
+        position: relative;
+        height:450px;
+
+    }
+    .aboutUs .cols{
+        height:340px;
+        float: left;
+    }
+    .aboutUs .col-left{
+        width:350px;
+        background:#e74159 ;
+
+
+    }
+    .aboutUs .col-right{
+        width:650px;
+        background:#01000b ;
+        color: white;
+    }
+    .col-right h1{
+        margin-top: 10px;
+    }
+    .col-right h1 a{
+        display: block;
+        width:200px;
+        margin-left:120px;
+    }
+    .col-right p{
+        margin:0 20px 0 120px;
+        font-size: 12px;
+        line-height: 28px;
+        font-family: "微软雅黑";
+    } .col-right img{
+          display: block;
+        width: auto;
+              margin-top: 20px;
+      }
+
+    .aboutUs .video{
+        width:400px;
+        position: absolute;
+        left:30px;
+        top: 20px;
+
+    }
+    .video2>img{width: 100%;height: 100%;margin:0}
+
+    .footer{
+	margin:0;}
+
+</style>
+<body>
+<div class="all">
+    <!--top-->
+    <div class="top"><!--100%-->
+        <div class="topContent"><!--1000px-->
+            <ul>
+                <li><a  onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a></li>
+                <li style="background: url('/templets/qunli/images/top.png') no-repeat -95px 8px;"><a href="#" onclick="javascript:addFavorite2()">收藏我们</a></li>
+                <li style="margin-right:0px;background: url('/templets/qunli/images/top.png') no-repeat -190px 8px;"><a href="tencent://message/?uin=610606820">在线咨询</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="main"><!--1140px-->
+        <!--导航框-->
+        <div class="slideBox" style="overflow: visible;height:110px;">
+            <div class="navBox" style="background: black">
+                <h2 class="logo1"><a href="/"><img src="/templets/qunli/images/qllogo.png" alt="成都化妆培训学校"></a></h2>
+                <ul>
+ <li style="background: none">
+                    <a href="/">首页</a>
+                </li>
+                 <li>
+                     <a href="/gywm/index.html">关于我们</a>
+                     <dl>
+                     <dd><a href="/gywm/school/index.html#brandCulture">学校介绍</a></dd>
+                     <dd><a href="/gywm/wenhua/#brandCulture">办学文化</a></dd>
+                     <dd><a href="/gywm/environment/index.html#brandCulture">学校环境</a></dd>
+                     <dd><a style="border:none" href="/gywm/rongyu/list_1.html#honor">资质荣誉</a></dd>
+                     </dl>
+                 </li>
+                 <li>
+                     <a href="/news/list_1.html">新闻动态</a>
+                     <dl>
+                     <dd><a href="/news/qunlidongtai/list_1.html#news">群丽动态</a></dd>
+                     <dd><a href="/news/huodong/list_17_1.html#qunliActive">群丽活动</a></dd>
+                     <dd><a href="/news/xinwen/list_18_1.html#news">行业新闻</a></dd>
+                     </dl>
+                 </li>
+                 <li>
+                     <a href="/xueyuanshizi/list_4_1.html">学员师资</a>
+                     <dl>
+                     <dd><a href="/xueyuanshizi/jiaoshi/list_20_1.html#schoolIntro">专业教师</a></dd>
+                     <dd><a href="/xueyuanshizi/zuopin/list_21_1.html#production">学员作品</a></dd>
+                     <dd><a href="/xueyuanshizo/xueyuan/list_22_1.html#OutstandingStudents">优秀学员</a></dd>
+                     </dl>
+                 </li>
+                 <li>
+                 <a href="/kecheng/list_2_1.html">专业课程</a>
+                    <dl>
+                     <dd><a href="/kecheng/caizhuang/list_12_1.html#makeUp">彩妆专业课程</a></dd>
+                     <dd><a href="/kecheng/meijia/list_13_1.html#fingernail">美甲专业课程</a></dd>
+                     <dd><a href="/kecheng/meijie/list_14_1.html#beauty">美睫专业课程</a></dd>
+                     <dd><a href="/kecheng/huazhuang/list_15_1.html#integrated">自我化妆课程</a></dd>
+                    </dl>                 
+                 </li>
+                 <li>
+                     <a href="/zhaoshengjiuye/list_5_1.html">招生就业</a>
+                     <dl>
+                     <dd><a href="/zhaoshengjiuye/kaiban/list_23_1.html#newClass">最新开班信息</a></dd>
+                     <dd><a href="/zhaoshengjiuye/baoming/index.html#askQuestion">报名须知</a></dd>
+                     <dd><a href="/zhaoshengjiuye/baozhang/index.html#jiuyebaozhang">就业保障</a></dd>
+                     </dl>
+                 </li>
+                 <li>
+                     <a href="/shangwuhezuo/index.html">商务合作</a>
+                     <dl>
+                     <dd><a href="/shangwuhezuo/hunli/index.html#divIdCoBig1">婚礼跟妆</a></dd>
+                     <dd><a href="/shangwuhezuo/peixun/index.html#divIdCoBig2">企业化妆培训</a></dd>
+                     <dd><a href="/shangwuhezuo/huodong/index.html#divIdCoBig3">大型活动跟妆</a></dd>
+                     <dd><a href="/shangwuhezuo/qita/index.html#otherBc">其他商务合作</a></dd>
+                     </dl>
+                 </li> 
+                 <li>
+                     <a href="/lianxiwomen/index.html">联系我们</a>
+                     <dl>
+                     <dd><a href="/lianxiwomen/lianxi/index.html#contactUs">联系我们</a></dd>
+                     <dd><a href="/lianxiwomen/ditu/index.html#position">地图位置</a></dd>
+                     </dl>
+                 </li>                 
+                </ul>
+				<span class="hotLine"><img src="/templets/qunli/images/hotLine.png" alt=""/></span>
+            </div>
+        </div>    
+        <div style="width:100%;max-width:1920px;min-width:1140px;height:645px;">
+            <img src="/templets/qunli/images/zhuanti1.jpg" style="display:block;margin:0;height:100%"/>
+         </div>
+    <!--titleImg-->
+        <div id="zhuanti1">
+            <div style="width:1000px">
+                <img src="/templets/qunli/images/zhuanti2.png" alt=""/>
+
+            </div>
+        </div>
+        <!--zhuanti2-->
+        <div id="zhuanti2">
+            <div>
+                <ul>
+                    <li>
+                        <a href="http://www.ql-school.com/2015/0422/103.html"><img src="/templets/qunli/images/zhuanti6.jpg" alt=""/></a>
+                    </li>
+                    <li>
+                        <a href="http://www.ql-school.com/a/zhuanyekecheng/zonghe/2015/0418/95.html"><img src="/templets/qunli/images/zhuanti4.jpg" alt=""/></a>
+                    </li>
+                    <li>
+                        <a href="http://www.ql-school.com/a/zhuanyekecheng/meiron/2015/0418/93.html"><img src="/templets/qunli/images/zhuanti5.jpg" alt=""/></a>
+                    </li>
+                    <li>
+                        <a href="http://www.ql-school.com/2015/0513/123.html"><img src="/templets/qunli/images/zhuanti3.jpg" alt=""/></a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+        <!--专题3-->
+        <div id="zhuanti3">
+            <div class="aboutUs">
+                <div style="width: 1000px;border:1px solid white;margin-top:60px;position:relative;">
+                    <div class="cols col-left"></div>
+                    <div class="cols col-right">
+                        <img src="/templets/qunli/images/zhuantiIntro.png" alt=""/>
+                        <!--<h1><a href=""><img src="/templets/qunli/images/zhuanti8.png" alt=""/></a></h1>-->
+                        <!--<p>-->
+                            <!--群丽化妆学校属于成都市锦江区群丽摄影和形象设计职业技能培训学校，-->
+                            <!--投入雄厚的教学资金，引导先进的教学设备，在整个学习过程中学校采-->
+                            <!--用“理论 与实践相结合，注重 实际运用”的教学方式。在梁朝伟、刘-->
+                            <!--嘉玲的御用化妆师，来自台湾的顶级化妆师王湘渝女士的亲自带领下，-->
+                            <!--成为西南地区首批大规模培养化妆、摄影、美容、美甲专业人员的基地。-->
+                            <!--2004年至今，群丽化妆学校已经风雨地走过了11年岁月，培养了成千上-->
+                            <!--万的专业化妆、美甲师、堪称是化妆造型界的“航母”。-->
+                        <!--</p>-->
+                    </div>
+                    <div class="video">
+                        <div class="video2">
+                            <img src="/templets/qunli/images/zhuanti9.jpg" alt=""/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div id="classSet">
+                <h1>课程设置</h1>
+                <div class="classSetCon">
+                    <div class="classSetConL">
+                        <img src="/templets/qunli/images/zhuanti10.jpg" alt=""/>
+                        <p>
+                            <span>专业形象设计班</span>
+                            <img src="/templets/qunli/images/zhuantiTxt1.png" alt=""/>
+                        </p>
+                    </div>
+                    <div class="classSetConR">
+                        <ul>
+                            <li>
+                                <img src="/templets/qunli/images/zhuanti11.jpg" alt=""/>
+                                <p>
+                                    <span>设计师时尚创意研修班</span>
+                                    <img src="/templets/qunli/images/zhuantiTxt2.png" alt=""/>
+                                </p>
+                            </li>
+                            <li>
+                                <img src="/templets/qunli/images/zhuanti12.jpg" alt=""/>
+                                <p>
+                                    <span>高级美甲全能班</span>
+                                    <img src="/templets/qunli/images/zhuantiTxt3.png" alt=""/>
+                                </p>
+                            </li>
+                            <li>
+                                <img src="/templets/qunli/images/zhuanti13.jpg" alt=""/>
+                                <p>
+                                    <span>自我化妆形象设计班</span>
+                                    <img src="/templets/qunli/images/zhuantiTxt4.png" alt=""/>
+                                </p>
+                            </li><li>
+                            <img src="/templets/qunli/images/zhuanti14.jpg" alt=""/>
+                            <p>
+                                <span>影楼专业设计师研修班</span>
+                                <img src="/templets/qunli/images/zhuantiTxt5.png" alt=""/>
+                            </p>
+                        </li>
+                            <li>
+                            <img src="/templets/qunli/images/zhuanti15.jpg" alt=""/>
+                            <p>
+                                <span>高级美甲研修班</span>
+                                <img src="/templets/qunli/images/zhuantiTxt6.png" alt=""/>
+                            </p>
+                            </li>
+                            <li>
+                                <img src="/templets/qunli/images/zhuanti16.jpg" alt=""/>
+                                <p>
+                                    <span>韩式半永久性定妆术</span>
+                                    <img src="/templets/qunli/images/zhuantiTxt7.png" alt=""/>
+                                </p>
+                            </li>
+                        </ul>
+
+                    </div>
+
+                </div>
+                <h6 style="clear: both"></h6>
+            </div>
+        </div>
+
+
+    <!--专题4-->
+
+       <div id="zhuanti4">
+           <div class="zhuanti4Con">
+               <img src="/templets/qunli/images/zhuanti17.jpg" alt=""/>
+           </div>
+       </div>
+
+    <!--专题5-->
+
+        <div id="zhuanti5">
+            <h1><img src="/templets/qunli/images/zhuanti19.png" alt=""/></h1>
+            <div class="zhuanti5Con">
+
+                <img src="/templets/qunli/images/zhuanti18.jpg" alt=""/>
+            </div>
+        </div>
+        <!--footer-->
+        <div class="footer">
+  <div class="footerContent">
+    <div class="clear" style="padding-left:0">
+      <dl>
+        <dt>详询热线：028-85831188</dt>
+        <dd><a>地址：成都市春熙路南口城守东大街6号蓝光大厦5楼（省四医院旁）</a></dd>
+        <dd><a>电话：18981933384</a></dd>
+        <dd><a>传真：028-8583 1188</a></dd>
+        <dd><a>邮箱：610606820@qq.com</a></dd>
+      </dl>
+      <ul>
+        <li style="margin-left:0;"><a  class="weixin"></a></li>
+        <li><a class="xinlang"></a></li>
+        <li><a class="tengxun"></a></li>
+        <li><a class="qq"></a></li>
+      </ul>
+      <h6 style="clear: both"></h6>
+    </div>
+    <div class="part">
+      <h5>关于</h5>
+      <ol>
+        <li><a href="/gywm/school/index.html">学校介绍 • School Profile</a></li>                                                     
+        <li><a href="/gywm/wenhua/">办学文化 • School Culture</a></li>                          
+        <li><a href="/gywm/environment/index.html">学校环境 • School Environment</a></li>   
+        <li><a href="/gywm/rongyu/list_1.html">资质荣誉 • School Honor</a></li>
+      </ol>
+    </div>
+    <div class="part">
+      <h5>课程</h5>
+      <ol>
+        <li><a href="/kecheng/caizhuang/list_12_1.html">彩妆专业课程 • Professional Makeup</a></li>                                                     
+        <li><a href="/kecheng/meijia/list_13_1.html">美甲专业课程 •  Beauty Professional</a></li>                          
+        <li><a href="/kecheng/meijie/list_14_1.html">美睫专业课程 • Nail Professional</a></li>   
+        <li><a href="/kecheng/huazhuang/list_15_1.html">自我化妆课程 • Training</a></li>
+      </ol>
+    </div>
+    <div class="part" style="border: none;padding-right: 0">
+      <h5>动态</h5>
+      <ol>
+        <li><a href="/news/qunlidongtai/list_1.html">群丽动态 • Openning Information</a></li>                                                     
+        <li><a href="/news/huodong/list_17_1.html">群丽活动 •  Latest News</a></li>                          
+        <li><a href="/news/xinwen/list_18_1.html">行业新闻 • School News</a></li>
+      </ol>
+    </div>
+    <h6 style="clear:both;"></h6>
+  </div>
+</div>
+
+<!--end-->
+<div class="end">
+  <p>©COPYRIGHT2016  <a href="/sitemap.html">网站地图</a>蜀ICP备：201500313-1号</p>
+</div>
+</div>
+<!--固定框-->
+<div class="rightFixed">
+  <ul>
+    <li><a href="tencent://message/?uin=938011887" class="f1"></a></li>
+    <li><a href="" class="f2"></a></li>
+    <li><a href="" class="f3"></a></li>
+    <li><a href="" class="f4 goTop"></a></li>
+  </ul>
+</div>
+</div>
+
+<script src='/swt/swt.js'></script>
+
+<!--<script charset="utf-8" type="text/javascript" src="http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODAxMTg4N18zMzI5MzhfNDAwMDExMTgwM18"></script> 
+
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https'){
+   bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+  }
+  else{
+  bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+  }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?b787ea1fd484732e1eaa54cd304d364d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--<script type="text/javascript">
+var _mvq = _mvq || [];
+_mvq.push(['$setAccount', 'm-56412-0']);
+
+_mvq.push(['$logConversion']);
+(function() {
+var mvl = document.createElement('script');
+mvl.type = 'text/javascript'; mvl.async = true;
+mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(mvl, s);
+})();
+
+</script> 
+<script type="text/javascript" src="//s.union.360.cn/110902.js" async defer></script>     -->
+</body>
+</html>

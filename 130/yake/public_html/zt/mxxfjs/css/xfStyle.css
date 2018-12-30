@@ -1,0 +1,500 @@
+@charset "utf-8";
+/* CSS Document */
+body {color:#222222; font:14px "微软雅黑",Tahoma,Arial; margin:0; padding:0; background:#fff;}
+img{ border:0;}
+h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0;}
+ul,ol,dl {list-style:none; cursor:pointer;}
+a {color:#555;text-decoration:none; text-align:center;}
+a:hover {color:#555;text-decoration:underline;}
+p{ line-height:30px;}
+b{font-weight:bold;}
+.clear{ clear:both;}
+.xfWarp{ width:1100px; margin:0 auto; background:url(../images/xfBx_bg.png) left top repeat-y;padding-left:35px;padding-top:50px; padding-bottom:30px;}
+/* banner */
+.xfBan{
+	width:100%;
+	height:500px;
+	margin:0 auto;	
+	}
+.xfBan1{
+	width:100%;
+	height:179px;
+	background:url(../images/xfBan1.jpg) top center no-repeat;
+	}
+.xfBan2{
+	width:100%;
+	height:149px;
+	background:url(../images/xfBan2.jpg) top center no-repeat;
+	}
+.xfBan3{
+	width:100%;
+	height:172px;
+	background:url(../images/xfBan3.jpg) top center no-repeat;
+	}
+	
+	
+/* nav */
+.xfNav-cont{
+	width:100%;
+	height:65px;
+	position:relative;
+	border-bottom:1px solid #ededed;
+	border-top:1px solid #ededed;
+	background:#f6f6f6;
+	}
+.xfNav-box{
+	width:1100px;
+	height:63px;
+	margin:0 auto;	
+	}
+.xfNav-cont-fixed{
+	width:100%;
+	position:fixed;
+	z-index:9999;
+	height:63px;
+	}
+.fixedNav{position:fixed;top:0; z-index:9999;}
+.xfNav-cont a{
+	display:block;
+	float:left;
+	width:155px;
+	height:35px;
+	line-height:35px;
+	text-align:center;
+	margin:15px 25px 0 0;
+	overflow:hidden;	
+	}
+.xfNav-cont a:hover{
+	width:155px;
+	background:url(../images/xfIco.png) no-repeat;
+	background-position:0 0;
+	color:#fff;
+	text-decoration:none;	
+	}
+.xfNav-cont a.on{
+	width:155px;
+	background:url(../images/xfIco.png) no-repeat;
+	background-position:0 0;
+	color:#fff;
+	text-decoration:none;	
+	}
+	
+	
+/* title */
+.xfTit{
+	height:50px;
+	background:url(../images/xfTit_bg2.png) left bottom no-repeat;
+	padding-left:35px;
+	width:1100px;
+	margin:50px auto;
+	margin-bottom:0;
+	}
+.xfTit2{
+	height:50px;
+	background:url(../images/xfTit_bg.png) no-repeat;
+	background-position:0 -70px;
+	padding-left:35px;
+	width:1100px;
+	margin:0 auto;
+	}
+.xfTit3{
+	height:18px;
+	background:url(../images/xfTit_bg.png) no-repeat;
+	background-position:0 -130px;
+	width:1100px;
+	margin:30px auto;
+	padding-left:35px;
+	margin-top:0;
+	}
+	
+/*-------------------------- 美容修复简介 -----------------------------------------------*/	
+/* 美容修复简介 */	
+.xf-jjL{
+	width:450px;
+	float:left;	
+	}
+.xf-jjR{
+	width:600px;
+	float:right;	
+	}
+.xf-jjR h2{
+	color:#3e71b2;
+	font-size:35px;	
+	}
+.de{
+	font-size:60px;
+	font-family:"Courier New";
+	font-weight:bold;
+	line-height:38px;
+	color:#3e71b2;
+	margin-top:40px;
+	}
+.jjTow{
+	width:419px;
+	height:28px;
+	line-height:28px;
+	background:#ddf0fc;
+	color:#3f628d;
+	font-weight:bold;
+	margin-top:30px;
+	padding-left:10px;
+	}
+.xf-jjR p{
+	width:510px;
+	margin-top:40px;	
+	}
+/* 牙齿缺陷危害 */
+.jjwhL{
+	width:489px;
+	float:left;
+	background:url(../images/xf_03.png) no-repeat;
+	height:484px;
+	position:relative;
+	}
+.jjwhL-box{
+	color:#fff;
+	width:160px;
+	position:absolute;
+	left:170px;
+	top:70px;	
+	}
+.box2{left:40px;top:190px;}
+.box3{left:295px;top:190px;}
+.box4{left:170px;top:310px;}
+.jjwhL-box h2{
+	margin-bottom:10px;
+	text-align:center;
+	}
+.jjwhR{
+	width:581px;
+	float:left;
+	height:484px;
+	background:url(../images/xf_04.jpg) no-repeat;	
+	}
+.jjwhR ul{
+	width:200px;
+	margin:320px 0 0 280px;	
+	}
+.jjwhR ul li{
+	height:12px;
+	line-height:15px;
+	background:url(../images/xfIco.png) 0 -165px no-repeat;
+	margin:15px 0;
+	padding-left:20px;
+	}
+.zixun{
+	display:block;
+	width:340px;
+	height:40px;
+	border-radius:10px;
+	background:#ff4a26;
+	line-height:40px;
+	font-size:18px;
+	color:#fff;
+	margin:30px 0 0 190px;	
+	}
+.zixun:hover{ opacity:0.8; color:#fff;}
+/* 修复牙齿类型  */
+.yListCont{
+	height:336px;
+	overflow:hidden;
+	margin-right:80px;	
+	}
+.yLy{ position:relative;}
+.yLys{
+	width:456px;
+	height:366px;
+	position:absolute;
+	z-index:999;
+	bottom:45px;
+	left:40px;
+	}
+.yList{
+	width:612px;
+	float:right;
+	background:url(../images/xf_38.png) no-repeat;
+	height:336px;	
+	}
+.yListBox{
+	width:138px;
+	float:left;
+	overflow:hidden;
+	margin-right:20px;
+	text-align:center;
+	height:160px;
+	}
+.yListBox img{
+	width:108px;
+	height:107px;
+	margin:5px 10px;
+	}
+.yWxts{
+	height:33px;
+	line-height:33px;
+	background:#3e71b2;
+	color:#fff;
+	width:670px;
+	padding-left:430px;
+	}
+.yWxts span{
+	height:13px;
+	background:url(../images/xfIco.png) no-repeat;
+	background-position: 0 -180px;
+	padding-left:20px;
+	font-weight:bold;	
+	}
+	
+	
+/* 修复牙齿方法  */
+.ffaBox{
+	width:245px;
+	text-align:center;
+	float:left;
+	margin-right:40px;	
+	}
+.ffaXx{
+	height:93px;
+	background:#f1f1f1;
+	padding-top:30px;	
+	}
+.ffaXx h2{
+	font-size:18px;
+	color:#3e71b2;
+	}
+.ffaXx a{
+	display:block;
+	width:120px;
+	height:30px;
+	border:2px solid #4a7ab7;
+	line-height:30px;
+	margin:10px 0 0 60px;
+	color:#23528f;	
+	}
+.ffaXx a:hover{
+	background:#23528f;
+	color:#fff;
+	border:none;
+	}
+	
+	
+/* 修复牙齿常见问题  */
+.cjwt{
+	background:url(../images/xf_18.jpg) left center no-repeat;
+	padding-left:213px;
+	}
+.cjwtBox{
+	float:left;
+	width:220px;
+	border:1px solid #e3e3e3;
+	height:284px;
+	margin-right:20px;
+	padding:0 30px;	
+	}
+.cjwtBox span{
+	display:block;
+	width:43px;
+	height:43px;
+	line-height:43px;
+	text-align:center;
+	background:url(../images/yuan.png) no-repeat;
+	margin:30px 0 20px 80px;
+	color:#fff;	
+	}
+.cjwtBox h2{
+	font-size:18px;
+	margin:10px 0;
+	}
+.cjwtBox p{ line-height:22px;}
+/*-------------------------- 美学修复方式 -----------------------------------------------*/	
+/*  美学修复方式 切换标题 */ 
+.xffsTitle{
+	width:840px;
+	float:right;
+	}
+.xffsTitCont{float:left;}
+.xffsTitCont a{
+	width:180px;
+	float:left;
+	height:30px;
+	line-height:30px;
+	background:url(../images/xfIco.png) no-repeat;
+	background-position:0 -50px;
+	margin-right:30px;
+	color:#919191;	
+	}
+.xffsTitCont .current,.xffsTitCont a:hover{background-position:0 -90px; color:#fff;}
+.xffsDiv{margin-top:60px;}
+.xffsBox{
+	width:940px;
+	float:left;
+	margin-left:50px;
+	}
+.xffsBoxL{
+	width:402px;
+	float:left;
+	height:555px;	
+	}
+.xffsBoxR{
+	width:488px;
+	float:right;	
+	}
+.xffs-title{
+	height:73px;
+	margin:40px 0 20px 0;
+	}
+.jsys{
+	border-bottom:1px dotted #aeaeae;
+	border-top:1px dotted #aeaeae;
+	padding:20px 0;
+	height:230px;	
+	}
+.jsys h2{
+	font-size:18px;
+	background:url(../images/xfIco2.png) 0 8px no-repeat;
+	padding-left:15px;
+	line-height:18px;
+	}
+.jsys h2 span{
+	font-size:11px;
+	color:#838383;
+	font-weight:normal;
+	font-family:"Courier New";	
+	}
+.jsysCont{
+	width:488px;
+	margin-top:10px;
+	overflow:hidden;
+	}
+.jsys p{
+	line-height:22px;
+	color:#6f6f6f;
+	float:left;
+	width:460px;
+	}
+.jsys b{
+	background:url(../images/xfIco.png) no-repeat;
+	background-position:0 -144px;
+	font-size:12px;
+	color:#fff;
+	width:18px;
+	height:17px;
+	line-height:17px;
+	text-align:center;
+	margin: 5px 5px 0 0;
+	float:left;
+	}
+.syfw{
+	height:52px;
+	background:#f3f3f3;
+	padding:15px 0 0 15px;
+	font-weight:bold;
+	margin-top:5px;	
+	}
+.zixun2{
+	width:190px;
+	margin:30px 0 0;
+	}
+	
+	
+/*--------------------------  5D亲贝美齿修复优势  -----------------------------------------------*/	
+/*  Prussian5D亲贝美齿特点 */
+.td5D{
+	background:url(../images/xf_24.jpg) no-repeat;
+	height:652px;
+	position:relative;
+	}
+.tdBox{
+	width:120px;
+	position:absolute;
+	left:390px;
+	top:55px;
+	}
+.tdBox h2{
+	background:url(../images/yuanq.png) left center no-repeat;
+	padding-left:20px;
+	}
+.tdBox p{
+	text-align:left;
+	line-height:22px;	
+	}
+.tdBox2{ left:770px; top:140px;}
+.tdBox3{ left:770px; top:360px;}
+.tdBox4{ left:100px; top:140px;}
+.tdBox5{ left:100px; top:360px;}
+.tdBox4 h2,.tdBox5 h2{
+	text-align:right;
+	background:url(../images/yuanq.png) center center no-repeat;
+	}
+.zixun3{
+	position:absolute;
+	width:243px;
+	left:190px;
+	bottom:20px;	
+	}
+	
+/*  Prussian5D亲贝美齿7大优势 */
+.ys5D{
+	height:1006px;
+	background:url(../images/xf_26.png) center no-repeat;
+	margin-top:50px;
+	position:relative;
+	text-align:left;
+	color:#3e3e3e;	
+	}
+.ys5DTit{
+	position:absolute;
+	width:300px;
+	height:88px;
+	left:560px;
+	top:-40px;	
+	}
+.ys5DBoxL{
+	width:400px;
+	position:absolute;
+	left:100px;
+	top:32px;
+	}
+.ys5DBoxL .ysTxt{
+	width:240px;
+	float:left;
+	}
+.ys5DBoxL .ysTxt h2,.ys5DBoxR .ysTxt2 h2{
+	text-align:right;
+	font-size:20px;
+	color:#3e3e3e;
+	margin-bottom:8px;	
+	}
+.ys5DBoxL .ysImg{
+	width:137px;
+	float:right;
+	height:158px;
+	}
+.boxL2{ top:265px;}
+.boxL3{ top:535px;}
+.boxL4{ top:782px;}
+.ys5DBoxR{
+	width:400px;
+	position:absolute;
+	left:586px;
+	top:152px;	
+	}
+.ys5DBoxR .ysTxt2{
+	width:240px;
+	float:right;	
+	}
+.ys5DBoxR .ysTxt2 h2{ text-align:left;}
+.ys5DBoxR .ysImg2{
+	width:137px;
+	float:left;
+	height:158px;
+	}
+.boxR2{ top:402px;}
+.boxR3{ top:652px;}
+/*--------------------------  5D亲贝美齿修复案例  -----------------------------------------------*/
+.xfalBox{ margin-left:35px; margin-right:35px;}
+.xfa4{background:#3e71b2;}
+.xfa3{background:#91979e;}
+.xfa4:hover{background:#91979e;}
+.xfa3:hover{background:#3e71b2;}
+/*--------------------------  5D亲贝美齿修复相关  -----------------------------------------------*/
+.xfxgBox{margin:0 70px 70px 0;}

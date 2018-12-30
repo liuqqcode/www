@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=0.5,maximum-scale=0.5,minimum-scale=0.5" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+    <script src="/js/jquery-2.0.3.min.js"></script>
+</head>
+
+<body>
+    <div class="main">
+        {dede:include filename="header.htm" /}
+        <div class="banner auto">
+            <img src="/images/banner.jpg">
+        </div>
+        <style>
+        .bgon {
+
+            color: #fff;
+
+            background: #f7ab71;
+
+            display: block;
+
+            width: 173px;
+
+            height: 41px;
+
+            margin: 0 auto;
+        }
+
+        .bgon:link {
+
+            color: #fff;
+        }
+
+        .bgon:visited {
+
+            color: #fff;
+        }
+        </style>
+        <div class="left_list auto">
+            {dede:include filename="left.htm" /}
+            <div class="left_main">
+                <div class="left_top">
+                    <span>&nbsp;&nbsp;{dede:field.typename/}</span>
+                    <span>当前位置 :{dede:field name='position'/}</span>
+                </div>
+                <div class="left_center auto">
+                    {dede:arclist row="1" infolen="20" flag="h,p"}
+                    <div class="ykzs_title">
+                        <div class="title_yxjz">
+                            <div class="yxjz_img">
+                                <img src="[field:picname/]" width="237" height="169">
+                            </div>
+                            <div class="yxjz_font">
+                                <span>[field:title/]</span>
+                                <span>[field:description function="cn_substr(@me,500)"/]</span>
+                                <a href="[field:typeurl/]"><span>【查看详情】</span></a>
+                            </div>
+                            <div style="clear:both"></div>
+                        </div>
+                    </div>
+                    {/dede:arclist} {dede:list pagesize="10" titlelen='100'}
+                    <div class="ykzs_list">
+                        <div class="list_left">
+                            <span><img src="/images/icon_list.png"><a href="[field:arcurl/]" target="_blank">[field:title/]</a></span>
+                            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[field:description function="cn_substr(@me,500)"/]</span>
+                            <span><a href="[field:arcurl/]" target="_blank">[阅读全文]</a></span>
+                        </div>
+                        <div class="list_right">
+                            <span class="right_time">发布日期：[field:pubdate function="MyDate('Y-m-d',@me)"/]</span>
+                            <div class="right_a">
+                                <a href="javascript:openZoosUrl('chatwin','&e=在线咨询')"><span>在线咨询</span></a>
+                                <a href="javascript:openZoosUrl('chatwin','&e=在线预约')"><span>在线预约</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    {/dede:list}
+                    <div id="pages" class="text-c auto">
+                        {dede:pagelist listitem="info,index,end,pre,next,pageno,option" listsize="5"/}
+                        <div style="clear:both"></div>
+                    </div>
+                </div>
+            </div>
+            {dede:include filename="art_bottom.htm" /}
+        </div>
+        <div style="clear:both"></div>
+    </div>
+    <div style="clear:both"></div>
+    {dede:include filename="footer.htm" /}
+</body>
+
+</html>

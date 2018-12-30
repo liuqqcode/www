@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/imgControl.js"></script>
+</head>
+<style>
+    .hotNews{
+        background:white;
+        color: #666;
+        /*height:150px;*/
+        /*padding-top:30px;*/
+    }   
+    .hotNewsContent div p span{
+        font-size:26px;
+        color:black;
+    }
+    .hotNewsContent div h3{
+        background: url("{dede:global.cfg_templets_skin/}/images/phone2.png") no-repeat 0px 6px;
+    }   
+    .hotNewsContent div h3.hot{
+        background: url("{dede:global.cfg_templets_skin/}/images/hot2.png") no-repeat 0px 6px;
+    }
+    .girlsBox .clickL{
+        top:50px;
+        left:-40px;
+        background: url("{dede:global.cfg_templets_skin/}/images/sprite.png") no-repeat -60px -45px;
+    }
+    .girlsBox .clickR{
+        right:-10px;
+        top:50px;
+        background: url("{dede:global.cfg_templets_skin/}/images/sprite.png") no-repeat 32px -45px;
+    }
+</style>
+<body>
+<div class="all">
+    {dede:include filename="head.htm"/}
+        <!--最热消息-->
+        <div class="hotNews" style="background: white">
+            <div class="hotNewsContent">
+        {dede:arclist typeid='23' row='1' addfields='xx' orderby="id" channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}         
+
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span  style="color:#e74159">028-8583 1188</span>
+                        <span>18981933384</span>
+                      
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!--专业课程-->
+        <div class="otherBc" style="margin-top:0" id="caizhuang">
+            <div class="titleBox"><h1><a ><img src="{dede:global.cfg_templets_skin/}/images/profe1.png" alt=""/></a></h1></div>
+        </div>
+        <div class="bigImgBox" id="meirong">
+            <img src="{dede:global.cfg_templets_skin/}/images/profe2.png" alt=""/>
+        </div>
+        <div class="bigImgBox" id="meijia">
+            <img src="{dede:global.cfg_templets_skin/}/images/profe3.png" alt=""/>
+        </div>
+        <div class="bigImgBox" id="zonghe">
+            <img src="{dede:global.cfg_templets_skin/}/images/profe4.png" alt=""/>
+        </div>
+        <div class="bigImgBox" id="otherbc">
+            <img src="{dede:global.cfg_templets_skin/}/images/profe5.png" alt=""/>
+        </div>
+        <!--其他商务合作-->
+        <div class="otherBc" style="margin-top:0;background:black;" id="otherBc">
+            <div class="titleBox"><h1><a><img src="{dede:global.cfg_templets_skin/}/images/profe6.png" alt=""/></a></h1></div>
+        </div>
+        <!--小导航-->
+        <div class="littleNav" id="littleNav">
+            <div class="littleNavContent">
+                <ul>
+                {dede:channel typeid="2"}
+                <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+                {/dede:channel}
+                </ul>
+
+            </div>
+        </div>
+        <div class="profe">
+            <div class="girlsBox img-scroll">
+                <a href="" class="click clickL prev"></a>
+                <div class="girls img-list">
+                    <ul>
+                        {dede:arclist  titlelen='200' orderby='pubdate' } 
+                        <li><a href="[field:arcurl/]" title="[field:title/]">[field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]</a></li>
+                        {/dede:arclist}                           
+
+
+                    </ul>
+                </div>
+                <a href="" class="clickR click next" ></a>
+            </div>
+            <div class="progress" style="width: 1000px;margin: 0 auto;">
+                <div></div>
+            </div>
+        </div>
+
+        <!--footer-->
+        {dede:include filename="footer.htm"/}
+</body>
+<script type="text/javascript">
+      function click_scroll() {
+        var scroll_offset = $("#littleNav").offset();  //得到pos这个div层的offset，包含两个值，top和left
+        $("body,html").animate({
+            scrollTop:scroll_offset.top  //让body的scrollTop等于pos的top，就实现了滚动
+        },0);
+    }
+    click_scroll();    
+</script>
+</html>

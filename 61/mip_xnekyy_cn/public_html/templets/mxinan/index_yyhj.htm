@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:field.title/}</title>
+    <meta name="keywords" content="{dede:field.keywords/}" />
+    <meta name="description" content="{dede:field.description  function='html2text(@me)'/}" />
+</head>
+<link href="/css/2015.css" rel="stylesheet" type="text/css" />
+<script src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/TouchSlide.1.1.js"></script>
+
+<body>
+    {dede:include filename="header.htm"/}
+    <div class="mw yc">
+        <div class="dang"><i class="fa fa-home fa-lg"></i>当前位置：{dede:field name='position'/}</div>
+    </div>
+    <div class="fw ycc">{dede:field.content/}</div>
+    <div class="owl-carousel huand">
+        <div class="item">
+            <a><img src="/images/huan1.jpg" alt="就诊大厅" />就诊大厅</a>
+        </div>
+        <div class="item">
+            <a><img src="/images/huan2.jpg" alt="vip病房" />vip病房</a>
+        </div>
+        <div class="item">
+            <a><img src="/images/huan3.jpg" alt="待诊区书吧" />待诊区书吧</a>
+        </div>
+        <div class="item">
+            <a><img src="/images/huan4.jpg" alt="导医台" />导医台</a>
+        </div>
+        <div class="item">
+            <a><img src="/images/huan5.jpg" alt="儿童诊疗室" />儿童诊疗室</a>
+        </div>
+        <div class="item">
+            <a><img src="/images/huan6.jpg" alt="康复训练室" />康复训练室</a>
+        </div>
+        <div class="item">
+            <a><img src="/images/huan7.jpg" alt="心理咨询室" />心理咨询室</a>
+        </div>
+    </div>
+    <div class="zjjs1">
+        <p class="zjjs2">色彩明亮，干净舒适</p>
+        <p class="zjjs3">打造“儿童乐园”式的医院就诊环境</p>
+    </div>
+    <div class="mw">
+        <div class="xi" id="keshi">
+            <div class="hd">
+                <ul class="xihs xit">
+                    <li class="">儿童发育行为科<i></i></li>
+                    <li class="">儿童小儿神经科<i></i></li>
+                    <li class="">儿童内分泌科<i></i></li>
+                </ul>
+            </div>
+            <div class="bd">
+                <ul class="xic">
+                    <li class="chan27"><a href="{dede:type typeid='27'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='27'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan28"><a href="{dede:type typeid='28'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='28'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan29"><a href="{dede:type typeid='29'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='29'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan40"><a href="{dede:type typeid='40'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='40'}[field:typename/]{/dede:type}</a></li>
+                </ul>
+                <ul class="xic xic1">
+                    <li class="chan30"><a href="{dede:type typeid='30'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='30'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan33"><a href="{dede:type typeid='33'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='33'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan36"><a href="{dede:type typeid='36'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='36'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan187"><a href="{dede:type typeid='187'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='187'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan194"><a href="{dede:type typeid='194'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='194'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan41"><a href="{dede:type typeid='41'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='41'}[field:typename/]{/dede:type}</a></li>
+                </ul>
+                <ul class="xic">
+                    <li class="chan39"><a href="{dede:type typeid='39'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='39'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan42"><a href="{dede:type typeid='42'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='42'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan43"><a href="{dede:type typeid='43'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='43'}[field:typename/]{/dede:type}</a></li>
+                    <li class="chan130"><a href="{dede:type typeid='130'}[field:typeurl/]{/dede:type}"><i></i>{dede:type typeid='130'}[field:typename/]{/dede:type}</a></li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+            TouchSlide({
+                slideCell: "#keshi"
+            });
+            </script>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

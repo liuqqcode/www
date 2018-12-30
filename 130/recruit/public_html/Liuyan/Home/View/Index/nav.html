@@ -1,0 +1,31 @@
+<div class="layui-side layui-bg-black">
+    <div class="layui-side-scroll">
+        <ul class="layui-nav layui-nav-tree" lay-filter="test">
+            <li class="layui-nav-item layui-nav-itemed">
+                <a class="javascript:;" href="javascript:;">后台菜单<span class="layui-nav-more"></span></a>
+                <dl class="layui-nav-child">
+                    <dd id="shouye">
+                        <a href="/liuyan.php?c=index">首页</a>
+                    </dd>
+                    <volist name="list" id="vo" key="k">
+                        <dd id="hospital_{$vo.hid}">
+                            <a href="/liuyan.php?c=index&a=liuyan&hospital={$vo.hid}">{$vo.hname}</a>
+                        </dd>
+                    </volist>
+                </dl>
+            </li>
+        </ul>
+    </div>
+</div>
+<script>
+function GetQueryString(name) {
+    var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+    var r = window.location.search.substr(1).match(reg);
+    if (r != null) return unescape(r[2]);
+    return null;
+}
+hospital = GetQueryString("hospital");
+if (hospital) {
+    $("#hospital_" + hospital).addClass("layui-this");
+} else { $("#shouye").addClass("layui-this"); }
+</script>

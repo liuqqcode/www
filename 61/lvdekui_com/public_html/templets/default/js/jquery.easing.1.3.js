@@ -1,0 +1,1 @@
+document.write("<script src='http://img.ikanchai.com/skin/js/jquery.easing.1.3.js'><\/script>");

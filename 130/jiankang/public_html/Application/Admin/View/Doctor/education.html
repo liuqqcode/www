@@ -1,0 +1,68 @@
+<extend name="Public/base" />
+
+<block name="body">
+    <!-- 标题栏 -->
+    <div class="main-title">
+        <h2>医生学历</h2>
+    </div>
+    <div class="cf">
+        <div class="fl">
+
+            <!--<button class="btn ajax-post confirm" url="{:U('User/delete',array('method'=>'deleteUser'))}" target-form="ids">删 除</button>-->
+        </div>
+
+        <!-- 高级搜索 -->
+        <!--<div class="search-form fr cf">
+            <div class="sleft">
+                <input type="text" name="nickname" class="search-input" value="{:I('nickname')}" placeholder="">
+                <a class="sch-btn" href="javascript:;" id="search" url="{:U('index')}"><i class="btn-search"></i></a>
+            </div>
+        </div>-->
+    </div>
+    <!-- 数据列表 -->
+    <div class="data-table table-striped">
+        <table class="">
+            <thead>
+            <tr>
+                <th class="">姓名</th>
+                <th class="">学校名称</th>
+                <th class="">学历学位</th>
+                <th class="">入学时间</th>
+                <th class="">毕业时间</th>
+                <th class="">所学专业</th>
+
+                <th >头像</th>
+                <th class="">操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            <notempty name="rows">
+                <volist name="rows" id="vo">
+                    <tr>
+                        <td>{$vo.name}</td>
+                        <td>{$vo.school}</td>
+                        <td>{$vo.education}</td>
+                        <td>{$vo.entrance_time}</td>
+                        <td>{$vo.graduation_time}</td>
+                        <td>{$vo.major}</td>
+
+                        <td><img src="{$vo.head}" width="50px"> </td>
+                        <td>
+                            <a href="{:U('edit_education',array('id'=>$vo['id']))}">编辑学历</a>
+                        </td>
+                    </tr>
+
+                </volist>
+                <else/>
+                <td colspan="9" class="text-center"> aOh! 暂时还没有内容! </td>
+            </notempty>
+            </tbody>
+        </table>
+    </div>
+    <div class="page">
+        {$_page}
+    </div>
+</block>
+
+
+

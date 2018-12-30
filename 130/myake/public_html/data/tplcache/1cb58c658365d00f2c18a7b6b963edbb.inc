@@ -1,0 +1,52 @@
+{dede:field name='keywords'}面的,价格{/dede:field}
+{dede:field name='description'}牙齿贴面是一种很常见的牙齿美容方式，无论是男性还是女性，都可以选择这种美齿办法。在多种牙齿贴面之中，铸瓷贴面是较受我们欢迎的。{/dede:field}
+{dede:field name='title'}铸瓷贴面的价格是多少{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 牙齿贴面是一种很常见的牙齿美容方式，无论是男性还是女性，都可以选择这种美齿办法。在多种牙齿贴面之中，铸瓷贴面是较受我们欢迎的。铸瓷贴面的受众很广泛，尤其是年轻的女孩子，想知道更多关于它的知识，比如说，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>铸瓷贴面的价格是多少呢?</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="铸瓷贴面修复" src="http://beij.wekq.net/uploadfile/2017/0704/20170704041126406.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 153px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">铸瓷贴面怎么样</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 铸瓷贴面是较为常见的一种牙齿美白方式，正规牙科医院的价格一般在千元以上。维尔口腔的医生说，相比于树脂材料，铸瓷确实是很不错的，而且铸瓷贴面价格容易接受，但是相比于牙科医院的全瓷材料，用铸瓷贴面进行牙齿美白的缺陷就会被放大。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 铸瓷贴面其实并不是如今牙科医院进行牙齿美白的主流，原因就在于容易被损伤。医生说，含金属的修复体进行美容修复已成为临床常规选择，但根据维尔口腔的案例，由于金属基底对颜色的影响，使其已不能有效满足日益增长的牙齿美白要求，而多数牙科医院提供的全瓷贴面，却以其独特的美观性及生物相容性而受到人们的青睐。因此，铸瓷贴面和含金属的贴面，其实都不是多数人的重要选择。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">查询进口牙齿美白方式能维持多久</span></strong></a></span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">全瓷贴面有什么优势</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 全瓷贴面的牙齿美白适应症是很广泛的，比如说顽固的氟斑牙和四环素牙。二十世纪六七十年代，我国滥用四环素类抗生素导致相当数量的四环素牙症，这成为困扰患者和牙科医院的一大难题。医生说，前牙变色使患者的面容受到损害，尤其对青少年的心理健康和社会交往产生不良的影响，而全瓷贴面可以很好的解决这个麻烦。目前，国内牙科医院采用全瓷贴面方法对牙齿进行牙齿美白已越来越普及。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 铸瓷贴面的优势，我们已经知道了，除了这种材料，我们可以选择的牙齿贴面还有很多，比如说全瓷贴面和树脂贴面，只不过，树脂贴面的质量很值得商榷，我们较好还是检查一下，根据自己的需要选择牙齿美白技术。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0704/20170704041332184.jpg" style="width: 450px; height: 280px;" /></span></a></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 牙齿贴面是一种很常见的牙齿美容方式，无论是男性还是女性，都可以选择这种美齿办法。在多种牙齿贴面之中，铸瓷贴面是较受我们欢迎的。铸瓷贴面的受众很广泛，尤其是年轻的女孩子，想知道更多关于它的知识，比如说，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>铸瓷贴面的价格是多少呢?</strong></span></a></span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="铸瓷贴面修复" src="/uploads/allimg/c180322/1521DJ1912220-345Q.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 153px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">铸瓷贴面怎么样</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 铸瓷贴面是较为常见的一种牙齿美白方式，正规牙科医院的价格一般在千元以上。维尔口腔的医生说，相比于树脂材料，铸瓷确实是很不错的，而且铸瓷贴面价格容易接受，但是相比于牙科医院的全瓷材料，用铸瓷贴面进行牙齿美白的缺陷就会被放大。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 铸瓷贴面其实并不是如今牙科医院进行牙齿美白的主流，原因就在于容易被损伤。医生说，含金属的修复体进行美容修复已成为临床常规选择，但根据维尔口腔的案例，由于金属基底对颜色的影响，使其已不能有效满足日益增长的牙齿美白要求，而多数牙科医院提供的全瓷贴面，却以其独特的美观性及生物相容性而受到人们的青睐。因此，铸瓷贴面和含金属的贴面，其实都不是多数人的重要选择。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">查询进口牙齿美白方式能维持多久</span></strong></a></span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">全瓷贴面有什么优势</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 全瓷贴面的牙齿美白适应症是很广泛的，比如说顽固的氟斑牙和四环素牙。二十世纪六七十年代，我国滥用四环素类抗生素导致相当数量的四环素牙症，这成为困扰患者和牙科医院的一大难题。医生说，前牙变色使患者的面容受到损害，尤其对青少年的心理健康和社会交往产生不良的影响，而全瓷贴面可以很好的解决这个麻烦。目前，国内牙科医院采用全瓷贴面方法对牙齿进行牙齿美白已越来越普及。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 铸瓷贴面的优势，我们已经知道了，除了这种材料，我们可以选择的牙齿贴面还有很多，比如说全瓷贴面和树脂贴面，只不过，树脂贴面的质量很值得商榷，我们较好还是检查一下，根据自己的需要选择牙齿美白技术。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploads/allimg/c180322/1521DJ195XP-45Z0.jpg" style="width: 450px; height: 280px;" /></span></a></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DJ1912220-345Q_lit.jpg{/dede:field}

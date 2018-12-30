@@ -1,0 +1,64 @@
+<extend name="Public/base" />
+
+<block name="body">
+    <!-- 标题栏 -->
+    <div class="main-title">
+        <h2>活动列表</h2>
+    </div>
+    <div class="cf">
+        <div class="fl">
+            <a class="btn" href="{:U('add')}">添 加</a>
+            <!--<button class="btn ajax-post confirm" url="{:U('User/delete',array('method'=>'deleteUser'))}" target-form="ids">删 除</button>-->
+        </div>
+        <!-- 高级搜索 -->
+        <!--<div class="search-form fr cf">
+            <div class="sleft">
+                <input type="text" name="nickname" class="search-input" value="{:I('nickname')}" placeholder="">
+                <a class="sch-btn" href="javascript:;" id="search" url="{:U('index')}"><i class="btn-search"></i></a>
+            </div>
+        </div>-->
+    </div>
+    <!-- 数据列表 -->
+    <div class="data-table table-striped">
+        <table class="">
+            <thead>
+            <tr>
+                <!--<th class="row-selected row-selected"><input class="check-all" type="checkbox"/></th>-->
+                <th class="">标题</th>
+                <th class="">创建时间</th>
+                <th class="">浏览量</th>
+                <th class="">封面</th>
+                <th class="">内容</th>
+                <th class="">操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            <notempty name="rows">
+                <volist name="rows" id="vo">
+                    <tr>
+                        <!--<td><input class="ids" type="checkbox" name="" value="" /></td>-->
+                        <td>{$vo.title} </td>
+                        <td>{$vo.create_time|date='Y-m-d H:i',###} </td>
+                        <td>{$vo.view} </td>
+                        <td><img src="{$vo.img}" width="100px"> </td>
+                        <td width="30%">{$vo.content}</td>
+
+                        <td>
+                            <a href="{:U('edit',array('id'=>$vo['id']))}">编辑</a>
+                            <a href="{:U('delete',array('id'=>$vo['id']))}" class="confirm ajax-get">删除</a>
+                        </td>
+                    </tr>
+                </volist>
+                <else/>
+                <td colspan="9" class="text-center"> aOh! 暂时还没有内容! </td>
+            </notempty>
+            </tbody>
+        </table>
+    </div>
+    <div class="page">
+        {$_page}
+    </div>
+</block>
+
+
+

@@ -1,0 +1,173 @@
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>儿科会诊报名通道</title>
+    <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+    <meta name="Keywords" content="" />
+    <meta name="Description" content="" />
+    <meta content="no-cache,must-revalidate" http-equiv="Cache-Control">
+    <meta content="no-cache" http-equiv="pragma">
+    <meta content="0" http-equiv="expires">
+    <meta content="telephone=no, address=no" name="format-detection">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link href="css/amazeui.min.css" rel="stylesheet">
+    <style type="text/css">
+    body,
+    article,
+    section,
+    h1,
+    h2,
+    hgroup,
+    p,
+    a,
+    ul,
+    li,
+    em,
+    div,
+    small,
+    span,
+    footer,
+    canvas,
+    figure,
+    figcaption,
+    input {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        overflow-x: hidden;
+        background-color: #f0eff4;
+    }
+
+    h1 {
+        font-size: 20px;
+        border-bottom: 1px solid #DDD;
+        padding-bottom: 10px;
+        font-weight: normal
+    }
+
+    h4 {
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+    .desc {
+        margin-top: 10px;
+    }
+
+    .activity {
+        width: 100%;
+    }
+
+    .activity .box {
+        background-color: #FFF;
+        font-size: 14px;
+        line-height: 1.8em;
+        margin-bottom: 15px;
+        padding: 10px;
+    }
+
+    .otherfee {
+        padding-left: 10%;
+    }
+
+    .feeline table.ls {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .feeline table.ll {
+        margin-left: 10%;
+    }
+
+    .feeline th,
+    .feeline td {
+        font-weight: normal;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .feeline .ll th {
+        text-align: right;
+    }
+
+    .feeline .fee {
+        color: #f37b1d;
+        font-size: 24px;
+    }
+
+    .am-btn {
+        width: 100%;
+    }
+
+    .del {
+        text-decoration: line-through;
+    }
+
+    .del * {
+        text-decoration: line-through;
+    }
+
+    .am-form-group label em {
+        color: red;
+    }
+
+    .return {
+        text-align: center;
+        line-height: 40px;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="activity">
+        <form id="gh_form" method="post" class="am-form">
+            <div class="box">
+                <h1>儿科会诊报名通道</h1>
+                <div class="desc">PS：报名成功后，请保证手机通畅。在工作日内，您将接到工作人员核对电话。
+                    <br> 会诊地址：成都市武侯区红牌楼北街13号
+                    <br> 会诊时间：7月16-18日
+                    <br> 普查时间：7月13-18日
+                    <br> 名额：100名
+                    <br> 电话：028-87538666
+                </div>
+            </div>
+            <div class="box">
+                <h4>请填写以下信息</h4>
+                <div class="am-form-group required">
+                    <label for="doc-ipt-name">孩子姓名<em>*</em></label>
+                    <input class="px" id="name" placeholder="孩子姓名" name="name" type="text" value="" /> </div>
+                <div class="am-form-group required">
+                    <label for="doc-ipt-mobile">联系手机<em>*</em></label>
+                    <input class="px" id="tel" placeholder="联系手机" name="tel" type="text" value="" /> </div>
+                <div class="am-form-group required">
+                    <label for="doc-ipt-sex">性别<em>*</em></label>
+                    <div>
+                        <label class="am-radio">
+                            <input type="radio" name="sex" value="男" /> 男</label>
+                        <label class="am-radio">
+                            <input type="radio" name="sex" value="女" /> 女</label>
+                    </div>
+                </div>
+                <div class="am-form-group required">
+                    <label for="doc-ipt-field_1986">年龄<em>*</em></label>
+                    <input class="px" id="age" placeholder="年龄" name="age" type="text" value="" /> </div>
+                <div class="am-form-group required">
+                    <label for="doc-ipt-field_1987">症状<em>*</em></label>
+                    <input class="px" id="zzms" placeholder="症状描述" name="zzms" type="text" value="" /> </div>
+                <div class="am-form-group required">
+                    <label for="doc-ipt-field_1990">预约时间<em>*</em></label>
+                    <input class="px" id="date" placeholder="预约时间" name="time" type="date" value="" /> </div>
+            </div>
+            <div class="return">
+                <button type="button" onclick="yuyue('gh_form','14','1','name','tel')" class="am-btn am-btn-success submitact">提交信息</button>
+            </div>
+        </form>
+    </div>
+    <script src="http://et.xnekyy.cn/js/jquery-1.9.1.min.js"></script>
+    <script src="http://yuyue.xnekyy.cn/Public/js/yuyue.js"></script>
+</body>
+
+</html>

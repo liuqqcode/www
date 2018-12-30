@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+
+<html mip>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+<title>{dede:field.title/}_西南儿童医院网_mip.pinjuxuan.net</title>
+<meta name="keywords" content="{dede:field name='keywords'/}" />
+<meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+<link rel="stylesheet" type="text/css" href="https://mipcache.bdstatic.com/static/v1/mip.css">
+<link rel="canonical" href="{dede:global.cfg_basehost/}{dede:type}[field:typeurl /]{/dede:type}">
+<link rel="shortcut icon" href="{dede:global.cfg_basehost/}/favicon.ico" type="image/x-icon" />
+<style mip-custom>
+li {
+	list-style:none;
+}
+header {
+	width:100%;
+	position: fixed;
+	top: 0px;
+	height:41px;
+	z-index:99;
+	background-color: #6bbf11;
+}
+header .home {
+	display: block;
+	float: left;
+	margin-left: 5px;
+	width: 32px;
+	height: 44px;
+}
+header .logo {
+	position: absolute;
+	left: 30%;
+	top:5px;
+}
+header .logo img {
+	height: 32px;
+	width: auto;
+}
+.fl {
+	float:left
+}
+.fr {
+	float:right
+}
+.f12 {
+	font-size:12px;
+}
+.hr1 {
+	height:40px;
+}
+.shou {
+	height:41px;
+	width:41px;
+}
+.nav {
+	background-color:#444;
+	text-align:left;
+	width:200px;
+}
+.nav a {
+	padding-left:20px;
+	color:#fff;
+	display:block;
+	border-bottom: 1px solid #3b3b3b;
+	background: #444444;
+	height:45px;
+	line-height:45px;
+	font-size:1.0em;
+}
+.nav .on a {
+	background:#3b3b3b;
+}
+.nav a:hover {
+	background:#3b3b3b;
+}
+/*list*/
+
+#listcon {
+	width:100%;
+	margin:10px 0 10px 0px;
+}
+#listcon ul li {
+	width:46%;
+}
+#listcon ul li img {
+}
+/*list-page*/
+
+.list-page ul li {
+	width:43%;
+	margin-left:4%;
+	float:left;
+}
+.list-page ul li a {
+	background-color: #FFFFFF;
+	width:100%;
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+	color: #666666;
+	display: block;
+	font-size: 14px;
+	height: 34px;
+	line-height: 34px;
+	margin: 0 5px;
+	text-align: center;
+}
+.index-list {
+	margin: 0 auto 0 0;
+	width: 100%;
+}
+.index-list-title {
+	border-left: 6px solid #cc0000;
+	height: 30px;
+	line-height: 30px;
+	margin: 10px auto;
+	padding-right:0.5%;
+}
+.index-list .taglist {
+	border-color: #a23a89;
+}
+.index-list-title .titlebt-r {
+	float: right;
+	text-align: right;
+}
+.index-list-title strong {
+	color: #cc0000;
+	font-size: 16px;
+	margin-left: 9px;
+}
+.index-list-title strong a {
+	color: #cc0000;
+}
+.index-list .taglist strong a {
+	color: #a23a89;
+}
+.index-list-list.tag-list a {
+	display:inline-block;
+	width:30.1%;
+	margin-bottom:0.5%;
+	margin-right:1%;
+}
+.index-list-list img {
+	width:100%;
+	height:auto;
+}
+.index-list-list ul {
+	text-align: center;
+}
+.index-list-list ul li {
+	align-items: stretch;
+	box-sizing: border-box;
+	display: inline-block;
+	margin-bottom: 0.5%;
+	overflow: hidden;
+	text-align: center;
+	vertical-align: bottom;
+	width: 30%;
+	margin-right:1%;
+	margin-left:1%;
+}
+.index-list-listul li div.libox {
+	align-items: stretch;
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+	height: auto;
+	width: 100%;
+}
+.index-list-list ul li img {
+	border-radius: 5px;
+	width: 100%;
+}
+.index-list-list ul li div.libox span {
+	display: block;
+	height: 100%;
+	overflow: hidden;
+	padding: 5px 0;
+	text-align: center;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.index-list-list .libox {
+	position:relative;
+	min-height:100px;
+}
+.index-list-list .libox span {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+	font-size:12px;
+	position:absolute;
+	width:100%;
+	line-height:20px;
+	height:20px !important;
+	bottom:4px;
+	border-radius: 0 0 5px 5px;
+	color:#fff;
+}
+.article-page {
+	color: #666;
+	font-size: 14px; /*height: 39px;*/
+	line-height: 32px;
+	position: relative;
+	text-align: center;
+}
+.article-page ul {
+	margin: 0 auto;
+	position: relative;
+	width: 96%;
+}
+.article-page li {
+	float: left;
+	margin: 0 1% 0 0;
+	position: relative;
+	width: 32%;
+}
+.article-page a {
+	background: -moz-linear-gradient(center top, #ffffff, #eaeaea) repeat scroll 0 0;
+	border: 1px solid #e0e0e0;
+	border-radius: 2px;
+	color: #666;
+	display: inline-block;
+	height: 32px;
+	text-align: center;
+	width: 100%;
+}
+.article-page .thisclass a {
+	background: none repeat scroll 0 0 #347eb1;
+	border-color: #069;
+	color: #fff;
+	filter: none;
+	font-weight: bold;
+}
+.ctag span {
+	color:#1592e5;
+	font-size:16px;
+	margin-left:5px;
+	font-weight:bold;
+}
+.ctag .yxtagspic a {
+	margin-bottom:5px;
+}
+#con-tag-list {
+	position: absolute;
+	white-space: nowrap;
+}
+.yxtagspic a {
+	border-radius: 3px;
+	color: #fff;
+	display: inline-block;
+	font-size: 14px;
+	margin-left: 5px;
+	overflow: hidden;
+	padding: 8px 11px;
+	text-align: center;
+}
+.yxtag-1 {
+	background-color: #559fe2;
+}
+.yxtag-2 {
+	background-color: #ff6fc5;
+}
+.yxtag-3 {
+	background-color: #f28e8e;
+}
+.yxtag-4 {
+	background-color: #333;
+}
+.yxtag-5 {
+	background-color: #f49c62;
+}
+.yxtag-6 {
+	background-color: #807df2;
+}
+.yxtag-7 {
+	background-color: #f60;
+}
+.yxtag-8 {
+	background-color: #d972db;
+}
+.yxtag-9 {
+	background-color: #b871aa;
+}
+.yxtag-10 {
+	background-color: #393;
+}
+.arcmain {
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0 1px;
+	width:99%;
+}
+.arcmain p {
+	margin:0;
+}
+.arcmain ul li {
+	margin-bottom: 5px;
+	text-align: center;
+}
+.arcmain ul li img {
+	height: auto !important;
+	width: 90% !important;
+}
+.arcmain ul li a {
+	display: block;
+}
+.arcmain .title {
+	background-color: #f9f9f9;
+	border: 1px solid #e0e0e0;
+	height: 38px;
+	line-height: 38px;
+	margin:0px;
+	overflow: hidden;
+	padding: 0 10px;
+}
+.arcmain h1, .arcmain h2 {
+	display: inline-block;
+	font-size: 12px;
+	font-weight: normal;
+	width: 60%;
+	overflow:hidden;
+	color:#333;
+	padding:0;
+	margin:0;
+}
+.arcmain span {
+	text-align:left;
+	line-height: 30px;
+	text-indent: 2em;
+}
+.arc-desc .title {
+	height:auto;
+	line-height:25px;
+}
+.arc-desc {
+	overflow: auto;
+	height:auto;
+}
+.arc-desc h2 {
+	width:100%;
+	text-indent: 2em;
+}
+legend {
+	padding:0 10px;
+	margin-left:10px;
+	color: #cc0000;
+}
+fieldset {
+	width:96%;
+	margin:0 auto;
+}
+.link li {
+	display: inline;
+	float: left;
+	height: 26px;
+	line-height: 26px;
+	padding-left: 12px;
+}
+footer p {
+	text-align: center;
+	margin: 8px 0;
+}
+</style>
+<base target="_self" />
+
+</head>
+
+<body>
+<div class="hr1"></div>
+{dede:include filename="head.htm"/}
+<main class="mip-html">  
+  <div class="clearfix index-list-list" id="listcon">
+    <div class="index-list-title taglist"> {dede:type}<a href="[field:typeurl /]" target="_blank"><strong>[field:typename/]</strong></a>{/dede:type}</div>
+    <ul class="container lazy-load">
+      {dede:list pagesize='20'}
+      <li>
+        <div class="libox"><a href="[field:arcurl/]" target="_blank">
+          <mip-img data-original="[field:picname/]" src="[field:picname/]" alt="[field:title/]" ></mip-img>
+          <span>[field:title/]</span></a></div>
+      </li>
+      {/dede:list}
+    </ul>
+  </div>
+  <div class="clearfix article-page">
+    <ul>
+      {dede:pagelist listitem="info,pre,next" listsize="1"/}
+    </ul>
+  </div>
+  <div class="clearfix index-list">
+    <div class="index-list-title"><strong>随机推荐</strong></div>
+    <div class="index-list-list">
+      <ul class="container lazy-load">
+        {dede:arclist row=9 type='image.' orderby='rand'}
+        <li>
+          <div class="libox"><a href="[field:arcurl /]" target="_blank">
+            <mip-img data-original="[field:picname/]" alt="[field:fulltitle/]" src="[field:picname/]"></mip-img>
+            <span>[field:title /]</span></a></div>
+        </li>
+        {/dede:arclist}
+      </ul>
+    </div>
+  </div>
+  <div class="ctag">
+    <div class="index-list-title"><span>猜您喜欢</span></div>
+    <div class="yxtagspic"> {dede:tag sort='rand' getall='0'}<a class="yxtag-[field:highlight /]" title="[field:tag /]" href="[field:link/]" target="_blank">[field:tag /]</a>{/dede:tag} </div>
+  </div>
+  <div class="arcmain arc-desc">
+    <div class="title">
+      <h2>{dede:field name='description' function='html2text(@me)'/}</h2>
+    </div>
+  </div>
+</main>
+{dede:include filename="footer.htm"/}
+</body>
+</html>

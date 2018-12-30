@@ -1,0 +1,6 @@
+INSERT INTO `dede_honor` VALUES('46','11','','','220.166.214.173');
+INSERT INTO `dede_honor` VALUES('47','11','','','220.166.214.173');
+INSERT INTO `dede_honor` VALUES('48','11','','','220.166.214.173');
+INSERT INTO `dede_honor` VALUES('127','11','','','182.151.165.30');
+INSERT INTO `dede_honor` VALUES('128','11','','','182.151.165.30');
+INSERT INTO `dede_honor` VALUES('129','11','','','182.151.165.30');

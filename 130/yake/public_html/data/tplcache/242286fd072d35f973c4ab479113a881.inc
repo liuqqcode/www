@@ -1,0 +1,66 @@
+{dede:field name='keywords'}坏处{/dede:field}
+{dede:field name='description'}口腔正畸是要跟牙套长期打交道的。除了美容冠矫正，都需要牙套的帮忙，才能逐渐地矫正自己的牙齿。很多女孩子不愿意一张口就露出牙套，{/dede:field}
+{dede:field name='title'}带牙套的坏处{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 口腔正畸是要跟牙套长期打交道的。除了美容冠矫正，都需要牙套的帮忙，才能逐渐地矫正自己的牙齿。很多女孩子不愿意一张口就露出牙套，那么可以选择牙科医院的无托槽隐形矫正，它的优势是比较大的，可以帮助我们在美观性上带来很大帮助。可是，带牙套的坏处是不是也存在呢?维尔口腔给我们介绍一下。</span><br />
+<br />
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="牙齿矫正方式对比" src="http://beij.wekq.net/uploadfile/2017/0723/20170723042842493.jpg" style="cursor: pointer; border-width: 0px; border-style: solid; width: 300px; height: 183px;" /></span></a></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">为什么口腔正畸要带牙套呢</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 我们知道，牙齿不整齐是历经多年而形成的，想要将其重新排列正常，必须要借用强大的外力进行矫正。维尔口腔的医师表示，这种外力一般就是牙套，在牙科医院称为矫正器。现在，口腔正畸在过程中已经变得更舒适，治疗上比以往更见效率，带牙套时间的缩短上更为有效。除了美容冠矫正，基本上都是要带牙套，才能逐渐完成口腔正畸的过程，至于牙套的价格，需要根据我们的选择而定。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">带牙套会不会带来坏处</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 带牙套有没有坏处，这是不少朋友担心的。维尔口腔介绍，在正规牙科医院做的牙套，是较为安全的，尤其是进口的牙套，通过计算机三维图像技术模拟牙齿位移，把口腔正畸过程分解成若干步骤，细密控制每个步骤的操作。不过，如果是在小诊所做的牙套，那么其质量是很难的，在口腔正畸效果、舒适度和感染方面，可能给我们带来不少的隐患。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">【</span></strong></a><strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">咨询维尔口腔牙齿矫正的报价</span></a></strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">】</span></strong></a></span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙套经常取下会有什么坏处</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 很多朋友带牙套都没有多大耐心，牙套戴上之后经常取下来，特别是与别人交流的时候，总是觉得不太美观，于是急忙把牙套摘下来，其实，维尔口腔提醒，这对口腔正畸的效果是有很大坏处的，可能导致矫正周期的延长和矫正效果的反弹。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 其实，如果我们不愿意有&ldquo;铁齿铜牙&rdquo;的尴尬，可以选择无托槽隐形矫正或美国3M冰晶托槽矫正，二者的口腔正畸周期都比较短，而且几乎透明，就算在离别人很近的时候，也不一定会被察觉，这是对传统矫正方式的一大突破，免除了牙套经常取下的坏处。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0723/20170723043245342.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp;&nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 口腔正畸是要跟牙套长期打交道的。除了美容冠矫正，都需要牙套的帮忙，才能逐渐地矫正自己的牙齿。很多女孩子不愿意一张口就露出牙套，那么可以选择牙科医院的无托槽隐形矫正，它的优势是比较大的，可以帮助我们在美观性上带来很大帮助。可是，带牙套的坏处是不是也存在呢?维尔口腔给我们介绍一下。</span><br />
+<br />
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="牙齿矫正方式对比" src="/uploads/allimg/c180322/1521D50A201F-51300.jpg" style="cursor: pointer; border-width: 0px; border-style: solid; width: 300px; height: 183px;" /></span></a></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">为什么口腔正畸要带牙套呢</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 我们知道，牙齿不整齐是历经多年而形成的，想要将其重新排列正常，必须要借用强大的外力进行矫正。维尔口腔的医师表示，这种外力一般就是牙套，在牙科医院称为矫正器。现在，口腔正畸在过程中已经变得更舒适，治疗上比以往更见效率，带牙套时间的缩短上更为有效。除了美容冠矫正，基本上都是要带牙套，才能逐渐完成口腔正畸的过程，至于牙套的价格，需要根据我们的选择而定。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">带牙套会不会带来坏处</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 带牙套有没有坏处，这是不少朋友担心的。维尔口腔介绍，在正规牙科医院做的牙套，是较为安全的，尤其是进口的牙套，通过计算机三维图像技术模拟牙齿位移，把口腔正畸过程分解成若干步骤，细密控制每个步骤的操作。不过，如果是在小诊所做的牙套，那么其质量是很难的，在口腔正畸效果、舒适度和感染方面，可能给我们带来不少的隐患。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">【</span></strong></a><strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">咨询维尔口腔牙齿矫正的报价</span></a></strong><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">】</span></strong></a></span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙套经常取下会有什么坏处</span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 很多朋友带牙套都没有多大耐心，牙套戴上之后经常取下来，特别是与别人交流的时候，总是觉得不太美观，于是急忙把牙套摘下来，其实，维尔口腔提醒，这对口腔正畸的效果是有很大坏处的，可能导致矫正周期的延长和矫正效果的反弹。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 其实，如果我们不愿意有&ldquo;铁齿铜牙&rdquo;的尴尬，可以选择无托槽隐形矫正或美国3M冰晶托槽矫正，二者的口腔正畸周期都比较短，而且几乎透明，就算在离别人很近的时候，也不一定会被察觉，这是对传统矫正方式的一大突破，免除了牙套经常取下的坏处。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D50AJE0-63609.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp;&nbsp;维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D50A201F-51300_lit.jpg{/dede:field}

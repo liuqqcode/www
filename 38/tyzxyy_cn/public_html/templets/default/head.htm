@@ -1,0 +1,68 @@
+<script src="/js/jQuery.js"></script>
+<script src="/js/jquery.SuperSlide.2.1.1.js"></script>
+<header class="header" id="header">
+    <div class="topbar">
+        <div class="layout clearfix">
+            <div class="fl">
+                <a href="/">网站首页</a> | <span>欢迎访问太原市中心医院第三医院官方网站</span>
+                <div class="top-login" id="top-login">
+                </div>
+            </div>
+            <div class="version fr">免费咨询：<b>0351-6860923</b></div>
+        </div>
+    </div>
+    <script language="javascript" type="text/javascript">
+    CheckLogin();
+    </script>
+    <div class="logo-row">
+        <div class="layout clearfix">
+            <h1 class="logo fl">
+
+            <a href="/" class="hide-text"><img src="/images/logo.png" alt="太原市中心医院第三医院_儿童发育行为科" /></a>
+
+          </h1>
+            <div class="search fr" onclick="openZoosUrl()">
+                <form class="clearfix" action="/plus/search.php" method="post">
+                    <i class="iconfont fl">&#xe60a;</i>
+                    <input class="keyword fl" name="q" type="text" autocomplete="off" required="required" placeholder="输入关键词" value="">
+                    <button class="btn fl" type="submit">搜索</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <nav class="nav main-nav" id="nav">
+        <div class="layout">
+            <ul class="clearfix">
+                <li class="cur"><a href="/">首页</a></li>
+                <li>
+                    <a href="{dede:type typeid='1'}[field:typeurl/]{/dede:type}">医院概况</a>
+                    <div class="subnav">
+                        <a href="/yygk/yyjj/8.html">医院简介</a>
+                        <a href="/yygk/yysb/">医院设备</a>
+                        <a href="/yygk/yyhj/">医院环境</a>
+                    </div>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='2'}[field:typeurl/]{/dede:type}">新闻中心</a>
+                </li>
+                <li>
+                    <a href="/tsks/">特色科室</a>
+                    <div class="subnav">
+                        {dede:channelartlist typeid="3"}
+                        <a href="{dede:field name='typeurl'/}">{dede:field name='typename'/}</a> {/dede:channelartlist}
+                    </div>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='5'}[field:typeurl/]{/dede:type}">医师介绍</a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='8'}[field:typeurl/]{/dede:type}">党政建设</a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='9'}[field:typeurl/]{/dede:type}">康复案例</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<script src="/js/banner.js"></script>

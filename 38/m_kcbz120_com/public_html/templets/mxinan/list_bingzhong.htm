@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+</head>
+<link href="/css/2016.css" rel="stylesheet" type="text/css" />
+    <script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/TouchSlide.1.1.js"></script>
+
+<body>
+    {dede:include filename="header2.htm"/}
+    <div class="mw yc">{dede:include filename="banner.htm"/}
+        <div class="mbxdh">
+            <div class="mbxdhl">
+                <a href="javascript:history.go(-1)"><i class="icon iconfont icon-zuojiantou"></i></a>
+                <a href="/"><i class="icon iconfont icon-fangzi1"></i></a>
+                <a href="/" style="display: none;">多动症</a>
+            </div>
+            <div class="mbxdhr">
+                <div class="mbxdhr2">
+                    <a href="tel:0731-89912120">
+                        <span>24小时免费热线</span>
+                        <span>0731-89912120</span>
+                    </a>
+                </div>
+                <i class="icon iconfont icon-dianhua2"></i>
+            </div>
+        </div>
+        <div class="mbxdhs"><a href="{dede:type row=1}[field:typelink /]{/dede:type}"><span>{dede:field.typename/}</span><span></span></a></div>
+        <div class="ddz_zz">
+            <ul>
+                {dede:list pagesize="5" titlelen='42' orderby="id"}
+                <li><i class="icon iconfont icon-jiahao-"></i><a href="[field:arcurl/]" title="[field:fulltitle/]">[field:title/]<span>[field:click/]次阅读</span></a></li>
+                {/dede:list}
+            </ul>
+        </div>
+        <div class="page">
+            {dede:pagelist istitem="index,pre,next,end,option,info"listsize="1"/}
+        </div>
+        {dede:include filename="art_zjtd.htm" /}
+    </div>
+    {dede:include filename="art_guahao.htm" /} {dede:include filename="footer.htm"/}
+</body>
+
+</html>

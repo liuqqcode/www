@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>{dede:field.title/}</title>
+    <link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/css/public.css"/>
+    <link rel="stylesheet" href="{dede:global.cfg_templets_skin/}/css/aboutUs.css"/>
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+</head>
+<style>
+
+
+    #zhuanti1{
+        width: 100%;
+        height: 155px;
+        background: #fc1047;
+
+    }
+    #zhuanti1 img{
+        width: 100%;
+        height: 100%;
+    }
+
+    #zhuanti2{
+        width: 100%;
+        height:440px;
+        background:#e2e6ea;
+        margin-top: 1px;
+    }
+    #zhuanti2>div{
+        width: 1000px;
+        margin: 0 auto;
+    }
+    #zhuanti2>div ul li {
+        float: left;width:250px;
+        height:440px ;
+    }
+    #zhuanti2>div ul li  a{
+        display: block;
+        height:100%
+    }
+    #zhuanti2>div ul li  a img{
+        width: 100%;
+        height:100%;
+        margin: 0;
+    }
+
+    #zhuanti3{
+        width:100%;
+        min-width: 1140px;
+        max-width: 1920px;
+        margin:0 auto;
+        /*background:url("{dede:global.cfg_templets_skin/}/images/zhuanti7.png") no-repeat 0 0;*/
+    background-image: url('{dede:global.cfg_templets_skin/}/images/zhuanti7.png');
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+              src='{dede:global.cfg_templets_skin/}/images/zhuanti7.png',
+                sizingMethod='scale');
+        padding-top:1px;
+        background-size:100% 100%;
+    }
+
+
+
+    #classSet{
+        width: 1000px;
+        clear: both;
+    }
+
+    #classSet .classSetCon{
+        width: 1000px;
+    }
+    #classSet h1{
+        height: 40px;
+        margin: 0;
+        background: black;
+        width: 960px;
+        color: white;
+        font-size: 20px;
+        line-height:40px;
+        font-family:"微软雅黑";
+        padding-left:40px;
+    }
+    #classSet .classSetCon>div{
+        float: left;
+        height: 503px;
+
+    }
+
+    #classSet .classSetCon>div.classSetConL{
+        width:400px;
+        background:#cfcece;
+    }
+    #classSet .classSetCon>div.classSetConL>img{
+        width: 100%;
+        height:350px ;
+    }
+    #classSet .classSetCon>div.classSetConL p{
+        margin-top: 10px;
+        width:250px;
+    }
+    #classSet .classSetCon>div.classSetConL p>*{
+        display: block;
+        margin: 0;
+        color: black;
+        font-family: "微软雅黑";
+        font-size:14px;
+
+    }
+    #classSet .classSetCon>div.classSetConL p>img{
+        width: auto;
+    }
+    #classSet .classSetCon>div.classSetConR{
+        width: 600px;
+    }
+    #classSet .classSetCon>div.classSetConR li{
+        float: left;
+        width: 198px;
+        height: 250px;
+        border:1px solid white;
+        background:#e8e8e9;
+    }
+    #classSet .classSetCon>div.classSetConR li p{
+        color: black;
+        font-family: "微软雅黑";
+        font-size: 14px;
+        margin-top: 10px;
+        width: 180px;
+    }
+    #classSet .classSetCon>div.classSetConR li p img{
+        width: auto;
+    }
+    #classSet .classSetCon>div.classSetConR li>img{
+        width: 100%;
+        height:150px;
+        margin: 0;
+        border-bottom:2px solid white;
+    }
+
+
+    #zhuanti4,#zhuanti5{
+        width:100%;
+        margin-top: 30px;
+    }
+    #zhuanti4>div{
+        width: 1000px;
+
+    }
+    #zhuanti4>div>img{
+        display: block;
+        margin: 0;
+        width: 100%;
+    }
+
+    #zhuanti5{
+        background:#ffb9c7;
+        padding: 30px 0;
+    }
+    #zhuanti5>*{
+        width: 1000px;
+        margin-bottom: 20px;
+
+    }
+    #zhuanti5 h1{
+        
+    }
+    /*aboutus*/
+    .aboutUs{
+        position: relative;
+        height:450px;
+
+    }
+    .aboutUs .cols{
+        height:340px;
+        float: left;
+    }
+    .aboutUs .col-left{
+        width:350px;
+        background:#e74159 ;
+
+
+    }
+    .aboutUs .col-right{
+        width:650px;
+        background:#01000b ;
+        color: white;
+    }
+    .col-right h1{
+        margin-top: 10px;
+    }
+    .col-right h1 a{
+        display: block;
+        width:200px;
+        margin-left:120px;
+    }
+    .col-right p{
+        margin:0 20px 0 120px;
+        font-size: 12px;
+        line-height: 28px;
+        font-family: "微软雅黑";
+    } .col-right img{
+          display: block;
+        width: auto;
+              margin-top: 20px;
+      }
+
+    .aboutUs .video{
+        width:400px;
+        position: absolute;
+        left:30px;
+        top: 20px;
+
+    }
+    .video2>img{width: 100%;height: 100%;margin:0}
+
+    .footer{
+	margin:0;}
+
+</style>
+<body>
+<div class="all">
+{dede:include filename="head2.htm"/}
+        <div style="width:100%;max-width:1920px;min-width:1140px;height:645px;">
+            <img src="{dede:global.cfg_templets_skin/}/images/zhuanti1.jpg" style="display:block;margin:0;height:100%"/>
+         </div>
+    <!--titleImg-->
+        <div id="zhuanti1">
+            <div style="width:1000px">
+                <img src="{dede:global.cfg_templets_skin/}/images/zhuanti2.png" alt=""/>
+
+            </div>
+        </div>
+        <!--zhuanti2-->
+        <div id="zhuanti2">
+            <div>
+                <ul>
+                    <li>
+                        <a href="http://www.ql-school.com/2015/0422/103.html"><img src="{dede:global.cfg_templets_skin/}/images/zhuanti6.jpg" alt=""/></a>
+                    </li>
+                    <li>
+                        <a href="http://www.ql-school.com/a/zhuanyekecheng/zonghe/2015/0418/95.html"><img src="{dede:global.cfg_templets_skin/}/images/zhuanti4.jpg" alt=""/></a>
+                    </li>
+                    <li>
+                        <a href="http://www.ql-school.com/a/zhuanyekecheng/meiron/2015/0418/93.html"><img src="{dede:global.cfg_templets_skin/}/images/zhuanti5.jpg" alt=""/></a>
+                    </li>
+                    <li>
+                        <a href="http://www.ql-school.com/2015/0513/123.html"><img src="{dede:global.cfg_templets_skin/}/images/zhuanti3.jpg" alt=""/></a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+        <!--专题3-->
+        <div id="zhuanti3">
+            <div class="aboutUs">
+                <div style="width: 1000px;border:1px solid white;margin-top:60px;position:relative;">
+                    <div class="cols col-left"></div>
+                    <div class="cols col-right">
+                        <img src="{dede:global.cfg_templets_skin/}/images/zhuantiIntro.png" alt=""/>
+                        <!--<h1><a href=""><img src="{dede:global.cfg_templets_skin/}/images/zhuanti8.png" alt=""/></a></h1>-->
+                        <!--<p>-->
+                            <!--群丽化妆学校属于成都市锦江区群丽摄影和形象设计职业技能培训学校，-->
+                            <!--投入雄厚的教学资金，引导先进的教学设备，在整个学习过程中学校采-->
+                            <!--用“理论 与实践相结合，注重 实际运用”的教学方式。在梁朝伟、刘-->
+                            <!--嘉玲的御用化妆师，来自台湾的顶级化妆师王湘渝女士的亲自带领下，-->
+                            <!--成为西南地区首批大规模培养化妆、摄影、美容、美甲专业人员的基地。-->
+                            <!--2004年至今，群丽化妆学校已经风雨地走过了11年岁月，培养了成千上-->
+                            <!--万的专业化妆、美甲师、堪称是化妆造型界的“航母”。-->
+                        <!--</p>-->
+                    </div>
+                    <div class="video">
+                        <div class="video2">
+                            <img src="{dede:global.cfg_templets_skin/}/images/zhuanti9.jpg" alt=""/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div id="classSet">
+                <h1>课程设置</h1>
+                <div class="classSetCon">
+                    <div class="classSetConL">
+                        <img src="{dede:global.cfg_templets_skin/}/images/zhuanti10.jpg" alt=""/>
+                        <p>
+                            <span>专业形象设计班</span>
+                            <img src="{dede:global.cfg_templets_skin/}/images/zhuantiTxt1.png" alt=""/>
+                        </p>
+                    </div>
+                    <div class="classSetConR">
+                        <ul>
+                            <li>
+                                <img src="{dede:global.cfg_templets_skin/}/images/zhuanti11.jpg" alt=""/>
+                                <p>
+                                    <span>设计师时尚创意研修班</span>
+                                    <img src="{dede:global.cfg_templets_skin/}/images/zhuantiTxt2.png" alt=""/>
+                                </p>
+                            </li>
+                            <li>
+                                <img src="{dede:global.cfg_templets_skin/}/images/zhuanti12.jpg" alt=""/>
+                                <p>
+                                    <span>高级美甲全能班</span>
+                                    <img src="{dede:global.cfg_templets_skin/}/images/zhuantiTxt3.png" alt=""/>
+                                </p>
+                            </li>
+                            <li>
+                                <img src="{dede:global.cfg_templets_skin/}/images/zhuanti13.jpg" alt=""/>
+                                <p>
+                                    <span>自我化妆形象设计班</span>
+                                    <img src="{dede:global.cfg_templets_skin/}/images/zhuantiTxt4.png" alt=""/>
+                                </p>
+                            </li><li>
+                            <img src="{dede:global.cfg_templets_skin/}/images/zhuanti14.jpg" alt=""/>
+                            <p>
+                                <span>影楼专业设计师研修班</span>
+                                <img src="{dede:global.cfg_templets_skin/}/images/zhuantiTxt5.png" alt=""/>
+                            </p>
+                        </li>
+                            <li>
+                            <img src="{dede:global.cfg_templets_skin/}/images/zhuanti15.jpg" alt=""/>
+                            <p>
+                                <span>高级美甲研修班</span>
+                                <img src="{dede:global.cfg_templets_skin/}/images/zhuantiTxt6.png" alt=""/>
+                            </p>
+                            </li>
+                            <li>
+                                <img src="{dede:global.cfg_templets_skin/}/images/zhuanti16.jpg" alt=""/>
+                                <p>
+                                    <span>韩式半永久性定妆术</span>
+                                    <img src="{dede:global.cfg_templets_skin/}/images/zhuantiTxt7.png" alt=""/>
+                                </p>
+                            </li>
+                        </ul>
+
+                    </div>
+
+                </div>
+                <h6 style="clear: both"></h6>
+            </div>
+        </div>
+
+
+    <!--专题4-->
+
+       <div id="zhuanti4">
+           <div class="zhuanti4Con">
+               <img src="{dede:global.cfg_templets_skin/}/images/zhuanti17.jpg" alt=""/>
+           </div>
+       </div>
+
+    <!--专题5-->
+
+        <div id="zhuanti5">
+            <h1><img src="{dede:global.cfg_templets_skin/}/images/zhuanti19.png" alt=""/></h1>
+            <div class="zhuanti5Con">
+
+                <img src="{dede:global.cfg_templets_skin/}/images/zhuanti18.jpg" alt=""/>
+            </div>
+        </div>
+        <!--footer-->
+        {dede:include filename="footer.htm"/}
+</body>
+</html>

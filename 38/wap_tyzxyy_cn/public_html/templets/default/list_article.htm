@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport" />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <meta content="telephone=no" name="format-detection" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <title>{dede:field.seotitle /}_太原市中心医院第三医院</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/js/rootresize.js"></script>
+</head>
+
+<body>
+    <div class="box">
+        {dede:include filename="header.htm" /}
+        <div class="pos">{dede:field name='position'/}</div>
+        <div class="clear"></div>
+        <div class="dj_lb">
+            {dede:list pagesize="5" titlelen='42' orderby="id"}
+            <div class="dj_lba mc">
+                <h1><span></span><a href="[field:arcurl/]" class="dj_col"><b>[field:fulltitle/]</b></a></h1>
+                <p>[field:infos function="cn_substr(@me,120)"/]<a href="[field:arcurl/]" class="dj_col">[详细]</a></p>
+            </div>
+            {/dede:list}
+            <div class="pages">
+                <ul>
+                    {dede:pagelist istitem="index,pre,next,end,option,info"listsize="1"/}
+                </ul>
+            </div>
+        </div>
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/autoImg.js"></script><!--无缝自动图片轮播-->
+    <script src="{dede:global.cfg_templets_skin/}/js/showTxt.js"></script>
+</head>
+<style>
+    .hotNews{
+        background:white;
+        color: #666;
+        /*height:150px;*/
+        /*padding-top:30px;*/
+    }
+    .hotNewsContent div p span{
+        font-size:26px;
+        color:black;
+    }
+    .hotNewsContent div h3{
+        background: url("{dede:global.cfg_templets_skin/}/images/phone2.png") no-repeat 0px 6px;
+    }
+    .hotNewsContent div h3.hot{
+        background: url("{dede:global.cfg_templets_skin/}/images/hot2.png") no-repeat 0px 6px;
+    }
+
+    .allClass{
+        width:1000px;
+        margin-top:50px;
+    }
+    .allClass ul li{
+        float: left;
+        width:300px;
+        margin: 0 0 20px 20px ;
+        height:200px;
+    }
+    #limitBox{
+        height:440px;
+        overflow: hidden;
+
+    }
+    .allClass ul li>div{
+        float: left;
+        width:50%;
+        font-family: "微软雅黑";
+    }
+    .allClass ul li>div p{
+        font-size:12px;
+        padding-left:10px;
+        color:#999;
+    }
+    .allClass ul li>div p span{
+        color:#e74159;
+        font-size:16px;
+    }
+    .allClass ul li>div img{
+        width: 100%;
+        margin: 0;
+        height: 100%;
+    }
+    .allClass ul li>div p b{
+        font-weight: normal;
+        font-size:14px;
+
+    }
+    .worksContent
+    {
+        position: static;
+        height:580px;
+        overflow: hidden;
+
+
+    }
+    .worksContent ul li{
+        float: left;
+        width:320px;
+        height:280px;
+        margin: 0 10px 10px 0;
+
+    }
+    .worksContent ul li div{
+        width:100%;
+        height: 100%;
+    }
+    .worksContent ul li div img{
+        width: 100%;
+        height: 100%;
+    }
+    .production{
+        height: auto;
+    }
+</style>
+<body>
+<div class="all">
+   {dede:include filename="head.htm"/}
+        <!--最热消息-->
+        <div class="hotNews" style="background: white">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}  
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span style="color:#e74159">028-8583 1188</span>
+                        <span style="color:#e74159">18981933384</span>
+               
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!--专业教师-->
+        <div class="schoolIntro" style="background:#e74159;padding-top:30px;" id="schoolIntro">
+            <div class="schoolIntroContent">
+                <h1><a ><img src="{dede:global.cfg_templets_skin/}/images/st1.png" alt=""/></a></h1>
+                <div>
+                    <p style="color: white">群丽化妆学校属于成都市锦江区群丽摄影和形象设计职业技能培训学校，隶属于西南地区规模庞大的婚纱摄影机构之一“群丽婚纱摄影集团”</p>
+                    <p style="color: white">学校于2004年2月由群丽婚纱摄影集团投资建校，是在新形势下组件的专业时尚学校，是目前西南地区大规模培养美容，化妆造型，摄影专业人才的基地</p>
+                    <p style="color: white">投入雄厚的教学资金，引导先进的教学设备，凭借丰富的教学经验，邀请台湾资深形象设计师和摄影师对课程进行合理设置。</p>
+                </div>
+            </div>
+        </div>
+
+
+
+   <div class="allClass">
+   <ul id="limitBox">
+   {dede:arclist typeid="20" row="12" addfields='detail' channelid='18'}
+   <li>
+       <div>
+           <a href="[field:arcurl/]"><img src="[field:litpic/]" alt="[field:title/]"/></a>
+       </div>
+       <div>
+           <p>
+               <span>[field:title/]</span> [field:shorttitle/]
+           </p>
+           <p>
+               [field:description/]
+           </p>
+       </div>
+   </li>
+   {/dede:arclist}
+
+
+
+   </ul>
+   <h6 style="clear: both"></h6>
+
+   </div>
+   <div class="morebox">
+       <a href="" id="limitControl">VIEWMORE</a>
+   </div>
+
+
+
+        <!--<div>-->
+            <!---->
+        <!--</div>-->
+
+
+
+        <!--小导航-->
+        <!--<div class="littleNav">-->
+            <!--<div class="littleNavContent">-->
+                <!--<ul>-->
+                <!--{dede:channel typeid="20"}-->
+                <!--<li><a href="[field:typeurl/]" >[field:typename/]</a></li>-->
+                <!--{/dede:channel}-->
+                <!--</ul>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--名师介绍-->
+
+
+
+
+        <!--<div class="schoolTeacherBox" id="schoolTeacherBox">-->
+            <!--<div class="schoolTeacherBoxCon">-->
+                <!--<div class="upDownScroll">-->
+                    <!--<a class="up"></a>-->
+                    <!--<a class="down"></a>-->
+                    <!--<p class="hideup"></p>-->
+                    <!--<p class="hidedown"></p>-->
+                    <!--<div class="hideBox">-->
+                        <!--<ul>-->
+                        <!--{dede:arclist typeid="20" orderby='pubdate' addfields='detail' channelid='18'}-->
+                            <!--<li>-->
+                                <!--<a href="[field:arcurl/]" target="_blank"><img src='[field:litpic/]'> </a>-->
+                            <!--</li>                                                                                                 -->
+                        <!--{/dede:arclist}     -->
+                        <!--</ul>-->
+                    <!--</div>-->
+                <!--</div>-->
+                <!--<div class="teacIntro">-->
+                    <!--<ul>-->
+                        <!--{dede:arclist typeid="20" orderby='pubdate' addfields='detail' channelid='18'}-->
+                        <!--<li>-->
+                            <!--<h5><!–代理名–></h5>-->
+                            <!--<p>[field:title/]</p>-->
+                            <!--<p>[field:description  function="cn_substr(@me,500)"/]</p>-->
+                           <!---->
+                        <!--</li>                                                                                                                         -->
+                        <!--{/dede:arclist}      -->
+                    <!--</ul>-->
+
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+
+
+
+
+
+        <!--学员作品-->
+        <div class="production"id="production">
+            <div class="titleBox" style="background: white">
+                <h1><a style="width:280px;"><img src="{dede:global.cfg_templets_skin/}/images/studentWork.png" alt=""/></a></h1>
+            </div>
+            <div class="worksContent" id="limitBox2">
+                <ul >
+                    {dede:arclist typeid="21"  orderby='pubdate' row="50"}
+                    <li>
+                        <div>[field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]</div>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+                <!--<div id="demo">-->
+                    <!--<div id="indemo">-->
+                        <!--<ul id="demo1">-->
+                        <!--{dede:arclist typeid="21"  orderby='pubdate'}-->
+                            <!--<li class="wid3">-->
+                                <!--<div>[field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]</div>-->
+                            <!--</li>                                                  -->
+                        <!--{/dede:arclist}   -->
+                        <!--</ul>-->
+                        <!--<ul id="demo2"></ul>-->
+                    <!--</div>-->
+                <!--</div>-->
+                <!--<div class="progress">-->
+                    <!--<div></div>-->
+                <!--</div>-->
+                <h6 style="clear: both"></h6>
+            </div>
+            <div class="morebox"><a href="" id="limit2">VIEW MORE</a></div>
+        </div>
+        <!--优秀学员-->
+        <div class="OutstandingStudents" id="OutstandingStudents">
+            <div class="titleBox">
+                <h1><a  ><img src="{dede:global.cfg_templets_skin/}/images/goodStudent.png" alt=""/></a></h1>
+            </div>
+            <div class="trHide" style="overflow:hidden; height:350px">
+                <div class="stRows">
+
+
+                  {dede:arclist typeid="22" orderby='pubdate' addfields='leavetime' channelid='19}   
+                    <div class="stRowsFl">
+                        <div class="stRowsFlImgBox">
+                            <a href="[field:arcurl/]" target="_blank">[field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]</a>
+                        </div>
+                        <div>
+                            <h5>[field:title/]<span>离校时间：[field:leavetime function="GetDateMK(@me)"/]</span></h5>
+                            <p>
+                              [field:description/]
+                            </p>
+                        </div>
+                    </div>                                                                     
+                   {/dede:arclist}     
+
+                </div>
+            </div>
+
+            <div class="morebox"><a href="">VIEW MORE</a></div>
+        </div>
+        <!--footer-->
+        {dede:include filename="footer.htm"/}</body>
+<script>
+    $(function(){
+        var limitCrl=$("#limitControl");
+        var limitCrl2=$("#limit2");
+        var limit=$("#limitBox");
+        var limit2=$("#limitBox2")
+        var num=Math.ceil(limit.find("li").length/3)-2;
+        var num2=Math.ceil(limit2.find("li").length/3-2);
+
+        $(limitCrl).click(function(){
+            if(num<=1){
+                $(limit).css({height:$(limit).height()+220});
+                limitCrl.hide();
+            }else{
+
+                $(limit).css({height:$(limit).height()+220});
+            }
+
+            num--;
+
+            return false;
+        })
+
+        $(limitCrl2).click(function(){
+
+            if(num2<=1){
+                $(limit2).css({height:$(limit2).height()+290});
+                limitCrl2.hide();
+            }else{
+                $(limit2).css({height:$(limit2).height()+290});
+            }
+
+            num2--;
+
+            return false;
+        })
+
+
+        var len=parseInt($(".trHide .stRowsFl").length)/2-2;
+        $(".morebox a").click(function(){
+            len-=1;
+            if(len>=0){
+                $(".trHide").css({height:$(".trHide").height()+170+'px'});
+            }
+            return false;
+        })
+    })
+
+</script>
+</html>

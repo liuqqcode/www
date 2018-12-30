@@ -1,0 +1,571 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{dede:global.cfg_webname/}</title>
+    <meta content="{dede:global.cfg_keywords/}" name="Keywords" />
+    <meta content="{dede:global.cfg_description/}" name="Description" />
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport" />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+    <meta content="telephone=no" name="format-detection" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta name="renderer" content="webkit">
+    <link rel="stylesheet" href="/css/new.css">
+    <link rel="stylesheet" href="/css/datePicker.css" />
+    <script src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.SuperSlide.2.1.1.js"></script>
+    <script type="text/javascript" src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/swiper.min.js"></script>
+    <script type="text/javascript" src="/js/rootResizeFont.js"></script>
+    <script src='//player.polyv.net/script/polyvplayer.min.js'></script>
+</head>
+
+<body>
+    {dede:include filename="header.htm" /} {dede:include filename="nav.htm" /} {dede:include filename="banner.htm" /}
+    <div class="box">
+        <div class="nav0925">
+            <ul class="clear">
+                <li class="clear">
+                    <a href="{dede:type typeid='212'}[field:typeurl/]{/dede:type}" target="_blank">
+                        <i class="i1"></i>
+                        <div class="txt">
+                            <h3>视频中心</h3>
+                            <p>Video Center</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="clear">
+                    <a href="{dede:type typeid='346'}[field:typeurl/]{/dede:type}" target="_blank">
+                        <i class="i2"></i>
+                        <div class="txt">
+                            <h3>学术交流</h3>
+                            <p>Academic</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="clear">
+                    <a href="{dede:type typeid='6'}[field:typeurl/]{/dede:type}" target="_blank">
+                        <i class="i3"></i>
+                        <div class="txt">
+                            <h3>新闻动态</h3>
+                            <p>News</p>
+                        </div>
+                    </a>
+                </li>
+                <li class="clear">
+                    <a href="/yyjj/jbzc" target="_blank">
+
+                        <i class="i4"></i>
+
+                        <div class="txt">
+
+                            <h3>健康测试</h3>
+
+                            <p>Health test</p>
+
+                        </div>
+
+                    </a>
+                </li>
+                <li class="clear">
+                    <a href="javascript:openZoosUrl()" target="_blank">
+
+                        <i class="i5"></i>
+
+                        <div class="txt">
+
+                            <h3>医教一体</h3>
+
+                            <p>Medical</p>
+
+                        </div>
+
+                    </a>
+                </li>
+                <li class="clear">
+                    <a href="{dede:type typeid='9'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i6"></i>
+
+                        <div class="txt">
+
+                            <h3>公益活动</h3>
+
+                            <p>Commonweal</p>
+
+                        </div>
+
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="bt05 mt1"></div>
+        <div class="clear"></div>
+        <div class="line0802"></div>
+        <div class="tle">
+            <p>记录儿科诊疗之声<span>Recording the sound of pediatric diagnosis and treatment</span></p>
+            <i class="i1"></i>
+        </div>
+        <div class="cona inbox">
+            <div class="hd">
+                <ul class="clear">
+                    <li class="first on">新闻资讯</li>
+                    <li>公益活动</li>
+                    <li>学术交流</li>
+                </ul>
+            </div>
+            <div class="bd mt75">
+                <div class="bdbox bd_news">
+                    <div class="clear cona_pic">
+                        <div class="fl fimg">
+                            <a href="javascript:openZoosUrl()"><img src="/images/1-1P1091113594Y.jpg" alt=""></a>
+                        </div>
+                        <div class="fl fimg">
+                            <a href="javascript:openZoosUrl()"><img src="/images/1-1G22G0204E53.jpg" alt=""></a>
+                        </div>
+                    </div>
+                    <ul class="cona_list">
+                        {dede:arclist typeid="6" row="3" titlelen='50'}
+                        <li><i></i><a href="[field:arcurl/]">[field:title/]</a><span></span></li> {/dede:arclist}
+                    </ul>
+                    <div class="pub_btn mt75 clear">
+                        <a href="{dede:type typeid='6'}[field:typeurl/]{/dede:type}" target="_blank" class="fl"><i></i>查看更多</a>
+                        <a href="tel:02887538666" id="Index_ZD" target="_blank" class="fr" style="font-family: Impact"><i></i>028-87538666</a>
+                    </div>
+                </div>
+                <div class="bdbox bd_news">
+                    <div class="clear cona_pic">
+                        <div class="fl fimg">
+                            <a href="javascript:openZoosUrl()"><img src="/images/1-161126101505525.jpg" alt=""></a>
+                        </div>
+                        <div class="fl fimg">
+                            <a href="javascript:openZoosUrl()"><img src="/images/1-1F42G02TD57.jpg" alt=""></a>
+                        </div>
+                    </div>
+                    <ul class="cona_list">
+                        {dede:arclist typeid="9" row="3" titlelen='50'}
+                        <li><i></i><a href="[field:arcurl/]">[field:title/]</a><span></span></li> {/dede:arclist}
+                    </ul>
+                    <div class="pub_btn mt75 clear">
+                        <a href="{dede:type typeid='9'}[field:typeurl/]{/dede:type}" target="_blank" class="fl"><i></i>查看更多</a>
+                        <a href="tel:02887538666" id="Index_ZD" target="_blank" class="fr" style="font-family: Impact"><i></i>028-87538666</a>
+                    </div>
+                </div>
+                <div class="bdbox bd_news">
+                    <div class="clear cona_pic">
+                        <div class="fl fimg">
+                            <a href="javascript:openZoosUrl()"><img src="/images/1-1F92210335V36.jpg" alt=""></a>
+                        </div>
+                        <div class="fl fimg">
+                            <a href="javascript:openZoosUrl()"><img src="/images/1-16121G4102U35.jpg" alt=""></a>
+                        </div>
+                    </div>
+                    <ul class="cona_list">
+                        {dede:arclist typeid="346" row="3" titlelen='50'}
+                        <li><i></i><a href="[field:arcurl/]">[field:title/]</a><span></span></li> {/dede:arclist}
+                    </ul>
+                    <div class="pub_btn mt75 clear">
+                        <a href="{dede:type typeid='346'}[field:typeurl/]{/dede:type}" class="fl"><i></i>查看更多</a>
+                        <a href="tel:02887538666" id="Index_ZD" target="_blank" class="fr" style="font-family: Impact"><i></i>028-87538666</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bt05 mt1"></div>
+        <div class="tle">
+            <p>特殊疾病诊疗中心<span>Special disease diagnosis and treatment center</span></p>
+            <i class="i2"></i>
+        </div>
+        <div class="conb inbox mt75">
+            <ul class="conb_ul1 clear">
+                <li>
+                    <a href="{dede:type typeid='27'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i1"></i>
+
+                        <p>多动症</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='28'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i2"></i>
+
+                        <p>抽动症</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='30'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i3"></i>
+
+                        <p>自闭症</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='40'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i4"></i>
+
+                        <p>遗尿症</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='194'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i5"></i>
+
+                        <p>语言障碍</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='39'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i6"></i>
+
+                        <p>矮小症</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='42'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i7"></i>
+
+                        <p>性早熟</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='36'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i8"></i>
+
+                        <p>脑瘫</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='187'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i9"></i>
+
+                        <p>癫痫</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='33'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i10"></i>
+
+                        <p>智力低下</p>
+
+                    </a>
+                </li>
+                <li>
+                    <a href="{dede:type typeid='34'}[field:typeurl/]{/dede:type}" target="_blank">
+
+                        <i class="i11"></i>
+
+                        <p>发育迟缓</p>
+  
+                    </a>
+                </li>
+                <li>
+                    <a onclick="top_show()" target="_blank">
+
+                        <i class="i12"></i>
+
+                        <p>更多</p>
+
+                    </a>
+                </li>
+            </ul>
+            <div class="conb_hot"><span>热点关注</span></div>
+            <ul class="conb_ul2 clear">
+                <li>
+                    <a href="/zt/ddzbx/" target="_blank">多动症的表现有哪些？</a>
+                </li>
+                <li>
+                    <a href="/zt/zylzt/" target="_blank">注意力不集中怎么训练？</a>
+                </li>
+                <li>
+                    <a href="/zt/cdzzl/" target="_blank">抽动症怎么治疗？</a>
+                </li>
+                <li>
+                    <a href="/zt/kfxl/" target="_blank">自闭症的康复训练怎么做？</a>
+                </li>
+                <li>
+                    <a href="/zt/fych2/" target="_blank">正常的发育规律是怎样的？</a>
+                </li>
+                <li>
+                    <a href="/zt/sgtest/" target="_blank">如何快速长高？</a>
+                </li>
+            </ul>
+        </div>
+        <div class="nhomead" id="nhomead">
+            <ul class="bags">
+                <li>
+                    <a href="javascript:openZoosUrl()" target="_blank"><img src="/images/zgxg.jpg" alt=""></a>
+                </li>
+            </ul>
+        </div>
+        <div class="tle">
+            <p>中外国际远程会诊 <span>Chinese and foreign international tele consultation</span></p>
+            <i class="i3"></i>
+        </div>
+        <div class="expert">
+            <ul class="gwzj">
+                {dede:arclist typeid="343" row="4" isweight='y' orderby='weight' channelid="19" addfields='body,zjzc,zjjy,zjrz,zjsc,zjjs,zjxt'}
+                <li>
+                    <a href="[field:arcurl/]" target="_blank">
+
+                        <i><img src="[field:zjxt/]"  class="zhuanjia"/></i>
+
+                        <p class="zjname">[field:title/]</p>
+
+                        <span class="ksl">[field:zjzc/]</span>
+
+                    </a>
+                </li>
+                {/dede:arclist}
+            </ul>
+            <div class="cl"></div>
+            <ul>
+                {dede:arclist typeid="342" row="4" isweight='y' orderby='weight' channelid="19" addfields='body,zjzc,zjjy,zjrz,zjsc,zjjs,zjxt'}
+                <li>
+                    <a href="[field:arcurl/]" target="_blank">
+
+                        <i><img src="[field:zjxt/]"  class="zhuanjia"/></i>
+
+                        <p class="zjname">[field:title/]</p>
+
+                        <span class="ksl">[field:zjzc/]</span>
+
+                    </a>
+                </li>
+                {/dede:arclist}
+            </ul>
+            <ul>
+                {dede:arclist typeid="201,202,203,309,255,254" row="8" isweight='y' orderby='weight' channelid="19" addfields='body,zjzc,zjjy,zjrz,zjsc,zjjs,zjxt'}
+                <li>
+                    <a href="[field:arcurl/]" target="_blank">
+
+                        <i><img src="[field:zjxt/]"  class="zhuanjia"/></i>
+
+                        <p class="zjname">[field:title/]</p>
+
+                        <span class="ksl">[field:zjzc/]</span>
+
+                    </a>
+                </li>
+                {/dede:arclist}
+            </ul>
+        </div>
+        <div class="pub_btn clear inbox">
+            <a href="javascript:openZoosUrl()" target="_blank" class="fl"><i></i>查看更多</a>
+            <a href="javascript:openZoosUrl()" target="_blank" class="fr"><i class="i3"></i>预约挂号</a>
+        </div>
+        <div class="bt05 mt1"></div>
+        <div class="tle">
+            <p>3大突破彰显疗效<span>3 breakthroughs show the curative effect</span></p>
+            <i class="i4"></i>
+        </div>
+        <div class="conc inbox">
+            <div class="clear conc_list">
+                <div class="conc_l fl">
+                    <a href="javascript:openZoosUrl()" target="_blank"><img src="/images/nh3_13.jpg" alt=""></a>
+                </div>
+                <div class="conc_r conc_r1 fr">
+                    <a href="javascript:openZoosUrl()" target="_blank">
+                        <p>DSM五轴诊断
+                            <br/>深析病因</p>
+                        <span>详情</span>
+                    </a>
+                </div>
+            </div>
+            <div class="clear conc_list">
+                <div class="conc_r conc_r2 fl">
+                    <a href="javascript:openZoosUrl()" target="_blank">
+                        <p>高精尖仪器
+                            <br/>精准检测</p>
+                        <span>详情</span>
+                    </a>
+                </div>
+                <div class="conc_l fr">
+                    <a href="javascript:openZoosUrl()" target="_blank"><img src="/images/nh3_17.jpg" alt=""></a>
+                </div>
+            </div>
+            <div class="clear conc_list">
+                <div class="conc_l fl">
+                    <a href="javascript:openZoosUrl()" target="_blank"><img src="/images/nh3_20.jpg" alt=""></a>
+                </div>
+                <div class="conc_r conc_r3 fr">
+                    <a href="javascript:openZoosUrl()" target="_blank">
+                        <p>多学科诊疗
+                            <br/>身心同治</p>
+                        <span>详情</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="text-center conc_more"><a href="javascript:openZoosUrl()" target="_blank">查看更多<i></i></a></div>
+        <div class="bt05"></div>
+        <!--新加名医讲堂版块-->
+        <div class="tle newtle">
+            <div class="mjj"><img src="/images/mj1_03.png" class="mj1" /></div>
+            <p>疾病防治全方位解读<span>Omnibearing interpretation of disease prevention and control</span></p>
+        </div>
+        <div class="jiang swiper-container swiper2">
+            <div class="adbg"></div>
+            <ul class="clear swiper-wrapper">
+                <!-- <li class="fl swiper-slide">
+                    <a href="/jtys/2468.html">
+                        <img src="/images/index_zbz_yzm.jpg" />
+                        <p>儿童自闭症科普视频<br/>
+                        <span><i>主讲:</i>颜泽明  科室主任</span><br/>
+                        <span><i>时间:</i>2017-08-09</span></p>
+                    </a>
+                </li> -->
+                <li class="fl swiper-slide">
+                    <a href="/jtys/2462.html">
+                        <img src="/images/index_axz_xyh.jpg" />
+                        <p>身材矮小如何长高？<br/>
+                        <span><i>主讲:</i>熊友华 医院院长</span><br/>
+                        <span><i>时间:</i>2017-05-23</span></p>
+                    </a>
+                </li>
+                <!-- <li class="fl swiper-slide">
+                    <a href="/jtys/2465.html">
+                        <img src="/images/index_ddz_ljg.jpg" />
+                        <p>小儿多动症科普视频<br/>
+                        <span><i>主讲:</i>吕建光 主任医师</span><br/>
+                        <span><i>时间:</i>2017-01-05</span></p>
+                    </a>
+                </li> -->
+                <li class="fl swiper-slide">
+                    <a href="/jtys/2467.html">
+                        <img src="/images/index_nt_dyf.jpg" />
+                        <p>小儿脑瘫科普视频<br/>
+                        <span><i>主讲:</i>杜玉芳 科室主任</span><br/>
+                        <span><i>时间:</i>2017-01-05</span></p>
+                    </a>
+                </li>
+            </ul>
+            <div class="swiper-pagination swiper-pagination2"></div>
+        </div>
+        <div class="text-center conc_more"><a href="javascript:void(0);return false;" onclick="openZoosUrl();return false;" target="_blank">点击在线问诊<i></i></a></div>
+        <div style="clear: both;">
+        </div>
+        <div class="xjbk">
+            <div class="gwy">
+                <img src="/images/ys.jpg" alt="" /> 在线儿科医生邀你通话
+                <img src="/images/dot.gif" alt="" />
+            </div>
+            <div class="hsbg">
+                <ul class="fl">
+                    <a href="javascript:void(0);return false;" onclick="openZoosUrl();return false;"><img src="/images/cps.png" alt=""  /></a>
+                </ul>
+                <ul class="fr">
+                    <li class="fl">
+                        <span class="s1">诊室热线：</span>
+                        <span class="s2"><a href="tel:02887538666">028-87538666</a></span>
+                    </li>
+                    <li class="fl">
+                        已拨人：<span class="sz">40087</span>
+                        <span class="sx"></span> 满意度：
+                        <span class="sz">98.47%</span>
+                    </li>
+                    <li class="fl"><a href="tel:02887538666"><img src="/images/tel_1.gif" alt="" /></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="bt05"></div>
+        <div class="cone inbox">
+            <h2 class="text-center">成都西南儿童医院预约挂号平台</h2>
+            <h3 class="text-center">（凡手机预约挂号者 享优先就诊权）</h3>
+            <form id="form1" method="post">
+                <p class="clear">
+                    <label for="">孩子姓名：</label>
+                    <input type="text" name="name" id="name">
+                </p>
+                <p class="clear">
+                    <label for="">联系方式：</label>
+                    <input type="text" name="tel" id="tel">
+                </p>
+                <p class="clear">
+                    <label for="">病情描述：</label>
+                    <input type="text" name="time" id="time" class="date-pick">
+                </p>
+                <p class="clear">
+                    <label for="">预约医生：</label>
+                    <select name="zj">
+                        <option value="付师亭">付师亭</option>
+                        <option value="孟青">孟青</option>
+                        <option value="熊友华">熊友华</option>                        
+                        <option value="黄丽敏">黄丽敏</option>
+                        <option value="黄翔">黄翔</option>
+                        <option value="纪烈琴">纪烈琴</option>
+                        <option value="刘慧侦">刘慧侦</option>
+                        <option value="武翠凡">武翠凡</option>
+                        <option value="杜玉芳">杜玉芳</option>                        
+                        <option value="彭幼辉">彭幼辉</option>
+                        <option value="张思智">张思智</option>                    
+                        <option value="徐磊">徐磊</option>                        
+                        <option value="杨梅">杨梅</option>
+                        <option value="林伯禹">林伯禹</option>
+                    </select>
+                </p>
+                <div class="form_btn clear">
+                    <input type="button" onclick="openZoosUrl()" value="在线咨询" class="fl">
+                    <input type="button" onclick="yuyue('form1','3','1','name','tel')" class="fr" value="加密提交">
+                </div>
+            </form>
+        </div>
+        <div class="bt05"></div>
+        <script>
+        jQuery(".cona").slide({
+            mainCell: ".bd",
+            trigger: "click",
+            autoPlay: true,
+            interTime: 5000
+
+        });
+        var swiper1 = new Swiper('.swiper1', {
+
+            pagination: '.swiper-pagination1',
+
+            paginationClickable: true,
+
+            autoplay: 5000,
+
+            spaceBetween: 0
+
+        });
+        var swiper = new Swiper('.swiper2', {
+
+            pagination: '.swiper-pagination2',
+
+            slidesPerView: 2,
+
+            paginationClickable: true,
+
+            spaceBetween: 0
+
+        });
+        </script>
+        {dede:include filename="footer.htm" /}
+    </div>
+    <script src="/swt/swt.js"></script>
+</body>
+
+</html>

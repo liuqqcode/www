@@ -1,0 +1,44 @@
+{dede:field name='keywords'}烤瓷牙{/dede:field}
+{dede:field name='description'}现在，很多人牙齿缺失都会选择做烤瓷牙修复牙齿。烤瓷牙具有方便、快捷、恢复牙齿形态功能的多重优势，赢得了大多数人的青睐。那么烤瓷{/dede:field}
+{dede:field name='title'}烤瓷牙的分类有哪些?{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<p><span style="font-size:16px;">　　现在，很多人牙齿缺失都会选择做烤瓷牙修复牙齿。烤瓷牙具有方便、快捷、恢复牙齿形态功能的多重优势，赢得了大多数人的青睐。那么烤瓷牙的分类是什么呢?让我们看看医生的详细情况。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2017/1017/20171017095312437.jpg" style="width: 300px; height: 185px;" /><br />
+烤瓷牙价格表？点击咨询</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　烤瓷牙的分类</span></strong></p>
+<p><strong><span style="font-size:16px;">　　北京维尔口腔医生介绍说：烤瓷牙一般分为金属烤瓷牙和非金属烤瓷牙两大类。</span></strong></p>
+<p><span style="font-size:16px;">　<strong>　一、金属烤瓷牙：</strong>金属烤瓷牙分为非贵金属烤瓷牙和贵金属烤瓷牙。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">烤瓷牙甭瓷怎么办？</span></a></span></p>
+<p><span style="font-size:16px;">　　(1)非贵金属烤瓷牙：非贵金属烤瓷牙主要包括镍铬合金烤瓷牙，钛合金烤瓷牙，钴铬合金烤瓷牙，纯钛烤瓷牙等。</span></p>
+<p><span style="font-size:16px;">　　镍铬合金烤瓷牙：价格低廉，修复效果较差,会导致牙龈有黑线，偶尔有崩瓷现象，现在多数已被淘汰;</span></p>
+<p><span style="font-size:16px;">　　钛合金材料烤瓷牙：价格比较适中，作为普通的牙修复效果还是可以的;<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">烤瓷牙可以使用多长时间？</span></a></span></p>
+<p><span style="font-size:16px;">　　钴铬合金烤瓷牙：生物相溶性好，性能好，持久耐用可以避免牙龈出血及黑色牙龈的现象出现。</span></p>
+<p><span style="font-size:16px;">　　纯钛烤瓷牙：质地较轻，生物相溶性好，对身体没有任何副作用，持久耐用。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1017/20171017095255238.jpg" style="width: 450px; height: 280px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　哪种烤瓷牙种类比较好?直接点击咨询在线医生</span></span></a></p>
+<p><span style="font-size:16px;">　　(2)贵金属烤瓷牙：贵金属烤瓷牙主要包括钯银烤瓷牙，钯金烤瓷牙，金沉积烤瓷牙等。金属烤瓷牙比同类产品具有更丰富完善的颜色体系，与天然牙颜色接近，理想的生物相容性，使用安全，对人体无害，更接近自然牙的强度，使用年限更长久，形态逼真，更接近患者天然牙的形态，堪称牙齿装潢的理想材料，适合对修复效果要求较高的患者使用。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">立即点击咨询费用详情</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　二、非金属烤瓷牙</span></strong></p>
+<p><span style="font-size:16px;">　　非金属烤瓷牙也就是全瓷牙，全瓷牙是烤瓷牙中的贵族，完全由瓷粉构成，颜色和层次都得到很大程度显现，牙冠边缘、颈部浑然一体，没有色差，相对合金烤瓷牙而言，因为没有金属基底，对强光线的反射和散射更接近于天然牙。密度和强度很高，有着抗破裂性，不受各种射线的影响，且用CAD/CAM设计和制作，比较精良。因此可以说全瓷牙是理想的口腔修复材料。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0202/20180202023305575.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><strong><span style="font-size:16px;">　　做烤瓷牙要到正规的口腔医院</span></strong></p>
+<p><span style="font-size:16px;">　　北京维尔口腔医生提醒：秉承对自己负责，对牙齿负责的原则，一定要到正规的口腔医院做烤瓷牙，修复效果才能得到有力的保障。北京维尔口腔医院引进先进设备，采用美国3MLAVA全瓷冠修复及口腔内窥镜数码定位，运用计算机准确设计烤瓷牙模型制备。同时，选用合适的烤瓷材料，保证烤瓷牙的形态、颜色都符合美学要求，可以保证较好的烤瓷牙效果，使您的微笑更加自然有生命力。如果您还有其他疑问或者想继续了解，可以点击咨询，或拨打我们的<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">健康热线：400-6655-111</span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<p><span style="font-size:16px;">　　现在，很多人牙齿缺失都会选择做烤瓷牙修复牙齿。烤瓷牙具有方便、快捷、恢复牙齿形态功能的多重优势，赢得了大多数人的青睐。那么烤瓷牙的分类是什么呢?让我们看看医生的详细情况。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><img alt="" src="/uploadfile/2017/1017/20171017095312437.jpg" style="width: 300px; height: 185px;" /><br />
+烤瓷牙价格表？点击咨询</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　烤瓷牙的分类</span></strong></p>
+<p><strong><span style="font-size:16px;">　　北京维尔口腔医生介绍说：烤瓷牙一般分为金属烤瓷牙和非金属烤瓷牙两大类。</span></strong></p>
+<p><span style="font-size:16px;">　<strong>　一、金属烤瓷牙：</strong>金属烤瓷牙分为非贵金属烤瓷牙和贵金属烤瓷牙。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">烤瓷牙甭瓷怎么办？</span></a></span></p>
+<p><span style="font-size:16px;">　　(1)非贵金属烤瓷牙：非贵金属烤瓷牙主要包括镍铬合金烤瓷牙，钛合金烤瓷牙，钴铬合金烤瓷牙，纯钛烤瓷牙等。</span></p>
+<p><span style="font-size:16px;">　　镍铬合金烤瓷牙：价格低廉，修复效果较差,会导致牙龈有黑线，偶尔有崩瓷现象，现在多数已被淘汰;</span></p>
+<p><span style="font-size:16px;">　　钛合金材料烤瓷牙：价格比较适中，作为普通的牙修复效果还是可以的;<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">烤瓷牙可以使用多长时间？</span></a></span></p>
+<p><span style="font-size:16px;">　　钴铬合金烤瓷牙：生物相溶性好，性能好，持久耐用可以避免牙龈出血及黑色牙龈的现象出现。</span></p>
+<p><span style="font-size:16px;">　　纯钛烤瓷牙：质地较轻，生物相溶性好，对身体没有任何副作用，持久耐用。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1017/20171017095255238.jpg" style="width: 450px; height: 280px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　哪种烤瓷牙种类比较好?直接点击咨询在线医生</span></span></a></p>
+<p><span style="font-size:16px;">　　(2)贵金属烤瓷牙：贵金属烤瓷牙主要包括钯银烤瓷牙，钯金烤瓷牙，金沉积烤瓷牙等。金属烤瓷牙比同类产品具有更丰富完善的颜色体系，与天然牙颜色接近，理想的生物相容性，使用安全，对人体无害，更接近自然牙的强度，使用年限更长久，形态逼真，更接近患者天然牙的形态，堪称牙齿装潢的理想材料，适合对修复效果要求较高的患者使用。</span><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">立即点击咨询费用详情</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　二、非金属烤瓷牙</span></strong></p>
+<p><span style="font-size:16px;">　　非金属烤瓷牙也就是全瓷牙，全瓷牙是烤瓷牙中的贵族，完全由瓷粉构成，颜色和层次都得到很大程度显现，牙冠边缘、颈部浑然一体，没有色差，相对合金烤瓷牙而言，因为没有金属基底，对强光线的反射和散射更接近于天然牙。密度和强度很高，有着抗破裂性，不受各种射线的影响，且用CAD/CAM设计和制作，比较精良。因此可以说全瓷牙是理想的口腔修复材料。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0202/20180202023305575.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><strong><span style="font-size:16px;">　　做烤瓷牙要到正规的口腔医院</span></strong></p>
+<p><span style="font-size:16px;">　　北京维尔口腔医生提醒：秉承对自己负责，对牙齿负责的原则，一定要到正规的口腔医院做烤瓷牙，修复效果才能得到有力的保障。北京维尔口腔医院引进先进设备，采用美国3MLAVA全瓷冠修复及口腔内窥镜数码定位，运用计算机准确设计烤瓷牙模型制备。同时，选用合适的烤瓷材料，保证烤瓷牙的形态、颜色都符合美学要求，可以保证较好的烤瓷牙效果，使您的微笑更加自然有生命力。如果您还有其他疑问或者想继续了解，可以点击咨询，或拨打我们的<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">健康热线：400-6655-111</span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D611UE60-10X64_lit.jpg{/dede:field}

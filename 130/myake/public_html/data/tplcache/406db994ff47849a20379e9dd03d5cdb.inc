@@ -1,0 +1,25 @@
+{dede:field name='keywords'}北京维尔口腔{/dede:field}
+{dede:field name='description'}由于种植牙的出现让许多牙齿缺失的患者为以后的生活充满了希望。据调查，现今有许多牙缺失患者都对种植牙很是好奇，但更让他们疑惑的却{/dede:field}
+{dede:field name='title'}种植牙价格是多少{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='body'}<p><span style="font-size:16px;">　　由于种植牙的出现让许多牙齿缺失的患者为以后的生活充满了希望。据调查，现今有许多牙缺失患者都对种植牙很是好奇，但更让他们疑惑的却是种植牙大概的价格是多少?为此，维尔口腔专家为我们介绍了影响种植牙价格的因素。</span></p>
+<p style="text-align: center;"><span style="color:#ff0000;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/0831/20170831053311986.jpg" style="width: 300px; height: 198px;" /></a></span></span><br />
+<span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">种植牙价格表？点击咨询</span></a></span></p>
+<p><span style="font-size:16px;">　　1、种植技术是很重要的因素：目前种植牙技术很多，不同种植技术的价格差异很大。</span></p>
+<p><span style="font-size:16px;">　　2、种植牙护理：护理也是一个重&middot;要因素。不同的服务有不同的价格，有时它也是影响种植牙费用的一个因素。</span></p>
+<p><span style="font-size:16px;">　　3、种植牙牙冠种类：种植牙的烤瓷牙冠种类。牙冠选的材料不同对做种植牙修复的价格也会很大。</span></p>
+<p><span style="font-size:16px;">　　通过上述介绍的三点因素，想必大家也都能理解。但是维尔医生还是要在这里强调一下，其实想要知道种植牙具体多少钱的直接方法是选择一家的牙科医院，通过专业医院根据检查后的结果做分析来给到您具体的费用。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;种植牙材料都有哪些&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　虽然说种植牙的费用是一件很重要的事情，但是维尔专家提醒大家务必选择一种较好的种植牙技术也是必不可少的。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/0831/20170831053312465.jpg" style="width: 450px; height: 280px;" /></span></span></a></p>
+<p style="text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;&gt;如果您是没时间亲自到院进行检查，不用担心!您可以点击专家了解更多有关种植牙的相关信息。</span></a></span></p>
+<p><span style="font-size:16px;">　　北京维尔口腔医院是北京专业口腔美容医疗服务行业的领先品牌，汇聚权威的口腔科医师，集中9大优势，提供国际一流的口腔科服务。维尔掌握先进的全套口腔科设备，及保证质量的全套口腔科配套材料。帮助医生在医疗过程中展示杰出表现，令客户接受治疗过程中，享受到更加快捷、方便、舒适的治疗效果。</span></p>
+<p><strong><span style="font-size:16px;">　　微创，出血少，减轻患者痛苦</span></strong></p>
+<p><span style="font-size:16px;">　　维尔的医师称，传统的植牙周期较长，通常在植入人工牙根2至3个月后，才安装牙冠牙桥的。而一些牙骨槽相对较薄的患者在做种植牙时，由于技术限制，往往被告之要先做创伤性较大的植骨手术;治疗时再做翻瓣手术，愈合也要耗费很多时间的。北京维尔微创种植牙采用的是电脑导向微创植牙技术，避免了漫长的愈合期，大大减轻患者的痛苦。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">【点击咨询】【在线预约】</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　技术先进，治疗时间短，术后不疼痛肿胀</span></strong></p>
+<p><span style="font-size:16px;">　　维尔的医师称，微创植牙技术是基于当今世界先进的三维成像检测技术、电脑导航技术、激光定位技术、即刻微创种植技术等前沿口腔科技术，一小时即可种出一口活牙，减少手术感染的风险。由于时间短，不须开刀，仅需将牙龈打开一个微孔，然后植入人工牙根，术后几乎不会疼痛和肿胀。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/0831/20170831053312927.jpg" style="width: 300px; height: 183px;" /><br />
+点击查看维尔种植牙案例详情</span></span></a></p>
+<p><span style="font-size:16px;">　　相信通过上面的介绍，大家都能了解种植牙价格高的原因了，俗话说物有所值，我们不能因种植牙价格高就对其望而却步，种植牙的价格比较贵，但是种植牙比普通的镶牙坚固，是比较好的修复牙齿的方法，当然在做种植牙之前，应该先到正规的医院检查一下自己是否适合做种植牙。如果您还有什么疑问，可以随时咨询北京维尔口腔医院的在线专家，或者直接拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">免费咨询电话：4006655111</span></a>，维尔口腔将竭诚为您提供满意解答。</span></p>{/dede:field}
+{dede:field name='pubdate'}1521683838{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D3SI2920-D4P_lit.jpg{/dede:field}

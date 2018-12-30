@@ -1,0 +1,30 @@
+{dede:field name='keywords'}牙齿矫正,儿童,医院{/dede:field}
+{dede:field name='description'}十几岁的年纪不仅是青春很美好的时光，也是牙齿矫正的大好时机，有很多家长发现孩子的牙齿畸形问题都想要带孩子去做矫正，但老话说的不{/dede:field}
+{dede:field name='title'}儿童牙齿矫正哪家医院好{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<p><span style="font-size:16px;">　　十几岁的年纪不仅是青春很美好的时光，也是牙齿矫正的大好时机，有很多家长发现孩子的牙齿畸形问题都想要带孩子去做矫正，但老话说的不假，隔行如隔山，现在牙齿矫正医院层出不穷，对正畸知之甚少的家长不再其数，那么，关于孩子的畸形问题以及牙齿矫正好的医院该如何入手呢?</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1018/20171018031437184.jpg" style="width: 300px; height: 324px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　儿童牙齿矫正什么时间较好?</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　北京维尔口腔&mdash;&mdash;儿童牙齿矫正的选择</span></strong></p>
+<p><span style="font-size:16px;">　　矫正牙齿需要正畸专业医生在进行全面检查、分析后作出专业的决定，所以选择专业的医院和医生非常重要。由于正畸治疗的特殊性和复杂性，只有通过研究生阶段的学习(3-4年)或较长时间的进一步深造，才有可能取得正畸专业医生资格。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1018/20171018031453775.jpg" style="width: 450px; height: 280px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt; 点击这里，与维尔口腔专家一对一交流 &lt;&lt;&lt;</span></span></a></p>
+<p><span style="font-size:16px;">　　而每一位进入维尔的医生均经过层层考核。他们有着丰富的临床实践经验，为顾客提供较高品质的服务，维尔不断的培养、壮大人才队伍，更深入的了解中国口腔患者的需求。经常参加口腔学术交流，专业医生根据您的口腔情况设计出不同治疗方案，较大限度的满足不同需求。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">牙齿矫正有年龄限制么？</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　维尔隐形矫正 给孩子一个璀璨的未来</span></strong></p>
+<p><span style="font-size:16px;">　　隐形矫正通过计算机三维图像技术模拟牙齿移动过程制成矫治器，戴上后牙齿将准确的向设计好的方向移动，完全达到预期的理想效果。矫治器是用近乎透明的高分子材料制成，不影响日常生活和美观，并可以自行摘戴。对孩子的日常学习生活是完全没有影响并且能够感觉到牙齿在悄然间发生的巨大变化，拥有自信笑容就是如此简单。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0203/20180203032916132.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><span style="font-size:16px;">　　维尔口腔医院每位专家对每一项技术，均经过反复地信息收集、科研、临床实践，以求达到快速、精准、高效、安全地治疗体验及完美的术后效果。更多问题欢迎点击在线咨询或者拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">美牙热线：400-6655-111。</span></a></span></p>{/dede:field}
+{dede:field name='body'}<p><span style="font-size:16px;">　　十几岁的年纪不仅是青春很美好的时光，也是牙齿矫正的大好时机，有很多家长发现孩子的牙齿畸形问题都想要带孩子去做矫正，但老话说的不假，隔行如隔山，现在牙齿矫正医院层出不穷，对正畸知之甚少的家长不再其数，那么，关于孩子的畸形问题以及牙齿矫正好的医院该如何入手呢?</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1018/20171018031437184.jpg" style="width: 300px; height: 324px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　儿童牙齿矫正什么时间较好?</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　北京维尔口腔&mdash;&mdash;儿童牙齿矫正的选择</span></strong></p>
+<p><span style="font-size:16px;">　　矫正牙齿需要正畸专业医生在进行全面检查、分析后作出专业的决定，所以选择专业的医院和医生非常重要。由于正畸治疗的特殊性和复杂性，只有通过研究生阶段的学习(3-4年)或较长时间的进一步深造，才有可能取得正畸专业医生资格。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1018/20171018031453775.jpg" style="width: 450px; height: 280px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　&gt;&gt;&gt; 点击这里，与维尔口腔专家一对一交流 &lt;&lt;&lt;</span></span></a></p>
+<p><span style="font-size:16px;">　　而每一位进入维尔的医生均经过层层考核。他们有着丰富的临床实践经验，为顾客提供较高品质的服务，维尔不断的培养、壮大人才队伍，更深入的了解中国口腔患者的需求。经常参加口腔学术交流，专业医生根据您的口腔情况设计出不同治疗方案，较大限度的满足不同需求。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">牙齿矫正有年龄限制么？</span></a></span></p>
+<p><strong><span style="font-size:16px;">　　维尔隐形矫正 给孩子一个璀璨的未来</span></strong></p>
+<p><span style="font-size:16px;">　　隐形矫正通过计算机三维图像技术模拟牙齿移动过程制成矫治器，戴上后牙齿将准确的向设计好的方向移动，完全达到预期的理想效果。矫治器是用近乎透明的高分子材料制成，不影响日常生活和美观，并可以自行摘戴。对孩子的日常学习生活是完全没有影响并且能够感觉到牙齿在悄然间发生的巨大变化，拥有自信笑容就是如此简单。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0203/20180203032916132.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><span style="font-size:16px;">　　维尔口腔医院每位专家对每一项技术，均经过反复地信息收集、科研、临床实践，以求达到快速、精准、高效、安全地治疗体验及完美的术后效果。更多问题欢迎点击在线咨询或者拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">美牙热线：400-6655-111。</span></a></span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D94C51210-34108_lit.jpg{/dede:field}

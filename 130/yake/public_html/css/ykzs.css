@@ -1,0 +1,744 @@
+body {
+
+    height: 100%;
+}
+
+
+
+.banner {
+
+    width: 100%;
+}
+
+
+
+
+
+.list ul li .inactive {
+
+    background: url(../images/off.png) no-repeat 184px center;
+}
+
+
+
+.list ul li .inactives {
+
+    background: url(../images/on.png) no-repeat 184px center;
+}
+
+
+
+.left_nav {
+
+    position: fixed;
+
+    margin-top: 0;
+
+    top: 0;
+}
+
+
+
+.left_bottom {
+
+    bottom: 0;
+}
+
+
+
+.r_list_top {
+
+    width: 237px;
+
+    height: 75px;
+
+    background: #f7ab71;
+}
+
+.r_list_top img {
+
+    margin-left: 40px;
+
+    margin-top: 18px;
+}
+
+
+
+.r_list_bottom {
+
+    width: 237px;
+
+    height: 152px;
+
+    background: url(../images/bg.jpg);
+}
+
+
+
+.r_l_b_icon {
+
+    width: 48px;
+
+    height: 47px;
+
+    float: left;
+
+    margin-top: 66px;
+
+    margin-left: 14px;
+}
+
+
+
+.r_l_b_xinxi {
+
+    width: 154px;
+
+    height: 62px;
+
+    float: left;
+
+    margin-top: 60px;
+
+    margin-left: 4px;
+}
+
+.r_l_b_xinxi span {
+
+    color: #828282;
+
+    display: block;
+
+    font-size: 15px;
+}
+
+.r_l_b_xinxi span:nth-last-child(1) {
+
+    font-size: 12px;
+}
+
+
+
+.left_list {
+
+    width: 1204px;
+
+    position: relative;
+}
+
+
+
+.left_main {
+
+    width: 940px;
+
+    float: right;
+}
+
+
+
+.left_top {
+
+    width: 940px;
+
+    height: 53px;
+
+    border-bottom: 1px dotted #e4e4e4;
+}
+
+.left_top span {
+
+    height: 25px;
+
+    display: block;
+
+    margin-top: 15px;
+}
+
+.left_top span a:hover {
+
+    color: #666;
+}
+
+.left_top span a:visited {
+
+    color: #666;
+}
+
+.left_top span a:link {
+
+    color: #666;
+}
+
+.left_top span:nth-last-child(2) {
+
+    color: #f7ab71;
+
+    font-size: 18px;
+
+    border-left: 2px solid #f7ab71;
+
+    float: left;
+
+    font-weight: bold;
+}
+
+.left_top span:nth-last-child(1) {
+
+    display: block;
+
+    font-size: 13px;
+
+    float: right;
+
+    color: #666;
+
+    line-height: 25px;
+}
+
+.left_top span:nth-last-child(1):visited {
+
+    color: #666;
+}
+
+.left_top span:nth-last-child(1):hover {
+
+    color: #666;
+}
+
+.left_top span:nth-last-child(1) a:link {
+
+    color: #666;
+}
+
+
+
+.left_center {
+
+    width: 940px;
+
+    margin-top: 44px;
+}
+
+.left_center .ykzs_title {
+
+    width: 940px;
+
+    height: 210px;
+
+    margin-bottom: 30px;
+
+    border-bottom: 1px solid #e4e4e4;
+}
+
+
+
+.title_yxjz {
+
+    width: 940px;
+}
+
+.title_yxjz .yxjz_img {
+
+    float: left;
+}
+
+.title_yxjz .yxjz_font {
+
+    float: right;
+
+    width: 680px;
+
+    height: 130px;
+
+    margin-top: 20px;
+}
+
+.title_yxjz .yxjz_font span:nth-last-child(3) {
+
+    color: #666666;
+
+    font-size: 20px;
+
+    display: block;
+
+    margin-bottom: 18px;
+}
+
+.title_yxjz .yxjz_font span:nth-last-child(2) {
+
+    font-size: 12px;
+
+    font-size: #696969;
+}
+
+.title_yxjz .yxjz_font span:nth-last-child(1) {
+
+    font-size: 12px;
+
+    color: #faae6f;
+}
+
+
+
+.ykzs_list {
+
+    height: 110px;
+
+    width: 940px;
+
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.ykzs_list .list_left {
+
+    width: 736px;
+
+    float: left;
+}
+
+.ykzs_list .list_left span:nth-last-child(3) {
+
+    margin-top: 17px;
+
+    display: block;
+
+    color: #666666;
+
+    margin-bottom: 5px;
+}
+
+.ykzs_list .list_left span:nth-last-child(3) img {
+
+    margin-right: 10px;
+}
+
+.ykzs_list .list_left span:nth-last-child(3) a:hover {
+
+    color: #faae6f;
+}
+
+.ykzs_list .list_left span:nth-last-child(3) a:visited {
+
+    color: #666666;
+}
+
+.ykzs_list .list_left span:nth-last-child(3) a:link {
+
+    color: #666666;
+}
+
+.ykzs_list .list_left span:nth-last-child(2) {
+
+    line-height: 20px;
+
+    font-size: 12px;
+
+    color: #636363;
+
+    text-overflow: ellipsis;
+
+    display: -webkit-box;
+
+    -webkit-box-orient: vertical;
+
+    -webkit-line-clamp: 2;
+
+    overflow: hidden;
+}
+
+.ykzs_list .list_left span:nth-last-child(1) {
+
+    font-size: 12px;
+
+    float: right;
+}
+
+.ykzs_list .list_left span:nth-last-child(1) a:visited {
+
+    color: #faae6f;
+}
+
+.ykzs_list .list_left span:nth-last-child(1) a:link {
+
+    color: #faae6f;
+}
+
+.ykzs_list .list_left span:nth-last-child(1) a:hover {
+
+    color: #FF0000;
+}
+
+.ykzs_list .list_right {
+
+    width: 161px;
+
+    height: 110px;
+
+    float: right;
+}
+
+.ykzs_list .list_right .right_time {
+
+    font-size: 12px;
+
+    color: #636363;
+
+    margin-top: 23px;
+
+    display: block;
+}
+
+.ykzs_list .list_right .right_a span {
+
+    display: block;
+
+    width: 70px;
+
+    height: 25px;
+
+    float: left;
+
+    margin-top: 20px;
+
+    font-size: 12px;
+
+    text-align: center;
+
+    line-height: 25px;
+
+    margin-right: 10px;
+
+    color: #fff;
+}
+
+.ykzs_list .list_right .right_a a:nth-last-child(2) span {
+
+    background: #5c79d0;
+}
+
+.ykzs_list .list_right .right_a span:nth-last-child(1) {
+
+    background: #f7ac72;
+}
+
+
+
+.text-c {
+
+    margin-top: 65px;
+
+    font-size: 14px;
+
+    width: 790px;
+}
+
+.text-c .a1 {
+
+    height: 35px;
+
+    width: 70px;
+}
+
+.text-c a {
+
+    float: left;
+
+    text-align: center;
+
+    color: #33bdb6;
+
+    margin-right: 10px;
+
+    line-height: 35px;
+
+    border: 1px solid #e4e4e4;
+
+    display: block;
+
+    width: 35px;
+
+    height: 35px;
+}
+
+.text-c a:hover {
+
+    background: #5b7bc9;
+
+    color: #fff;
+}
+
+.text-c span {
+
+    float: left;
+
+    text-align: center;
+
+    color: #fff;
+
+    margin-right: 10px;
+
+    line-height: 35px;
+
+    border: 1px solid #e4e4e4;
+
+    display: block;
+
+    width: 35px;
+
+    height: 35px;
+
+    background: #5c79d0;
+}
+
+
+
+.list_fanye {
+
+    margin-top: 65px;
+
+    font-size: 14px;
+
+    width: 790px;
+}
+
+.list_fanye a {
+
+    float: left;
+
+    text-align: center;
+
+    color: #5975cb;
+
+    margin-right: 10px;
+
+    line-height: 35px;
+
+    border: 1px solid #e4e4e4;
+
+    display: block;
+}
+
+.list_fanye a:hover {
+
+    background: #5b7bc9;
+
+    color: #fff;
+}
+
+.list_fanye .fanye_shang {
+
+    height: 35px;
+
+    width: 70px;
+}
+
+.list_fanye .fanye_num {
+
+    width: 35px;
+
+    height: 35px;
+}
+
+.list_fanye .fanye_zong {
+
+    float: left;
+
+    width: 147px;
+
+    height: 35px;
+
+    border: 1px solid #e4e4e4;
+
+    text-align: center;
+
+    color: #5975cb;
+
+    line-height: 35px;
+}
+
+
+
+a:link,
+a:visited {
+
+    text-decoration: none;
+}
+
+
+
+.list ul li {
+
+    background-color: #f2f2f2;
+}
+
+
+
+.list ul li a {
+
+    padding-left: 10px;
+
+    color: #666;
+
+    font-size: 16px;
+
+    display: block;
+
+    height: 42px;
+
+    line-height: 36px;
+
+    position: relative;
+}
+
+
+
+.list ul li ul {
+
+    display: none;
+}
+
+
+
+.list ul li ul li {
+
+    border-left: 0;
+
+    border-right: 0;
+
+    background-color: #faf8f8;
+
+    border: 0px;
+}
+
+
+
+.list ul li ul li ul {
+
+    display: none;
+}
+
+
+
+.list ul li ul li a {
+
+    padding-left: 20px;
+
+    font-size: 12px;
+
+    width: 217px;
+}
+
+
+
+.list ul li ul li a span {
+
+    display: block;
+
+    width: 100px;
+
+    text-align: left;
+
+    margin-left: 80px;
+}
+
+
+
+.list ul li ul li a:hover {
+
+    background: #fabd8c;
+
+    color: #fff;
+}
+
+
+
+.list ul li ul li ul li {
+
+    background-color: #d6e6f1;
+
+    border-color: #6196bb;
+}
+
+
+
+.last {
+
+    background-color: #d6e6f1;
+
+    border-color: #6196bb;
+}
+
+
+
+.list ul li ul li ul li a {
+
+    color: #316a91;
+
+    padding-left: 30px;
+}
+
+
+
+.left_bottom {
+
+    width: 940px;
+
+    height: 103px;
+
+    float: right;
+
+    margin-top: 66px;
+
+    margin-bottom: 65px;
+}
+
+.left_bottom ul a {
+
+    float: left;
+
+    margin-right: 35px;
+}
+
+.left_bottom ul a li span {
+
+    display: block;
+
+    width: 102px;
+
+    height: 103px;
+
+    float: left;
+
+    font-size: 25px;
+}
+
+.left_bottom ul a li span:nth-last-child(1) {
+
+    margin-top: 0;
+
+    height: 53px;
+
+    width: 50px;
+
+    margin-left: 8px;
+
+    margin-top: 15px;
+
+    color: #f7ab71;
+}
+
+.left_bottom ul a:nth-last-child(1) {
+
+    margin-right: 0px;
+}
+
+.li_bg {
+
+    background: #f7ab71;
+
+    color: #fff;
+}
+
+
+/*# sourceMappingURL=ykzs.css.map */

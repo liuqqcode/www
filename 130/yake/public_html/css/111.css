@@ -1,0 +1,289 @@
+﻿/* 根据图片的张数来设定ul的宽度 */
+
+.img_list ul{ width: 1004px; position: absolute; height: 199px; left: 0px;}
+
+.img_list li{ float: left; width: 252px;}
+
+.img_list img{ margin: 1px; width: 251px; height: 199px;}
+
+#demo1{ 
+
+    position: relative;
+
+    width: 252px;     
+
+}
+
+#demo1 .img_list{overflow: hidden; position: relative; height: 199px;}
+
+
+
+/* 图片对应的说明*/
+
+.img_intro{
+
+    position: absolute;
+
+    bottom: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 25px;
+
+}
+
+.img_intro .img_intro_bg,.img_intro .text{
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.img_intro .img_intro_bg{
+
+    background: #000;   
+
+    z-index: 999;
+
+}
+
+.img_intro .text{
+
+    padding: 5px 10px;
+
+    z-index: 1000;
+
+    color: #999;
+
+}
+
+
+
+
+
+
+
+
+
+/* 根据图片的张数来设定ul的宽度 */
+
+.img_list2 ul{ width: 2000px; position: absolute; height: 199px; left: 0px;}
+
+.img_list2 li{ float: left; width: 252px;}
+
+.img_list2 img{ margin: 1px; width: 251px; height: 199px;}
+
+#demo2{ 
+
+    position: relative;
+
+    width: 252px;     
+
+}
+
+#demo2 .img_list2{overflow: hidden; position: relative; height: 199px;}
+
+
+
+/* 图片对应的说明*/
+
+.img_intro2{
+
+    position: absolute;
+
+    bottom: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 25px;
+
+}
+
+.img_intro2 .img_intro_bg2,.img_intro2 .text2{
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.img_intro2 .img_intro_bg2{
+
+    background: #000;   
+
+    z-index: 999;
+
+}
+
+.img_intro2 .text2{
+
+    padding: 5px 10px;
+
+    z-index: 1000;
+
+    color: #999;
+
+}
+
+
+
+
+
+
+
+/* 根据图片的张数来设定ul的宽度 */
+
+.img_list3 ul{ width: 700px; position: absolute; height: 199px; left: 0px;}
+
+.img_list3 li{ float: left; width: 252px;}
+
+.img_list3 img{ margin: 1px; width: 251px; height: 199px;}
+
+#demo3{ 
+
+    position: relative;
+
+    width: 252px;     
+
+}
+
+#demo3 .img_list3{overflow: hidden; position: relative; height: 199px;}
+
+
+
+/* 图片对应的说明*/
+
+.img_intro3{
+
+    position: absolute;
+
+    bottom: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 25px;
+
+}
+
+.img_intro3 .img_intro_bg3,.img_intro3 .text3{
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.img_intro3 .img_intro_bg3{
+
+    background: #000;   
+
+    z-index: 999;
+
+}
+
+.img_intro3 .text3{
+
+    padding: 5px 10px;
+
+    z-index: 1000;
+
+    color: #999;
+
+}
+
+
+
+
+
+/* 根据图片的张数来设定ul的宽度 */
+
+.img_list5 ul{ width: 1300px; position: absolute; height: 309px; left: 0px;}
+
+.img_list5 li{ float: left; width:650px;}
+
+.img_list5 img{  width: 650px; height: 309px;}
+
+#demo5{ 
+
+    position: relative;
+
+    width: 649px;     
+
+}
+
+#demo5 .img_list5{overflow: hidden; position: relative; height: 309px;}
+
+
+
+/* 图片对应的说明*/
+
+.img_intro5{
+
+    position: absolute;
+
+    bottom: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 25px;
+
+}
+
+.img_intro5 .img_intro_bg5,.img_intro5 .text5{
+
+    position: absolute;
+
+    left: 0;
+
+    top: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+.img_intro5 .img_intro_bg5{
+
+    background: #000;   
+
+    z-index: 999;
+
+}
+
+.img_intro5 .text5{
+
+    padding: 5px 10px;
+
+    z-index: 1000;
+
+    color: #999;
+
+}

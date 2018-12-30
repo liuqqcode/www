@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <link href="/css/common.css" rel="stylesheet" type="text/css" />
+    <script src="/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+    {dede:include filename="header.htm"/}
+    <div class="w1000 location">
+        <p>您现在的位置：{dede:field name='position'/}</p>
+        <div class="search">
+            <input type="submit" value="" class="btn" onclick="openZoosUrl();return false;" />
+            <input type="text" value="请输入关键词…" class="name" onfocus="if(this.value=='请输入关键词…'){this.value='';}" onblur="if(this.value==''){this.value='请输入关键词…';}" />
+        </div>
+    </div>
+    <div class="w1000 yyry" id="yyjjs">
+        <div class="title">
+            <h3><span>带您走进</span>西南儿童科学增高诊疗中心</h3>
+            <p>Take you into the southwest children's science increased diagnosis and treatment center</p>
+        </div>
+        <div class="cl"></div>
+        {dede:include filename="left.htm"/}
+        <div class="right fr list_jylc">
+            <dl class="dl01">
+                <dt>
+                    <h3>就医流程</h3>
+                    <p>365天让每一位患者乐享诊疗过程</p>
+                </dt>
+                <dd>
+                    <h3>致最亲爱的您：</h3>
+                    <p>请您在就诊前仔细阅读就医指南，以便让您轻松、方便地完成就诊之旅！成都西南儿童医院实行365天无假日门诊服务，竭诚为您提供专业、安全、舒适的服务。</p>
+                </dd>
+            </dl>
+            <div class="zinan_liuch">
+                <p class="zn_lc001">远程沟通<span>您可以通过电话<strong>028-87538666</strong>或成都西南儿童医院官网商务通在线挂号或预约医师号！有效节省就医时间。</span></p>
+                <p class="zn_lc002">来院候诊<span>到院后请到导医台，告知导医您的预约号，导医将给您一份病历本，请您填写清楚病历，导
+        
+        医将根据您的就诊科室进行分诊，全程为您就诊做引导。</span></p>
+                <p class="zn_lc003">医师诊疗<span>挂号后由导医引导您至相应科室，适时安排您到医师诊疗室做诊断及诊疗。各科室都有相应
+        
+        导医护士，如需检查或输液，由导医陪同您去检查室或输液室，有需要手术的朋友可与主诊医师预约手术时间。</span></p>
+                <p class="zn_lc004">贴心服务<span>您在本院就诊期间，可享有"一护一医一诊室"诊疗模式，全程导医服务，有效保护您的个
+        
+        人隐私，也将避免您因不了解医院布局而盲目奔波。您在本院就诊期间如需帮助，请向主诊医生或各科导医台护士提出，本院将尽其所能满足您的合理要求;如您对本院服务不满意，可以直接向一楼的院长信箱投诉。</span></p>
+                <p class="zn_lc005">收费提醒<span>我院导医护士可提供陪您或代您去付费服务，请与收费人员当面核对您的收据及余款。您在
+        
+        收费窗口付款后，请您妥善保管好您的药单，检查单及收据，以免遗失。在就诊过程中请注意保管好您的财务，防止遗失！</span></p>
+                <p class="zn_lc006">期待建议<span>当您离开成都西南儿童医院时，请留下您的宝贵意见，您舒心的笑容将是我们努力的方向，您所
+        
+        需要的将是成都西南儿童医院全体员工要为您做的。</span></p>
+            </div>
+            <div class="cl"></div>
+            <div class="jypz_hot">
+                <div class="tit">
+                    <h3>品质服务</h3>
+                </div>
+                <dl>
+                    <dt><a href="javascript:openZoosUrl('chatwin','&e=一医一患一室')"><img src="/images/pzimg1.jpg" border="0" /></a></dt>
+                    <dd>
+                        <p>用"一医一患一室"诊疗模式，充分维护患者的隐私，并提供疾病诊疗、预防体检、心理咨询等专业医疗服务，充分体现对患者的尊重、理解和关怀。</p>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt><a href="javascript:openZoosUrl('chatwin','&e=为患者就诊提供最大方便')"><img src="/images/pzimg2.jpg" border="0" /></a></dt>
+                    <dd>
+                        <p>为患者就诊提供最大方便，实行"无假日门诊"，建立以病人为中心的科学布局和便捷就医的流程，建立诚信、和谐的医疗环境，定期回访等绿色医疗制度。</p>
+                    </dd>
+                </dl>
+                <dl class="last">
+                    <dt><a href="javascript:openZoosUrl('chatwin','&e=患者可直接网上咨询')"><img src="/images/pzimg3.jpg" border="0" /></a></dt>
+                    <dd>
+                        <p>患者可直接网上咨询，确定挂号科室和预约就诊时间，到院后凭就诊号码在导医指引下优先就诊，免除排队挂号的烦恼候诊、就诊统筹安排，科学合理。</p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+    <script src="/js/common.js" type="text/javascript"></script>
+</body>
+
+</html>

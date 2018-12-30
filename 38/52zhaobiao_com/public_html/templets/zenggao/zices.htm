@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:field.seotitle /}-{dede:global.cfg_webname/}</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <link rel="stylesheet" type="text/css" href="/css/common.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <script type="text/javascript" src="/js/jquery1.42.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.SuperSlide.2.1.1.js"></script>
+    <!--[if IE 6]>
+   <script type="text/javascript" src="js/ie6-png.js"></script>
+    <script language="javascript" type="text/javascript">
+    DD_belatedPNG.fix("b,a,img");
+    </script>
+    <![endif]-->
+</head>
+
+<body>
+    {dede:include filename="header.htm"/}
+    <div class="lmmbxdh">
+        <p>当前位置：{dede:field name='position'/}</p>
+    </div>
+    <div class="zc_bd">
+        <div class="zc_bd_ddz">
+            <p class="zxzcxx2">您的孩子是否被诊断有{dede:field name='typename'/}？您是否担心孩子有这样的问题？您是否曾经在网上寻找过关于{dede:field name='typename'/}疾病的信息？孩子是否有{dede:field name='typename'/}，目前缺乏一种特别确切的诊断方法，大都通过综合性的诊断手段来确定。下面提供一个我们临床上供家长、教师常用的{dede:field name='typename'/}状况评分量表，家长们可以根据孩子的情况填写一下。</p>
+            <p class="zxzcxx1"><span>量表介绍：</span>此量表能、有效、迅速地反映被试{dede:field name='typename'/}孩子的有关症状及其严重程度和变化。</p>
+            <p class="zxzcxx1"><span>自测提醒：</span>1、请根据自身一段时间的情绪变化，认真填写相关信息。</p>
+            <p class="zxzcxx3"><span>自测提醒：</span>2、此自测量表通过总结临床患者信息所得，具有较高的参考价值，家长要对症给孩子诊疗。</p>
+            {dede:field.content/}
+            <div class="zc_jd"> <em class="jz_bd1"><img src="/images/zc_ks_1.jpg"/></em> <em class="jz_bd2"><img src="/images/zc_ks_2.jpg"/></em> <span><img src="/images/zc_ks.jpg"/></span> <span class="zc_jdt"></span> <span><img src="/images/zc_ks_r.jpg" /></span> </div>
+            <div class="zc_fm">
+                <form enctype="multipart/form-data" id="zgform2" method="post">
+                    <div class="huwu-yuyue-div">
+                        <div class="huwu-yuyue-left">
+                            <p>
+                                <label>姓名：</label>
+                                <input id="name" name="name" type="text" value="请输入小孩的姓名..." onblur="if(this.value=='') this.value='请输入小孩的姓名...';" onfocus="if(this.value=='请输入小孩的姓名...') this.value='';">
+                                <label>年龄：</label>
+                                <input id="age" name="age" type="text" value="请输入小孩的年龄..." onblur="if(this.value=='') this.value='请输入小孩的年龄...';" onfocus="if(this.value=='请输入小孩的年龄...') this.value='';">
+                                <label>联系方式：</label>
+                                <input id="telInput" name="tel" type="text" value="请输入您的电话号码..." onblur="if(this.value=='') this.value='请输入您的电话号码...';" onfocus="if(this.value=='请输入您的电话号码...') this.value='';">
+                            </p>
+                        </div>
+                    </div>
+                    <div class="huwu-miaoshu">
+                        <label>病情描述：</label>
+                        <textarea onblur="if (value ==''){value='请您简述症状...'}" onfocus="if(value=='请您简述症状...'){value=''}" name="zzms" id="ill">请您简述症状...</textarea>
+                    </div>
+                    <p class="huwu-but">
+                        <input class="huwu-reset" type="reset" name="Reset" value="重新填写">
+                        <input class="huwu-submit" type="button" value="提交测试结果" id="button" name="button" onclick="yuyue('zgform2','1','1','name','telInput')">
+                    </p>
+                </form>
+            </div>
+            <div class="zc_px">
+                <p> {dede:field name='description' function='html2text(@me)'/}…… </p>
+                <p> 医师提醒：久拖不治，延误病情，很多患儿失去了较好的诊疗时间。本测试不适合所有儿童，如有问题，可以在线挂号！</p>
+            </div>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

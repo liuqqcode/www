@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1280">
+    <title>{dede:field.seotitle /}_太原市中心医院第三医院</title>
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/style.css">
+    <script type="text/javascript">
+    if (window.location.toString().indexOf('pref=padindex') != -1) {} else {
+        if (/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SAMSUNG|LG|NEC|TCL|Alcatel|BIRD|DBTEL|Dopod|PHILIPS|HAIER|LENOVO|MOT-|Nokia|SonyEricsson|SIE-|Amoi|ZTE/.test(navigator.userAgent))) {
+            if (window.location.href.indexOf("?mobile") < 0) {
+                try {
+                    if (/Android|Windows Phone|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                        window.location.href = "http://5gek.tywybbyy.com/";
+                    } else if (/iPad/i.test(navigator.userAgent)) {} else {}
+                } catch (e) {}
+            }
+        }
+    }
+    </script>
+    <!--[if lt IE 9]>
+
+    <script src="/js/html5.js"></script>
+
+    <script src="/js/respond.min.js"></script>
+
+    <![endif]-->
+</head>
+<!--[if lt IE 9]><body class="ie"><![endif]-->
+<!--[if !(IE 7) | !(IE 8)]><!-->
+
+<body>
+    <!--<![endif]-->
+    {dede:include filename="head.htm"/}
+    <div class="container">
+        <div class="layout">
+            <div class="news-list clearfix mt25">
+                <div class="list-item fl">
+                    <div class="list-tit sort clearfix">
+                        {dede:field name='position'/}
+                    </div>
+                    <div class="list-content" id="index_content">
+                        <img src="/images/keshi.jpg" class="fl wzslt" alt="">
+                        <h2>{dede:field name='typename'/}:</h2> {dede:field.content/}
+                    </div>
+                    <div class="list-item fl" id="bzlb">
+                        <div class="list-tit">
+                            <h2>{dede:type typeid='5'}<a class="cur" href="[field:typeurl/]">病种介绍</a>{/dede:type}</h2>
+                        </div>
+                        <div class="list-content" id="bzll">
+                            {dede:channelartlist}
+                            <a href="{dede:field name='typeurl'/}" target="_blank"><i class="icon iconfont icon-lingxing-copy"></i>{dede:field name='typename'/}</a>{/dede:channelartlist}
+                        </div>
+                    </div>
+                    <div class="list-item fl" id="index_zjtd">
+                        <div class="list-tit">
+                            <h2>{dede:type typeid='5'}<a class="cur" href="[field:typeurl/]">[field:typename/]</a>{/dede:type}</h2>
+                            <div class="slide-dots" id="expert-dots">
+                                <a href="javascript:;" class="iconfont"></a>
+                                <a href="javascript:;" class="iconfont"></a>
+                            </div>
+                        </div>
+                        <div class="list-content" id="home-expert-box">
+                            <ul class="clearfix home-expert">
+                                {dede:arclist row="100" titlelen="100" typeid="5" orderby="id" orderway="asc" addfields='zhicheng,keshi,jibie,shanchang,zzsjb,zzsjb2' channelid='1'}
+                                <li>
+                                    <a href="[field:arcurl/]"><img src="[field:picname/]" alt="[field:fulltitle /]" />
+                                        <div class="expert-info">[field:fulltitle /]<span>科室：[field:keshi /]<br>职称：[field:zhicheng /]</span></div>
+                                    </a>
+                                </li>
+                                {/dede:arclist}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                {dede:include filename="right.htm"/}
+            </div>
+        </div>
+    </div>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

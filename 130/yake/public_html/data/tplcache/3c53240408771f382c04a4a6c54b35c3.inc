@@ -1,0 +1,48 @@
+{dede:field name='keywords'}即刻种植牙需要注意什么{/dede:field}
+{dede:field name='description'}随着时代的发展，新旧更迭，适者生存，各种产品更新换代，种植牙也不例外，传统的种植牙的话需要4-6个月才能完成整个种植过程，于是出{/dede:field}
+{dede:field name='title'}即刻种植牙需要注意什么{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}&nbsp; &nbsp; 随着时代的发展，新旧更迭，适者生存，各种产品更新换代，种植牙也不例外，传统的种植牙的话需要4-6个月才能完成整个种植过程，于是出现了即刻种植手术，但并不是有很多人能了解，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>手术需要多长时间呢？</strong></span></a>
+<div class="content" id="haogesuz">
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="种植牙" src="http://beij.wekq.net/uploadfile/2017/0519/20170519024949983.jpg" style="width: 400px; height: 220px; border-width: 0px; border-style: solid; margin-top: 0px; margin-bottom: 0px;" title="种植牙" /><br />
+<strong><span style="color: rgb(255, 0, 0);">》》》点击咨询在线医生</span></strong></a></p>
+<h2><span style="color: rgb(255, 0, 0);">什么是即刻种植手术</span></h2>
+<p>&nbsp; &nbsp; 顾名思义，从字面意思理解，就是马上可以实现种植牙的手术。在口腔医学上，即刻种植手术是在一种对于牙齿缺失的朋友即刻进行种植牙的手术，即拔即种，可以说是同步进行，在较短时间内即刻完成种植牙的手术。</p>
+<p>&nbsp; &nbsp; 传统的种植牙一般要经过先拔牙再等两到三个月进行种植体的植入，即刻种植牙手术就是针对这个缺点，可以实现即刻种植，在治疗的疗程上大大缩短了，这无疑是种植牙在口腔医学上的一大进步。</p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0201/20180201050747673.jpg" style="width: 550px; height: 130px;" /></a></p>
+<h2><span style="color: rgb(255, 0, 0);">即刻种植手术需要多长时间</span></h2>
+<p>&nbsp; &nbsp; 一般即刻种植牙的话对口腔的条件要求较高，需要牙周无炎症并且牙槽骨无吸收损坏现象才能进行即刻种植牙的手术。另外，即刻种植牙要比传统的种植牙手术要有一定的优势，比较直观的就是可以减少患者的痛苦。</p>
+<p>&nbsp; &nbsp; 即刻种植手术的话一般要求医师的水平比种植牙的还要高，因为哪怕是一点的操作不到位，就有可能使得整个手术失败，对牙齿造成的损害是无可估量的，这就要求我们要找到专业的口腔机构进行即刻种植牙手术。</p>
+<p>&nbsp; &nbsp; 做好了即刻种植牙之后也不要放松，还是要认真的刷牙，保持口腔卫生，保护好我们的牙齿，不管是真牙还是种植牙，都是要受到一样的保护的。</p>
+</div>
+<div class="huihui" id="hd_a" style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img src="http://beij.wekq.net/uploadfile/2017/0519/20170519025011751.jpg" style="width: 450px; height: 280px;" /></a></div>
+<div id="s-a-b-swt">
+<div class="m24_c1">
+<p><span style="color: rgb(255, 0, 0);"><strong>&nbsp; &nbsp; 温馨提示</strong></span><em>：</em>有问题？直接在线咨询！更多有关口腔资讯，症状诊断，治疗费用，可以<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>点击咨询</strong></span></a>或拨打免费咨询热线：<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>400-6655-111</strong></span></a>。维尔口腔为全国连锁口腔专科医院，选择我们让未来生活更美好！</p>
+<div>&nbsp;</div>
+</div>
+</div>
+<br />{/dede:field}
+{dede:field name='body'}&nbsp; &nbsp; 随着时代的发展，新旧更迭，适者生存，各种产品更新换代，种植牙也不例外，传统的种植牙的话需要4-6个月才能完成整个种植过程，于是出现了即刻种植手术，但并不是有很多人能了解，<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>手术需要多长时间呢？</strong></span></a>
+<div class="content" id="haogesuz">
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="种植牙" src="/uploads/allimg/c180322/1521D4U2D10-3Q08.jpg" style="width: 400px; height: 220px; border-width: 0px; border-style: solid; margin-top: 0px; margin-bottom: 0px;" title="种植牙" /><br />
+<strong><span style="color: rgb(255, 0, 0);">》》》点击咨询在线医生</span></strong></a></p>
+<h2><span style="color: rgb(255, 0, 0);">什么是即刻种植手术</span></h2>
+<p>&nbsp; &nbsp; 顾名思义，从字面意思理解，就是马上可以实现种植牙的手术。在口腔医学上，即刻种植手术是在一种对于牙齿缺失的朋友即刻进行种植牙的手术，即拔即种，可以说是同步进行，在较短时间内即刻完成种植牙的手术。</p>
+<p>&nbsp; &nbsp; 传统的种植牙一般要经过先拔牙再等两到三个月进行种植体的植入，即刻种植牙手术就是针对这个缺点，可以实现即刻种植，在治疗的疗程上大大缩短了，这无疑是种植牙在口腔医学上的一大进步。</p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0201/20180201050747673.jpg" style="width: 550px; height: 130px;" /></a></p>
+<h2><span style="color: rgb(255, 0, 0);">即刻种植手术需要多长时间</span></h2>
+<p>&nbsp; &nbsp; 一般即刻种植牙的话对口腔的条件要求较高，需要牙周无炎症并且牙槽骨无吸收损坏现象才能进行即刻种植牙的手术。另外，即刻种植牙要比传统的种植牙手术要有一定的优势，比较直观的就是可以减少患者的痛苦。</p>
+<p>&nbsp; &nbsp; 即刻种植手术的话一般要求医师的水平比种植牙的还要高，因为哪怕是一点的操作不到位，就有可能使得整个手术失败，对牙齿造成的损害是无可估量的，这就要求我们要找到专业的口腔机构进行即刻种植牙手术。</p>
+<p>&nbsp; &nbsp; 做好了即刻种植牙之后也不要放松，还是要认真的刷牙，保持口腔卫生，保护好我们的牙齿，不管是真牙还是种植牙，都是要受到一样的保护的。</p>
+</div>
+<div class="huihui" id="hd_a" style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><img src="/uploads/allimg/c180322/1521D4U3M10-51303.jpg" style="width: 450px; height: 280px;" /></a></div>
+<div id="s-a-b-swt">
+<div class="m24_c1">
+<p><span style="color: rgb(255, 0, 0);"><strong>&nbsp; &nbsp; 温馨提示</strong></span><em>：</em>有问题？直接在线咨询！更多有关口腔资讯，症状诊断，治疗费用，可以<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>点击咨询</strong></span></a>或拨打免费咨询热线：<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>400-6655-111</strong></span></a>。维尔口腔为全国连锁口腔专科医院，选择我们让未来生活更美好！</p>
+<div>&nbsp;</div>
+</div>
+</div>
+<br />{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D4U2D10-3Q08_lit.jpg{/dede:field}

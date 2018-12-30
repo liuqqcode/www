@@ -1,0 +1,30 @@
+{dede:field name='keywords'}怎么办{/dede:field}
+{dede:field name='description'}5月天就好像大夏天似得，让人觉得无比炎热，这时候来上一份冰激凌，再配着一份冰奶茶，这感觉也是没谁了，仿佛就好像降温10度。可这时{/dede:field}
+{dede:field name='title'}牙痛怎么办？{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size: 16px;">&nbsp; &nbsp; 5月天就好像大夏天似得，让人觉得无比炎热，这时候来上一份冰激凌，再配着一份冰奶茶，这感觉也是没谁了，仿佛就好像降温&ldquo;10度&rdquo;。可这时，突如其来的牙疼，让我们不得不放下手中的&ldquo;挚爱&rdquo;，为什么会牙疼，很多朋友摸不着北。朋友们，牙疼不会无事不登三宝殿，既然牙疼了，肯定实在暗示你哪里出问题了。</span>
+<p style="font-size: 13.3333px; text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙疼.jpg" src="http://beij.wekq.net/uploadfile/2017/0605/20170605042020734.jpg" style="width: 300px; height: 204px; border-width: 0px; border-style: solid; margin-top: 0px; margin-bottom: 0px;" title="牙疼.jpg" /></a></span></p>
+<h2><span style="font-size: 16px;"><span style="color: rgb(255, 0, 0);">突如其来的牙疼，实在是很心累</span></span></h2>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 一吃刺激性的东西就牙疼，很有可能你的牙本质已经过敏了，因为小主们的釉质已经受到威胁，导致牙本质暴露，所以吃到过冷的东西才会十分酸疼。为什么釉质会被影响，这是因为一直被磨耗，外伤或者说是酸蚀等等都会威胁到釉质。另外的情况呢就是蛀牙了。当蛀牙蛀到一定程度后，如果已经快接近牙神经，那么肯定一吃过冷的就牙疼，它多敏感啊。</span></p>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 还有不得不说的那就是牙髓炎了，为什么会有牙髓炎那也是因为蛀牙，蛀牙一直不去理会到之后就会变成牙髓炎，这牙髓炎不但吃冰的会牙疼，一旦受热的刺激也会疼，不分昼夜的疼。说了这么多，怎能不提牙齿裂缝这个黑手，因为一旦牙齿隐裂，就会通过牙体小管来使的牙疼，不单单一吃刺激性食物会这样，咬硬物时更会如此。朋友们，知道为什么会牙疼了么。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>》》》点击咨询</strong></span></a></span></p>
+<h2><span style="font-size: 16px;"><span style="color: rgb(255, 0, 0);">怎么才能让牙齿恢复往日的英姿飒爽</span></span></h2>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 既然已经找到了原因，那肯定对症下药。如果说对于牙齿过敏，那得去正规口腔医院，医生会根据你的情况来治疗，一般会进行脱敏，根管治疗等的一系列治疗。牙本质是这么解决，那么蛀牙呢？相对于蛀牙，如果是浅中度的蛀牙那是可以补得，将坏的组织去除，经过消毒后再将材料补进去，这么做是为了不让蛀牙继续往深层次发展，而且也可以恢复外观。</span></p>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 对于疼起来不分日夜的牙髓炎来说，牙神经已经被受到影响，所以一般的补牙已经不起作用，这时候该上场的就是根管治疗，将坏掉的牙神经组织给去除，之后进行消毒，再材料将其补好，为了保护受损的牙齿，所以在根管治疗后会安上牙冠。说了这么多，自然不会忘了牙齿隐裂，找到有经验的医生，然后会建议你采用锆瓷冠等的修复技术。</span></p>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 牙疼的感觉，我知道真的不好受，我们只要找对医院找到人，我们的烦恼就会被缓解，还有一点也是自然要说，平时不管怎样要养成早晚刷牙，饭后漱口的好习惯，这样咱的口腔才能健健康康，不给我们搞事。</span></p>
+<p style="font-size: 13.3333px; text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0605/20170605042035399.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p style="font-size: 13.3333px;"><br />
+<span style="font-size: 16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询：<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size: 16px;">&nbsp; &nbsp; 5月天就好像大夏天似得，让人觉得无比炎热，这时候来上一份冰激凌，再配着一份冰奶茶，这感觉也是没谁了，仿佛就好像降温&ldquo;10度&rdquo;。可这时，突如其来的牙疼，让我们不得不放下手中的&ldquo;挚爱&rdquo;，为什么会牙疼，很多朋友摸不着北。朋友们，牙疼不会无事不登三宝殿，既然牙疼了，肯定实在暗示你哪里出问题了。</span>
+<p style="font-size: 13.3333px; text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="牙疼.jpg" src="/uploads/allimg/c180322/1521D9114Cb0-42427.jpg" style="width: 300px; height: 204px; border-width: 0px; border-style: solid; margin-top: 0px; margin-bottom: 0px;" title="牙疼.jpg" /></a></span></p>
+<h2><span style="font-size: 16px;"><span style="color: rgb(255, 0, 0);">突如其来的牙疼，实在是很心累</span></span></h2>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 一吃刺激性的东西就牙疼，很有可能你的牙本质已经过敏了，因为小主们的釉质已经受到威胁，导致牙本质暴露，所以吃到过冷的东西才会十分酸疼。为什么釉质会被影响，这是因为一直被磨耗，外伤或者说是酸蚀等等都会威胁到釉质。另外的情况呢就是蛀牙了。当蛀牙蛀到一定程度后，如果已经快接近牙神经，那么肯定一吃过冷的就牙疼，它多敏感啊。</span></p>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 还有不得不说的那就是牙髓炎了，为什么会有牙髓炎那也是因为蛀牙，蛀牙一直不去理会到之后就会变成牙髓炎，这牙髓炎不但吃冰的会牙疼，一旦受热的刺激也会疼，不分昼夜的疼。说了这么多，怎能不提牙齿裂缝这个黑手，因为一旦牙齿隐裂，就会通过牙体小管来使的牙疼，不单单一吃刺激性食物会这样，咬硬物时更会如此。朋友们，知道为什么会牙疼了么。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>》》》点击咨询</strong></span></a></span></p>
+<h2><span style="font-size: 16px;"><span style="color: rgb(255, 0, 0);">怎么才能让牙齿恢复往日的英姿飒爽</span></span></h2>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 既然已经找到了原因，那肯定对症下药。如果说对于牙齿过敏，那得去正规口腔医院，医生会根据你的情况来治疗，一般会进行脱敏，根管治疗等的一系列治疗。牙本质是这么解决，那么蛀牙呢？相对于蛀牙，如果是浅中度的蛀牙那是可以补得，将坏的组织去除，经过消毒后再将材料补进去，这么做是为了不让蛀牙继续往深层次发展，而且也可以恢复外观。</span></p>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 对于疼起来不分日夜的牙髓炎来说，牙神经已经被受到影响，所以一般的补牙已经不起作用，这时候该上场的就是根管治疗，将坏掉的牙神经组织给去除，之后进行消毒，再材料将其补好，为了保护受损的牙齿，所以在根管治疗后会安上牙冠。说了这么多，自然不会忘了牙齿隐裂，找到有经验的医生，然后会建议你采用锆瓷冠等的修复技术。</span></p>
+<p style="font-size: 13.3333px;"><span style="font-size: 16px;">&nbsp; &nbsp; 牙疼的感觉，我知道真的不好受，我们只要找对医院找到人，我们的烦恼就会被缓解，还有一点也是自然要说，平时不管怎样要养成早晚刷牙，饭后漱口的好习惯，这样咱的口腔才能健健康康，不给我们搞事。</span></p>
+<p style="font-size: 13.3333px; text-align: center;"><span style="font-size: 16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521D911522K0-535R.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p style="font-size: 13.3333px;"><br />
+<span style="font-size: 16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询：<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color: rgb(255, 0, 0);"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D9114Cb0-42427_lit.jpg{/dede:field}

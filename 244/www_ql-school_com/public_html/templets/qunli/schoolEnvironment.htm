@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+
+
+
+
+<link type="text/css" rel="stylesheet" href="{dede:global.cfg_templets_skin/}/css/schoolEnvironment.css" />
+
+
+
+
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+    <!--<script src="{dede:global.cfg_templets_skin/}/js/autoImg.js"></script>-->
+
+
+
+
+
+
+
+</head>
+
+<body>
+
+  {dede:include filename="head.htm"/}
+
+
+
+
+ <!--最热消息-->
+        <div class="hotNews">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}     
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span>028-85831188</span> <span>18981933384</span>
+                   
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="divUpperAll">
+	<div class="divUpper">
+		<div class="divColor">
+			<img src="{dede:global.cfg_templets_skin/}/images/environment.gif" width="356" height="82" class="imgEnvironTxt" />
+    		<img src="{dede:global.cfg_templets_skin/}/images/environBig.jpg" width="990" height="276" /> 
+    	</div>
+	</div>
+</div>
+
+<div class="divFloralWrapper">
+<div class="divBar">
+<img src="{dede:global.cfg_templets_skin/}/images/barPic1.jpg" width="410" height="273" class="imgBarPic" /> 
+<p>
+群丽化妆学校属于成都市锦江区群丽摄影和形像设计职业技能培训学校投入雄厚的教学资金而成立的，本校引进先进的教学设备，凭借丰富的教学经验，邀请台湾资深形像设计师对课程进行合理设置，并聘请资深化妆师、美甲师进行教学，为学员提供专业的技术课程。</p>
+
+
+</div>
+
+<div class="divBar" style="margin-top:40px;">
+<img src="{dede:global.cfg_templets_skin/}/images/barPic2.jpg" width="410" height="273" class="imgBarPic"/> 
+<p style="padding-top:50px;">
+学校拥有国家高级化妆造型师、国家高级彩妆师、个人形象设计师、时尚化妆造型师、国家高级美甲师等，雄厚师资力量，一流教学环境，多年教学经验，专业知识与精湛技术完美结合，群丽化妆学校开拓出自身特色教学模式及教学理念，奠定了业界的专业领先地位，并多次获得化妆造型金奖、最佳就业奖、最佳诚信奖、最佳课程奖等荣誉，专业时尚杂志多次刊登本校作品，目前已成为中国西南最具影响力的化妆美甲技术培训学校。
+</p>
+</div>
+</div>
+
+
+
+
+
+
+<div class="divFloralWrapper floralWrapper2">
+<div class="divBar" style="margin-top:40px;">
+<img src="{dede:global.cfg_templets_skin/}/images/barPic3.jpg" width="410" height="273" class="imgBarPic"/> 
+<p style="padding-top:60px;">
+群丽化妆学校在化妆领域中是全国最早把西蔓色彩融入到化妆造型中，坚持以唯美、时尚、大气、经典、百变造型为导向，以实用性、高水准的教学水平，培养出技术扎实，专业性强，把握时尚趋势的技术人才。并且多年的沉淀与实力的积累，多次获得最佳就业奖、最佳诚信奖、最佳课程奖等荣耀。同时经常与时尚杂志合作并刊登作品，并围绕“化妆+发型+色彩=化妆造型师”全新概念与核心。并且得到大众学员及业界专业同行认可，最终使群丽化妆学校成为业界先驱。
+</p>
+</div>
+
+
+<div class="divBar" style="margin-top:40px;">
+<img src="{dede:global.cfg_templets_skin/}/images/barPic4.jpg" width="410" height="273" class="imgBarPic"/> 
+<p style="padding-top:100px;">
+经过多年的努力群丽化妆学校开拓出了自身特效的教学模式及教学理念。群丽化妆学校教学采用“理论”与“实践“的结合，注重实践运用教学方式。并为每一位学员提供优良的教学环境。让每位学员在丰富的教学实力下参与到理论与实践中，从而提高专业的实际升华。
+</p>
+</div>
+</div>
+
+
+
+        <!--footer-->
+{dede:include filename="footer.htm"/}
+
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<title></title>
+</head>
+<script src="/js/jquery-1.9.1.min.js"></script>
+<body>
+<form id="form1" name="form1" method="post">
+<table>
+<tr>
+<td>姓名</td>
+<td><input type='text' name='name' value="姓名" /></td>
+</tr>
+<tr>
+<td>年龄</td>
+<td><input type='text' name='age' value="年龄" /></td>
+</tr>
+<tr>
+<td>性别</td>
+<td><input type='text' name='sex' value="性别"/></td>
+</tr>
+<tr>
+<td>身高</td>
+<td><input type='text' name='shengao' value="身高"/></td>
+</tr>
+<tr>
+<td>电话</td>
+<td><input type='text' name='tel' value="电话"/></td>
+</tr>
+<tr>
+<td>病症</td>
+<td><input type='text' name='bz' value="病症"/></td>
+</tr>
+<tr>
+<td>预约时间</td>
+<td><input type='text' name='time' onclick="laydate()" value="预约时间"/></td>
+</tr>
+<tr>
+<td>检查项目</td>
+<td><input type='text' name='jcxm' value="检查项目"/></td>
+</tr>
+<tr>
+<tr>
+<td>病情描述</td>
+<td><input type='text' name='zzms' value="病情描述"/></td>
+</tr>
+</table>
+<tr>
+<td colspan='2'><input type='button' onclick="return tijiao();" value='提交'/></td>
+</tr>
+</form>
+<script type="text/javascript"src="/js/laydate/laydate.js"></script>
+<script type='text/javascript' src='http://pv.sohu.com/cityjson?ie=utf-8'></script>
+<script type="text/javascript">
+function tijiao() {
+	var nowDate = new Date();
+	var str = nowDate.getFullYear() + "-" + (nowDate.getMonth() + 1) + "-" + nowDate.getDate() + " " + nowDate.getHours() + ":" + nowDate.getMinutes() + ":" + nowDate.getSeconds();
+	var cnmurl = document.referrer;
+	var weburl = window.location.href;
+	var cnmwda = cnmurl.split("//")[1];
+	var weburla = weburl.split("//")[1];
+	var weburlas = returnCitySN["cip"] + ',' + returnCitySN["cname"];
+	var data = $("#form1").serializeArray();
+
+		postData = {};
+		$(data).each(function(i) {
+			postData[this.name] = this.value;
+		});
+		postData["str"]=str;
+		postData["weburla"]=weburla;
+		postData["cnmwda"]=cnmwda;
+		postData["weburlas"]=weburlas;
+		console.log(postData);
+		url = 'http://tyly.xnetyy.com/message.php';
+		$.post(url, postData, function(result) {alert(result)});
+}
+
+
+</script>
+</body>
+</html>

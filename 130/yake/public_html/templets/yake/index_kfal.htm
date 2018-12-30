@@ -1,0 +1,1373 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=0.5,maximum-scale=0.5,minimum-scale=0.5" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=7" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+    <link rel="stylesheet" type="text/css" href="/css/right_nav.css">
+    <script src="js/jquery-2.0.3.min.js"></script>
+    <script src="js/doudong1.js"></script>
+</head>
+
+<body>
+    <div class="main">
+        <div class="nav auto">
+            <div class="nav_left float">
+                <a href="/"><img src="images/logo.png"></a>
+            </div>
+            <div class="nav_center float">
+                <ul>
+                    <li><a href="/">首页</a></li>
+                    <li><a href="/yyjj/">医院简介</a></li>
+                    <li><a href="/syq/">医疗团队</a></li>
+                    <li><a href="/alfx/">案例分享</a></li>
+                    <li><a href="/ykzsI/">牙科知识</a></li>
+                    <li><a href="/cclx/">乘车路线</a></li>
+                </ul>
+            </div>
+            <div class="nav_right float">
+                <img src="images/dh.png">
+            </div>
+        </div>
+        <div class="banner auto">
+            <img src="images/banner.jpg">
+        </div>
+        <style>
+        .bgon {
+
+            color: #fff;
+
+            background: #f7ab71;
+
+            display: block;
+
+            width: 173px;
+
+            height: 41px;
+
+            margin: 0 auto;
+        }
+
+        .bgon:link {
+
+            color: #fff;
+        }
+
+        .bgon:visited {
+
+            color: #fff;
+        }
+        </style>
+        <div class="left_list auto">
+            <div class="right_list">
+                <div class="r_list_top">
+                    <img src="images/r_list_zi.png">
+                </div>
+                <ul class="pt_nav">
+                    <li>
+                        <a href="/yyjj/">
+                            <div>
+                                医院简介 </div>
+                            <span>医院简介</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/yltd/">
+                            <div>
+                                医疗团队 </div>
+                            <span>医疗团队</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/alfx/">
+                            <div>
+                                案例分享 </div>
+                            <span>案例分享</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/xwdt/">
+                            <div>
+                                新闻动态 </div>
+                            <span>新闻动态</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/gyhd/">
+                            <div>
+                                公益活动 </div>
+                            <span>公益活动</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/tsjs/">
+                            <div>
+                                特色技术 </div>
+                            <span>特色技术</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/ykzsI/">
+                            <div>
+                                牙科知识 </div>
+                            <span>牙科知识</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/spkp/">
+                            <div>
+                                视频中心 </div>
+                            <span>视频中心</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/yyhj/">
+                            <div>
+                                医院环境 </div>
+                            <span>医院环境</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/cclx/">
+                            <div>
+                                乘车路线 </div>
+                            <span>乘车路线</span>
+                        </a>
+                    </li>
+                </ul>
+                <script type="text/javascript">
+                $(document).ready(function() {
+
+
+
+                    $(".pt_nav a").each(function() {
+
+                        $this = $(this);
+
+                        if ($this[0].href == String(window.location)) {
+
+                            $this.addClass("bgon");
+
+                        }
+
+                    });
+
+                });
+                </script>
+                <div class="r_list_bottom">
+                    <div class="r_l_b_icon">
+                        <img src="images/icon.png">
+                    </div>
+                    <div class="r_l_b_xinxi">
+                        <span>拨打全国爱牙热线</span>
+                        <span>
+
+							<img src="images/dh.png">
+
+						</span>
+                        <span>8: 30-20: 30（节假日无休）</span>
+                    </div>
+                </div>
+            </div>
+            <script src="js/alfx.js"></script>
+            <link rel="stylesheet" type="text/css" href="/css/alfx.css">
+            <div class="left_main">
+                <div class="left_top">
+                    <span>&nbsp;&nbsp;案例分享</span>
+                    <span>当前位置 : <a href="">网站首页</a> > <a href="">案例分享</a></span>
+                </div>
+                <div class="left_center">
+                    <div class="sp_nav">
+                        <ul class="sp_ul">
+                            <li class="li_bg">种植案例</li>
+                            </a>
+                            <li>矫正案例</li>
+                            </a>
+                            <li>烤瓷牙案例</li>
+                            </a>
+                            <li>贴面案例</li>
+                            </a>
+                            <li>补牙案例</li>
+                            </a>
+                            <li>美白案例</li>
+                            </a>
+                            <li style="border-right:1px solid #f7ab71">洗牙案例</li>
+                            </a>
+                        </ul>
+                    </div>
+                    <div class="al_list product-wrap">
+                        <!--<ul class="xc_bottom show">
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411100959126.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411100959126.jpg" width="41" height="41">
+
+											<span>小李</span>
+
+											<span>龅牙不齐</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>悄然间让龅牙妹变得整齐又漂亮</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>大学毕业后上班面试感觉一直没自信，只因牙齿有点突出，我这个牙齿是先天性的，小时候也一直没注意，到了高中大学又因学业耽搁了，到了社会才发现，形象是多么的重要，尤其一些工
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/jzal_0411/153.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411101056758.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411101056758.jpg" width="41" height="41">
+
+											<span>小丽</span>
+
+											<span>牙齿层次不齐</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>陶瓷半隐形矫正让牙齿改斜归正</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>小丽是一家企业的秘书，平常需要帮助老总办理相关文件事项也需要接待行业的客人，所以形象这块非常至关重要的，这点小丽也深有体会，所以也一直想解决自己牙齿不齐的情况，通过朋
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/jzal_0411/154.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411101122739.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411101122739.jpg" width="41" height="41">
+
+											<span>杨女士</span>
+
+											<span>牙齿前后不齐</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>隐形矫正让笑容不再难以启齿</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>杨女士是一家电子商务公司部门主管，作为负责人的角色一直也特别注重自己形象，但是因牙齿前后不齐一直心里不是滋味，作为完美主义的杨女士还是决定要矫正自己的牙齿，让自己更完
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/jzal_0411/155.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li style="margin-right:0px;">
+
+								<div class="al_li_img"><img src="images/20170411101209216.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411101209216.jpg" width="41" height="41">
+
+											<span>张女士</span>
+
+											<span>虎牙突出不齐</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>矫正改变的不止牙齿更是自信人生</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>张女士是一名个体服装店的小老板，平常接待顾客时也是经常有说有笑，作为一名女强人，也是特别的爱面子，面对自己不齐的牙齿也确实是硬伤，一直想改变下，后来听说牙齿矫正这块成
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/jzal_0411/156.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411102046669.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411102046669.jpg" width="41" height="41">
+
+											<span>陈先生</span>
+
+											<span>门牙发育不全</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>自卑男孩成功转变成自信帅哥</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>陈先生是从事it职业的，也是北漂一族，眼看也到结婚年龄了，家里也催的紧，但是迟迟一直没有找到女朋友，而罪魁祸首就是因为自己的牙齿门牙因发育不良造成牙齿
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/tmal_0411/157.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411102119578.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411102119578.jpg" width="41" height="41">
+
+											<span>刘女士</span>
+
+											<span>牙齿残缺</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>美牙贴面让我找回了美丽和自信</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>来自外企的刘女士是一名高材生，大学一直是学霸级的，到了毕业后工作也是进入了500强的企业，但是到了上班时一向自信的刘女士开始自卑了起来，看到很多国外的同事在交流沟通时牙齿
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/tmal_0411/158.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411102235699.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411102235699.jpg" width="41" height="41">
+
+											<span>邱女士</span>
+
+											<span>氟斑牙、黑、黄</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>从不善言谈到美丽自信谈吐蜕变</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>邱女士是一位银行职员，每天面对上百名顾客，但因牙齿有氟斑牙一直在工作过程中不好经常开口说话，顾客问东问西时也是极少的回答，因此部门主管还批评过她，所以一直想解决自己牙
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/tmal_0411/160.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li style="margin-right:0px;">
+
+								<div class="al_li_img"><img src="images/20170411102308638.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411102308638.jpg" width="41" height="41">
+
+											<span>郑女士</span>
+
+											<span>氟斑牙,牙齿不齐</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>单身大龄女改变了牙齿迎来了幸福</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>郑女士是一名幼儿园老师，工作一直努力的她一直在向着追求幸福生活目标而奔走着，然而现实却非常的残忍，总是那么不顺利，曾经也谈过男朋友，最终不欢而散，就这样一直拖着一直到
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/kcyal_0411/161.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411102331246.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411102331246.jpg" width="41" height="41">
+
+											<span>小华</span>
+
+											<span>色素牙</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>美国冷光美白让牙齿黑黄消失无影踪</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>小华是一名大学即将毕业的学生，在传媒大学，所以自身比较在意形象这块，但是从小牙齿就发黄没有特别的在意，现在即将毕业走向社会，感觉这样会影响自己就业，所以想尽快解决牙齿
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/mbal_0411/162.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411102409835.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411102409835.jpg" width="41" height="41">
+
+											<span>雷女士</span>
+
+											<span>牙齿发黑</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>告别了自己多年的黑牙美丽从齿开始</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>雷女士普通工薪族，平常饮食各方面不太注重，也喜欢喝色素咖啡，所以牙齿常年变的又黑又黄，到了这个年龄也希望自己的状态更年轻
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/mbal_0411/163.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li>
+
+								<div class="al_li_img"><img src="images/20170411102521864.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411102521864.jpg" width="41" height="41">
+
+											<span>Linda</span>
+
+											<span>牙齿发黄</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>貌美牙为先,齿白三分俏</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>Linda是美国来的一位姑娘，现在北京一家外企公司上班，再美国每年她都会经常洗牙，近几年来到中国后爱上了这边的美食，所以对牙齿的维护就没
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/mbal_0411/164.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+							<li style="margin-right:0px;">
+
+								<div class="al_li_img"><img src="images/20170411102643317.jpg" width="220" height="242"></div>
+
+								<div class="al_li_border">
+
+									<div class="al_li_xia">
+
+									&nbsp;
+
+										<div class="li_xia_top">
+
+											<img src="images/20170411102643317.jpg" width="41" height="41">
+
+											<span>池先生</span>
+
+											<span>全口牙脱落缺失</span>
+
+										</div>
+
+										<div class="li_xia_title">
+
+											<span>即刻微创种植让牙齿焕然新生</span>
+
+										</div>
+
+										<div class="li_xia_content">
+
+											<span>牙齿缺失有10多年了，一直吃饭生活不方便，之前用过活动假牙，但是老是吃东西咬不住，而且还要经常清洗太麻烦，感觉吃饭都吃不好味，后来再朋友介绍下来到万和口腔医院询问了下牙
+
+											</span>
+
+										</div>
+
+										<div class="li_xia_input">
+
+											<a href="/2017/zzal_0411/165.html"><span class="li_input_1">点击详情</span></a>
+
+											<span class="li_input_2">2017-04-11</span>
+
+										</div>
+
+									</div>
+
+								</div>								
+
+							</li>
+
+						</ul>-->
+                        <ul class="">
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102643317.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102643317.jpg" width="41" height="41">
+                                            <span>池先生</span>
+                                            <span>全口牙脱落缺失</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>即刻微创种植让牙齿焕然新生</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>牙齿缺失有10多年了，一直吃饭生活不方便，之前用过活动假牙，但是老是吃东西咬不住，而且还要经常清洗太麻烦，感觉吃饭都吃不好味，后来再朋友介绍下来到万和口腔医院询问了下牙
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/zzal/165.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102707423.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102707423.jpg" width="41" height="41">
+                                            <span>王先生</span>
+                                            <span>全口牙缺失</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>种植牙摆脱多年缺牙烦恼重获年轻生活</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>王老是一位多年退休的职工，随着年龄逐渐的增大，越发感觉自己生活饮食出现了烦恼，因为早期的牙齿因年轻时没有爱护好，所以在60岁左右就全部牙齿脱落完了，早前也使用过假牙和挂
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/zzal/166.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102729599.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102729599.jpg" width="41" height="41">
+                                            <span>张女士</span>
+                                            <span>单颗牙缺失</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>即刻微创种植牙重拾自信魅力</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>张女士是一名老师，一直在教书育人的一线多年，因一次意外牙齿碰掉了，所以想通过烤瓷牙的治疗方式来进行治疗，后来听朋友介绍来到万和口腔
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/zzal/167.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li style="margin-right:0px;">
+                                <div class="al_li_img"><img src="images/20170411102814272.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102814272.jpg" width="41" height="41">
+                                            <span>刘先生</span>
+                                            <span>牙齿全口缺失</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>“一日得”种植从齿种出好口福</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>春季5月刘先生和老伴来到万和医院，听身边朋友说这边有治疗全口牙的技术非常好，其中提到刘志杰院长，也是慕名而来，希望能解决自己常年牙齿缺失的困扰，希望晚年了有个好口福
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/zzal/168.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class=" hide">
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411100959126.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411100959126.jpg" width="41" height="41">
+                                            <span>小李</span>
+                                            <span>龅牙不齐</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>悄然间让龅牙妹变得整齐又漂亮</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>大学毕业后上班面试感觉一直没自信，只因牙齿有点突出，我这个牙齿是先天性的，小时候也一直没注意，到了高中大学又因学业耽搁了，到了社会才发现，形象是多么的重要，尤其一些工
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/jzal/153.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411101056758.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411101056758.jpg" width="41" height="41">
+                                            <span>小丽</span>
+                                            <span>牙齿层次不齐</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>陶瓷半隐形矫正让牙齿改斜归正</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>小丽是一家企业的秘书，平常需要帮助老总办理相关文件事项也需要接待行业的客人，所以形象这块非常至关重要的，这点小丽也深有体会，所以也一直想解决自己牙齿不齐的情况，通过朋
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/jzal/154.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411101122739.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411101122739.jpg" width="41" height="41">
+                                            <span>杨女士</span>
+                                            <span>牙齿前后不齐</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>隐形矫正让笑容不再难以启齿</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>杨女士是一家电子商务公司部门主管，作为负责人的角色一直也特别注重自己形象，但是因牙齿前后不齐一直心里不是滋味，作为完美主义的杨女士还是决定要矫正自己的牙齿，让自己更完
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/jzal/155.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li style="margin-right:0px;">
+                                <div class="al_li_img"><img src="images/20170411101209216.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411101209216.jpg" width="41" height="41">
+                                            <span>张女士</span>
+                                            <span>虎牙突出不齐</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>矫正改变的不止牙齿更是自信人生</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>张女士是一名个体服装店的小老板，平常接待顾客时也是经常有说有笑，作为一名女强人，也是特别的爱面子，面对自己不齐的牙齿也确实是硬伤，一直想改变下，后来听说牙齿矫正这块成
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/jzal/156.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class="hide">
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102308638.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102308638.jpg" width="41" height="41">
+                                            <span>郑女士</span>
+                                            <span>氟斑牙,牙齿不齐</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>单身大龄女改变了牙齿迎来了幸福</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>郑女士是一名幼儿园老师，工作一直努力的她一直在向着追求幸福生活目标而奔走着，然而现实却非常的残忍，总是那么不顺利，曾经也谈过男朋友，最终不欢而散，就这样一直拖着一直到
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/kcyal/161.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class="hide">
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102046669.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102046669.jpg" width="41" height="41">
+                                            <span>陈先生</span>
+                                            <span>门牙发育不全</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>自卑男孩成功转变成自信帅哥</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>陈先生是从事it职业的，也是北漂一族，眼看也到结婚年龄了，家里也催的紧，但是迟迟一直没有找到女朋友，而罪魁祸首就是因为自己的牙齿门牙因发育不良造成牙齿
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/tmal/157.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102119578.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102119578.jpg" width="41" height="41">
+                                            <span>刘女士</span>
+                                            <span>牙齿残缺</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>美牙贴面让我找回了美丽和自信</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>来自外企的刘女士是一名高材生，大学一直是学霸级的，到了毕业后工作也是进入了500强的企业，但是到了上班时一向自信的刘女士开始自卑了起来，看到很多国外的同事在交流沟通时牙齿
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/tmal/158.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102235699.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102235699.jpg" width="41" height="41">
+                                            <span>邱女士</span>
+                                            <span>氟斑牙、黑、黄</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>从不善言谈到美丽自信谈吐蜕变</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>邱女士是一位银行职员，每天面对上百名顾客，但因牙齿有氟斑牙一直在工作过程中不好经常开口说话，顾客问东问西时也是极少的回答，因此部门主管还批评过她，所以一直想解决自己牙
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/tmal/160.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class="hide">
+                            <li>
+                                <div class="al_li_img"><img src="images/20170420053707995.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170420053707995.jpg" width="41" height="41">
+                                            <span>小强</span>
+                                            <span>龋齿</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>牙齿有洞树脂补牙来解救</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>小强是一名初中生，因小时候喜欢吃糖性食品，牙齿一直没有得到有效保护，后牙都遭受了损坏，很多牙齿都有洞，小强妈妈实在看不下去了，带着孩子要解决牙齿问题，一方面也是担心孩
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/byal/202.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class=" hide">
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102331246.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102331246.jpg" width="41" height="41">
+                                            <span>小华</span>
+                                            <span>色素牙</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>美国冷光美白让牙齿黑黄消失无影踪</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>小华是一名大学即将毕业的学生，在传媒大学，所以自身比较在意形象这块，但是从小牙齿就发黄没有特别的在意，现在即将毕业走向社会，感觉这样会影响自己就业，所以想尽快解决牙齿
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/mbal/162.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102409835.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102409835.jpg" width="41" height="41">
+                                            <span>雷女士</span>
+                                            <span>牙齿发黑</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>告别了自己多年的黑牙美丽从齿开始</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>雷女士普通工薪族，平常饮食各方面不太注重，也喜欢喝色素咖啡，所以牙齿常年变的又黑又黄，到了这个年龄也希望自己的状态更年轻
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/mbal/163.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="al_li_img"><img src="images/20170411102521864.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170411102521864.jpg" width="41" height="41">
+                                            <span>Linda</span>
+                                            <span>牙齿发黄</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>貌美牙为先,齿白三分俏</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>Linda是美国来的一位姑娘，现在北京一家外企公司上班，再美国每年她都会经常洗牙，近几年来到中国后爱上了这边的美食，所以对牙齿的维护就没
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/mbal/164.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class="hide">
+                            <li>
+                                <div class="al_li_img"><img src="images/20170412042728745.jpg" width="220" height="242"></div>
+                                <div class="al_li_border">
+                                    <div class="al_li_xia">
+                                        &nbsp;
+                                        <div class="li_xia_top">
+                                            <img src="images/20170412042728745.jpg" width="41" height="41">
+                                            <span>王女士</span>
+                                            <span>牙结石</span>
+                                        </div>
+                                        <div class="li_xia_title">
+                                            <span>解决顽固牙结石快给牙齿洗洗澡</span>
+                                        </div>
+                                        <div class="li_xia_content">
+                                            <span>王女士是一名企业老总，常年高压下工作和应酬，让自己根本没有时间关心自己的身体，更别说对自己牙齿的关注了，一次万和搞了个活动恰巧送给了王女士一个优惠卡，然后王女士安排了
+
+											</span>
+                                        </div>
+                                        <div class="li_xia_input">
+                                            <a href="/xyal/201.html"><span class="li_input_1">点击详情</span></a>
+                                            <span class="li_input_2">2017-04-11</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div style="clear:both"></div>
+                </div>
+            </div>
+            <link rel="stylesheet" type="text/css" href="/skin/css/public.css">
+            <div class="left_bottom">
+                <ul>
+                    <a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn">
+                        <li>
+                            <span class="icon_img_1">
+
+							
+
+						</span>
+                            <span>
+
+							在线咨询
+
+						</span>
+                        </li>
+                    </a>
+                    <a href="/alfx/">
+                        <li>
+                            <span class="icon_img_2">
+
+							
+
+						</span>
+                            <span>
+
+							案例分享
+
+						</span>
+                        </li>
+                    </a>
+                    <a href="/zzyjgb/">
+                        <li>
+                            <span class="icon_img_3">
+
+							
+
+						</span>
+                            <span>
+
+							牙科知识
+
+						</span>
+                        </li>
+                    </a>
+                    <a href="/spkp/">
+                        <li>
+                            <span class="icon_img_4">
+
+						</span>
+                            <span>
+
+							牙科视频
+
+						</span>
+                        </li>
+                    </a>
+                    <a href="/gyhd/">
+                        <li>
+                            <span class="icon_img_5">
+
+							
+
+						</span>
+                            <span>
+
+							公益活动
+
+						</span>
+                        </li>
+                    </a>
+                </ul>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+    <div style="clear:both"></div>
+    <div class="foot_bg">
+        <div class="foot auto">
+            <ul>
+                <li>
+                    &nbsp;
+                    <div>
+                        <img src="images/logo2.png">
+                        <img src="images/dianhua.png">
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>走进万和</span>
+                        <a href="/yyjj/">医院简介</a>
+                        <a href="/cclx/">乘车路线</a>
+                        <a href="/yyhj/">医院环境</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>牙科知识</span>
+                        <a href="/zzyjgb/">牙齿种植</a>
+                        <a href="/ycjzjgi/">牙齿矫正</a>
+                        <a href="/kcyjgo/">烤瓷牙</a>
+                        <a href="/ycmbjgx/">牙齿美容</a>
+                        <a href="/ycsd3/">牙齿治疗</a>
+                        <a href="/zy8/">牙齿保健</a>
+                        <a href="/wgfbC/">儿童齿科</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>视频中心</span>
+                        <a href="/spkp/">万和风采</a>
+                        <a href="/spkp/">专家集锦</a>
+                        <a href="/spkp/">公益活动</a>
+                        <a href="/spkp/">牙齿科普</a>
+                        <a href="/spkp/">案例分享</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>特色专题</span>
+                        <a href="/tszt/zzy/">种植牙</a>
+                        <a href="/tszt/ycjz/">牙齿矫正</a>
+                        <a href="/tszt/kcy/">烤瓷牙</a>
+                        <a href="/tszt/ysm/">隐适美矫正</a>
+                        <a href="/tszt/ycmb/">牙齿美容</a>
+                        <a href="/tszt/All-on-4/">All-on-4</a>
+                        <a href="/tszt/hdyc/">活动义齿</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="font_li_div">
+                        <span>医院概况</span>
+                        <a href="/gyhd/">公益中心</a>
+                        <a href="/xwdt/">新闻动态</a>
+                        <a href="/alfx/">案例分享</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="banquan auto">
+        (京)医广【2018】第01-03-0013号 Copyright ©2016北京万和口腔医院有限公司所有 京ICP备11030245号-2
+    </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+{dede:field name='keywords'}类型{/dede:field}
+{dede:field name='description'}关于氟斑牙的类型有哪几种的问题，维尔口腔的医师表示其实在临床上，氟斑牙常按其轻、中、重度而分，主要有白垩型(轻度)、着色型(中度){/dede:field}
+{dede:field name='title'}氟斑牙的类型有哪几种{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 关于氟斑牙的类型有哪几种的问题，维尔口腔的医师表示其实在临床上，氟斑牙常按其轻、中、重度而分，主要有白垩型(轻度)、着色型(中度)和缺损型(重度)三种类型。而且根据他发病的原因也分为工业性氟中毒、地方性氟中毒、医源性氟中毒等。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="氟斑牙缺损图" src="http://beij.wekq.net/uploadfile/2017/0703/20170703022806664.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 153px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span style="font-size:16px;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">氟斑牙的类型有哪几种</span></span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔的医师对氟斑牙的类型有哪几种的看法是轻度氟斑牙者：牙齿呈黄褐色、黑褐色。中度氟斑牙者：有呕吐、恶心、腹泻，肠道出血等症状。严重氟斑牙者：有釉质实质性缺损。患牙呈对称性，可累及同一期发育的多个牙齿。骨、关节强硬，常呈半坐姿态，全身骨质疏松，脆弱易骨拆。查血液：可有红细胞、白细胞减少。严重斑釉的儿童，身长、体重、发育均迟缓。耐磨擦性差，而抗酸蚀力强。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 了解了氟斑牙的类型有哪几种，下面在给大家介绍一种治疗氟斑牙比较有效的牙齿美白方法，冷光牙齿美白疗程仅需短时间，利用特殊冷光作用在冷光美白剂上即可达到美白效果，只要就诊快速就可以看到美白效果。新特殊冷光美白科技，采用物理还原原理，对于牙龈或口腔组织都很安全，绝很难影响口腔组织。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>点击咨询</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="http://beij.wekq.net/uploadfile/2017/0703/20170703031512645.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 关于氟斑牙的类型有哪几种的问题，维尔口腔的医师表示其实在临床上，氟斑牙常按其轻、中、重度而分，主要有白垩型(轻度)、着色型(中度)和缺损型(重度)三种类型。而且根据他发病的原因也分为工业性氟中毒、地方性氟中毒、医源性氟中毒等。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="氟斑牙缺损图" src="/uploads/allimg/c180322/1521DC924G20-5Z38.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 153px;" /></a></span></div>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span style="font-size:16px;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">氟斑牙的类型有哪几种</span></span></span></h2>
+</section>
+</div>
+</div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔的医师对氟斑牙的类型有哪几种的看法是轻度氟斑牙者：牙齿呈黄褐色、黑褐色。中度氟斑牙者：有呕吐、恶心、腹泻，肠道出血等症状。严重氟斑牙者：有釉质实质性缺损。患牙呈对称性，可累及同一期发育的多个牙齿。骨、关节强硬，常呈半坐姿态，全身骨质疏松，脆弱易骨拆。查血液：可有红细胞、白细胞减少。严重斑釉的儿童，身长、体重、发育均迟缓。耐磨擦性差，而抗酸蚀力强。</span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 了解了氟斑牙的类型有哪几种，下面在给大家介绍一种治疗氟斑牙比较有效的牙齿美白方法，冷光牙齿美白疗程仅需短时间，利用特殊冷光作用在冷光美白剂上即可达到美白效果，只要就诊快速就可以看到美白效果。新特殊冷光美白科技，采用物理还原原理，对于牙龈或口腔组织都很安全，绝很难影响口腔组织。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>点击咨询</strong></span></a></span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploads/allimg/c180322/1521DC92aH0-CA1.jpg" style="width: 450px; height: 280px;" /></a></span></p>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DC924G20-5Z38_lit.jpg{/dede:field}

@@ -1,0 +1,261 @@
+/* CSS Document */
+
+
+
+body,ul,li,p,span,h3,h4,h2{
+
+	padding:0;
+
+	margin:0;
+
+
+}
+
+
+
+body{
+
+	background:#f6f6f6;
+
+	overflow-x:hidden;
+
+}
+
+
+
+a img{
+
+	border:none;
+
+}
+
+.clear{
+
+	clear:both;
+
+}
+
+
+
+#container,#header{
+
+	width:100%;
+
+}
+
+
+
+#sright{
+
+	height:310px;
+
+	position: fixed;
+
+	top: 80px;
+
+	right:5px;
+
+	z-index: 9999;
+
+	width:50px;
+
+}
+
+
+
+.srimg{
+
+	background:url(newstyleimg.png) #0048AA no-repeat;
+
+	width:50px;
+
+	height:310px;
+
+}
+
+
+
+#sright .srimg a{
+
+	width:50px;
+
+	height:50px;
+
+	display:block;
+
+	border-bottom:2px solid #FFF;
+
+	cursor:pointer;
+
+}
+
+
+
+#sright .srimg .s-zixun:hover{background:url(newstyleimg.png) 0 0 #0048AA no-repeat;}
+
+#sright .srimg .s-qq:hover{background:url(newstyleimg.png) 0 -52px  #0048AA no-repeat;}
+
+#sright .srimg .s-line:hover{background:url(newstyleimg.png) 0 -104px #0048AA no-repeat;}
+
+#sright .srimg .s-weixin:hover{background:url(newstyleimg.png) 0 -156px #0048AA no-repeat;}
+
+#sright .srimg .s-tel:hover{background:url(newstyleimg.png) 0 -208px #0048AA no-repeat;}
+
+
+
+#sright .srimg .s-weixin:hover p{
+
+	display:block;
+
+	position:absolute;
+
+	top:156px;
+
+	right:50px;
+
+}
+
+
+
+.hoverp{
+
+	display:none;
+
+	position:absolute;
+
+	top:208px;
+
+	right:50px;
+
+	background:#FFF;
+
+	width:225px;
+
+	height:94px;
+
+	background:url(http://www.jgyk120.com/images/tel.png) no-repeat;
+
+}
+
+
+
+.show{
+
+	display:none;
+
+}
+
+
+
+.api-lxb-cb-input{
+
+	position:absolute;
+
+	left:20px;
+
+	top:50px;
+
+}
+
+.api-lxb-cb-btn{
+
+	width:80px;
+
+	position:absolute;
+
+	left:125px;
+
+	top:52px;
+
+	padding:0;
+
+	border:none;
+
+	height:20px;
+
+	cursor:pointer;
+
+	text-align:left;
+
+	text-indent:0;
+
+}
+
+
+
+
+
+
+
+.api-lxb-cb-input2{
+
+	position:absolute;
+
+	left:250px;
+
+	top:12px;
+
+	z-index:100000;
+
+	border:none;
+
+	outline:none;
+
+	color:#8f8f8f;
+
+}
+
+.api-lxb-cb-btn2{
+
+	width:105px;
+
+	position:absolute;
+
+	left:400px;
+
+	top:10px;
+
+	padding:0;
+
+	border:none;
+
+	height:30px;
+
+	cursor:pointer;
+
+	text-align:left;
+
+	text-indent:0;
+
+	z-index:100000;
+
+
+
+}
+
+
+
+
+
+
+
+.wximg{
+
+	width: 300px;
+
+	height: 300px;
+
+	background: url(../images/wximg.jpg) center no-repeat #FFF;
+
+	border: 1px solid #d5d5d5;
+
+	position:relative;
+
+	z-index: 10000;
+
+	right: 0;
+
+}
+
+
+

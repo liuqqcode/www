@@ -1,0 +1,16 @@
+.error {
+    color: red;
+    font-weight: bolder;
+    /*text-align: center;*/
+    /*text-shadow: 1px 1px 1px #eee;*/
+    text-decoration: blink;
+}
+input[type=text], input[type=password], textarea {
+   /* text-shadow: 2px 2px 1px #ddd;*/
+}
+input[type=text]:hover, input[type=password]:hover, textarea:hover {
+    background-color: #ffc;
+}
+*[disabled=disabled] {
+    opacity: 0.6;
+}

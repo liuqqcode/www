@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+    <script src="{dede:global.cfg_templets_skin/}/js/imgControl.js"></script><!--点击切换图片-->
+    <script src="{dede:global.cfg_templets_skin/}/js/autoImg.js"></script><!--无缝自动图片轮播-->
+</head>
+<body>
+<div class="all">
+  {dede:include filename="head.htm"/}
+        <!--最热消息-->
+        <div class="hotNews">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}     
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span>028-8583 1188</span>
+                     <span>18981933384</span> 
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!--学校介绍-->
+        <div class="schoolIntro" id="schoolIntro">
+            <div class="schoolIntroContent">
+                <h1><a><img src="{dede:global.cfg_templets_skin/}/images/schoolIntro.png" alt=""/></a></h1>
+                <div>
+
+                    <p>成都市锦江区群丽摄影和形象设计职业技能培训学校，隶属于西南地区规模巨大的婚纱摄影机构之一“群丽婚纱摄影集团”</p>
+                    <p>学校于2004年2月由群丽婚纱摄影集团投资建校，是在新形势下组件的专业时尚学校，是目前西南地区大规模培养美容，化妆造型，摄影专业人才的基地</p>
+                    <p>投入雄厚的教学资金，引导先进的教学设备，凭借丰富的教学经验，邀请台湾资深形象设计师和摄影师对课程进行合理设置。</p>
+                    <p>并聘请资深化妆师和摄影师进行教学，为学员提供专业的技术课程。</p>
+                    <p>在整个学习过程中学校采用“理论与实践相结合，注重实际运用”的教学方式。</p>
+                    <p>并为每一位学员提供优良的教学环境，让每位学员在丰富的理论中能参与实践，从而提高专业的实质升华。</p>
+                </div>
+            </div>
+        </div>
+        <!--品牌文化-->
+        <div class="brandCulture" id="brandCulture">
+            <div class="brandCultureContent">
+                <h1><a><img src="{dede:global.cfg_templets_skin/}/images/brandLogo.png" alt=""/></a></h1>
+                <div class="brand" >
+                    <div class="brand1">
+                        <h4><span>品牌信赖</span></h4>
+                        <table>
+                            <tr>
+                                <td>
+                                    <span>2007 "群丽婚纱" 为指定摄影单位</span>
+                                    <span> 第59届 世界小姐大赛</span>
+
+                                </td>
+                                <td>
+                                    <span> 2008年北京奥运会 开闭幕式</span>
+                                   <span>2012年参加国际非遗博览园叁女叁活动</span>
+
+                                </td>
+                                <td>
+                                    <span>2009年国庆60周年阅兵式</span>
+                                </td>
+                            </tr>
+                        </table>
+                        <h4><span>品牌信赖</span></h4>
+                        <p>
+                            学校建校来，在坚持学院派教育的基础上，深入研究我国民族艺术的美学精神并广泛吸收西方现代化妆中的艺术成果。教
+                            学中注重培养学生的专业水平与道德修养，将学生的化妆基本功、化妆基本技能、化妆基础理论与独创性素质相结合；希
+                            望每一位学生都超越自我的力量美丽无法阻挡魅力无可抗拒插上群丽化妆技术学校的翅膀美丽一起飞翔.
+                        </p>
+                    </div>
+                    <div class="brand2">
+                        <h3>
+                            <a><img src="{dede:global.cfg_templets_skin/}/images/about1.png" alt=""/></a>
+                        </h3>
+                        <a style="width:150px"><img src="{dede:global.cfg_templets_skin/}/images/about2.png" alt=""/></a>
+                        <a  style="float:right;"><img src="{dede:global.cfg_templets_skin/}/images/brand.png" alt=""/></a>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+
+        <!--学校环境-->
+        <div class="production" style="height:850px" id="production">
+            <div class="titleBox">
+                <h1><a  style="width:340px"><img src="{dede:global.cfg_templets_skin/}/images/schoolenviro.png" alt=""/></a></h1>
+            </div>
+            <div class="worksContent">
+                <div id="demo">
+                    <div id="indemo">
+                        <ul id="demo1">
+                            <li class="wid1">
+                                <div><img src="{dede:global.cfg_templets_skin/}/images/scev1.png" alt=""/></div>
+                            </li>
+
+                            <li class="wid3">
+                                <div><img src="{dede:global.cfg_templets_skin/}/images/scev2.png" alt=""/></div>
+                            </li>
+                            <li class="wid2">
+                                <div class="smallImg"><img src="{dede:global.cfg_templets_skin/}/images/scev3.png" alt=""/></div>
+                                <div class="smallImg"><img src="{dede:global.cfg_templets_skin/}/images/scev4.png" alt=""/></div>
+                            </li>
+                            <li class="wid3">
+                                <div><img src="{dede:global.cfg_templets_skin/}/images/scev5.png" alt=""/></div>
+                            </li>
+                        </ul>
+                        <ul id="demo2"></ul>
+                    </div>
+                </div>
+                <div class="progress">
+                    <div></div>
+                </div>
+                <div class="honor" id="honor">
+                    <h1><a ><img src="{dede:global.cfg_templets_skin/}/images/honor.png" alt=""/></a></h1>
+                    <div class="girlsBox img-scroll">
+                        <a href="" class="click clickL prev"></a>
+                        <div class="girls img-list" style="margin-top:20px;">
+                            <ul>
+                        {dede:arclist typeid="11"  orderby='pubdate'}    
+                                <li><a href="">
+                                    [field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]
+                                </a></li>                                                                         
+                        {/dede:arclist} 
+                            </ul>
+                        </div>
+                        <a href="" class="clickR click next"></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!--footer-->
+{dede:include filename="footer.htm"/}
+</body>
+</html>

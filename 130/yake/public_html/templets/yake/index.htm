@@ -1,0 +1,832 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=0.5,maximum-scale=0.5,minimum-scale=0.5" />
+    <title>{dede:global.cfg_webname/}</title>
+    <meta content="{dede:global.cfg_keywords/}" name="Keywords">
+    <meta content="{dede:global.cfg_description/}" name="Description">
+    <link rel="stylesheet" href="/css/jquery.fancybox.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/index_style.css" type="text/css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+    <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/js/flowplayer-3.1.1.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.fancybox-1.2.1.pack.js"></script>
+    <script type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="/js/fancyplayer.js"></script>
+    <script src="/js/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript">
+    jQuery.noConflict();
+    </script>
+    <script src="/js/jquery.SuperSlide.2.1.1.js"></script>
+    <script src="/js/index.js"></script>
+    <script src="/js/111.js"></script>
+    <script src="/js/xxk.js"></script>
+    <style>
+    .flexslider {
+
+        position: relative;
+
+        height: 100%;
+
+        overflow: hidden;
+
+        zoom: 1;
+    }
+
+    .flexslider .slides li {
+
+        width: 100%;
+
+        height: 100%;
+    }
+
+
+
+    .flex-direction-nav a {
+
+        width: 70px;
+
+        height: 70px;
+
+        line-height: 99em;
+
+        overflow: hidden;
+
+        margin: -35px 0 0;
+
+        display: block;
+
+        background: url(images/ad_ctr.png) no-repeat;
+
+        position: absolute;
+
+        top: 50%;
+
+        z-index: 10;
+
+        cursor: pointer;
+
+        opacity: 0;
+
+        filter: alpha(opacity=0);
+
+        -webkit-transition: all .3s ease;
+
+        border-radius: 35px;
+    }
+
+
+
+    .flex-direction-nav .flex-next {
+
+        background-position: 0 -70px;
+
+        right: 0;
+    }
+
+
+
+    .flex-direction-nav .flex-prev {
+
+        left: 0;
+    }
+
+
+
+    .flexslider:hover .flex-next {
+
+        opacity: 0.8;
+
+        filter: alpha(opacity=25);
+    }
+
+
+
+    .flexslider:hover .flex-prev {
+
+        opacity: 0.8;
+
+        filter: alpha(opacity=25);
+    }
+
+
+
+    .flexslider:hover .flex-next:hover,
+
+    .flexslider:hover .flex-prev:hover {
+
+        opacity: 1;
+
+        filter: alpha(opacity=50);
+    }
+
+
+
+    .flex-control-nav {
+
+        width: 100%;
+
+        position: absolute;
+
+        bottom: 0;
+
+        text-align: center;
+
+        z-index: 99;
+    }
+
+
+
+    .flex-control-nav li {
+
+        margin: 0 2px;
+
+        display: inline-block;
+
+        zoom: 1;
+
+        *display: inline;
+    }
+
+
+
+    .flex-control-paging li a {
+
+        background: url(images/dot.png) no-repeat 0 -16px;
+
+        display: block;
+
+        height: 16px;
+
+        overflow: hidden;
+
+        text-indent: -99em;
+
+        width: 16px;
+
+        cursor: pointer;
+    }
+
+
+
+    .flex-control-paging li a.flex-active,
+
+    .flex-control-paging li.active a {
+
+        background-position: 0 0;
+    }
+    </style>
+</head>
+
+<body class="body_li">
+    <div style="clear:both"></div>
+    <div class="main">
+        {dede:include filename="header.htm" /} {dede:include filename="banner.htm" /}
+        <div class="column auto">
+            <ul>
+                <a href="/zt/yczzjs/" target="_blank">
+                    <li>
+                        <img src="/images/index_ico_ya1.png"> 牙齿种植
+                    </li>
+                </a>
+                <a href="/zt/mxxfjs/" target="_blank">
+                    <li>
+                        <img src="/images/index_ico_ya5.png"> 牙齿修复
+                    </li>
+                </a>
+                <a href="/zt/yczjjs/" target="_blank">
+                    <li>
+                        <img src="/images/index_ico_ya2.png"> 牙齿矫正
+                    </li>
+                </a>
+                <a href="/zt/ycmbjs/" target="_blank">
+                    <li>
+                        <img src="/images/index_ico_ya6.png"> 牙齿美白
+                    </li>
+                </a>
+                <a href="{dede:type typeid='16'}[field:typeurl/]{/dede:type}" target="_blank">
+                    <li>
+                        <img src="/images/index_ico_ya3.png"> 烤瓷牙
+                    </li>
+                </a>
+                <a href="{dede:type typeid='17'}[field:typeurl/]{/dede:type}" target="_blank">
+                    <li>
+                        <img src="/images/index_ico_ya4.png"> 牙齿美容
+                    </li>
+                </a>
+                <a href="{dede:type typeid='20'}[field:typeurl/]{/dede:type}" target="_blank">
+                    <li>
+                        <img src="/images/index_ico_ya8.png"> 儿童齿科
+                    </li>
+                </a>
+                <a href="/zt/kqhljs/" target="_blank">
+                    <li style="margin-right:0px;">
+                        <img src="/images/index_ico_ya9.png"> 牙齿治疗
+                    </li>
+                </a>
+            </ul>
+        </div>
+        <div class="news auto">
+            <div class="news_left">
+                <div class="newsleft_main">
+                    <div class="news_top">
+                        <span class="title">
+                            近期优惠活动
+                        </span>
+                    </div>
+                    <div class="news_left_bottom" id="banner_tabs1" class="banner flexslider" style="position:relative;height:309px;overflow:hidden;">
+                        <ul style="position:relative;z-index:1;list-style:none;" class="slides">
+                            <li style="background:rgb(246, 245, 241); width: 100%; float: left; margin-right: -100%; position: relative; display: block; z-index: 1;"><a href="/swt/" style="width:649px;position:absolute;left:100%;margin-left:-649px;text-align:center;display:block;min-width:649px;height:304px;"><img src="/images/yh_11.jpg" style="width:auto;height:309px;"></a></li>
+                        </ul>
+                        <!--                         <ul class="flex-direction-nav">
+                            <li><a class="flex-prev" href="javascript:;">Previous</a></li>
+                            <li><a class="flex-next" href="javascript:;">Next</a></li>
+                        </ul>
+                        <ol id="bannerCtrl1" class="flex-control-nav flex-control-paging">
+                            <li><a>1</a></li>
+                        </ol> -->
+                        <div style="clear:both"></div>
+                        <!--  <script type="text/javascript">
+                        jQuery(function() {
+
+                            var bannerSlider = new Slider(jQuery('#banner_tabs1'), {
+
+                                time: 5000,
+
+                                delay: 400,
+
+                                event: 'hover',
+
+                                auto: true,
+
+                                mode: 'fade',
+
+                                controller: jQuery('#bannerCtrl1'),
+
+                                activeControllerCls: 'active'
+
+                            });
+
+                            jQuery('#banner_tabs1 .flex-prev').click(function() {
+
+                                bannerSlider.prev()
+
+                            });
+
+                            jQuery('#banner_tabs1 .flex-next').click(function() {
+
+                                bannerSlider.next()
+
+                            });
+
+                        })
+                        </script> -->
+                    </div>
+                </div>
+            </div>
+            <div class="news_right">
+                <div class="newsright_main">
+                    <div class="news_top">
+                        <span class="title">
+                            新闻动态
+                            <div class="input_icon_2">
+                                <a href="{dede:type typeid='5'}[field:typeurl/]{/dede:type}">more</a>
+                            </div>
+
+                        </span>
+                    </div>
+                    <div class="news_right_center">
+                        {dede:arclist typeid="5" row="1" infolen="20" flag="p,h"}
+                        <div style="width:452px; height:215px;overflow: hidden;">
+                            <a href="[field:typeurl/]"><img src="[field:picname/]" width="452"></a>
+                        </div>
+                        <span class="news_zhebg touming"></span>
+                        <span class="news_zhezi">[field:title/]</span> {/dede:arclist}
+                    </div>
+                    <div class="news_right_bottom">
+                        <ul>
+                            {dede:arclist typeid="5" row="3" infolen="20" flag="h"}
+                            <li><span class="news_title">新闻</span>
+                                <a href="[field:typeurl/]" target="_blank"><span class="news_title_wz">[field:title/]</span></a>
+                            </li>
+                            {/dede:arclist}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="zhuanjia auto">
+            <span class="title"><a href="/yltd/">万和专家团队</a><hr /></span>
+            <div class="zjtd">
+                <div class="bd">
+                    <ul>
+                        <li>
+                            <div class="zjtdk">
+                                <div class="zjtdl fl">
+                                    <img src="/images/zhuanjia.jpg" alt="">
+                                </div>
+                                <div class="zjtdr fr">
+                                    <h2>洪启中<span>副主任医师 副教授</span></h2>
+                                    <p>1958年毕业于华西医科大学口腔系。曾任核工业部271医院副院长，羌湖空军医院口腔科主任，华西医科大学口腔医院西珠门诊部主任医师，四川大学华西卫校特聘教授，华西医科大学校友总会名誉理事，安徽省口腔医学会名誉理事，中华医学会会员。卫生部全国中专教材《编委审委会》委员，第二版《口腔外科学》主要编者，修订版主编。从医50多年，有丰富的口腔教学和临床经验，对人工植牙及牙槽外科手术有独到之处，技术精湛，深受广大患者赞誉。</p>
+                                    <a href="">专家详情</a><a href="" class="bak">在线咨询</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="zjtdk">
+                                <div class="zjtdl fl">
+                                    <img src="/images/zhuanjia.jpg" alt="">
+                                </div>
+                                <div class="zjtdr fr">
+                                    <h2>洪启中<span>副主任医师 副教授</span></h2>
+                                    <p>1958年毕业于华西医科大学口腔系。曾任核工业部271医院副院长，羌湖空军医院口腔科主任，华西医科大学口腔医院西珠门诊部主任医师，四川大学华西卫校特聘教授，华西医科大学校友总会名誉理事，安徽省口腔医学会名誉理事，中华医学会会员。卫生部全国中专教材《编委审委会》委员，第二版《口腔外科学》主要编者，修订版主编。从医50多年，有丰富的口腔教学和临床经验，对人工植牙及牙槽外科手术有独到之处，技术精湛，深受广大患者赞誉。</p>
+                                    <a href="">专家详情</a><a href="" class="bak">在线咨询</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="zjtdk">
+                                <div class="zjtdl fl">
+                                    <img src="/images/zhuanjia.jpg" alt="">
+                                </div>
+                                <div class="zjtdr fr">
+                                    <h2>洪启中<span>副主任医师 副教授</span></h2>
+                                    <p>1958年毕业于华西医科大学口腔系。曾任核工业部271医院副院长，羌湖空军医院口腔科主任，华西医科大学口腔医院西珠门诊部主任医师，四川大学华西卫校特聘教授，华西医科大学校友总会名誉理事，安徽省口腔医学会名誉理事，中华医学会会员。卫生部全国中专教材《编委审委会》委员，第二版《口腔外科学》主要编者，修订版主编。从医50多年，有丰富的口腔教学和临床经验，对人工植牙及牙槽外科手术有独到之处，技术精湛，深受广大患者赞誉。</p>
+                                    <a href="">专家详情</a><a href="" class="bak">在线咨询</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="zjtdk">
+                                <div class="zjtdl fl">
+                                    <img src="images/zhuanjia.jpg" alt="">
+                                </div>
+                                <div class="zjtdr fr">
+                                    <h2>洪启中<span>副主任医师 副教授</span></h2>
+                                    <p>1958年毕业于华西医科大学口腔系。曾任核工业部271医院副院长，羌湖空军医院口腔科主任，华西医科大学口腔医院西珠门诊部主任医师，四川大学华西卫校特聘教授，华西医科大学校友总会名誉理事，安徽省口腔医学会名誉理事，中华医学会会员。卫生部全国中专教材《编委审委会》委员，第二版《口腔外科学》主要编者，修订版主编。从医50多年，有丰富的口腔教学和临床经验，对人工植牙及牙槽外科手术有独到之处，技术精湛，深受广大患者赞誉。</p>
+                                    <a href="">专家详情</a><a href="" class="bak">在线咨询</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="hd">
+                    <ul>
+                        <li>
+                            <img src="/images/zhuanjia_x.jpg" alt="">
+                        </li>
+                        <li>
+                            <img src="/images/zhuanjia_x.jpg" alt="">
+                        </li>
+                        <li>
+                            <img src="/images/zhuanjia_x.jpg" alt="">
+                        </li>
+                        <li>
+                            <img src="/images/zhuanjia_x.jpg" alt="">
+                        </li>
+                    </ul>
+                </div>
+                <a class="prev" href="javascript:void(0)"></a> <a class="next" href="javascript:void(0)"></a>
+            </div>
+            <div class="cl"></div>
+            <script type="text/javascript">
+            jQuery(".zjtd").slide({ mainCell: ".bd ul", titCell: ".hd ul li", effect: "fold", delayTime: 300, autoPlay: true });
+            </script>
+        </div>
+        <div class="fx auto">
+            <span class="title"><a href="/alfx/">案例分享区</a>  <hr /></span>
+            <ul>
+                <li>
+                    <img src="/images/al1_1.jpg">
+                    <div></div>
+                    <a href="/jzal/153.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al1_2.jpg">
+                    <div></div>
+                    <a href="/jzal/153.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al2_1.jpg">
+                    <div></div>
+                    <a href="/zzal/168.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al2_2.jpg">
+                    <div></div>
+                    <a href="/zzal/168.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al3_1.jpg">
+                    <div></div>
+                    <a href="/tmal/157.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al3_2.jpg">
+                    <div></div>
+                    <a href="/tmal/157.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al4_1.jpg">
+                    <div></div>
+                    <a href="/tmal/160.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al4_2.jpg">
+                    <div></div>
+                    <a href="/tmal/160.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al5_1.jpg">
+                    <div></div>
+                    <a href="/jzal/154.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al5_2.jpg">
+                    <div></div>
+                    <a href="/jzal/154.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al6_1.jpg">
+                    <div></div>
+                    <a href="/tmal/158.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al6_2.jpg">
+                    <div></div>
+                    <a href="/tmal/158.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al7_1.jpg">
+                    <div></div>
+                    <a href="/jzal/155.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al7_2.jpg">
+                    <div></div>
+                    <a href="/jzal/155.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al8_1.jpg">
+                    <div></div>
+                    <a href="/mbal/162.html"><span>点击详情</span></a>
+                </li>
+                <li>
+                    <img src="/images/al8_2.jpg">
+                    <div></div>
+                    <a href="/mbal/162.html"><span>点击详情</span></a>
+                </li>
+            </ul>
+        </div>
+        <div class="zs auto">
+            <ul>
+                <li>
+                    <div class="zs_li">
+                        <div class="title">
+                            安全管理
+                            <div class="input_icon_1">
+                                <a href="#"><img src="/images/icon_right.jpg" id="toLeft" class="link toLeft"></a>
+                            </div>
+                            <div class="input_icon_2">
+                                <a href="#"><img src="/images/icon_left.jpg"   id="toRight" class="link toRight"></a>
+                            </div>
+                        </div>
+                        <div class="zs_li_center">
+                            <div id="demo1">
+                                <div class="img_list">
+                                    <ul>
+                                        <li><img src="/images/zs1_1.jpg"></li>
+                                        <li><img src="/images/zs1_2.jpg"></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zs_li_bottom">
+                            始终以顾客的安全为重点，让每一位顾客享受美丽之旅，安全无忧。
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="zs_li">
+                        <div class="title">
+                            医院环境
+                            <div class="input_icon_1">
+                                <a href="#"><img src="/images/icon_right.jpg" id="toLeft2" class="link2 toLeft2"></a>
+                            </div>
+                            <div class="input_icon_2">
+                                <a href="#"><img src="/images/icon_left.jpg" id="toRight2" class="link2 toRight2"></a>
+                            </div>
+                        </div>
+                        <div class="zs_li_center">
+                            <div id="demo2">
+                                <div class="img_list2">
+                                    <ul>
+                                        <li><img src="/images/zs2_2.jpg"></li>
+                                        <li><img src="/images/zs2_3.jpg"></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zs_li_bottom">
+                            舒适的环境，只为让您和家人有更好的身心享受，像在家里一样温馨自在。
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="zs_li">
+                        <div class="title">
+                            技术核心
+                            <div class="input_icon_1">
+                                <a href="#"><img src="/images/icon_right.jpg" id="toLeft3" class="link3 toLeft3"></a>
+                            </div>
+                            <div class="input_icon_2">
+                                <a href="#"><img src="/images/icon_left.jpg" id="toRight3" class="link3 toRight3"></a>
+                            </div>
+                        </div>
+                        <div class="zs_li_center">
+                            <div id="demo3">
+                                <div class="img_list3">
+                                    <ul>
+                                        <li><img src="/images/zs3_1.jpg"></li>
+                                        <li><img src="/images/zs3_2.jpg"></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zs_li_bottom">
+                            医生技术扎实，经验丰富都在10年以上，确保每一位就诊顾客拥有一副健康美丽牙齿。
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="zs_li">
+                        <div class="title">
+                            学术交流
+                            <div class="input_icon_1" style="margin-top:-2px;">
+                                <img src="/images/icon_right.jpg">
+                            </div>
+                            <div class="input_icon_2">
+                                <img src="/images/icon_left.jpg">
+                            </div>
+                        </div>
+                        <div class="zs_li_center">
+                            <img src="/images/zs4.jpg">
+                        </div>
+                        <div class="zs_li_bottom">
+                            我院院长参加哈佛大学口腔高级交流研讨
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <!--     <div class="xc auto">&nbsp;
+        <div class="xc_main auto" style="margin-top:107px;">
+            <div class="xc_top touming"></div>
+            <div class="xc_nav">
+                <ul>
+                    <li class="on">荣誉实力</li>
+                    <li>公益活动</li>
+                    <li>学术交流</li>
+                </ul>
+            </div>
+            <div class="product-wrap">
+                <div class="xc_bottom show">
+                    <div class="xcbottom_left">
+                        <img src="/images/rysl.jpg" id="hd" alt="万和口腔走进阿里巴巴集团">
+                        <div class="huadong">
+                            <div></div>
+                            <span>中华口腔医学会<br />单位会员</span>
+                        </div>
+                    </div>
+                    <div class="xcbottom_right">
+                        <ul>
+                            <li>
+                                <img src="/images/rysl1.jpg" alt="万和口腔走进神州租车">
+                                <div></div>
+                                <span>beyond冷光牙齿美白</span>
+                                <span>特约中心</span>
+                            </li>
+                            <li>
+                                <img src="/images/rysl2.jpg" alt="万和口腔走进顺丰速运">
+                                <div></div>
+                                <span>瑞典诺贝尔</span>
+                                <span>技术合作单位</span>
+                            </li>
+                            <li>
+                                <img src="/images/rysl3.jpg" alt="万和口腔走进酒仙网">
+                                <div></div>
+                                <span>Lava数字全瓷牙</span>
+                                <span>合作单位</span>
+                            </li>
+                            <li>
+                                <img src="/images/rysl4.jpg" alt="万和口腔走进智联招聘">
+                                <div></div>
+                                <span>邱星明</span>
+                                <span>韩国DIO Implant授权证书</span>
+                            </li>
+                            <li>
+                                <img src="/images/rysl5.jpg" alt="万和口腔走进百合网">
+                                <div></div>
+                                <span>刘志杰院长</span>
+                                <span>荣获AWON学院荣誉证书</span>
+                            </li>
+                            <li>
+                                <img src="/images/rysl6.jpg" alt="万和口腔走进陌陌公司">
+                                <div></div>
+                                <span>杨光</span>
+                                <span>奥齿泰认证证书</span>
+                            </li>
+                            <li>
+                                <img src="/images/rysl7.jpg" alt="万和口腔走进e袋洗">
+                                <div></div>
+                                <span>汪廷乐</span>
+                                <span>美国Basic 种植牙系统授权证书</span>
+                            </li>
+                            <li>
+                                <img src="/images/rysl8.jpg" alt="万和口腔走进百度公司">
+                                <div></div>
+                                <span>刘志杰</span>
+                                <span>奥齿泰认证证书</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="xc_bottom">
+                    <div class="xcbottom_left">
+                        <img src="/images/gongyi.jpg" id="hd" alt="万和口腔走进阿里巴巴集团">
+                        <div class="huadong">
+                            <div></div>
+                            <span>公益活动走进58赶集</span>
+                        </div>
+                    </div>
+                    <div class="xcbottom_right">
+                        <ul>
+                            <li>
+                                <img src="/images/gongyi1.jpg" alt="万和口腔走进神州租车">
+                                <div></div>
+                                <span>走进</span>
+                                <span>国美在线</span>
+                            </li>
+                            <li>
+                                <img src="/images/gongyi2.jpg" alt="万和口腔走进顺丰速运">
+                                <div></div>
+                                <span>走进</span>
+                                <span>人人车</span>
+                            </li>
+                            <li>
+                                <img src="/images/gongyi3.jpg" alt="万和口腔走进酒仙网">
+                                <div></div>
+                                <span>走进</span>
+                                <span>医加壹</span>
+                            </li>
+                            <li>
+                                <img src="/images/gongyi4.jpg" alt="万和口腔走进智联招聘">
+                                <div></div>
+                                <span>走进</span>
+                                <span>新航道</span>
+                            </li>
+                            <li>
+                                <img src="/images/gongyi5.jpg" alt="万和口腔走进百合网">
+                                <div></div>
+                                <span>走进</span>
+                                <span>唯品会</span>
+                            </li>
+                            <li>
+                                <img src="/images/gongyi6.jpg" alt="万和口腔走进陌陌公司">
+                                <div></div>
+                                <span>走进</span>
+                                <span>优胜教育</span>
+                            </li>
+                            <li>
+                                <img src="/images/gongyi7.jpg" alt="万和口腔走进e袋洗">
+                                <div></div>
+                                <span>走进</span>
+                                <span>顺丰优选</span>
+                            </li>
+                            <li>
+                                <img src="/images/gongyi8.jpg" alt="万和口腔走进百度公司">
+                                <div></div>
+                                <span>走进</span>
+                                <span>天地在线</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="xc_bottom">
+                    <div class="xcbottom_left">
+                        <img src="/images/xsjl.jpg" id="hd" alt="万和口腔走进阿里巴巴集团">
+                        <div class="huadong">
+                            <div></div>
+                            <span>我院院长参加<br/>哈佛大学口腔高级交流研讨</span>
+                        </div>
+                    </div>
+                    <div class="xcbottom_right">
+                        <ul>
+                            <li>
+                                <img src="/images/xsjl1.jpg" alt="万和口腔走进神州租车">
+                                <div></div>
+                                <span>刘志杰院长</span>
+                                <span>哈佛大学口腔系<br/>副院长合影</span>
+                            </li>
+                            <li>
+                                <img src="/images/xsjl2.jpg" alt="万和口腔走进顺丰速运">
+                                <div></div>
+                                <span>我院院长</span>
+                                <span>总政治部宣传部<br/>副部长禹光合影</span>
+                            </li>
+                            <li>
+                                <img src="/images/xsjl3.jpg" alt="万和口腔走进酒仙网">
+                                <div></div>
+                                <span>刘院长</span>
+                                <span>美国驻华大使馆武官<br/>陶仁凯上校合影</span>
+                            </li>
+                            <li>
+                                <img src="/images/xsjl4.jpg" alt="万和口腔走进智联招聘">
+                                <div></div>
+                                <span>我院院长</span>
+                                <span>哈佛大学口腔系教授合影</span>
+                            </li>
+                            <li>
+                                <img src="/images/xsjl5.jpg" alt="万和口腔走进百合网">
+                                <div></div>
+                                <span>刘院长</span>
+                                <span>意大利驻华大使馆武官<br/>潘安杰准将合影</span>
+                            </li>
+                            <li>
+                                <img src="/images/xsjl6.jpg" alt="万和口腔走进陌陌公司">
+                                <div></div>
+                                <span>刘志杰院长</span>
+                                <span>参加哈佛大学口腔系<br />学术交流</span>
+                            </li>
+                            <li>
+                                <img src="/images/xsjl7.jpg" alt="万和口腔走进e袋洗">
+                                <div></div>
+                                <span>刘院长出席台北</span>
+                                <span>奥齿泰种植学术研讨会<br />发表演讲</span>
+                            </li>
+                            <li>
+                                <img src="/images/xsjl8.jpg" alt="万和口腔走进百度公司">
+                                <div></div>
+                                <span>刘院长出席</span>
+                                <span>第62届<br />世界小姐中国区总决赛现场</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!--     <div class="main_1">
+        <div class="lx auto">
+            &nbsp;
+            <div class="lx_main auto">
+                <div class="lx_left">
+                    <span class="title" style="width:575px;">&nbsp;&nbsp;联系我们</span>
+                    <ul>
+                        <li>
+                            <img src="/images/icon4.png">
+                            <div>
+                                <span>咨询热线</span>
+                                <br/><span>{dede:global.tel/}</span>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="/images/icon6.png">
+                            <div>
+                                <span>医院地址</span>
+                                <br/><span>{dede:global.address/}</span>
+                            </div>
+                        </li>
+                        <li style="margin-top:65px;">
+                            <img src="/images/icon5.png">
+                            <div style="width:300px;">
+                                <span style="margin-top:-5px;">门诊时间(节假日不休)</span>
+                                <br/>
+                                <span style="margin-top:-6px;margin-left:20px;">{dede:global.time/}</span>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/lylx/">
+                                <div class="map">
+                                    <span class="map_zhe"></span> 查看地图
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="lx_right">
+                    <span>官方微信</span>
+                    <img src="/images/weixin2.png">
+                    <img src="/images/weixin4.png">
+                </div>
+            </div>
+        </div>
+    </div> -->
+    {dede:include filename="footer.htm" /}
+</body>
+
+</html>

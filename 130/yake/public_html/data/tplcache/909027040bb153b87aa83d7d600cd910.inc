@@ -1,0 +1,106 @@
+{dede:field name='keywords'}北京维尔口腔{/dede:field}
+{dede:field name='description'}3月23日下午，在维尔口腔三元桥总院 刚刚做完半口种植牙的王孝良大叔开心的啃起了苹果 王大叔自述： 吃饭只能用半边嘴嚼{/dede:field}
+{dede:field name='title'}缺牙煎熬10余年，在维尔“重生”满口牙{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<p style="text-align: center;"><span style="font-size:14px;">　　3月23日下午，在维尔口腔三元桥总院</span></p>
+<p style="text-align: center;"><span style="font-size:14px;">　　刚刚做完半口种植牙的王孝良大叔开心的啃起了苹果</span></p>
+<p style="text-align: center;"><span style="font-size:14px;">　　<img alt="" src="/uploadfile/2018/0405/20180405020536928.jpg" style="width: 550px; height: 309px;" /></span></p>
+<p style="text-align: center;"><span style="font-size:14px;"><strong>　　王大叔自述：</strong></span></p>
+<p style="text-align: center;"><span style="font-size:14px;"><strong>　　吃饭只能用半边嘴嚼，食物经常卡到牙缝里，实在是遭罪!</strong></span></p>
+<p><span style="font-size:14px;">　　家住北京房山区的王孝良大叔今年61岁，因为早前不爱护牙齿，50岁之后就开始坏牙、掉牙，现在上半颌只剩半口牙，下颌也掉了两颗，被缺牙折磨了十余年，用他自己的话说：<strong>&ldquo;吃饭时只能用半边牙嚼，想吃的吃不下，吃饭时食物经常钳到牙缝里，实在是遭罪!&rdquo;</strong></span></p>
+<p><span style="font-size:14px;">　　后来一次聚会时，看到以前的老朋友种了一口好牙，嘛都能吃，王大叔才了解到<strong>原来牙齿也能&ldquo;种&rdquo;!</strong></span></p>
+<p><span style="font-size:14px;">　　王大叔下定决心也要种一口好牙，想吃啥就吃啥!经过朋友的推荐，王孝良大叔通过网络预约来到维尔口腔医院。</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015710857.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　初到医院王大叔不想笑，也不想露出自己的缺牙</span></p>
+<p><span style="font-size:14px;"><strong>　　口腔检查：牙齿缺失长期不治，引发系列口腔问题，还真是错综复杂!</strong></span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015733546.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　维尔口腔医院的汪廷乐院长为王大叔做了系统检查</span></p>
+<p><span style="font-size:14px;">　　经过维尔口腔医院汪廷乐院长的系统检查，又给王大叔拍了口腔CT片，可以清晰的看到王大叔的上半颌右边牙齿少了一半，下半颌左边牙齿少了2颗，牙缝稀疏、牙齿磨损严重，牙龈变黑、多颗牙齿松动、牙槽骨骨量流失严重，通过询问发现王大叔有冠心病史。</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015802277.jpg" style="width: 550px; height: 367px;" /></span></center>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015816903.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　王大叔口腔CT的3D扫描片</span></p>
+<p><span style="font-size:14px;">　　汪院长指出，王大叔上下颌牙齿都有缺失，由于时间久了<strong>导致咬合不良，牙齿磨损严重，还带有中度面部肌肉障碍，面部看起来比同龄人显老。</strong>由于食物嵌经常塞到牙齿间隙里，也引起口臭、龋齿、牙周病等一系列口腔疾病。</span></p>
+<p><span style="font-size:14px;"><strong>　　治疗方案：综合评估&ldquo;一日得&rdquo;植牙术，当天种牙当天用!</strong></span></p>
+<p><span style="font-size:14px;">　　经过系统综合检查与评估，王院长确认王大叔能够种植。确认王大叔无手术禁忌症，最后制定出&ldquo;一日得&rdquo;种植术，该技术可以实现在<strong>一天内完成缺牙种植，微创无痛，当天种完当天用。</strong></span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015835572.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　护士为王大叔做术前消毒准备</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015853661.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　汪廷乐院长亲自手术</span></p>
+<p><span style="font-size:14px;"><strong>　　术后效果：当天种牙当天啃苹果，嚼劲足</strong></span></p>
+<p><span style="font-size:14px;">　　经过1个都小时的手术，汪廷了院长顺利为王大叔完成了上下颌的牙齿种植。术中王大叔无任何不适。</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015908451.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　种植后CT可以看出上颌种入6个种植体，下颌种入2颗种植体</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015918326.jpg" style="width: 275px; height: 183px;" /><img alt="" src="/uploadfile/2018/0405/20180405015931679.jpg" style="width: 275px; height: 183px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　上颌种植前后对比</span></p>
+<p><span style="font-size:14px;">　　手术刚做完，王大叔看着自己的新牙很是高兴，迫不及待的想试试能不能正常吃饭。护士给他削了一个苹果，他犹犹豫豫的咬下去，久违了的香甜刺激着他的味蕾，不一会便大口咬起来。他大口的咀嚼着，高兴的说：<strong>&ldquo;一日得&rdquo;种植牙真是太神奇了，就像真牙一样&rdquo;。</strong></span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405015952708.jpg" style="width: 550px; height: 307px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　吃苹果，咬起来真脆!</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405020004320.jpg" style="width: 550px; height: 309px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　为汪廷乐院长的技术点赞!</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploadfile/2018/0405/20180405020014882.jpg" style="width: 550px; height: 309px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　为专业护士点赞!</span></p>
+<p><span style="font-size:14px;"><strong>　　专家解读：什么是一日得种植术?</strong></span></p>
+<p><span style="font-size:14px;">　　&ldquo;一日得&rdquo;种植牙是由中科科技创新发展研究院授权维尔口腔的技术，它具有&ldquo;快&rdquo;、&ldquo;准&rdquo;、&ldquo;精&rdquo;、&ldquo;微&rdquo;等特点，对于半口或全口牙齿缺失问题，采用微创技术，在牙槽骨上打开微小切口(4-6毫米)，植入4-8个种植体，实现半口或全口缺牙的修复，告别传统种植牙&ldquo;一个牙洞种一颗种植体&rdquo;的满口种牙根的植入方法，真正做到当天种牙，当天即可享受美食。</span></p>{/dede:field}
+{dede:field name='body'}<p style="text-align: center;"><span style="font-size:14px;">　　3月23日下午，在维尔口腔三元桥总院</span></p>
+<p style="text-align: center;"><span style="font-size:14px;">　　刚刚做完半口种植牙的王孝良大叔开心的啃起了苹果</span></p>
+<p style="text-align: center;"><span style="font-size:14px;">　　<img alt="" src="/uploads/allimg/c180407/15230A33ZH50-11JM.jpg" style="width: 550px; height: 309px;" /></span></p>
+<p style="text-align: center;"><span style="font-size:14px;"><strong>　　王大叔自述：</strong></span></p>
+<p style="text-align: center;"><span style="font-size:14px;"><strong>　　吃饭只能用半边嘴嚼，食物经常卡到牙缝里，实在是遭罪!</strong></span></p>
+<p><span style="font-size:14px;">　　家住北京房山区的王孝良大叔今年61岁，因为早前不爱护牙齿，50岁之后就开始坏牙、掉牙，现在上半颌只剩半口牙，下颌也掉了两颗，被缺牙折磨了十余年，用他自己的话说：<strong>&ldquo;吃饭时只能用半边牙嚼，想吃的吃不下，吃饭时食物经常钳到牙缝里，实在是遭罪!&rdquo;</strong></span></p>
+<p><span style="font-size:14px;">　　后来一次聚会时，看到以前的老朋友种了一口好牙，嘛都能吃，王大叔才了解到<strong>原来牙齿也能&ldquo;种&rdquo;!</strong></span></p>
+<p><span style="font-size:14px;">　　王大叔下定决心也要种一口好牙，想吃啥就吃啥!经过朋友的推荐，王孝良大叔通过网络预约来到维尔口腔医院。</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A339C430-123361.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　初到医院王大叔不想笑，也不想露出自己的缺牙</span></p>
+<p><span style="font-size:14px;"><strong>　　口腔检查：牙齿缺失长期不治，引发系列口腔问题，还真是错综复杂!</strong></span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A340O220-13E09.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　维尔口腔医院的汪廷乐院长为王大叔做了系统检查</span></p>
+<p><span style="font-size:14px;">　　经过维尔口腔医院汪廷乐院长的系统检查，又给王大叔拍了口腔CT片，可以清晰的看到王大叔的上半颌右边牙齿少了一半，下半颌左边牙齿少了2颗，牙缝稀疏、牙齿磨损严重，牙龈变黑、多颗牙齿松动、牙槽骨骨量流失严重，通过询问发现王大叔有冠心病史。</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A342c10-141396.jpg" style="width: 550px; height: 367px;" /></span></center>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A34392430-15G14.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　王大叔口腔CT的3D扫描片</span></p>
+<p><span style="font-size:14px;">　　汪院长指出，王大叔上下颌牙齿都有缺失，由于时间久了<strong>导致咬合不良，牙齿磨损严重，还带有中度面部肌肉障碍，面部看起来比同龄人显老。</strong>由于食物嵌经常塞到牙齿间隙里，也引起口臭、龋齿、牙周病等一系列口腔疾病。</span></p>
+<p><span style="font-size:14px;"><strong>　　治疗方案：综合评估&ldquo;一日得&rdquo;植牙术，当天种牙当天用!</strong></span></p>
+<p><span style="font-size:14px;">　　经过系统综合检查与评估，王院长确认王大叔能够种植。确认王大叔无手术禁忌症，最后制定出&ldquo;一日得&rdquo;种植术，该技术可以实现在<strong>一天内完成缺牙种植，微创无痛，当天种完当天用。</strong></span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A34H03F-1BH0.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　护士为王大叔做术前消毒准备</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A34Q6050-1Ob1.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　汪廷乐院长亲自手术</span></p>
+<p><span style="font-size:14px;"><strong>　　术后效果：当天种牙当天啃苹果，嚼劲足</strong></span></p>
+<p><span style="font-size:14px;">　　经过1个都小时的手术，汪廷了院长顺利为王大叔完成了上下颌的牙齿种植。术中王大叔无任何不适。</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A35045V0-1X919.jpg" style="width: 550px; height: 367px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　种植后CT可以看出上颌种入6个种植体，下颌种入2颗种植体</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A35111T0-1b407.jpg" style="width: 275px; height: 183px;" /><img alt="" src="/uploads/allimg/c180407/15230A352221F-20X04.jpg" style="width: 275px; height: 183px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　上颌种植前后对比</span></p>
+<p><span style="font-size:14px;">　　手术刚做完，王大叔看着自己的新牙很是高兴，迫不及待的想试试能不能正常吃饭。护士给他削了一个苹果，他犹犹豫豫的咬下去，久违了的香甜刺激着他的味蕾，不一会便大口咬起来。他大口的咀嚼着，高兴的说：<strong>&ldquo;一日得&rdquo;种植牙真是太神奇了，就像真牙一样&rdquo;。</strong></span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A352UG0-21DS.jpg" style="width: 550px; height: 307px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　吃苹果，咬起来真脆!</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A353404F-221622.jpg" style="width: 550px; height: 309px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　为汪廷乐院长的技术点赞!</span></p>
+<center>
+	<span style="font-size:14px;"><img alt="" src="/uploads/allimg/c180407/15230A35396410-232247.jpg" style="width: 550px; height: 309px;" /></span></center>
+<p style="text-align: center;"><span style="font-size:14px;">　　为专业护士点赞!</span></p>
+<p><span style="font-size:14px;"><strong>　　专家解读：什么是一日得种植术?</strong></span></p>
+<p><span style="font-size:14px;">　　&ldquo;一日得&rdquo;种植牙是由中科科技创新发展研究院授权维尔口腔的技术，它具有&ldquo;快&rdquo;、&ldquo;准&rdquo;、&ldquo;精&rdquo;、&ldquo;微&rdquo;等特点，对于半口或全口牙齿缺失问题，采用微创技术，在牙槽骨上打开微小切口(4-6毫米)，植入4-8个种植体，实现半口或全口缺牙的修复，告别传统种植牙&ldquo;一个牙洞种一颗种植体&rdquo;的满口种牙根的植入方法，真正做到当天种牙，当天即可享受美食。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180407/15230A33ZH50-11JM_lit.jpg{/dede:field}

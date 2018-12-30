@@ -1,0 +1,63 @@
+/* CSS Document */
+
+.cont2{ border-bottom:1px dashed #eee; font-size:0.16rem; width:90%; line-height:0.5rem; margin:0.15rem auto; color:#333;}
+.cont2 span{ color:#d80000;}
+.cont2 a{ background:#00ABC1; border-radius:0.2rem; padding:0.02rem 0.5em ; color:#fff; line-height:0.3rem; display:block; float:right;}
+.cont3{ background:#00ABC1; color:#fff; height:0.7rem; font-size:0.4rem; line-height:0.7rem; text-align:center;}
+.cont4{  width: 0;
+    height: 0;
+    border-top: 0.7rem solid #00ABC1;
+    border-left: 0.5rem solid transparent;
+	transform:rotate(-5deg);
+-ms-transform:rotate(-5deg); 	/* IE 9 */
+-moz-transform:rotate(-5deg); 	/* Firefox */
+-webkit-transform:rotate(-5deg); /* Safari 和 Chrome */
+-o-transform:rotate(-5deg); margin-top:-0.1rem; margin-left:-0.02rem;
+	}
+.cont5 li{ background:#e6e6e5; border:2px solid #b5b4b3; width:calc(100% - 0.4rem); margin:0.2rem auto; }
+.cont5 img{ width:48%; float:left }
+.cont5_r{ width:52%; float:right; }
+.cont5 li::after{ content:".";        
+     display:block;        
+     height:0;        
+     clear:both;        
+     visibility:hidden;}
+.cont5_r h2{ font-size:0.4rem; color:#00ABC1;}
+.cont5_r h3{ font-size:0.18rem; color:#333;}
+.cont5_r h4{ color:#00ABC1; line-height:0.4rem;}
+.cont5_r a{ color:#fff; padding:0.02rem 0.5em; border-radius:0.2rem; display: inline-block;  margin-bottom:0.3rem; margin-top:0.2rem;}
+.xxan{ background:#d80000; }
+.yyan{ background:#00ABC1;margin-right:0.3rem; float:right;}
+.jd{ width:4em; font-size:0.2rem; display:inline-block; background:#5f698b; color:#fff; padding:0.2em 2em; margin-left:calc((100% - 8em*3)/4); margin-top:0.3rem}
+
+
+header{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+.fir:after{
+    display: block;
+    clear: both;
+    content: "";
+}
+.fir{
+    margin: .3rem .2rem;
+    position: relative;
+}
+.fir1>img{
+    width: 56%;
+    float: left;
+}
+.fir1>img:first-child{
+	width: 44%;
+}
+.fir a{
+	position: absolute;
+	display: block;
+	width: 2rem;
+	height: .5rem;
+	bottom: .5rem;
+	left: 42vw;
+}

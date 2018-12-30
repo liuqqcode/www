@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>离线宝</title>
+<style>
+*{padding:0;margin:0;}
+.callbF_text{width:200px;height:45px;line-height:44px;border-radius:15px 0 0 15px;-webkit-border-radius:15px 0 0 15px;border:0;padding-left:15px;outline: none;border:1px solid #ddd;float:left;font-size:24px;}
+.callbF_sub{width:110px;height:47px;line-height:44px;border-radius:0 15px 15px 0;-webkit-border-radius:0 15px 15px 0;background:#27b0ff;color:#fff;font-size:22px;text-align:center;cursor:pointer;border:0;float:left;text-decoration:none;}
+</style>
+</head>
+
+<body>
+<div class="swtwintel">
+<input id="lxbstel" class="callbF_text" type="tel" placeholder="请输入手机号码" onkeydown="lxbtelkeyUp(event,this)">
+<a href="javascript:;" class="callbF_sub" onClick="lxbtelcall('lxbstel')">免费拨号</a>
+</div>
+
+<script>
+document.write('<script type="text/javascript"  data-lxb-uid="10925617" data-lxb-gid="182966" src="http://lxbjs.baidu.com/api/asset/api.js?t=' + new Date().getTime() + '" charset="utf-8"></scr' + 'ipt>' );
+function lxbtelkeyUp(e,o) {
+	var e=(e)?e:((window.event)?window.event:"");
+	var currKey=e.keyCode?e.keyCode:e.which;
+	if(currKey==13){lxb.call(o);o.focus();};
+}
+function lxbtelcall(o) {
+	var o=document.getElementById(o);
+	lxb.call(o);
+	o.focus();
+}
+</script>
+
+</body>
+</html>

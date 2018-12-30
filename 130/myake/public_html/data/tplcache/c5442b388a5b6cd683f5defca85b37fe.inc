@@ -1,0 +1,70 @@
+{dede:field name='keywords'}牙痛能拔牙吗{/dede:field}
+{dede:field name='description'}牙痛能拔牙吗?有的人出现了牙痛的情况，这个时候有的人是想进行拔牙，但又不知道在牙痛的时候是否能进行拔牙。其实这就要看你的牙痛的{/dede:field}
+{dede:field name='title'}牙痛能拔牙吗{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">&nbsp; &nbsp; 牙痛能拔牙吗?有的人出现了牙痛的情况，这个时候有的人是想进行拔牙，但又不知道在牙痛的时候是否能进行拔牙。其实这就要看你的牙痛的情况是怎样的，如果有发炎的症状一般情况下是不能进行拔牙的，所以这种情况的牙痛是要进行消炎后才能进行拔牙。进行拔牙是为了不让自己再受牙痛的困扰，在补牙后的一些注意事项是一定要注意的，不然会让自己的牙痛情况得不到缓解，反而增加了很多的情况。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="拔牙现场镜头" src="/uploadfile/2017/0811/20170811033126158.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span></div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙痛拔牙后的注意事项有哪些呢？</span></span></h2>
+</section>
+</div>
+<p><span style="font-size:16px;">1.拔牙后医生会让患者咬住一二条棉卷，它的作用是压迫止血、保护伤口。一般棉条在拔牙后短时间即可吐出。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">牙龈肿痛怎么办</span></strong></a><strong><span style="color:#ff0000;"><a href="http://www.szmayo.com/yayin/12060.html" target="_blank"> </a></span></strong></span></p>
+<p><span style="font-size:16px;">2.有出血倾向的患者，拔牙后较好暂时不要离开，待半小时后请医生再检查一下伤口，看血是否已止住。如果仍出血，应让医生再做进一步的处理。或上止血药，或进行缝合止血，并口服一些止血药物。</span></p>
+<p><span style="font-size:16px;">3.正常情况下，把棉条吐出后就不再出血了。唾液中带一点血丝是正常的。但如果大量地吐血就不正常了，应及时与诊所联系，请医生处理。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">拔一颗智齿要多少钱</span></strong></a><strong><span style="color:#ff0000;"><a href="http://www.szmayo.com/yateng/12079.html" target="_blank"> </a></span></strong></span></p>
+<p><span style="font-size:16px;">4.拔牙后要注意保护好血凝块，短时间不要漱口，不要用拔牙侧咀嚼食物，不要频繁舔伤口，更不要反复吸吮、吐唾，以免由于口腔内负压的增加而破坏血凝块。手术后两小时才可以吃饭，术后两天的饮食应该是温凉、稀软的。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">维尔口腔医院，专业塑造品牌！</span></span></h2>
+</section>
+</div>
+</div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔医院作是一所集医疗、教学、科研、治疗、修复、美容、预防为一体的技术力量雄厚、医疗前沿的现代化大型北京口腔医院。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　人文服务</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　视患者为亲人，营造高品位的人文关怀，从患者舒心、方便、安全、满意的角度出发，倡导&ldquo;一患、一医、一护&rdquo;的绿色专业护理，创建&ldquo;无烟输液室&rdquo;，同时开设24小时专家咨询热线，定期为患者健康回访等一系列绿色人文医疗制度。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　绿色医疗</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　为患者就诊提供大方便，实行&ldquo;无节假日医院&rdquo;，建立以病人为中心的科学布局和便捷就医的合理流程，科学规范的医疗操作，严格的消毒措施，避免了其它疾病的交叉感染，让患者更放心安全的就医，实现全程导医服务的绿色通道，全力营造舒适、温馨的绿色医疗花园，建立诚信、理解、和谐的医疗环境。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/0811/20170811033639403.jpg" style="width: 450px; height: 280px;" /></a></div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">&nbsp; &nbsp; 牙痛能拔牙吗?有的人出现了牙痛的情况，这个时候有的人是想进行拔牙，但又不知道在牙痛的时候是否能进行拔牙。其实这就要看你的牙痛的情况是怎样的，如果有发炎的症状一般情况下是不能进行拔牙的，所以这种情况的牙痛是要进行消炎后才能进行拔牙。进行拔牙是为了不让自己再受牙痛的困扰，在补牙后的一些注意事项是一定要注意的，不然会让自己的牙痛情况得不到缓解，反而增加了很多的情况。</span><br />
+<br />
+<div style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="拔牙现场镜头" src="/uploadfile/2017/0811/20170811033126158.jpg" style="border-width: 0px; border-style: solid; width: 300px; height: 204px;" /></a></span></div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">牙痛拔牙后的注意事项有哪些呢？</span></span></h2>
+</section>
+</div>
+<p><span style="font-size:16px;">1.拔牙后医生会让患者咬住一二条棉卷，它的作用是压迫止血、保护伤口。一般棉条在拔牙后短时间即可吐出。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">牙龈肿痛怎么办</span></strong></a><strong><span style="color:#ff0000;"><a href="http://www.szmayo.com/yayin/12060.html" target="_blank"> </a></span></strong></span></p>
+<p><span style="font-size:16px;">2.有出血倾向的患者，拔牙后较好暂时不要离开，待半小时后请医生再检查一下伤口，看血是否已止住。如果仍出血，应让医生再做进一步的处理。或上止血药，或进行缝合止血，并口服一些止血药物。</span></p>
+<p><span style="font-size:16px;">3.正常情况下，把棉条吐出后就不再出血了。唾液中带一点血丝是正常的。但如果大量地吐血就不正常了，应及时与诊所联系，请医生处理。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><strong><span style="color:#ff0000;">拔一颗智齿要多少钱</span></strong></a><strong><span style="color:#ff0000;"><a href="http://www.szmayo.com/yateng/12079.html" target="_blank"> </a></span></strong></span></p>
+<p><span style="font-size:16px;">4.拔牙后要注意保护好血凝块，短时间不要漱口，不要用拔牙侧咀嚼食物，不要频繁舔伤口，更不要反复吸吮、吐唾，以免由于口腔内负压的增加而破坏血凝块。手术后两小时才可以吃饭，术后两天的饮食应该是温凉、稀软的。</span></p>
+<div>
+<div>
+<section class="135editor" data-id="33" style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: 微软雅黑; font-size: 14px;">
+	<h2 style="margin: 8px 0px 0px; padding: 0px; font-size: 16px; max-width: 100%; color: rgb(0, 112, 192); min-height: 32px; border-bottom-width: 2px; border-bottom-style: solid; border-bottom-color: rgb(0, 112, 192); text-align: justify;"><span class="autonum" data-original-title="" placeholder="1" style="font-weight: 500; line-height: 20px; border-radius: 80% 100% 90% 20%; color: rgb(255, 255, 255); display: block; float: left; margin: 0px 8px 0px 0px; max-width: 100%; padding: 4px 10px; word-wrap: break-word !important; background-color: rgb(0, 112, 192);" title="">☆</span><span style="font-size:18px;"><span style="line-height: 22.3906px;">维尔口腔医院，专业塑造品牌！</span></span></h2>
+</section>
+</div>
+</div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　维尔口腔医院作是一所集医疗、教学、科研、治疗、修复、美容、预防为一体的技术力量雄厚、医疗前沿的现代化大型北京口腔医院。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　人文服务</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　视患者为亲人，营造高品位的人文关怀，从患者舒心、方便、安全、满意的角度出发，倡导&ldquo;一患、一医、一护&rdquo;的绿色专业护理，创建&ldquo;无烟输液室&rdquo;，同时开设24小时专家咨询热线，定期为患者健康回访等一系列绿色人文医疗制度。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　绿色医疗</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size:16px;">　　为患者就诊提供大方便，实行&ldquo;无节假日医院&rdquo;，建立以病人为中心的科学布局和便捷就医的合理流程，科学规范的医疗操作，严格的消毒措施，避免了其它疾病的交叉感染，让患者更放心安全的就医，实现全程导医服务的绿色通道，全力营造舒适、温馨的绿色医疗花园，建立诚信、理解、和谐的医疗环境。</span><br />
+&nbsp;</div>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2017/0811/20170811033639403.jpg" style="width: 450px; height: 280px;" /></a></div>
+<p><span style="font-size:16px;">&nbsp; &nbsp; 维尔口腔医院成立于1998年，十九年专注口腔医疗，在全国拥有百家口腔医疗连锁机构，其中一线医护人员逾1000多人。已被业界公认为具知名度的口腔品牌连锁机构之一。详情请咨询<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><strong>400-6655-111</strong></span></a>。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DUE2G0-39147_lit.jpg{/dede:field}

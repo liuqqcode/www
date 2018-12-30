@@ -1,0 +1,168 @@
+<script src="/js/jquery.SuperSlide.2.1.1.js"></script>
+<!--top-->
+<div class="top">
+    <!--100%-->
+    <div class="topContent">
+        <!--1000px-->
+        <ul>
+            <li><a onclick="SetHome(window.location)" href="javascript:void(0)">设为首页</a></li>
+            <li style="background: url('{dede:global.cfg_templets_skin/}/images/top.png') no-repeat -95px 8px;"><a href="#" onclick="javascript:addFavorite2()">收藏我们</a></li>
+            <li style="margin-right:0px;background: url('{dede:global.cfg_templets_skin/}/images/top.png') no-repeat -190px 8px;"><a href="tencent://message/?uin=610606820">在线咨询</a></li>
+        </ul>
+    </div>
+</div>
+<div class="main">
+    <!--1140px-->
+    <!--导航框-->
+    <div class="slideBox">
+        <script src="/js/banner.js"></script>
+<!--         <script>
+        jQuery(".slideBox").slide({ titCell: ".slideLink li", mainCell: ".imgBox ul", delayTime: 0 });
+        </script> -->
+        <div class="navBox">
+            <h1 class="logo1"><a href="/"><img src="/templets/qunli/images/qllogo.png" alt="成都化妆学校"></a></h1>
+            <ul>
+                <li style="background: none">
+                    <a href="/">首页</a>
+                </li>
+                <li>
+                    <a href="/gywm/index.html">关于我们</a>
+                    <dl>
+                        <dd><a href="/gywm/school/index.html#brandCulture">学校介绍</a></dd>
+                        <dd><a href="/gywm/wenhua/#brandCulture">办学文化</a></dd>
+                        <dd><a href="/gywm/environment/index.html#brandCulture">学校环境</a></dd>
+                        <dd><a style="border:none" href="/gywm/rongyu/list_1.html#honor">资质荣誉</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <a href="/news/list_1.html">新闻动态</a>
+                    <dl>
+                        <dd><a href="/news/qunlidongtai/list_1.html#news">群丽动态</a></dd>
+                        <dd><a href="/news/huodong/list_17_1.html#qunliActive">群丽活动</a></dd>
+                        <dd><a href="/news/xinwen/list_18_1.html#news">行业新闻</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <a href="/xueyuanshizi/list_4_1.html">学员师资</a>
+                    <dl>
+                        <dd><a href="/xueyuanshizi/jiaoshi/list_20_1.html#schoolIntro">专业教师</a></dd>
+                        <dd><a href="/xueyuanshizi/zuopin/list_21_1.html#production">学员作品</a></dd>
+                        <dd><a href="/xueyuanshizo/xueyuan/list_22_1.html#OutstandingStudents">优秀学员</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <a href="/kecheng/list_2_1.html">专业课程</a>
+                    <dl>
+                        {dede:type typeid="12"}
+                        <dd><a href="[field:typelink/]#caizhuang">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="13"}
+                        <dd><a href="[field:typelink/]#meijia">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="14"}
+                        <dd><a href="[field:typelink/]#meijie">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="15"}
+                        <dd><a href="[field:typelink/]#ziwo">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="42"}
+                        <dd><a href="[field:typelink/]#meirong">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="43"}
+                        <dd><a href="[field:typelink/]#zonghe">[field:typename/]</a></dd>{/dede:type}
+                    </dl>
+                </li>
+                <li>
+                    <a href="/zhaoshengjiuye/list_5_1.html">招生就业</a>
+                    <dl>
+                        <dd><a href="/zhaoshengjiuye/kaiban/list_23_1.html#newClass">最新开班信息</a></dd>
+                        <dd><a href="/zhaoshengjiuye/baoming/index.html#askQuestion">报名须知</a></dd>
+                        <dd><a href="/zhaoshengjiuye/baozhang/index.html#jiuyebaozhang">就业保障</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <a href="/shangwuhezuo/index.html">商务合作</a>
+                    <dl>
+                        <dd><a href="/shangwuhezuo/hunli/index.html#divIdCoBig1">婚礼跟妆</a></dd>
+                        <dd><a href="/shangwuhezuo/peixun/index.html#divIdCoBig2">企业化妆培训</a></dd>
+                        <dd><a href="/shangwuhezuo/huodong/index.html#divIdCoBig3">大型活动跟妆</a></dd>
+                        <dd><a href="/shangwuhezuo/qita/index.html">其他商务合作</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <a href="/lianxiwomen/index.html">联系我们</a>
+                    <dl>
+                        <dd><a href="/lianxiwomen/lianxi/index.html#contactUs">联系我们</a></dd>
+                        <dd><a href="/lianxiwomen/ditu/index.html#position">地图位置</a></dd>
+                    </dl>
+                </li>
+            </ul>
+            <span class="hotLine"><img src="/templets/qunli/images/hotLine.png" alt="成都化妆学校"/></span>
+        </div>
+        <!--         <div class="navBox">
+            <h1 class="logo1"><a href="/"><img src="{dede:global.cfg_templets_skin/}/images/qllogo.png" alt="成都化妆学校"></a></h1>
+            <ul>
+                <li style="background: none">
+                    <a href="/">首页</a>
+                </li>
+                <li>
+                    {dede:type typeid="1"}<a href="[field:typelink/]">[field:typename/]</a>{/dede:type}
+                    <dl>
+                        {dede:type typeid="8"}
+                        <dd><a href="[field:typelink/]#brandCulture">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="9"}
+                        <dd><a href="[field:typelink/]#brandCulture">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="10"}
+                        <dd><a href="[field:typelink/]#brandCulture">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="11"}
+                        <dd><a style="border:none" href="[field:typelink/]#honor">[field:typename/]</a></dd>{/dede:type}
+                    </dl>
+                </li>
+                <li>
+                    {dede:type typeid="3"}<a href="[field:typelink/]">[field:typename/]</a>{/dede:type}
+                    <dl>
+                        {dede:type typeid="16"}
+                        <dd><a href="[field:typelink/]#news">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="17"}
+                        <dd><a href="[field:typelink/]#qunliActive">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="18"}
+                        <dd><a href="[field:typelink/]#news">[field:typename/]</a></dd>{/dede:type}
+                    </dl>
+                </li>
+                <li>
+                    {dede:type typeid="4"}<a href="[field:typelink/]">[field:typename/]</a>{/dede:type}
+                    <dl>
+                        {dede:type typeid="20"}
+                        <dd><a href="[field:typelink/]#schoolIntro">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="21"}
+                        <dd><a href="[field:typelink/]#production">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="22"}
+                        <dd><a href="[field:typelink/]#OutstandingStudents">[field:typename/]</a></dd>{/dede:type}
+                    </dl>
+                </li>
+                <li>
+                    {dede:type typeid="2"}<a href="[field:typelink/]">[field:typename/]</a>{/dede:type}
+                    <dl>
+                        {dede:type typeid="12"}
+                        <dd><a href="[field:typelink/]#makeUp">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="13"}
+                        <dd><a href="[field:typelink/]#fingernail">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="14"}
+                        <dd><a href="[field:typelink/]#beauty">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="15"}
+                        <dd><a href="[field:typelink/]#integrated">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="43"}
+                        <dd><a href="[field:typelink/]#integrated">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="45"}
+                        <dd><a href="[field:typelink/]#integrated">[field:typename/]</a></dd>{/dede:type}
+                    </dl>
+                </li>
+                <li>
+                    {dede:type typeid="5"}<a href="[field:typelink/]">[field:typename/]</a>{/dede:type}
+                    <dl>
+                        {dede:type typeid="23"}
+                        <dd><a href="[field:typelink/]#newClass">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="24"}
+                        <dd><a href="[field:typelink/]#askQuestion">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="25"}
+                        <dd><a href="[field:typelink/]#jiuyebaozhang">[field:typename/]</a></dd>{/dede:type}
+                    </dl>
+                </li>
+                <li>
+                    {dede:type typeid="6"}<a href="[field:typelink/]">[field:typename/]</a>{/dede:type}
+                    <dl>
+                        {dede:type typeid="26"}
+                        <dd><a href="[field:typelink/]#divIdCoBig1">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="27"}
+                        <dd><a href="[field:typelink/]#divIdCoBig2">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="28"}
+                        <dd><a href="[field:typelink/]#divIdCoBig3">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="29"}
+                        <dd><a href="[field:typelink/]">[field:typename/]</a></dd>{/dede:type}
+                    </dl>
+                </li>
+                <li>
+                    {dede:type typeid="7"}<a href="[field:typelink/]">[field:typename/]</a>{/dede:type}
+                    <dl>
+                        {dede:type typeid="30"}
+                        <dd><a href="[field:typelink/]#contactUs">[field:typename/]</a></dd>{/dede:type} {dede:type typeid="31"}
+                        <dd><a href="[field:typelink/]#position">[field:typename/]</a></dd>{/dede:type}
+                    </dl>
+                </li>
+            </ul>
+            <span class="hotLine"><img src="{dede:global.cfg_templets_skin/}/images/hotLine.png" alt="成都化妆学校"/></span>
+        </div> -->
+    </div>

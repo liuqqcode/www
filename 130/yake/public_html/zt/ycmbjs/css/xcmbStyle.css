@@ -1,0 +1,552 @@
+@charset "utf-8";
+/* CSS Document */
+body{ text-align:left;}
+
+.xbWarp{ background:url(../images/xcmb_bg.png) repeat-y;}
+
+/* banner */
+.xbBan1{
+	width:100%;
+	height:185px;
+	background:url(../images/xcmbBan2.jpg) top center no-repeat;
+	}
+.xbBan2{
+	width:100%;
+	height:148px;
+	background:url(../images/xcmbBan3.jpg) top center no-repeat;
+	}
+.xbBan3{
+	width:100%;
+	height:167px;
+	background:url(../images/xcmbBan1.jpg) top center no-repeat;
+	}
+	
+	
+/* nav */
+.xbUL{ width:100%; margin:0 auto;}
+.xbUL li{ float:left; overflow:hidden; display:inline;}
+.xbUL a{
+	display:inline-block;
+	float:left;
+	width:150px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	margin:13px 40px 0 0;
+	overflow:hidden;
+	font-size:15px;	
+	}
+.xbUL a:hover{
+	width:150px;
+	background:#2780D8;
+	color:#fff;
+	font-weight:bold;
+	text-decoration:none;
+	}
+.xbUL a.on{
+	width:150px;
+	background:#2780D8;
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+	
+/* title */
+.xbTote{
+	height:50px;
+	padding-left:35px;
+	width:1100px;
+	margin:0 auto;
+	line-height:22px;
+	color:#AAAAAA;
+	text-align:left;
+	font-size:12px;
+	}
+.xbTote h2{
+	font-size:26px;	
+	color:#2780D8;
+	font-weight:bold;
+	}
+.xbTit{
+	background:url(../images/xcmb_bg2.png) left bottom no-repeat;
+	margin:50px auto;
+	margin-bottom:0;
+	}
+.xbTit2{background:url(../images/xcmb_bg3.png) no-repeat 0 0;}
+.xbTit3{
+	height:18px;
+	background:url(../images/xcmb_bg3.png) no-repeat 0 -56px;
+	width:1100px;
+	margin:30px auto;
+	padding-left:35px;
+	margin-top:0;
+	}
+	
+	
+/*-------------------------- 炫彩美白系统简介 -----------------------------------------------*/	
+/* 1 炫彩美白简介 */
+.xbjL{
+	width:450px;
+	float:left;
+	margin-left:50px;
+	}
+.xbjR{
+	width:520px;
+	float:right;
+	margin-right:50px;	
+	}
+.wtxb{
+	height:60px;
+	line-height:60px;
+	background:url(../images/xcmb_02.jpg) no-repeat;
+	font-size:30px;
+	padding-left:30px;
+	color:#fff;
+	}
+.xbjR p{ margin-top:20px; font-size:16px;}
+
+
+/* 2 炫彩美白操作步骤 */
+.czbz{
+	width:240px;
+	float:left;	
+	}
+.czbz img{ width:240px; height:154px;}
+.steps{margin:40px 0;}
+.stepsL{
+	width:60px;
+	height:15px;
+	background:#2780D8;
+	color:#fff;
+	font-size:12px;
+	text-align:center;
+	line-height:15px;
+	float:left;
+	margin-top:3px;
+	}
+.stepsR{
+	float:left;
+	line-height:16px;
+	margin-left:10px;
+	color:#888888;
+	font-size:13px;
+	}
+.stepsR h3{color:#555555; font-size:16px;}
+.bzJt{
+	float:left;
+	width:17px;
+	height:22px;
+	background:url(../images/xcmb_03.jpg) no-repeat;
+	margin:75px 60px 0;
+	}
+	
+	
+/* 3 与传统美白对比 */
+.xbWarp3 table{
+	width:1065px;
+	border-collapse: collapse;
+	border-spacing:0;
+	margin:0 auto;
+	font-size:15px;
+    line-height:30px;
+	}
+.xbWarp3 tr td,.xbWarp3 tr th{border:1px solid #DDEBF9;color:#525252;padding:0 20px;}
+.xbWarp3 tr th{
+	background:#2780D8;
+	text-align:center;
+	color:#fff;
+	font-size:20px;
+	font-weight:normal;
+	}
+.xbWarp3 tr{border:1px solid #DDEBF9; height:72px;}
+.xbWarp3 .tr2{ background:#F0F7FD;}
+.xbWarp3 .td1 {
+	width:199px;
+	text-align:center;
+	color:#2780D8;
+	font-size:16px;
+	font-weight:bold;
+	}
+.xbWarp3 .tr3{ height:82px;}
+
+
+
+
+
+/* 4 什么样的牙齿要美白 */
+.kindL{
+	width:470px;
+	padding-left:20px;
+	float:left;	
+	}
+.kindR{
+	float:right;
+	width:580px;	
+	}
+.kindBox{
+	width:180px;
+	float:left;
+	margin:0 20px 30px 0;	
+	}
+.kindBox img{ width:180px; height:103px;}
+.kindBox span{
+	height:22x;
+	background:#ECF2F8;
+	line-height:22px;
+	display:block;
+	margin-top:5px;
+	padding-left:10px;
+	}
+.kindR a.btn{
+	display:block;
+	background:url(../images/xcmb_16.jpg) no-repeat;
+	height:52px;
+	line-height:50px;
+	text-align:left;
+	color:#fff;
+	font-size:20px;
+	padding-left:30px;
+	}
+.kindR a.btn span{
+	padding-left:15px;
+	background:url(../images/xbSj.png) left center no-repeat;
+	}
+.kindR a:hover{ opacity:0.8;color:#00BFFF;}
+
+
+/* 5 专家答疑 */
+.zjdyL{
+	float:left;	
+	width:390px;
+	margin-left:50px;
+	height:234px;
+	background:url(../images/wdBg.jpg) no-repeat;
+	padding:20px;
+	}
+.zjdyR{
+	float:left;
+	width:560px;
+	margin-left:50px;
+	}
+.zjdyL h2{
+	font-weight:normal;
+	font-size:22px;	
+	}
+.bye{
+	width:166px;
+	background:url(../images/byeBg.png) no-repeat;
+	float:left;
+	height:71px;
+	margin:15px 0;
+	}
+.bye1{
+	font-size:40px;
+	color:#FFA64D;
+	font-weight:bold;
+	text-align:center;
+	line-height:71px;	
+	}
+.bye2{
+	width:146px;
+	height:51px;
+	margin-left:30px;
+	font-size:20px;
+	padding:10px;
+	}
+.zjdyL a{
+	display:block;
+	float:left;
+	overflow:hidden;
+	background:url(../images/xcma_btn2.jpg) no-repeat;
+	height:52px;
+	width:136px;
+	margin-left:10px;
+	font-size:20px;
+	color:#fff;
+	line-height:52px;	
+	}
+.zjdyL a:hover{ opacity:0.8;color:#00BFFF;}
+.qBoxL{
+	width:21px;
+	float:left;
+	font-size:25px;
+	font-weight:700;
+	color:#2780D8;
+	}
+.qBoxR{
+	width:529px;
+	float:right;
+	}
+.qBoxR h3{
+	font-size:18px;
+	color:#2780D8;
+	margin-bottom:10px;	
+	}
+.qline{
+	height:1px;
+	border-top:1px dashed #878787;
+	margin:20px 0 30px;	
+	}
+.qBox2{
+	height:97px;
+	background:url(../images/xcmb_18.jpg) repeat-x;
+	margin-left:50px;
+	padding:30px 0 0 40px;	
+	}
+.qBoxR2{
+	float:left;
+	margin-left:10px;
+	width:900px;
+	}
+	
+	
+/*-------------------------- 炫彩美白过程 -----------------------------------------------*/	
+/* 1 炫彩美白6步骤 */
+.xbbzL{
+	float:left;
+	width:238px;
+	height:290px;	
+	}
+.xbbzR{
+	float:right;
+	width:807px;
+	height:290px;
+	background:#E9F2FC;
+	}
+.xbbzL li a{
+	display:block;
+	height:42px;
+	background:url(../images/xcmb_19-3.png) left center no-repeat;
+	margin-bottom:7px;
+	line-height:42px;
+	padding-left:25px;
+	text-align:left;
+	}
+.xbbzL .bzOn,.xbbzL li a:hover{
+	display:block;
+	height:42px;
+	line-height:42px;
+	background:url(../images/xcmb_19.jpg) left center no-repeat;
+	font-weight:700px;
+	color:#fff;
+	text-align:left;
+	}
+.xbbzR .bzTxt{
+	float:left;
+	width:207px;
+	padding:100px 50px 0;
+	font-size:16px;
+	line-height:30px;
+	}
+.xbbzR .bzImg{
+	float:right;
+	height:290px;
+	width:500px;
+	}
+
+
+/* 2 美白效果大比拼 */
+.dbpDiv1{
+	float:left;
+	width:200px;
+	background:#EBF3FB;
+	height:208px;
+	text-align:center;
+	color:#2780D8;
+	font-size:24px;
+	padding-top:100px;	
+	}
+.dbpDiv1 h1{ font-size:32px;}
+.dbpDiv2{
+	float:left;
+	width:412px;
+	height:308px;
+	background:url(../images/xcmb_21.jpg) repeat-y;
+	font-size:12px;	
+	}
+.dbpBox{
+	height:200px;
+	background:url(../images/xcmb_22.png) left bottom no-repeat;
+	position:relative;
+	}
+.sj{position:absolute; left:20px; top:140px;}
+.sj1{
+	color:#2780D8;
+	font-weight:bold;	
+	}
+.sj2{
+	color:#FF4000;
+	font-weight:bold;
+	left:75px;
+	top:60px;	
+	}
+.sj3{ left:160px; top:45px;}
+.sj4{ left:260px; top:100px;}
+.sj5{ left:325px; top:100px;}
+.dbpDiv2 table{
+	width:412px;
+	border-collapse: collapse;
+	border-spacing:0;
+	margin:40px auto 0;
+	background:#fff;
+	}
+.dbpDiv2 tr td{border:1px solid #F2F2F2;padding:5px 0 5px 15px;}
+.dbpTd1{ font-weight:bold; color:#2780D8;}
+.dbpTd2{ color:#FF4000;}
+.dbpDiv3{
+	float:right;
+	width:450px;
+	background:#EBF3FB;
+	height:308px;
+	line-height:30px;
+	}
+.zysx{
+	width:300px;
+	height:38px;
+	line-height:38px;
+	margin:0 auto;
+	background:#2780D8;
+	font-size:20px;
+	text-align:center;
+	color:#fff;
+	margin-bottom:40px;	
+	}
+.dbpDiv3 p{
+	width:400px;
+	margin:0 20px 0 15px;
+	font-size:12px;
+	padding-left:20px;	
+	}
+	
+	
+/*-------------------------- 炫彩美白优势 -----------------------------------------------*/	
+/* 1 其他的美容种类 */
+.method{
+	height:283px;
+	background:#2780D8;	
+	}
+.mtdL{
+	float:left;
+	width:288px;
+	padding:20px;	
+	}
+.mtdR{
+	float:right;
+	width:720px;
+	margin-right:20px;
+	color:#fff;
+	}
+.mtdR ul{
+	border-bottom:1px dashed #3A6FA3;
+	padding:40px 0 20px 0;
+	overflow:hidden;	
+	}
+.mtdR ul li{
+	width:60px;
+	float:left;
+	overflow:hidden;
+	text-align:center;
+	margin-right:40px;
+	}
+.mtdR ul img{
+	width:60px;
+	height:60px;
+	margin-bottom:10px;	
+	}
+.mtdR h2{
+	margin:20px 0 10px 0;
+	font-size:16px;
+	font-weight:normal;	
+	}
+	
+	
+/* 2 风靡全球的美牙技术 */
+.swept{
+	float:left;
+	width:212px;
+	height:322px;
+	background:url(../images/xcmb_40.jpg) no-repeat;
+	margin-left:20px;
+	padding:20px;
+	font-size:13px;
+	}
+.swept .swtOn{
+	width:252px;
+	height:362px;
+	background:url(../images/xcmb_41.jpg) no-repeat;
+	}
+.swept img{	width:220px;height:129px;}
+.swTit{
+	margin:30px 0 10px 0;
+	height:20px;
+	line-height:20px;
+	background:#2780D8;
+	color:#fff;
+	text-align:center;	
+	}
+.swTit span{ font-size:15px; font-weight:bold;}
+.swept p{ line-height:25px;}
+.swept .swtOn{
+	width:252px;
+	height:362px;
+	background:url(../images/xcmb_41.jpg) no-repeat;
+	}
+.swTitOn{background:#FF5C26;}
+
+
+/* 3 选择圣贝的原因 */
+.xbbzR .choTxt{
+	float:left;
+	width:257px;
+	padding:50px 25px 0;	
+	}
+.choTxt h2{
+	font-size:16px;
+	color:#2780D8;
+	margin-bottom:20px;	
+	}
+.choTxt p{
+	font-size:12px;
+	line-height:28px;	
+	}
+
+
+/* 4 用实力说话 */
+.trustL{
+	float:left;
+	width:388px;
+	height:344px;
+	margin:0 100px;
+	}
+.trustR{
+	float:left;
+	width:451px;	
+	}
+.sjShow{
+	height:30px;
+	background:#E9F2FC;
+	margin:40px 0 20px 0;
+	line-height:30px;
+	padding-left:5px;
+	font-weight:bold;
+	font-size:15px;
+	}
+.cgal{
+	height:68px;
+	font-size:16px;
+	font-weight:bold;
+	margin-top:20px;
+	background:url(../images/xcmb_39.jpg) right center no-repeat;
+	width:380px;
+	line-height:25px;
+	padding-top:15px;	
+	}
+	
+	
+/*-------------------------- 炫彩美白案例 -----------------------------------------------*/	
+/* 炫彩美白案例列表 */
+.xba{ background:#91979E;}
+.xba2{ background:#2780D8;}
+.xba:hover{ background:#2780D8;}
+.xba2:hover{ background:#91979E;}

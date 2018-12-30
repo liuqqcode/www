@@ -1,0 +1,64 @@
+<div class="right_list">
+    <div class="r_list_top">
+        <img src="/images/r_list_zi.png">
+    </div>
+    <ul class="pt_nav">
+        {dede:channel type='top' row='10' }
+        <li>
+            <a href="[field:typeurl/]">
+                <div>[field:typename/]</div>
+                <span>[field:typename/]</span>
+            </a>
+        </li>
+        {/dede:channel}
+    </ul>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $(".pt_nav a").each(function() {
+            $this = $(this);
+            if ($this[0].href == String(window.location)) {
+                $this.addClass("bgon");
+            }
+        });
+    });
+    </script>
+    <div class="r_list_bottom">
+        <div class="r_l_b_xinxi">
+            <img src="/images/dh.png">
+            <span>{dede:global.time/}（节假日无休）</span>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+$gao = document.body.clientHeight - 780;
+
+$(window).scroll(function() {
+
+    if (window.scrollY > "408") {
+
+        $(".right_list").addClass("left_nav");
+
+    }
+
+});
+
+$(window).scroll(function() {
+
+    if (window.scrollY < "408") {
+
+        $(".right_list").removeClass("left_nav").css("bottom", '');
+
+    }
+
+});
+
+$(window).scroll(function() {
+
+    if (window.scrollY > $gao) {
+
+        $(".right_list").removeClass("left_nav").css("bottom", "30px");
+
+    }
+
+});
+</script>

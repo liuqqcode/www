@@ -1,0 +1,25 @@
+<?php
+$z[0]=Array("noteinfo","",0,173);
+$z[0][4]['notename']="牙齿矫正方法";
+$z[0][4]['channelid']="1";
+$z[0][4]['macthtype']="string";
+$z[0][4]['refurl']="http://";
+$z[0][4]['sourcelang']="utf-8";
+$z[0][4]['cosort']="asc";
+$z[0][4]['isref']="no";
+$z[0][4]['exptime']="10";
+$z[0][4]['usemore']="0";
+$z[1]=Array("listrule","\r\n    {dede:addurls}http://beij.weierkq.com/ycjzffj/5.html\r\nhttp://beij.weierkq.com/ycjzffj/4.html\r\nhttp://beij.weierkq.com/ycjzffj/3.html\r\nhttp://beij.weierkq.com/ycjzffj/2.html\r\nhttp://beij.weierkq.com/ycjzffj/{/dede:addurls}\r\n    {dede:batchrule}{/dede:batchrule}\r\n    {dede:regxrule}{/dede:regxrule}\r\n    {dede:areastart}<div class=\"left_center auto\">{/dede:areastart}\r\n    {dede:areaend}<div id=\"pages\" class=\"text-c auto\">{/dede:areaend}\r\n",175,804);
+$z[1][4]['sourcetype']="hand";
+$z[1][4]['rssurl']="http://";
+$z[1][4]['regxurl']="http://";
+$z[1][4]['startid']="1";
+$z[1][4]['endid']="";
+$z[1][4]['addv']="1";
+$z[1][4]['urlrule']="area";
+$z[1][4]['musthas']="ycjzffj";
+$z[1][4]['nothas']="";
+$z[1][4]['listpic']="1";
+$z[1][4]['usemore']="0";
+
+?>

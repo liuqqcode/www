@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+    <script src="{dede:global.cfg_templets_skin/}/js/autoImg.js"></script>
+</head>
+<style>
+
+    /*图片无缝滚动*/
+    #outBox {
+        background: #FFF;
+        overflow:hidden;
+        width:1000px;
+    }
+    #inBox{
+        float: left;
+        width: 800%;
+    }
+    #box1 {
+        float: left;
+    }
+
+    #box1 li,#box2 li{
+        float: left;
+        display:inline-block;
+        width: 225px;
+        height:140px;
+        overflow: hidden;
+    }
+    .beforeImg{
+        display: block;
+        position: absolute;left: 0;
+        top: 0;
+        z-index: 8888;
+    }
+    .behindImg{
+        display: none;
+        position: absolute;left: 0;
+        top: 0;
+        z-index: 8888;
+    }
+    #box1 li>div,#box2 li>div{
+        position: relative;
+        cursor: pointer;
+    }
+    #box2 {
+        float: left;
+
+    }
+    .mask2{
+        width: 100%;
+        height:140px;
+        position: absolute;
+        background: url("{dede:global.cfg_templets_skin/}/images/maskImg.png") no-repeat;
+        left:0;
+        top: 0;
+        z-index: 9999;
+        color:white;
+        font-family: "微软雅黑";
+        display: none;
+
+    }
+    .mask2 h6{
+        font-size:14px;
+        height: 30px;;
+        line-height: 30px;
+        padding-left: 10px;
+    }
+
+    .mask2 dd{
+        margin:3px 0 0 10px;
+        font-size:12px;
+        height:20px;
+        clear: both;
+        position: static;
+        padding:0;
+    }
+    .mask2 a{
+        display: block;
+        width:80px;
+        border:1px solid white;
+        font-size:14px;
+        color: white;
+        height: 26px;
+        line-height: 26px;
+        text-align: center;
+        margin:5px 0 0 10px;text-decoration: none;
+
+    }
+</style>
+
+<body>
+<div class="all">
+   {dede:include filename="head.htm"/}
+        <!--最热消息-->
+        <div class="hotNews">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}    
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span>028-85831188</span>
+                        <span>18981933384</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!--最新开班信息-->
+        <div class="newClass" id="newClass">
+            <h1><a><img src="{dede:global.cfg_templets_skin/}/images/rs1.png" alt=""/></a></h1>
+            <div id="outBox">
+               <div id="inBox">
+                <ul id="box1" class="otherDemo">
+
+                  {dede:arclist typeid="23" orderby='pubdate' addfields='pic2,btime,cnt,price' channelid='21'}
+                    <li>
+                        <div>
+                            [field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]  
+                            <img src="[field:pic2/]" alt="" class="behindImg"/>
+                            <div class="mask2">
+                                <h6>[field:title/]</h6>
+                                <dl>
+                                    <dd>开班时间：[field:btime function="GetDateTimeMK(@me)"/]</dd>
+                                    <dd>开班人数：[field:cnt/]人 仅剩 <span>[field:syrs/]</span>人</dd>
+                                    <dd>学习费用：￥[field:price/]</dd>
+                                </dl>
+                                <a href="">马上报名</a>
+                            </div>
+                        </div>
+                    </li>                                                                             
+                        {/dede:arclist}    
+                </ul>
+                <ul id="box2"  class="otherDemo"></ul>
+            </div>
+
+            </div>
+            <div class="progress">
+                <div></div>
+            </div>
+        </div>
+        <!--就业保障-->
+        <div class="jiuyebaozhang" id="jiuyebaozhang">
+            <div class="otherBc">
+                <div class="titleBox"><h1><a style="width:300px;"><img src="{dede:global.cfg_templets_skin/}/images/protect.png" alt=""/></a></h1></div>
+            </div>
+            <!--小导航-->
+            <div class="littleNav">
+                <div class="littleNavContent">
+                    <ul>
+                {dede:channel typeid="25"}
+                <li><a href="[field:typeurl/]">[field:typename/]</a></li>
+                {/dede:channel}
+                    </ul>
+                </div>
+            </div>
+            <div class="protectContent">
+                <table>
+                    <tr>
+                        <td>
+                            <a><img src="{dede:global.cfg_templets_skin/}/images/pro1.png" alt=""/></a>
+                            <span>品牌优势</span>
+                            <p>
+                                学校独立设立创业，就业指导中心，确保
+                                每位毕业学院顺利工作或开店。针对开店
+                                的学员，我们后期有专业人员全程指导。
+                            </p>
+                        </td>
+                        <td>
+                            <a><img src="{dede:global.cfg_templets_skin/}/images/pro2.png" alt=""/></a>
+                            <span>品牌优势</span>
+                            <p>
+                                学校独立设立创业，就业指导中心，确保
+                                每位毕业学院顺利工作或开店。针对开店
+                                的学员，我们后期有专业人员全程指导。
+                            </p>
+                        </td>
+                        <td>
+                            <a><img src="{dede:global.cfg_templets_skin/}/images/pro3.png" alt=""/></a>
+                            <span>品牌优势</span>
+                            <p>
+                                学校独立设立创业，就业指导中心，确保
+                                每位毕业学院顺利工作或开店。针对开店
+                                的学员，我们后期有专业人员全程指导。
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--招生问答-->
+        <div class="askQuestion" id="askQuestion">
+            <div class="askquestionContent">
+                <h1>
+                    <span>想知道更多招生事项？ 详询热线：028-86661825</span>
+                </h1>
+                <table>
+                    <tr>
+                        <td>
+                            <a href=""></a>
+                            <span>群丽化妆学校入学标准？</span>
+                            <p>
+                                本校系成人培训学校，学员入学时须年满18周岁，具有初中
+                                以上文化程度，无辨色类疾病，能保证系统时间参加学习。未满
+                                18周岁的学员，必须由监护人陪同。报名并签订《未成年人
+                                入学协议书》
+                            </p>
+                        </td>
+                        <td>
+                            <a href=""></a>
+                            <span>群丽化妆学校入学标准？</span>
+                            <p>
+                                本校系承认培训学校，学员入学时须年满18周岁，具有初中
+                                以上文化程度，无辨色类疾病，能保证系统时间参加学习。未满
+                                18周岁的学员，必须由监护人陪同。报名并签订《未成年人
+                                入学协议书》
+                            </p>
+                        </td>
+                        <td>
+                            <a href=""></a>
+                            <span>群丽化妆学校入学标准？</span>
+                            <p>
+                                本校系承认培训学校，学员入学时须年满18周岁，具有初中
+                                以上文化程度，无辨色类疾病，能保证系统时间参加学习。未满
+                                18周岁的学员，必须由监护人陪同。报名并签订《未成年人
+                                入学协议书》
+                            </p>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href=""></a>
+                            <span>群丽化妆学校入学标准？</span>
+                            <p>
+                                本校系承认培训学校，学员入学时须年满18周岁，具有初中
+                                以上文化程度，无辨色类疾病，能保证系统时间参加学习。未满
+                                18周岁的学员，必须由监护人陪同。报名并签订《未成年人
+                                入学协议书》
+                            </p>
+                        </td>
+                        <td>
+                            <a href=""></a>
+                            <span>群丽化妆学校入学标准？</span>
+                            <p>
+                                本校系承认培训学校，学员入学时须年满18周岁，具有初中
+                                以上文化程度，无辨色类疾病，能保证系统时间参加学习。未满
+                                18周岁的学员，必须由监护人陪同。报名并签订《未成年人
+                                入学协议书》
+                            </p>
+                        </td>
+                        <td>
+                            <a href=""></a>
+                            <span>群丽化妆学校入学标准？</span>
+                            <p>
+                                本校系承认培训学校，学员入学时须年满18周岁，具有初中
+                                以上文化程度，无辨色类疾病，能保证系统时间参加学习。未满
+                                18周岁的学员，必须由监护人陪同。报名并签订《未成年人
+                                入学协议书》
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <!--footer-->
+        {dede:include filename="footer.htm"/}
+</body>
+<script>
+    var speed=60;
+    var MyMar=null;
+    var tab=document.getElementById("outBox");
+    var tab1=document.getElementById("box1");
+    var tab2=document.getElementById("box2");
+    tab2.innerHTML=tab1.innerHTML;
+    function Marquee(){
+        if(tab.scrollLeft>=tab1.offsetWidth) {
+            tab.scrollLeft = 0;
+        }else{
+            tab.scrollLeft+=2;
+        }
+    }
+    MyMar=setInterval(Marquee,60);
+    $("#outBox li>div").each(function(index){
+        $(this).hover(function(){
+            $(this).find(".mask2").fadeIn(300);
+            $(this).find(".beforeImg").fadeOut(300);
+            $(this).find(".behindImg").fadeIn(300);
+            clearInterval(MyMar);
+        },function(){
+            $(this).find(".mask2").fadeOut(300);
+            $(this).find(".beforeImg").fadeIn(300);
+            $(this).find(".behindImg").fadeOut(300);
+            MyMar=setInterval(Marquee,60);
+        })
+    })
+</script>
+
+</html>

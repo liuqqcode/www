@@ -1,0 +1,908 @@
+.hotNews{
+    width:100%;
+    background:#01000b;
+    color: white;
+   height:150px;
+    padding-top:30px;
+}
+.hotNewsContent{
+    width: 1000px;
+    font-family: "微软雅黑";
+}
+.hotNewsContent div{
+    float: left;
+    padding:0 20px;
+    width:460px;
+}
+.hotNewsContent div h3{
+    padding:0 0 0 30px;
+    margin: 0;
+    background: url("../images/phone.png") no-repeat 0px 6px;
+    height:40px;
+    line-height: 40px;
+    font-size: 14px;
+}
+.hotNewsContent div h3.hot{
+    background: url("../images/hot.png") no-repeat 0px 6px;
+}
+.hotNewsContent div p{
+    font-size: 12px;
+}
+.hotNewsContent div p span{
+    font-size:26px;
+    margin-right:20px;
+}
+
+
+/*schoolIntro*/
+.schoolIntro{
+    width:100%;
+}
+.schoolIntroContent{
+    font-family:"微软雅黑";
+    color:#666;
+    width:1000px;
+    padding-bottom:50px;
+}
+.schoolIntroContent h1{
+    margin:20px 0;
+}
+.schoolIntroContent h1 a{
+    
+    display: block;
+    width:350px;
+    
+}
+.schoolIntroContent p{
+    text-align: center;
+    line-height:30px;
+    font-size:12px;
+}
+
+
+
+/*brandCulture*/
+
+.brandCulture{
+    width:100%;
+    background:url("../images/aboutUsbg.png");
+    background-image: url('../images/aboutUsbg.png');
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+              src='../images/aboutUsbg.png',
+                sizingMethod='scale');
+    height:auto;
+}
+.brandCultureContent{
+    width: 1000px;
+}
+.brandCultureContent h1{
+    padding-top:40px;
+}
+.brandCultureContent h1 a{
+    display: block;
+    width:250px;
+}
+.brand{
+    width:1000px;
+    height: 250px;
+    padding:30px 0;
+}
+.brand>div{
+    float: left;
+    width:500px;
+    color: white;
+    font-size:12px;
+    font-family: "微软雅黑";
+}
+.brand>div td{
+    padding: 10px 20px 0 0;
+}
+.brand>div td span{
+    display: block;
+    margin:5px 0;
+}
+.brand>div.brand1{
+    width: 660px;
+    padding-right:30px;
+    color:white;
+}
+.brand>div.brand1 p{
+    margin-top: 20px;
+    line-height: 22px;
+}
+.brand>div.brand1 table{
+    margin-left:0px;
+}
+.brand1 h4{
+    margin:20px 0 0 0px;
+}
+.brand>div.brand2{
+    width:270px;margin-left:30px;
+}
+.brand2>a{
+    display: block;
+    width:100px;
+    float: left;
+    margin-top: 10px;
+}
+
+
+/*honor*/
+
+.honor h1 a{
+    display: block;
+    width:160px;
+}
+.honor .girls li{
+    margin-left:40px;
+}
+.honor .click{
+    position:absolute;
+    top:60px;
+}
+.honor .clickL{
+    left:30px;
+    width:28px;
+    height:40px;
+    background:url("../images/aL.png") no-repeat ;
+}
+.honor .clickR{
+    right:30px;
+    width:28px;
+    height:40px;
+    background:url("../images/aR.png") no-repeat;
+}
+.honor .girls{
+    width:700px;
+    margin: 0 auto;
+
+}
+.honor .girls ul{
+    width:800px;
+    margin: 0 auto;
+    position:relative;
+    top:30px;
+    left:-20px;
+}
+.honor .girls ul li{
+    width:180px;
+    height:130px;
+    margin-left:54px;
+}
+.honor .girls ul li a{
+    width:180px;
+    height:130px
+}
+
+
+/*商务合作页面*/
+.schoolIntroContent ul{
+    width: 1000px;
+    margin:0;
+    margin-top:20px;
+    padding: 0;
+}
+.schoolIntroContent li{
+    float: left;
+    padding:0 20px;
+    width:290px;
+}
+.schoolIntroContent li div{
+    width:220px;
+    margin:0 auto;
+}
+.schoolIntroContent li span{
+    margin-top:10px;
+    display: block;
+    width:130px;
+    height:50px;
+}
+.schoolIntroContent li span img{
+    width: auto;
+}
+.schoolIntroContent li p{
+    width:180px;
+    text-align: center;
+    line-height:20px;
+    margin-top:10px;
+}
+.schoolIntroContent li a{
+    display: block;
+    width: 120px;
+    height:35px;
+    line-height:35px;
+    text-align: center;
+    font-size:14px;
+    text-decoration: none;color:white;
+    background:#e74159;
+    margin-top:10px;
+}
+.schoolIntroContent li a:hover{
+    text-decoration: underline;
+}
+.otherBc{
+    margin-top:50px;
+    height:100px;
+    padding:60px 0 30px 0;
+    background:#e74159;
+}
+.otherBc .titleBox{
+    width: 1000px;
+}
+.otherBc .titleBox a{
+    display: block;
+    width:400px;
+}
+
+.schoolIntroContent div span{
+    display: block;
+    text-align: center;
+    font-size:16px;
+    margin:15px 0;
+}
+.schoolIntroContent div a{
+    display: block;
+    text-decoration: none;
+    color:white;
+    background:#e74159;
+    width:240px;
+    text-align: center;
+    line-height:35px;
+}
+.schoolIntroContent div a:hover{
+    text-decoration: underline;
+}
+
+
+/*联系我们页面*/
+
+.contactUsContent{
+    width: 1000px;
+    margin:30px auto;
+    margin-bottom: 40px;
+}
+.contactUsContent table{
+    width: 1000px;
+
+}
+.contactUsContent table td a{
+    display: block;
+    width:120px;
+}
+.contactUsContent table td{
+    text-align: center;
+}
+.contactUsContent table td span{
+    display: block;
+    text-align: center;
+    color:#666;
+    font-family: "微软雅黑";
+    font-size:12px;
+}
+.littleNav{
+    width:1000px;
+    height:80px;
+}
+.littleNavContent{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+.littleNavContent ul{
+    padding-left: 120px;
+}
+.littleNavContent li{
+    float: left;
+    height:50px;
+    margin-left: 20px;
+}
+.littleNavContent li a{
+    display: block;
+    width:160px;
+    text-align: center;
+    height:50px;
+    line-height: 50px;
+    text-decoration: none;
+    color:black;
+    font-family: "宋体";
+    font-weight: bold;
+    font-size: 14px;
+}
+.littleNavContent li a:hover{
+    line-height:40px;
+    border-bottom:2px solid #e74159;
+
+}
+
+
+
+
+/*学院师资*/
+.schoolTeacherBox{
+    width:100%;
+    clear: both;
+    background: black;
+}
+.schoolTeacherBoxCon{
+    width: 1000px;
+    height: 280px;
+}
+.schoolTeacherBoxCon>div{
+    float: left;
+}
+.schoolTeacherBoxCon>div.upDownScroll{
+    width: 350px;
+    height:280px;
+    position: relative;
+}
+.upDownScroll>a{
+    display:block;
+    width:25px;
+    height:25px;
+    position: absolute;
+    left:0px;
+    cursor: pointer;
+    top:120px;
+
+}
+.upDownScroll>a.up{
+    background: url("../images/linkup.png") no-repeat;
+
+}
+.upDownScroll>a.down{
+    background: url("../images/linkdown.png") no-repeat;
+    margin-top: 40px;
+
+}
+.upDownScroll>.hideBox{
+    height: 100%;
+    position:absolute;
+    right: 0;
+    width:300px;
+    overflow: hidden;
+    z-index:8888;
+}
+.upDownScroll>.hideBox ul{
+    position: absolute;
+    top: -120px;
+    left: 0;
+}
+.upDownScroll>.hideBox ul li a{
+    width:300px;
+    height:173px;
+    display:block;
+}
+.upDownScroll>.hideBox ul li a img{
+    width: 100%;
+    height: 100%;
+}
+
+.upDownScroll>p{
+    height:52px;
+    width:300px;
+    background:black;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+
+
+}
+.upDownScroll>p.hideup{
+    position: absolute;right: 0;
+    top: 0;
+    z-index: 9999;
+}
+.upDownScroll>p.hidedown{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 9999;
+
+}
+
+
+.schoolTeacherBoxCon>div.teacIntro{
+    width: 600px;
+    height:300px;
+    color: white;
+    font-family: "微软雅黑";
+    padding:0 20px;
+    overflow: hidden;
+    position: relative;
+}
+.schoolTeacherBoxCon>div.teacIntro ul{
+    position: absolute;
+    left: 20px;
+    width:600px;
+    top:-260px;
+}
+.schoolTeacherBoxCon>div.teacIntro li{
+    height:275px;
+    margin: 0 ;
+    padding: 0;
+}
+.teacIntro h5{
+    height:30px;
+    line-height: 30px;
+    font-size:14px;
+}
+.teacIntro p{
+    font-size:12px;
+    margin:5px 0;
+    line-height: 25px;
+}
+.teacIntro p span{
+    margin-right:20px;
+}
+
+.OutstandingStudents h1 a{
+    display: block;
+    width:260px
+}
+.OutstandingStudents .stRows{
+    width: 1000px;
+    margin: 0 auto;
+    /*border:1px solid green;*/
+    height:150px;
+    padding-top:20px;
+}
+.OutstandingStudents .stRows .stRowsFl{
+    float: left;width:480px;
+    margin-left: 18px;
+    margin-top:40px;
+}
+.stRowsFl >div{
+    float: left;
+    width:320px;
+    margin-left: 10px;
+}
+.stRowsFl >div.stRowsFlImgBox{
+    width:120px;
+    margin-right:20px;
+}
+.stRowsFl >div h5{
+    height: 30px;
+    line-height: 30px;
+    color: black;
+}
+.stRowsFl >div h5 span{
+    color:#999;
+    margin-left:15px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.stRowsFl >div p{
+    color:#999;
+    font-size: 12px;
+    line-height:18px;
+    padding:10px 0 0 0px;
+}
+.stRowsFlImgBox a{
+    display: block;
+    width:120px;
+}
+.morebox{
+    width: 1000px;
+    margin-top: 70px;
+    margin-bottom:30px;
+}
+.morebox a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size:14px;
+    font-family: "微软雅黑";
+    padding:0 20px;
+    height: 35px;
+    line-height: 35px;
+    background: #e74159;
+    width: 100px;
+    text-align: center;
+}
+.morebox a:hover{
+    text-decoration: underline;
+}
+
+
+
+/*招生就业*/
+.newClass{
+    width:1000px;
+    padding-top: 40px;
+}
+.newClass h1{
+    margin-bottom: 30px;
+}
+
+.newClass h1 a{
+    display: block;
+    width:240px
+}
+.otherDemo li {
+    margin-left: 20px;
+}
+.jiuyebaozhang{
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 50px;
+}
+.protectContent table{
+    width: 1000px;
+    margin-top: 20px;
+    font-family: "微软雅黑";
+}
+.protectContent td{
+    padding:0 40px;
+}
+.protectContent td span{
+    display: block;
+    margin:15px 0;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+.protectContent td a{
+    display: block;
+    width: 80px;
+}
+.protectContent td  p{
+    font-size: 12px;
+    line-height: 20px;
+    color: #999;
+    text-align: center;
+}
+
+.askQuestion{
+    width: 100%;
+}
+.askquestionContent{
+    width: 1000px;
+    padding-top: 50px;
+}
+.askquestionContent h1{
+   height:100px;
+    border:1px solid white;
+    width:100%;
+    background: url("../images/ask.png") no-repeat 20px 0;
+}
+.askquestionContent h1 span{
+    font-size: 14px;
+    font-family: "微软雅黑";
+    display: block;
+    margin: 46px 0 0 100px;
+    color: #999;
+    font-weight: normal;
+}
+
+.askquestionContent table td{
+    padding:10px 20px 0 20px;
+    font-family:"微软雅黑";
+    /*height: 200px;*/
+    width: 280px;
+    display: block;
+    float: left;
+
+}
+.askquestionContent table td a{
+    display: block;
+    width:25px;
+    height: 25px;
+    background: url("../images/wenhao.png");
+    margin-left: 0;
+}
+.askquestionContent table td span{
+    font-weight: bold;
+    display: block;
+    margin: 10px 0;
+    font-size:14px;
+}
+.askquestionContent table td p{
+    color: #999;
+    font-size: 12px;
+}
+
+
+/*新闻动态页面*/
+
+
+.qunliActive{
+    width: 100%;
+    height:380px;
+    background: #e74159;
+    margin-top:50px;
+}
+.qunliActive h1{
+    margin:20px 0 40px 0;
+}
+.qunliActive h1 a{
+    width:300px
+}
+.qunliActive .img-list{
+    width:900px;
+    padding: 0;
+
+}
+.qunliActive .img-list li{
+    margin-left:20px;
+}
+.qunliActive .img-list li:first-child{
+    margin: 0;
+}
+.qunliActive .img-list li a{
+    width: 204px;
+}
+.vedioCenter{
+    width:100%;
+    margin-top:50px;
+}
+.vedioCenter .vedioCenterContent{
+    width:1000px;
+    height:260px;
+}
+ .vedioCenterContent>div{
+    float:left;
+   font-family:"微软雅黑";
+ }
+ .vedioCenterContent>div.vedioCenterSide{
+    width:220px;
+	height:200px;
+
+ } 
+ .vedioCenterContent>div.vedioCenterCenter{
+    width:420px;
+	margin:0 35px;
+ }
+.vedioCenterContent>div.vedioCenterSide h1{
+    margin:15px 0;
+}
+  .vedioCenterContent>div.vedioCenterSide h1 a{
+    display:block;
+	width:140px;
+	margin:0;
+  }
+.vedioCenterContent>div.vedioCenterSide h5 span{
+    font-size:14px;
+
+	font-weight:bold;
+	margin-right:80px;
+	
+}
+.vedioCenterContent>div.vedioCenterSide h5 a{
+    text-decoration:none;
+	color:#999;
+	font-size:12px;
+	font-weight:normal;
+}
+.vedioCenterContent>div.vedioCenterSide p{
+    margin:20px 0;
+	font-size:12px;
+	color:#999;
+   
+}
+
+/*专业课程页面*/
+.bigImgBox{
+    width:100%;
+    border-bottom: 4px solid #e74159;
+}
+.bigImgBox img{
+    display: block;
+    margin: 0 ;
+    padding: 0;
+}
+.profe{
+    height:200px
+}
+.profe ul li{
+    margin-left:30px;
+    height:200px
+}
+.profe ul li a{
+    width:280px;
+    height:200px
+}
+.profe .girlsBox .girls{
+    width:95%;
+    height:200px;
+    margin-bottom:20px;
+}
+
+.profe .img-list li:first-child{
+    margin-left:10px;
+}
+
+
+
+
+.sortBox{
+    max-width:1920px;
+    height:171px;
+    border-bottom:1px solid #ccc;
+    border-top:2px solid  #e74159;
+}
+.makeUp{
+   background:#0f062e;
+}
+
+.makeUp .sortCon{
+    width: 1000px;
+    height: 100%;
+    background: url("../images/sort1.jpg") no-repeat;
+    position: relative;
+}
+.sortCon>a{
+    display: block;
+    width:200px;
+    height: 50px;
+    background:#e74159;
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: "微软雅黑";
+    text-align: center;
+    line-height: 50px;
+    border-radius:0 0 8px 8px;
+}
+.sortTxt{
+    width: 50%;
+    height: 100%;
+    margin-right: 0;
+    color: white;
+    padding-top: 59px;
+    
+}
+.sortTxt h3{
+    margin-left:70px;
+    font-size: 14px;
+}
+.sortTxt p{
+    font-size: 12px;
+    margin-top: 10px;
+    line-height: 22px;
+}
+.makeUp .sortTxt{
+    background: url("../images/makeup.png") no-repeat;
+}
+
+.classCons{
+    clear: both;
+    width: 1000px;
+    position: relative;
+    margin: 50px auto 40px auto;
+}
+.classCons ul li{
+    float: left;
+    width: 46%;
+    margin-left: 4%;
+    position: relative;
+    margin-bottom: 20px;
+    height:260px;
+    overflow: hidden;
+}
+
+.classCons ul li a{
+    display: block;
+}
+.classCons ul li a img{
+    width: 100%;
+    height: 100%;
+    display:block;
+    margin: 0;
+}
+
+.classCons ul li .classTxt{
+    background: url("../images/classTxtBg.png");
+    position: absolute;left: 0;
+    bottom:0;
+    width:100%;
+    padding:5px 0;
+}
+
+.classCons ul li .classTxt>div.classTxtL{
+    float: left;
+    width: 60%;
+}
+.classCons ul li .classTxt>div.classTxtR {
+    float: left;
+    width: 40%;
+    padding-top:10px;
+}
+.classCons ul li .classTxt>div h2{
+    font-family: "幼圆";
+    font-size:22px;
+    color:#e74159;
+    padding:10px 0 0 6px;
+
+
+}
+.classCons ul li .classTxt>div> span{
+    font-size: 12px;
+    padding:0px 0 0 10px;
+    display: block;
+    font-family: "微软雅黑";
+    color: #b2afaa;
+
+}
+.classCons ul li .classTxt>div p{
+    font-size: 12px;
+    text-align: right;
+    padding-right: 10px;
+    color:#636162;
+}
+.classCons dl{
+    position: absolute;
+    left:-200px;
+    top:60px;
+}
+.classCons dl dd{
+    background: #e74159;
+    margin-bottom: 2px;
+
+}
+.classCons dl a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding:0 70px 0 30px;
+    line-height:50px;
+    background:url("../images/classArrow.png") no-repeat 155px 0;
+    font-size: 17px;
+    font-family:"微软雅黑";
+}
+
+.beauty{
+    background: url("../images/beautyClass.jpg") no-repeat right -2px;
+    border-top:2px solid  #e74159;
+}
+
+.beauty .sortCon{
+    color:black;
+    width:1000px;
+    position:relative;
+}
+.beauty .sortCon .sortTxt{
+    color: #000000;
+    background:url("../images/beautyCourse.png") no-repeat right top;
+    font-family: "微软雅黑";
+    float: left;
+    height:100%;
+}
+.beauty .sortCon .sortTxt h3{
+    text-align: right;
+    margin:-5px 80px 0 0;
+}
+.beauty .sortCon .sortTxt  p{
+    text-align: right;
+}
+
+.fingernail{
+    background:#060302;
+    height: 170px;
+}
+.fingernail .sortCon{
+    background: url("../images/fingernal.jpg") no-repeat -1px -4px;
+}
+.fingernail .sortCon .sortTxt{
+    background:url("../images/nailCourses.png") no-repeat ;
+    padding-left:10px;
+}
+.fingernail .sortCon .sortTxt h3{
+    margin: 0;
+}
+.jntegrated{background: none;height: 170px}
+.jntegrated .sortCon .sortTxt{
+    background: url("../images/jntegrated.png") no-repeat right top;
+}
+.jntegrated .sortCon{
+    background: url("../images/integrated.jpg") no-repeat 50px -0px;
+    width:1000px;
+    height: 100%;
+
+}
+
+
+

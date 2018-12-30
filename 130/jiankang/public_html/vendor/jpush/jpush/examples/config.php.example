@@ -1,0 +1,10 @@
+<?php
+require __DIR__ . '/../autoload.php';
+
+use JPush\Client as JPush;
+
+$app_key = getenv('be0c6c8c6f09a159bbaed6dd');
+$master_secret = getenv('57bd0432c8aa687d77b837cf');
+$registration_id = getenv('registration_id');
+
+$client = new JPush($app_key, $master_secret);

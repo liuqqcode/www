@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/details.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+</head>
+<body>
+<div class="all">
+    {dede:include filename="head2.htm"/}
+        <div class="classDetails">
+            <div>
+                <h3>
+                    <img src="{dede:global.cfg_templets_skin/}/images/newLogo.png"/>
+                    <ul>
+                        <li>{dede:field name='position'/}</li>
+                    </ul>
+                </h3>
+            </div>
+
+        </div>
+        <div class="claIntro">
+            <div>
+                <div>
+                    <h1>{dede:field.title/}</h1>
+                    <span>{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</span>
+                    <span>摘要：</span>
+                </div>
+                <p>{dede:field.body/}</p>
+                <!--<p class="note">
+                    编辑： <a href="">{dede:adminname/}</a>
+                    <span>新闻内容来自{dede:field.source/}，以上观点均不代表本校</span>
+                </p>-->
+            </div>
+
+
+        </div>
+        <!--footer-->
+        {dede:include filename="footer.htm"/}
+</body>
+</html>

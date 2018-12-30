@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta content="{dede:field name='keywords'/}" name="Keywords">
+    <meta content="{dede:field name='description'  function='html2text(@me)'/}" name="Description">
+    <meta content="telephone=no" name="format-detection">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <script type="text/javascript" src="/js/rootresize.js"></script>
+</head>
+
+<body>
+    <div class="box">
+        {dede:include filename="header.htm" /}
+        <div class="hztd_con bgfff">
+            <div class="hztd_tle">
+                <h3><i></i>患者通道</h3>
+            </div>
+            <ul class="clear">
+                <li>
+                    <a href="/myk">
+                        <div class="hztd_icon hztd_icon1"></div>
+                        <p>医师团队</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/swt" target="_blank">
+                        <div class="hztd_icon hztd_icon2"></div>
+                        <p>就医流程</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/ks">
+                        <div class="hztd_icon hztd_icon3"></div>
+                        <p>看哪一科</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/myk/zjjt">
+                        <div class="hztd_icon hztd_icon4"></div>
+                        <p>专家讲堂</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/tsfw/lcfb">
+                        <div class="hztd_icon hztd_icon5"></div>
+                        <p>楼层分布</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/lylx">
+                        <div class="hztd_icon hztd_icon6"></div>
+                        <p>来院路线</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/guahao">
+                        <div class="hztd_icon hztd_icon7"></div>
+                        <p>预约挂号</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/swt" target="_blank">
+                        <div class="hztd_icon hztd_icon8"></div>
+                        <p>在线咨询</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="tel:0351-6860923">
+                        <div class="hztd_icon hztd_icon9"></div>
+                        <p>电话咨询</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        {dede:include filename="footer.htm" /}
+    </div>
+</body>
+
+</html>

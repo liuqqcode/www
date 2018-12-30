@@ -1,0 +1,22 @@
+{dede:field name='keywords'}贴面,缝隙{/dede:field}
+{dede:field name='description'}前牙有缝要看原因，常见的原因有唇系带附丽过低，多生牙，或者牙周问题。矫正唇系带过短可作唇系带切除术治疗;牙槽骨内有多生牙的，一{/dede:field}
+{dede:field name='title'}牙缝隙用瓷贴面修复{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<p><span style="font-size:16px;">　　前牙有缝要看原因，常见的原因有唇系带附丽过低，多生牙，或者牙周问题。矫正唇系带过短可作唇系带切除术治疗;牙槽骨内有多生牙的，一般较好手术取出;如果是牙周有问题的，首先要进行相关治疗。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2018/0202/20180202042431871.jpg" style="width: 300px; height: 200px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">瓷贴面修复前牙间隙过大案例[点击咨询详情]</span></span></a></p>
+<p><span style="font-size:16px;">　　门牙有缝也是一类比较常见的现象，</span><span style="font-size: 16px;">常见的治疗手段有：做正畸关闭缝隙、做美牙冠修复、瓷贴面修复，用树脂材料补牙，还是联合某两种方法。具体的治疗方案需要经过医生的详细检查才能得出，有需要的朋友可以预约免费口腔检查，由我们的医生给出完善的治疗方案。</span></p>
+<p><span style="font-size:16px;">　　<strong>方法一：美牙冠修复、瓷贴面修复。</strong>生物相容性更好、牙齿颜色自然通透、边缘密合性较佳、坚硬度媲美真牙。仅需7天即可完成治疗，维护的好的可以终身使用。</span></p>
+<p><span style="font-size:16px;">　<strong>　方法二：正畸关闭缝隙。</strong>即通过传统的牙齿矫正方法来关闭牙缝隙，一般建议多颗或整口牙齿牙缝大的患者来做，牙齿矫正需要的治疗时间一般比较长。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn"><img alt="" src="/uploadfile/2018/0202/20180202042449134.jpg" style="width: 450px; height: 280px;" /></a></p>
+<p><span style="font-size:16px;">　　当然，美牙的方式有很多种，那种较好?还需要专业医生仔细的检查和自己的实际情况判断，毕竟适合自己的才是较好的。维尔口腔医院拥有专业的口腔医院，精湛的医生医师，先进的诊疗设备，人性化的服务质量，坚持一切以患者为中心的服务理念，真诚为您服务，更多问题欢迎点击在线咨询或者拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">美牙热线：400-6655-111</span></a></span></p>{/dede:field}
+{dede:field name='body'}<p><span style="font-size:16px;">　　前牙有缝要看原因，常见的原因有唇系带附丽过低，多生牙，或者牙周问题。矫正唇系带过短可作唇系带切除术治疗;牙槽骨内有多生牙的，一般较好手术取出;如果是牙周有问题的，首先要进行相关治疗。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2018/0202/20180202042431871.jpg" style="width: 300px; height: 200px;" /></span></a></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size: 16px;">瓷贴面修复前牙间隙过大案例[点击咨询详情]</span></span></a></p>
+<p><span style="font-size:16px;">　　门牙有缝也是一类比较常见的现象，</span><span style="font-size: 16px;">常见的治疗手段有：做正畸关闭缝隙、做美牙冠修复、瓷贴面修复，用树脂材料补牙，还是联合某两种方法。具体的治疗方案需要经过医生的详细检查才能得出，有需要的朋友可以预约免费口腔检查，由我们的医生给出完善的治疗方案。</span></p>
+<p><span style="font-size:16px;">　　<strong>方法一：美牙冠修复、瓷贴面修复。</strong>生物相容性更好、牙齿颜色自然通透、边缘密合性较佳、坚硬度媲美真牙。仅需7天即可完成治疗，维护的好的可以终身使用。</span></p>
+<p><span style="font-size:16px;">　<strong>　方法二：正畸关闭缝隙。</strong>即通过传统的牙齿矫正方法来关闭牙缝隙，一般建议多颗或整口牙齿牙缝大的患者来做，牙齿矫正需要的治疗时间一般比较长。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn"><img alt="" src="/uploadfile/2018/0202/20180202042449134.jpg" style="width: 450px; height: 280px;" /></a></p>
+<p><span style="font-size:16px;">　　当然，美牙的方式有很多种，那种较好?还需要专业医生仔细的检查和自己的实际情况判断，毕竟适合自己的才是较好的。维尔口腔医院拥有专业的口腔医院，精湛的医生医师，先进的诊疗设备，人性化的服务质量，坚持一切以患者为中心的服务理念，真诚为您服务，更多问题欢迎点击在线咨询或者拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&amp;lng=cn" target="_blank"><span style="color:#ff0000;">美牙热线：400-6655-111</span></a></span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DJ2A5V0-14938_lit.jpg{/dede:field}

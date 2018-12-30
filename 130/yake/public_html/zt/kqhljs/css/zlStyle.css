@@ -1,0 +1,450 @@
+@charset "utf-8";
+
+
+/* CSS Document */
+
+
+/* banner */
+
+.zhBan1 {
+    width: 100%;
+    height: 206px;
+    background: url(../images/zhBan1.jpg) top center no-repeat;
+}
+
+.zhBan2 {
+    width: 100%;
+    height: 168px;
+    background: url(../images/zhBan2.jpg) top center no-repeat;
+}
+
+.zhBan3 {
+    width: 100%;
+    height: 126px;
+    background: url(../images/zhBan3.jpg) top center no-repeat;
+}
+
+
+
+
+/* nav */
+
+.zhUL {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.zhUL li {
+    float: left;
+    overflow: hidden;
+    display: inline;
+    font-size: 18px;
+}
+
+.zhUL a {
+    display: inline-block;
+    float: left;
+    width: 160px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    margin: 13px 60px 0 0;
+    overflow: hidden;
+}
+
+.zhUL a:hover {
+    width: 160px;
+    background: #009F96;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    font-weight: 700;
+}
+
+.zhUL a.on {
+    width: 160px;
+    background: #009F96;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    font-weight: 700;
+}
+
+
+
+
+
+/*-------------------------- 综合治疗首页 -----------------------------------------------*/
+
+
+/* 1 牙病治疗与预防保健 */
+
+.zhbjL {
+    width: 507px;
+    float: left;
+}
+
+.zhbjR {
+    width: 558px;
+    float: right;
+}
+
+.zhbjR p {
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+
+
+/* 2 您的牙齿生病了吗？ */
+
+.zhsbTit {
+    height: 60px;
+    line-height: 60px;
+    width: 407px;
+    background: #aeaeae;
+    margin: 0 0 35px 35px;
+    border-radius: 15px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.zhsbBox1 {
+    width: 432px;
+    float: left;
+    background: url(../images/zh_03.png) left bottom no-repeat;
+    height: 494px;
+}
+
+.zhsbBox1 ul {
+    margin: 0 25px;
+}
+
+.zhsbBox1 ul li {
+    margin-top: 18px;
+    overflow: hidden;
+    display: block;
+    height: 66px;
+}
+
+.zhsbBox1 img {
+    width: 93px;
+    height: 66px;
+    float: left;
+}
+
+.zhsbBox1 .zjsbTxt {
+    width: 250px;
+    float: right;
+    height: 60px;
+    border: 1px dashed #b3b3b3;
+    margin: 3px 10px 0 0;
+    line-height: 60px;
+    font-size: 20px;
+}
+
+.zhsbBox2 {
+    width: 163px;
+    float: left;
+    background: url(../images/zh_08.jpg) center no-repeat;
+    height: 494px;
+    margin: 0 15px;
+}
+
+
+
+
+/* 3 圣贝综合治疗中心治疗牙齿问题 */
+
+.ycwtBox {}
+
+.ycwtImg {
+    width: 127px;
+    height: 127px;
+    float: left;
+    margin-right: 35px;
+    position: relative;
+}
+
+.ycwtOn {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.ycwtUL {
+    height: 32px;
+    background: #009F96;
+    margin: 15px 0 30px 0;
+    padding: 4px 0;
+    font-size: 16px;
+}
+
+.ycwtUL li a {
+    width: 95px;
+    height: 28px;
+    border: 2px solid #FFF;
+    text-align: center;
+    line-height: 28px;
+    float: left;
+    overflow: hidden;
+    margin-right: 65px;
+
+    color: #fff;
+}
+
+.ycwtUL li a:hover {
+    color: #009F96;
+    background: #fff;
+    border: 2px solid #009F96;
+}
+
+
+
+/* 4 牙齿全科治疗技术 */
+
+.zljsBox1 {
+    text-align: left;
+    position: relative;
+}
+
+.zljsBox2 {
+    margin-top: 70px;
+    text-align: left;
+    border-top: 1px dashed #adadad;
+    padding-top: 16px;
+    border-bottom: 1px dashed #adadad;
+}
+
+.ggzlL {
+    width: 400px;
+    float: left;
+    margin-left: 50px;
+}
+
+.ggzlR {
+    width: 600px;
+    float: right;
+}
+
+.root {
+    color: #bfbfbf;
+    height: 48px;
+    background: url(../images/st.png) left bottom no-repeat;
+    padding-left: 20px;
+    line-height: 27px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.root h1 {
+    font-size: 36px;
+    color: #009F96;
+}
+
+.root2 {
+    color: #bfbfbf;
+    height: 38px;
+    background: url(../images/ljf.png) no-repeat 0 -45px;
+    margin-top: 30px;
+    padding-left: 10px;
+    font-size: 12px;
+}
+
+.root2 h3 {
+    font-size: 18px;
+    color: #434445;
+}
+
+.root3 {
+    margin-left: 150px;
+}
+
+.root4 {
+    height: 50px;
+    background: url(../images/jtBg.png) no-repeat;
+    line-height: 50px;
+    font-size: 24px;
+    color: #fff;
+    padding-left: 30px;
+}
+
+.root5 {
+    text-align: right;
+    color: #bfbfbf;
+    margin-right: 60px;
+}
+
+.root5 h1 {
+    color: #4f4f4f;
+}
+
+.syff {
+    height: 453px;
+    background: url(../images/zh_53.png) left center no-repeat;
+    padding: 30px 0 0 150px;
+    margin-left: 50px;
+}
+
+.syff li {
+    margin-bottom: 38px;
+    overflow: hidden;
+}
+
+.syff li span {
+    display: block;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    color: #fff;
+    background: #6585c0;
+    border-radius: 13px;
+    float: left;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.syff li p {
+    width: 260px;
+    float: left;
+    overflow: hidden;
+    margin-left: 10px;
+}
+
+.ggzlL p {
+    width: 300px;
+    margin-top: 10px;
+}
+
+.ggzlL .dashed {
+    height: 1px;
+    border-bottom: 1px dashed #adadad;
+    width: 320px;
+    margin-top: 20px;
+}
+
+.gcBox {
+    width: 120px;
+    float: left;
+    position: relative;
+}
+
+.gcBox a {
+    display: block;
+    width: 120px;
+    margin: 5px 0;
+}
+
+.gcOn {
+    display: none;
+    position: absolute;
+    left: 14px;
+    top: 5px;
+}
+
+.display {
+    display: block;
+}
+
+.gcBox a:hover {
+    color: #009F96;
+}
+
+.gcjt {
+    width: 24px;
+    background: url(../images/ljf.png) no-repeat 0 0;
+    height: 28px;
+    float: left;
+    margin-top: 30px;
+}
+
+.afewTips {
+    position: absolute;
+    width: 624px;
+    height: 365px;
+    background: url(../images/zh-42.png) no-repeat;
+    top: 200px;
+    z-index: 99;
+}
+
+.afTiL {
+    width: 80px;
+    float: left;
+    margin: 200px 0 0 50px;
+    color: #353333;
+    font-size: 24px;
+    border-right: 1px dashed #c1c1c1;
+}
+
+.afTiR {
+    width: 150px;
+    float: left;
+    margin: 180px 0 0 30px;
+}
+
+.afTiR span {
+    font-weight: bold;
+    margin-bottom: 15px;
+    display: block;
+}
+
+
+
+/* 5 牙齿保健小贴士 */
+
+.zhTips {
+    width: 190px;
+    background: #f1f1f1;
+    height: 300px;
+    float: left;
+    margin: 0 16px;
+    color: #009F96;
+}
+
+.zhTipImg {
+    height: 130px;
+    width: 170px;
+    padding: 10px;
+    background: #009F96;
+}
+
+.zhTips h3 {
+    border-bottom: 1px dashed #adadad;
+    margin: 20px 15px 5px 10px;
+    padding-bottom: 5px;
+}
+
+.zhTips p {
+    padding: 0 15px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.zhTips2 {
+    width: 170px;
+    background: #009F96;
+    height: 280px;
+    float: left;
+    margin-left: 15px;
+    color: #fff;
+    padding: 10px;
+}
+
+.zhTips2 ul {
+    margin-top: 28px;
+}
+
+.zhTips2 ul li {
+    height: 20px;
+    background: url(../images/ljf.png) no-repeat 0px -31px;
+    text-align: left;
+    padding-left: 20px;
+    font-size: 16px;
+    margin: 0 0 15px 5px;
+}

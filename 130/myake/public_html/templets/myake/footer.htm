@@ -1,0 +1,47 @@
+<script>
+window.onload = function() {
+
+    var oTop = document.getElementById("ft_top");
+
+    var screenw = document.documentElement.clientWidth || document.body.clientWidth;
+
+    var screenh = document.documentElement.clientHeight || document.body.clientHeight;
+
+    oTop.style.left = screenw - oTop.offsetWidth + "px";
+
+    oTop.style.top = screenh - oTop.offsetHeight + "px";
+
+    window.onscroll = function() {
+
+        var scrolltop = document.documentElement.scrollTop || document.body.scrollTop;
+
+        oTop.style.top = screenh - oTop.offsetHeight + scrolltop + "px";
+
+    }
+
+    oTop.onclick = function() {
+
+        document.documentElement.scrollTop = document.body.scrollTop = 0;
+
+    }
+
+}
+</script>
+<div id="footer">
+    <div id="ft_top">
+        <font><img src="/images/po_16.jpg" /></font>
+    </div>
+    <div id="ft_m">
+        <p><span>咨询热线:</span>
+            <font><a href="tel:{dede:global.tel/}" style="font-size:20px; color:#faa932">{dede:global.tel/}</a></font>
+        </p>
+        <p>
+            <font>来院路线：{dede:global.address/}</font>
+        </p>
+        <p>
+            <font>版权归{dede:global.cfg_webname/}所有</font>
+        </p>
+    </div>
+</div>
+<script src="/swt/swt.js"></script>
+<script type="text/javascript" src="/js/dbtc1.js"></script>

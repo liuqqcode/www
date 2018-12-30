@@ -1,0 +1,134 @@
+
+
+/*footer*/
+.footer{
+    clear: both;
+    width: 100%;
+    margin-top:100px;
+    min-width:1140px;
+    background: url("../images/map.png") no-repeat;
+}
+.footerContent{
+    width: 1000px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    padding-top:45px;
+    height:270px;
+
+}
+.footerContent>div{
+    float: left;
+    border-right: 1px solid #181721;
+    padding:20px 40px 0 30px;
+    height:200px;
+    width:180px;
+    border:1px solid red;
+}
+.clear dt{
+    height:30px;
+    padding-left:30px;
+    line-height: 30px;
+    background: url("../images/phone.png") no-repeat;
+    color: white;
+}
+.clear dd a{
+    display: block;
+    margin:8px 0;
+    text-decoration: none;
+    color: #aaa;
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+.clear ul{
+    margin-top:15px;
+}
+.clear ul li{
+    float: left;
+    margin-left:15px;
+}
+.clear ul li a{
+    display: block;
+    width: 25px;
+    height: 25px;
+}
+.clear ul li a.weixin{
+    background: url("../images/lianxi.png") no-repeat 0 0;
+}
+.clear ul li a.xinlang{
+    background: url("../images/lianxi.png") no-repeat -32px 0;
+}
+.clear ul li a.tengxun{
+    background: url("../images/lianxi.png") no-repeat -65px 0;
+}
+.clear ul li a.qq{
+    background: url("../images/lianxi.png") no-repeat -99px 0;
+}
+.part h5{
+    color: #aaa;
+    font-size:16px;
+    margin-bottom:25px;
+}
+.part ol li a{
+    display: block;
+    margin-top:5px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #aaa;
+    margin:12px 0;
+
+}
+
+/*end*/
+.end{
+    height:40px;
+}
+.end p{
+    width:1000px;
+    height:40px;
+    line-height:40px;
+    font-size: 12px;
+    font-family: "微软雅黑";
+    color: #aaa;
+}
+
+
+/*fixed*/
+
+
+.rightFixed{
+    width:50px;
+    position: fixed;
+    right:0;
+    bottom:200px;
+    z-index:999999;
+}
+.rightFixed ul li a{
+    display: block;
+    width:45px;
+    height:40px;
+}
+.rightFixed ul li a.f1{
+    background:url("../images/f.png") no-repeat 0 0;
+}
+.rightFixed ul li a.f1:hover{
+    background:url("../images/f_hvoer.png") no-repeat 0 0;
+}
+.rightFixed ul li a.f2{
+    background:url("../images/f.png") no-repeat 0 -40px;
+}
+.rightFixed ul li a.f2:hover{
+    background:url("../images/f_hvoer.png") no-repeat 0 -40px;
+}
+.rightFixed ul li a.f3{
+    background:url("../images/f.png") no-repeat 0 -80px;
+}
+.rightFixed ul li a.f3:hover{
+    background:url("../images/f_hvoer.png") no-repeat 0 -80px;
+}
+.rightFixed ul li a.f4{
+    background:url("../images/f.png") no-repeat 0 -120px;
+}
+.rightFixed ul li a.f4:hover{
+    background:url("../images/f_hvoer.png") no-repeat 0 -120px;
+}

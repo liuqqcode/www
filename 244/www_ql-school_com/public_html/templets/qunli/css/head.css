@@ -1,0 +1,323 @@
+*{
+    margin:0 auto;
+    padding: 0;
+}
+img{
+    border: none;
+    width:100%;
+    height:auto;
+}
+li{
+    list-style: none;
+}
+.all{
+    width: 100%;
+    /*background:#ccc;*/
+    min-width:1140px;
+}
+.main{
+    width: 100%;
+    min-width:1140px;
+}
+/*----------------------------top----------------------------*/
+.top{
+    width: 100%;
+    background:black;
+    height:25px;
+    min-width:1140px;
+}
+.topContent{
+    width:1000px;
+    height:25px;
+    position: relative;
+}
+.topContent ul{
+    position: absolute;right:0;
+    top:0;
+}
+.topContent ul li{
+    float: left;
+    margin-right: 10px;
+    font-size:12px;
+    background: url("../images/top.png") no-repeat 0 8px;
+
+}
+.topContent ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding-left:20px;
+    height:100%;
+    line-height:25px;
+}
+.topContent ul li a:hover{
+    color:#703e44;
+}
+
+/*-----------------------------------导航框--------------------------------*/
+.slideBox{
+    height: 604px;
+    position: relative;
+    width:100%;
+    min-width:1140px;
+    overflow: hidden;
+}
+.imgBox{
+    position: relative;
+    left: 0;
+    height:612px;
+    top: 0;
+
+}
+.imgBox a{
+    position: absolute;
+    left: 0 ;
+    top: 0;
+    width: 100%;
+    height:100%;
+    z-index:555;
+    display:none;
+}
+.imgBox a img{
+    width:100%;
+    height:100%;
+}
+.imgBox .currentImg{
+    display: block;
+}
+.slideBox ol{
+    position: absolute;
+    left:650px;
+    bottom:20px;
+    z-index: 9999;
+}
+.slideBox ol li{
+    float: left;
+    margin-left:20px;
+}
+.slideBox ol li a{
+    display: block;
+    width:8px;
+    height: 8px;
+    background:black;
+    border-radius:4px;
+}
+.slideBox ol li a.slideCurrent{
+    background:red;
+}
+
+.navBox{
+    height:112px;
+    /*border-top: 1px solid white;*/
+    /*background: rgba(0, 0, 0, 0.84);*/
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:100%;
+    z-index:9999;
+    background: url("../images/nav_bigbg.png") no-repeat 0 -2px;
+}
+.logo1{
+    text-align:center;
+    margin-top: 10px;;
+}
+.navBox ul{
+    height:40px;
+    width:900px;
+    margin-top: 20px;
+
+}
+.navBox ul li{
+    float: left;
+    height:40px;
+    width:120px;
+    position: relative;
+    background: url("../images/nav_bg.png") no-repeat 0 5px;
+
+}
+.navBox ul li dl{
+    position:absolute; left: 0;top:42px;z-index:999;width:100%
+}
+.navBox ul li a{
+    display: block;
+    height:40px;
+    line-height: 40px;
+    font-size: 16px;
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    width:80px;
+    text-align: center;
+    border-bottom:1px solid rgba(255, 0, 0, 0);
+}
+.navBox ul li>a:hover{
+    border-bottom:2px solid red;
+}
+.navBox ul li:hover dl{
+    height:auto;
+    transition:all 0.3s ease-in;
+    -webkit-transition:all 0.3s ease-in;
+    -moz-transition:all 0.3s ease-in;
+    -o-transition:all 0.3s ease-in;
+    -ms-transition:all 0.3s ease-in;
+}
+
+.navBox ul dl {
+    background: black;
+    /*display: none;*/
+    height:0;
+    opacity: 0.9;
+    -ms-filter: -webkit-appearance:none;
+    -moz-appearance: none;
+    appearance: none;;
+    filter: alpha(opacity=90);
+    overflow:hidden;
+}
+
+.navBox ul dl dd a{
+    font-size: 12px;
+    width: 100%;
+    color: white;
+    border-bottom:1px solid white;
+    opacity:1;
+}
+.navBox ul dl dd a:hover{
+    border-bottom:1px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*production*/
+.production{
+    width:100%;
+    position: relative;
+    height:800px;
+    font-family: "微软雅黑";
+    border:1px solid green;
+}
+.production .titleBox{
+    background:#e74159;
+    height:180px;
+    padding-top:40px;
+}
+.production .titleBox h1 a {
+    display: block;
+    width:300px;
+}
+.worksContent{
+    width: 1000px;
+    position: absolute;
+    border:1px solid green;
+    top:160px;
+    left:180px;
+}
+
+.worksContent>ul{
+    width: 100%;
+    height:275px;
+    float: left;
+    margin-bottom: 50px;
+}
+.worksContent>ul li{
+    float: left;
+    overflow: hidden;
+    height:275px;
+
+}
+.worksContent>ul li div{
+    position: relative;
+    cursor: pointer;
+    height:100%;
+}
+.worksContent>ul li div img{
+    width: 100%;height: 100%;
+}
+.worksContent>ul li div.smallImg{
+    width: 178px;
+    display: block;
+    height:140px;
+}
+.worksContent .wid1{
+    width: 322px;
+}
+.worksContent .wid2{
+    width: 178px;
+}
+.worksContent .wid3{
+    width: 250px;
+}
+
+
+
+
+.progress{
+    clear: both;
+    height:3px;
+    background:#8c8c8c;
+    margin:50px 0;
+    position: relative;
+}
+.progress div{
+    position: absolute;
+    width:500px;
+    height:3px;
+    top:0;
+    left:0;
+    background:#b02133;
+
+}
+
+
+/*切换*/
+
+.girlsBox{
+    width: 1000px;
+    position: relative;
+}
+.girls{
+    height: 160px;
+    width: 850px;
+    overflow: hidden;
+}
+.girls ul{
+    margin-left:10px;
+}
+.girls ul li{
+    float: left;
+    margin-left:46px;
+}
+.girls ul li a{
+    display: block;
+    width: 158px;
+    height:160px;
+}
+.hoverimg{
+    display: none;
+}
+
+
+.click{
+    position: absolute;
+    top:30px;
+    width:80px;
+    height:80px;
+}
+.clickL{
+    left: 0;
+    background:url("../images/clickL1.png") no-repeat ;
+}
+.clickR{
+    right: 0;
+    background:url("../images/clickR1.png") no-repeat 40px 0 ;
+}

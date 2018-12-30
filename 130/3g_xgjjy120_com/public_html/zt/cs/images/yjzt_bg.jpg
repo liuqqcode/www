@@ -1,0 +1,128 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=480, user-scalable=0"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<title>腋臭在线测评中心-腋秀美容</title>
+<script type="text/javascript" src="http://xxlpb.yc403.com/zice/js/jquery.js"></script>
+<script type="text/javascript" src="http://xxlpb.yc403.com/zice/js/js.js"></script>
+<script type="text/javascript" src="http://xxlpb.yc403.com/zice/js/style.js"></script>
+<link rel="stylesheet" type="text/css" href="http://xxlpb.yc403.com/zice/css/css.css">
+<style>
+
+.wra_box { font-size: 16px; line-height: 28px; width: 452px; margin: 0 auto; }  
+.wra_box_txt { color: #327b2c; position: relative; padding: 8px 18px; margin-top: 15px; }
+.wra_box_txt:before { content: ""; width: 54px; height: 55px; border-top: 1px solid #327b2c; border-left: 2px solid #327b2c; position: absolute; left: 0; top: 0; }
+.wra_box_txt:after { content: ""; width: 54px; height: 53px; border-right: 1px solid #327b2c; border-bottom: 2px solid #327b2c; position: absolute; right: 0; bottom: 0; }
+.wra_box_img { text-align: center; margin-top: 20px; }
+.wra_box_txt1 { margin-top: 16px; }
+.wra_box_txt2 { color: #327b2c; }
+.wra_box_txt3 { width: 100%; height: 109px; padding: 14px 18px; margin-top: 16px; background: url(../images/yjzt_bg.jpg) no-repeat; color: #fff; }
+.wra_box_txt3 span { color: #f2f000; }
+.wra_box_txt4 { text-align: center; margin-top: 17px; margin-bottom: 20px; }
+.wra_box_txt4 div {font-size: 18px; color: #000;}
+.wra_box_txt4 p { font-size: 14px; color: #666666; line-height: 13px; }
+.wdbox .wdtitle{height:44px;line-height:44px;background:#2E3238;color:#fff;font-size:21px;text-align:center;width:480px;z-index:9999;margin:0 auto; position:fixed; top:0;}
+.wdbox .wdcon{margin-top:-10px;padding-bottom:6px}
+.wdbox .wdcon .box{padding-top:20px;margin-bottom:20px}
+.wdbox .wdcon .box .left{width:20%;float:left}
+.wdbox .wdcon .box .left img{width:80%;margin:0 auto;display:block}
+.wdbox .wdcon .box .right{width:80%;float:left;padding:0 7px}
+.wdbox .wdcon .box .right .con{min-width:310px;background-color:#fff;border:1px solid #d0d0d0;border-radius:10px;padding:15px;font-size:18px;line-height:28px;position:relative;float:left}
+.wdbox .wdcon .box .right .con .sjx{    position: absolute;width: 0;height: 0;border-left: 10px solid transparent;border-right: 7px solid transparent;border-top: 20px solid #fff;left: -14px;top: 11px;transform: rotate(-272deg);}
+.wdbox .wdcon .hzbox{margin-bottom:20px}
+.wdbox .wdcon .hzbox .left{width:20%;float:right}
+.wdbox .wdcon .hzbox .left img{width:80%;margin:0 auto;display:block}
+.wdbox .wdcon .hzbox .right{width:80%;float:right;padding:0 10px}
+.wdbox .wdcon .hzbox .right .con{min-width:30px;border-radius:10px;padding:10px;font-size:18px;line-height:25px;position:relative;background:#a0e75a;float:right;text-align:center}
+.wdbox .wdcon .hzbox .right .con .sjx{    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 7px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 20px solid #a0e75a;
+       right: -8px;
+    top: 6px;
+    transform: rotate(139deg);}
+	
+	.nav{width: 100%;height: auto;margin: 0 auto;background: #fff;}
+.nav ul{width: 100%;height: 38px;}
+.nav ul li{width: 33%;height: 38px;float: left;text-align: center;line-height: 38px;}
+.nav ul li:not(:last-child){border-right: 1px solid #e1e1e1;}
+.nav ul li a{font-size: 14px;color: #555555;width: 100%;display: block}
+.nav_li1{width: 50%;}
+.nav_li2{width: 25%;}
+.nav_li3{width: 24%;}
+</style>
+</head>
+<body>
+<div class="wrapper">
+
+		 <div class="nav">
+      <ul>
+        <li class="nav_li1" style="width:33%;"><a href="javascript:void(0);" onclick="goindexurl()">首页</a></li>
+        <li class="nav_li2" style="width:33%;"><a href="javascript:void(0);" onclick="gojieshaourl()">联系我们</a></li>
+        <li class="nav_li3" style="width:33%;"><a href="javascript:void(0);" onclick="gojieshaourl()">关于我们</a></li>
+      </ul>
+	  	<script>
+		var wangzhi = window.location.href;  
+		var address_hos1= wangzhi.split("/")[3];
+		var address_hos3= wangzhi.split("/")[5];
+		var indexurl= "/"+address_hos1+"/zice/"+address_hos3+"/";
+		var jieshaourl= "/"+address_hos1+"/zice2/"+address_hos3+"/";
+		var ziceurl="/"+address_hos1+"/zice1/"+address_hos3+"/";
+
+		function goindexurl(){
+		  location.href=indexurl;
+		}
+		
+		function gojieshaourl(){
+		  location.href=jieshaourl;
+		}
+		
+		function goziceurl(){
+		  location.href=ziceurl;
+		}
+		</script>
+    </div>
+
+<div class="wra_top"><img src="http://xxlpb.yc403.com/ziceindex/_files/yjzt_bt.jpg"/></div>
+			<div class="wra_box"> 
+				<div class="wra_box_txt"><div>在解决疑问之前，我们先来做一个腋臭自测吧</div>
+					<p>（测试结果我们将严格保密,并提供一对一免费咨询）</p></div>
+				
+				
+			</div>
+
+<div class="container">
+	<div class="wdbox">
+		<!-- <div class="wdtitle">
+			腋臭在线测评中心
+		</div> -->
+		<div class="wdcon" id="wdcon"></div>
+	</div>
+	<div style="height: 3rem;"></div>
+	<div class="wdfixbom" id="wdfixbom"></div>
+</div>
+</div>
+<script type='text/javascript' src='http://dope.yc403.com/swt/xxl/xxlswt.js'></script>
+
+
+<style>
+.wdfixbom{bottom:20px;}
+</style>
+
+<div id="copyR" style="text-align: center;font-size: 16px;color: #eee;line-height: 30px;margin-top: 12px;background: #e5e5ea;width: 480px;margin-left: -240px;position: fixed;bottom: 0;left: 50%;">南京腋秀美容有限公司   免费热线：4001565120</div>
+
+<script>
+	var nowwww = window.location.href;
+	/*if(nowwww.indexOf("xa")>=0){
+	document.getElementById("copyR").style.color="#000";}*/
+
+</script>
+</body>
+</html>

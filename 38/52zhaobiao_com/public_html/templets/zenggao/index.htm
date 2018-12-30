@@ -1,0 +1,596 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="/css/common.css" rel="stylesheet" type="text/css" />
+    <link href="/css/hd.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    {dede:include filename="header.htm"/}
+    <script src="/js/sp.js"></script>
+    <div class="w1000 main">
+        <div class="con01">
+            <div class="left" id="slideshow">
+                <div class="bd">
+                    <ul>
+                        <li>
+                            <a href="javascript:openZoosUrl('chatwin','&e=首页小图2')"><img src="/images/xbanner_2.jpg" border="0" height="314" /></a>
+                        </li>
+                        <li>
+                            <a href="javascript:openZoosUrl('chatwin','&e=首页小图1')"><img src="/images/xbanner_1.jpg" border="0" height="314" /></a>
+                        </li>
+                        <li>
+                            <a href="javascript:openZoosUrl('chatwin','&e=首页小图3')"><img src="/images/xbanner_3.jpg" border="0" height="314" /></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="hd">
+                    <ul>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+            <script>
+            jQuery("#slideshow").slide({
+                titCell: ".hd ul",
+                mainCell: ".bd ul",
+                effect: "fold",
+                autoPlay: true,
+                autoPage: true,
+                trigger: "click",
+                interTime: 5000
+            });
+            </script>
+            <div class="center">
+                <div class="cl"></div>
+                <ul class="ul01">
+                    <li><a href="{dede:type typeid='28'}[field:typeurl/]{/dede:type}" class="hover" onmouseover="setTab('new',1,3)" id="new1" target="_blank">患儿故事</a></li>
+                    <li><a href="{dede:type typeid='27'}[field:typeurl/]{/dede:type}" onmouseover="setTab('new',2,3)" id="new2" target="_blank">医院动态</a></li>
+                    <li><a href="{dede:type typeid='48'}[field:typeurl/]{/dede:type}" onmouseover="setTab('new',3,3)" id="new3" target="_blank">医师访谈</a></li>
+                </ul>
+                <div class="cl"></div>
+                <div id="con_new_1"> {dede:arclist flag="h" typeid="28" row="1"}
+                    <dl>
+                        <dt><a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a></dt>
+                        <dd>[field:description function='cn_substr(@me,220)'/]…<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细】</a></dd>
+                    </dl>
+                    {/dede:arclist}
+                    <ul class="ul02">
+                        {dede:arclist typeid="28" limit="1,4"}
+                        <li>
+                            <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">
+                                <p>[field:fulltitle /]</p>
+                                <span>阅读[field:click /]次</span></a>
+                        </li>
+                        {/dede:arclist}
+                    </ul>
+                </div>
+                <div id="con_new_2" style="display:none;"> {dede:arclist flag="h" typeid="27" row="1"}
+                    <dl>
+                        <dt><a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a></dt>
+                        <dd>[field:description function='cn_substr(@me,220)'/]…<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细】</a></dd>
+                    </dl>
+                    {/dede:arclist}
+                    <ul class="ul02">
+                        {dede:arclist typeid="27" limit="1,4"}
+                        <li>
+                            <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">
+                                <p>[field:fulltitle /]</p>
+                                <span>阅读[field:click /]次</span></a>
+                        </li>
+                        {/dede:arclist}
+                    </ul>
+                </div>
+                <div id="con_new_3" style="display:none;"> {dede:arclist flag="h" typeid="48" row="1"}
+                    <dl>
+                        <dt><a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a></dt>
+                        <dd>[field:description function='cn_substr(@me,220)'/]…<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细】</a></dd>
+                    </dl>
+                    {/dede:arclist}
+                    <ul class="ul02">
+                        {dede:arclist typeid="48" limit="1,4"}
+                        <li>
+                            <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">
+                                <p>[field:fulltitle /]</p>
+                                <span>阅读[field:click /]次</span></a>
+                        </li>
+                        {/dede:arclist}
+                    </ul>
+                </div>
+            </div>
+            <div class="right">
+                <div class="zc_con">
+                    <p>
+                        <a href="/zxzc/"><img src="images/zice.jpg" border="0" width="222" height="82"></a>
+                    </p>
+                    <div class="zc_box">
+                        <p class="zcb_p1"><a href="/zxzc/xzszc/" target="_blank" title="性早熟自测">性早熟<br/>
+            自测</a></p>
+                        <p class="zcb_p2"><a href="/zxzc/axzzc/" target="_blank" title="矮小症自测">矮小症<br/>
+            自测</a></p>
+                        <p class="zcb_p3"><a href="/zxzc/fychzc/" target="_blank" title="发育迟缓自测">发育迟缓<br/>
+            自测</a></p>
+                    </div>
+                </div>
+                <ul>
+                    <li>
+                        <a href="javascript:openZoosUrl('chatwin','&e=在线挂号')" class="a01"></a>
+                    </li>
+                    <li class="li02">
+                        <a href="/online/" class="a02" target="_blank"></a>
+                    </li>
+                    <li class="li03">
+                        <a href="http://wpa.qq.com/msgrd?v=3&uin=3132187107&site=qq&menu=yes"></a>
+                    </li>
+                    <li class="li04">
+                        <a href="/tel/" target="_blank"></a>
+                    </li>
+                    <li class="li05">
+                        <a href="/online/" target="_blank"></a>
+                    </li>
+                    <li class="li06">
+                        <a href="/lylx/" target="_blank"></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="cl"></div>
+        <div class="con02">
+            <div class="tit">
+                <h3>疾病百科</h3>
+            </div>
+            <div class="left">
+                <ul>
+                    <li class="hover" onmouseover="setTab('disea',1,6)" id="disea1">
+                        <a href="{dede:type typeid='6'}[field:typeurl/]{/dede:type}" target="_blank">
+                            <h3>矮小原因
+            <label>/</label>
+          </h3>
+                            <p><span>Short cause</span></p>
+                        </a>
+                    </li>
+                    <li onmouseover="setTab('disea',2,6)" id="disea2">
+                        <a href="{dede:type typeid='15'}[field:typeurl/]{/dede:type}" target="_blank">
+                            <h3>增高检查
+            <label>/</label>
+          </h3>
+                            <p><span>Check</span></p>
+                        </a>
+                    </li>
+                    <li onmouseover="setTab('disea',3,6)" id="disea3">
+                        <a href="{dede:type typeid='1'}[field:typeurl/]{/dede:type}" target="_blank">
+                            <h3>增高方法
+            <label>/</label>
+          </h3>
+                            <p><span>Increased</span></p>
+                        </a>
+                    </li>
+                    <li onmouseover="setTab('disea',4,6)" id="disea4">
+                        <a href="{dede:type typeid='10'}[field:typeurl/]{/dede:type}" target="_blank">
+                            <h3>增高误区
+            <label>/</label>
+          </h3>
+                            <p><span>Error</span></p>
+                        </a>
+                    </li>
+                    <li onmouseover="setTab('disea',5,6)" id="disea5">
+                        <a href="{dede:type typeid='47'}[field:typeurl/]{/dede:type}" target="_blank">
+                            <h3>矮小危害
+            <label>/</label>
+          </h3>
+                            <p><span>Stunting</span></p>
+                        </a>
+                    </li>
+                    <li onmouseover="setTab('disea',6,6)" id="disea6">
+                        <a href="{dede:type typeid='20'}[field:typeurl/]{/dede:type}" target="_blank">
+                            <h3>家长必读
+            <label>/</label>
+          </h3>
+                            <p><span>Malnutrition</span></p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="center" id="con_disea_1"> {dede:arclist flag="h,p" typeid="7" row="1"}
+                <dl>
+                    <dt>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank"><img src="[field:picname/]" border="0" width="142" height="142" /></a>
+                    </dt>
+                    <dd>
+                        <h3>[field:fulltitle /]</h3>
+                        <p>[field:description function='cn_substr(@me,155)'/]……<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细信息】</a></p>
+                    </dd>
+                </dl>
+                {/dede:arclist}
+                <ul class="ul02">
+                    {dede:arclist typeid="7" limit="1,7" flag="c"}
+                    <li [field:global runphp='yes' ] if ((@me % 6)==0 ) @me='class="last"' ; else @me=; [/field:global]>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a><span>阅读[field:click /]次</span>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+            </div>
+            <div class="center" id="con_disea_2" style="display:none;"> {dede:arclist flag="h,p" typeid="15" row="1"}
+                <dl>
+                    <dt>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]"><img src="[field:picname/]" border="0" width="142" height="142" /></a>
+                    </dt>
+                    <dd>
+                        <h3>[field:fulltitle /]</h3>
+                        <p>[field:description function='cn_substr(@me,155)'/]……<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细信息】</a></p>
+                    </dd>
+                </dl>
+                {/dede:arclist}
+                <ul class="ul02">
+                    {dede:arclist typeid="15,16,17,8,9" limit="1,7" flag="c"}
+                    <li [field:global runphp='yes' ] if ((@me % 6)==0 ) @me='class="last"' ; else @me=; [/field:global]>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a><span>阅读[field:click /]次</span>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+            </div>
+            <div class="center" id="con_disea_3" style="display:none;"> {dede:arclist flag="h,p" typeid="1" row="1"}
+                <dl>
+                    <dt>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank"><img src="[field:picname/]" border="0" width="142" height="142" /></a>
+                    </dt>
+                    <dd>
+                        <h3>[field:fulltitle /]</h3>
+                        <p>[field:description function='cn_substr(@me,155)'/]……<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细信息】</a></p>
+                    </dd>
+                </dl>
+                {/dede:arclist}
+                <ul class="ul02">
+                    {dede:arclist typeid="1" limit="1,7" flag="c"}
+                    <li [field:global runphp='yes' ] if ((@me % 6)==0 ) @me='class="last"' ; else @me=; [/field:global]>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a><span>阅读[field:click /]次</span>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+            </div>
+            <div class="center" id="con_disea_4" style="display:none;"> {dede:arclist flag="h,p" typeid="10" row="1"}
+                <dl>
+                    <dt>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank"><img src="[field:picname/]" border="0" width="142" height="142" /></a>
+                    </dt>
+                    <dd>
+                        <h3>[field:fulltitle /]</h3>
+                        <p>[field:description function='cn_substr(@me,155)'/]……<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细信息】</a></p>
+                    </dd>
+                </dl>
+                {/dede:arclist}
+                <ul class="ul02">
+                    {dede:arclist typeid="10" limit="1,7" flag="c"}
+                    <li [field:global runphp='yes' ] if ((@me % 6)==0 ) @me='class="last"' ; else @me=; [/field:global]>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a><span>阅读[field:click /]次</span>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+            </div>
+            <div class="center" id="con_disea_5" style="display:none;"> {dede:arclist flag="h,p" typeid="47" row="1"}
+                <dl>
+                    <dt>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank"><img src="[field:picname/]" border="0" width="142" height="142" /></a>
+                    </dt>
+                    <dd>
+                        <h3>[field:fulltitle /]</h3>
+                        <p>[field:description function='cn_substr(@me,155)'/]……<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细信息】</a></p>
+                    </dd>
+                </dl>
+                {/dede:arclist}
+                <ul class="ul02">
+                    {dede:arclist typeid="47" limit="1,7" flag="c"}
+                    <li [field:global runphp='yes' ] if ((@me % 6)==0 ) @me='class="last"' ; else @me=; [/field:global]>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a><span>阅读[field:click /]次</span>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+            </div>
+            <div class="center" id="con_disea_6" style="display:none;"> {dede:arclist flag="h,p" typeid="20" row="1"}
+                <dl>
+                    <dt>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank"><img src="[field:picname/]" border="0" width="142" height="142" /></a>
+                    </dt>
+                    <dd>
+                        <h3>[field:fulltitle /]</h3>
+                        <p>[field:description function='cn_substr(@me,155)'/]……<a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">【详细信息】</a></p>
+                    </dd>
+                </dl>
+                {/dede:arclist}
+                <ul class="ul02">
+                    {dede:arclist typeid="20" limit="1,7" flag="c"}
+                    <li [field:global runphp='yes' ] if ((@me % 6)==0 ) @me='class="last"' ; else @me=; [/field:global]>
+                        <a href="[field:arcurl/]" title="[field:fulltitle /]" target="_blank">[field:fulltitle /]</a><span>阅读[field:click /]次</span>
+                    </li>
+                    {/dede:arclist}
+                </ul>
+            </div>
+            <div class="right">
+                <div class="tit0">
+                    <h3>热点话题</h3>
+                </div>
+                <div id="marquee2" class="srcoll_pic">
+                    <div>
+                        <ul id="marquee2_1">
+                            <li>
+                                <a href="/axyy/xzs/92.html" target="_blank"><img src="/images/hotpic02.jpg" border="0" width="219" height="107" /></a>
+                            </li>
+                            <li>
+                                <a href="/axyy/axz/136.html" target="_blank"><img src="/images/hotpic04.jpg" border="0" width="219" height="107" /></a>
+                            </li>
+                            <li>
+                                <a href="/axyy/xzs/53.html" target="_blank"><img src="/images/hotpic05.jpg" border="0" width="219" height="107" /></a>
+                            </li>
+                            <li>
+                                <a href="/axyy/fpz/51.html" target="_blank"><img src="/images/hotpic06.jpg" border="0" width="219" height="107" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <script>
+            jQuery(".srcoll_pic").slide({ mainCell: "ul", autoPlay: true, effect: "topMarquee", vis: 3, interTime: 50, trigger: "click" });
+            </script>
+        </div>
+        <div class="cl"></div>
+        <div class="con03">
+            <div class="tit">
+                <h3>增高增高案例</h3>
+            </div>
+            <div class="anli">
+                <a href="javascript:void(0); return false;" class="a01 prev"><img src="/images/jt_02.jpg" border="0" width="36" height="54" /></a>
+                <a href="javascript:void(0); return false;" class="a02 next"><img src="/images/jt_01.jpg" border="0" width="36" height="54" /></a>
+                <div class="hd">
+                    <ul>
+                        {dede:arclist addfields='body,hzxm,zhiye,ages,jzsj,jiancha,zdjg,zlfa,fcjg,zszz,syxt,sydt' row='9' channelid='18' orderby="id"}
+                        <li>
+                            <a href="[field:arcurl/]" target="_blank"><img src="[field:syxt/]" border="0" /><span>[field:zdjg/]</span></a>
+                        </li>
+                        {/dede:arclist}
+                    </ul>
+                </div>
+                <div class="dl_ali"> {dede:arclist addfields='body,hzxm,zhiye,ages,jzsj,jiancha,zdjg,zlfa,fcjg,zszz,syxt,sydt' row='5' row='9' channelid='18' orderby="id"}
+                    <dl>
+                        <dt>
+                            <a href="[field:arcurl/]" target="_blank"><img src="[field:picname/]" border="0" width="370" height="256" /></a>
+                        </dt>
+                        <dd>
+                            <p class="p01"><strong>患者姓名：[field:hzxm/]</strong></p>
+                            <p class="p02"><b>职 业：</b>[field:zhiye/]</p>
+                        </dd>
+                        <dd>
+                            <p class="p01"><strong>年 龄：</strong>[field:ages/]</p>
+                            <p class="p02"><b>就诊时间：</b>[field:jzsj/]</p>
+                        </dd>
+                        <dd>
+                            <p class="p01"><b>入院检查：</b>[field:jiancha/]</p>
+                            <p class="p02"><b>诊断结果：</b>[field:zdjg /]</p>
+                        </dd>
+                        <dd>
+                            <p class="p03"><b>诊疗方案：</b>[field:zlfa/]</p>
+                        </dd>
+                        <dd>
+                            <p class="p03"><strong>复查结果：</strong>[field:fcjg /]</p>
+                        </dd>
+                        <dd>
+                            <p class="p03"><b>自述症状：</b>[field:zszz/]……<a href="[field:arcurl/]" target="_blank">【详情】</a></p>
+                        </dd>
+                    </dl>
+                    {/dede:arclist}
+                </div>
+            </div>
+        </div>
+        <div class="con05">
+            <div class="tit">
+                <h3><span>西南科学增高模式</span></h3>
+            </div>
+            <div class="tslf">
+                <div class="nt_qiehuan">
+                    <div class="bd">
+                        <ul>
+                            <li>
+                                <a href="javascript:openZoosUrl('chatwin','&e=不要被矮小毁了你医生幸福')"><img src="/images/1-140630102000157.jpg" border="0" src="/images/1-140630102000157.jpg" width="288" height="358" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--        <div class="hd">
+          <ul>
+            <li>1</li>
+          </ul>
+        </div>-->
+                </div>
+                <script>
+                jQuery(".nt_qiehuan").slide({
+                    mainCell: "ul",
+                    autoPlay: true,
+                });
+                </script>
+                <div class="fl center">
+                    <dl>
+                        <dt>
+                            <h3>医教一体多学科诊疗模式</h3>
+                            <p>医教一体&nbsp;&nbsp;科学增高5~20cm</p>
+                        </dt>
+                        <dd>
+                            <h3>模式简介：</h3>
+                            <p>有效检测矮小病因，便于临床进行整体方案规划，按病理机理有效诊疗，制定个性化差异化增高方案。…<a href="/zgjs/78.html" target="_blank" title="医教一体多学科诊疗模式">【详情】</a></p>
+                        </dd>
+                        <dd>
+                            <h3>诊疗范围：</h3>
+                            <p>矮小症、性早熟、发育迟缓、特发性矮小、遗传性矮小</p>
+                        </dd>
+                        <dd>
+                            <h3>模式优势：</h3>
+                            <div class="cl"></div>
+                            <ul>
+                                <li class="li01">绿色自然，安全无痛</li>
+                                <li class="li02">直击病灶，快速恢复</li>
+                                <li class="li03">多元诊疗，提升免疫</li>
+                                <li class="li04">疗效稳定，快速增高</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                    <div class="ggsm">
+                        <p>本模式专利权由成都西南儿童医院少有享有，其他盈利机构未经本院同意，文字抄袭或临床应用都是违法行为，我院将依法追究法律责任</p>
+                    </div>
+                </div>
+                <div class="right fr">
+                    <a href="/zgjs/78.html" class="a_img" target="_blank"><img src="/images/mtbd.jpg" border="0" width="237" height="190" /><span>医教一体模式<br>
+        在第20全国儿科学术会议上深受好评</span></a>
+                    <h3>认证机构</h3>
+                    <ul>
+                        <li>
+                            <a href="javascript:openZoosUrl('chatwin','&e=中华中医药学会')"><img src="/images/bd01.jpg" border="0" width="237" height="135" /></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="con04">
+            <div class="tit">
+                <h3>西南医师坐诊</h3>
+            </div>
+            <div class="slideTxtBox">
+                <div class="bd"> {dede:arclist row="10" titlelen="100" isweight='y' orderby='weight' typeid="26" flag="a,p" addfields='sydbjtp,zjmc,zjzw,cyjj,zjzc1,zjzc2,zjzc3,zjzc4,zysc,zjjs' channelid='17'}
+                    <ul>
+                        <div class="zjtd" style="background: url([field:sydbjtp/]) no-repeat;">
+                            <div class="left">
+                                <a href="javascript:openZoosUrl('chatwin','&e=在线咨询')" class="a01">
+                                    <h3>在线咨询</h3>
+                                </a>
+                                <a href="javascript:openZoosUrl('chatwin','&e=预约挂号')">
+                                    <h3>预约挂号</h3>
+                                </a>
+                            </div>
+                            <div class="centers">
+                                <dl>
+                                    <dt>
+                                        <h3>[field:zjmc/]</h3>
+                                        <p><span>[field:zjzw/]</span><strong>从医经验[field:cyjj/]年</strong></p>
+                                    </dt>
+                                    <dd>
+                                        <ul>
+                                            <li><a href="[field:arcurl/]" target="_blank">[field:zjzc1/]</a></li>
+                                            <li><a href="[field:arcurl/]" target="_blank">[field:zjzc2/]</a></li>
+                                            <li><a href="[field:arcurl/]" target="_blank">[field:zjzc3/]</a></li>
+                                            <li><a href="[field:arcurl/]" target="_blank">[field:zjzc4/]</a></li>
+                                        </ul>
+                                    </dd>
+                                    <div class="cl"></div>
+                                    <dd>
+                                        <h3>专业擅长：</h3>
+                                        <p>[field:zysc/]</p>
+                                    </dd>
+                                    <div class="cl"></div>
+                                    <dd>
+                                        <h3>医师简介：</h3>
+                                        <p>[field:zjjs/]…<a href="[field:arcurl/]" target="_blank">【详情】</a></p>
+                                    </dd>
+                                </dl>
+                                <div class="cl"></div>
+                                <div class="tel_zj">
+                                    <h3>医师问答专科</h3>
+                                    <div class="tj_tel">
+                                        <input type="text" class="phone" value="请输入您咨询的问题" onfocus="if(this.value=='请输入您咨询的问题'){this.value='';}" onblur="if(this.value==''){this.value='请输入您咨询的问题';}" />
+                                        <input type="submit" onclick="openZoosUrl('chatwin','&e=在线挂号');return false;" class="btns" value="" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="right">
+                                <h3>医患互动 在线挂号</h3>
+                                <p>您好，
+                                    <br /> 成都西南儿童医院医师为您解答
+                                </p>
+                                <ul>
+                                    <li><a href="/axyy/xzs/372.html" title="性早熟真能影响到孩子身高吗?" target="_blank">性早熟真能影响到孩子身高吗?</a></li>
+                                    <li><a href="/zgff/kxzg/69.html" title="孩子长不高是什么原因？" target="_blank">孩子长不高是什么原因？</a></li>
+                                    <li><a href="/axyy/fpz/51.html" title="肥胖型矮小症的表现及诊疗方法" target="_blank">肥胖型矮小症的表现及诊疗方法</a></li>
+                                    <li><a href="/jzbd/byjc/153.html" title="矮小症检查" target="_blank">矮小症检查</a></li>
+                                    <li class="last"><a href="/axyy/jzyc/115.html" title="遗传性矮小可以增高吗" target="_blank">遗传性矮小可以增高吗</a></li>
+                                </ul>
+                                <a href="javascript:openZoosUrl('chatwin','&e=我要咨询')" class="a02">
+                                    <h4>我要咨询</h4>
+                                </a>
+                            </div>
+                        </div>
+                    </ul>
+                    {/dede:arclist} </div>
+                <div class="hd">
+                    <ul>
+                    </ul>
+                </div>
+            </div>
+            <script type="text/javascript">
+            jQuery(".slideTxtBox").slide({
+                titCell: ".hd ul",
+                autoPage: true,
+                autoPlay: true,
+                delayTime: 500
+            });
+            </script>
+        </div>
+        <div class="cl"></div>
+        <div class="con06">
+            <div class="tit">
+                <h3>走进西南</h3>
+            </div>
+            <div class="yyhj">
+                <p class="fl left">
+                    <a href="javascript:openZoosUrl('chatwin','&e=在线咨询')" rel="nofallow"><img src="/images/yygk.jpg" border="0" width="290" height="317" /></a>
+                </p>
+                <div class="right fl">
+                    <ul class="ul01">
+                        <li class="hover" onmouseover="setTab('fdyy',1,3)" id="fdyy1"><a href="/xjsb/" target="_blank">诊疗设备</a></li>
+                        <li onmouseover="setTab('fdyy',2,3)" id="fdyy2"><a href="/yyhj/" target="_blank">医院环境</a></li>
+                        <li onmouseover="setTab('fdyy',3,3)" id="fdyy3"><a href="/gygh/" target="_blank">公益事业</a></li>
+                    </ul>
+                    <ul class="ul02" id="con_fdyy_1">
+                        <li class="li01"><img src="/images/index_sb01.jpg" border="0" /><span>B超机</span></li>
+                        <li class="li01"><img src="/images/index_sb02.jpg" border="0" /><span>ECT雷电电摩</span></li>
+                        <li class="li01"><img src="/images/index_sb03.jpg" border="0" /><span>大脑生物反馈仪</span></li>
+                        <li class="li01"><img src="/images/index_sb04.jpg" border="0" /><span>儿童注意力测试训练仪</span></li>
+                        <li class="li01"><img src="/images/index_sb05.jpg" border="0" /><span>全自动化学发光测定仪</span></li>
+                        <li class="li01"><img src="/images/index_sb06.jpg" border="0" /><span>认知评估和训练系统仪</span></li>
+                    </ul>
+                    <ul class="ul02" id="con_fdyy_2" style="display:none;">
+                        <li class="li01 li02"><img src="/images/ryzz01.jpg" border="0" width="203" height="123" /><span>动吧一角</span></li>
+                        <li class="li01 li02"><img src="/images/ryzz02.jpg" border="0" width="203" height="123" /><span>感觉统合室</span></li>
+                        <li class="li01 li02"><img src="/images/ryzz03.jpg" border="0" width="203" height="123" /><span>候诊大厅</span></li>
+                        <li class="li01 li02"><img src="/images/ryzz04.jpg" border="0" width="203" height="123" /><span>输液大厅内部</span></li>
+                        <li class="li01 li02"><img src="/images/ryzz05.jpg" border="0" width="203" height="123" /><span>医院走廊</span></li>
+                        <li class="li01 li02"><img src="/images/ryzz06.jpg" border="0" width="203" height="123" /><span>中医药房</span></li>
+                    </ul>
+                    <ul class="ul02" id="con_fdyy_3" style="display:none;">
+                        <li class="li01 li02"><img src="/images/index_gy01.jpg" border="0" width="203" height="123" /><span>成立“一路童行”特殊儿童公益援助项目</span></li>
+                        <li class="li01 li02"><img src="/images/index_gy02.jpg" border="0" width="203" height="123" /><span>免费为山里的老人做检查</span></li>
+                        <li class="li01 li02"><img src="/images/index_gy03.jpg" border="0" width="203" height="123" /><span>为出租车家庭孩子免费检查</span></li>
+                        <li class="li01 li02"><img src="/images/index_gy04.jpg" border="0" width="203" height="123" /><span>为留守儿童做免费体检</span></li>
+                        <li class="li01 li02"><img src="/images/index_gy05.jpg" border="0" width="203" height="123" /><span>为留守儿童做免费心理辅导</span></li>
+                        <li class="li01 li02"><img src="/images/index_gy06.jpg" border="0" width="203" height="123" /><span>医院医师与留守儿童结对子</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    jQuery(".anli .dl_ali").hover(function() {
+        jQuery(this).addClass("bdOn")
+    }, function() {
+        jQuery(this).removeClass("bdOn")
+    });
+    jQuery(".anli").slide({
+        mainCell: ".dl_ali",
+        delayTime: 0,
+        triggerTime: 0,
+        autoPlay: true
+    });
+    </script>
+    {dede:include filename="footer.htm"/}
+</body>
+
+</html>

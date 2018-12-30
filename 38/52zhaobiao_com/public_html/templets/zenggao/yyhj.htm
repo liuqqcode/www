@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:field name='description'  function='html2text(@me)'/}" />
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <link href="/css/common.css" rel="stylesheet" type="text/css" />
+    <style>
+    .hj_pic ul.ul02 li {
+        margin-left: 0px;
+    }
+
+    .hj_pic a.hj_a2 {
+        right: 4px;
+    }
+    </style>
+</head>
+
+<body>
+    {dede:include filename="header.htm"/}
+    <div class="w1000 location">
+        <p>您现在的位置：{dede:field name='position'/}</p>
+        <div class="search">
+            <input type="submit" value="" class="btn" onclick="openZoosUrl();return false;" />
+            <input type="text" value="请输入关键词…" class="name" onfocus="if(this.value=='请输入关键词…'){this.value='';}" onblur="if(this.value==''){this.value='请输入关键词…';}" />
+        </div>
+    </div>
+    <div class="w1000 yyry" id="yyjjs">
+        <div class="title">
+            <h3><span>带您走进</span>西南儿童科学增高诊疗中心</h3>
+            <p>Take you into the southwest children's science increased diagnosis and treatment center</p>
+        </div>
+        <div class="cl"></div>
+        {dede:include filename="left.htm"/}
+        <div class="right fr">
+            <dl class="dl01">
+                <dt>
+                    <h3>医院环境</h3>
+                    <p>热情周到服务 温馨快捷就诊</p>
+                </dt>
+                <dd>
+                    <p>成都西南儿童医院作为国内先进医教一体科学增高诊疗中心，一直以来以“诊疗一个孩子，幸福一个家庭”为理念，以“科技兴院、人才强院”的发展战略，在医、教、研方面取得可喜的成绩，先后挂牌“四川省康复医学会理事单位”、“中华医学会四川省分会会员单位”、“中国中医理论整理研究会参编单位”、“中国医师协会四川省分会理事单位”、“中国护理协会四川省分会理事单位”、“成都西南儿童神经医学研究院”、“成都中医药大学附属医院退休医师团辅导医院”“四川华西医院退休医师团辅导医院”。用一流的模式、一流的医师团、一流的服务真诚奉献社会，为西南儿童创建国内较好的增高诊疗中心。</p>
+                </dd>
+            </dl>
+            <div class="game163" style="margin:0 auto">
+                <ul class="bigImg">
+                    <li><a href="javascript:void(0);return false;"><img src="/images/yyhj_1.jpg" border="0" width="648" height="415" /></a></li>
+                    <li><a href="javascript:void(0);return false;"><img src="/images/yyhj_2.jpg" border="0" width="648" height="415" /></a></li>
+                    <li><a href="javascript:void(0);return false;"><img src="/images/yyhj_3.jpg" border="0" width="648" height="415" /></a></li>
+                    <li><a href="javascript:void(0);return false;"><img src="/images/yyhj_4.jpg" border="0" width="648" height="415" /></a></li>
+                    <li><a href="javascript:void(0);return false;"><img src="/images/yyhj_5.jpg" border="0" width="648" height="415" /></a></li>
+                    <li><a href="javascript:void(0);return false;"><img src="/images/yyhj_6.jpg" border="0" width="648" height="415" /></a></li>
+                    <li><a href="javascript:void(0);return false;"><img src="/images/yyhj_7.jpg" border="0" width="648" height="415" /></a></li>
+                </ul>
+                <div class="smallScroll">
+                    <a class="sPrev" href="javascript:void(0)">←</a>
+                    <div class="smallImg">
+                        <ul>
+                            <li><a><img src="/images/yyhj_1x.jpg" border="0" /></a></li>
+                            <li><a><img src="/images/yyhj_2x.jpg" border="0" /></a></li>
+                            <li><a><img src="/images/yyhj_3x.jpg" border="0" /></a></li>
+                            <li><a><img src="/images/yyhj_4x.jpg" border="0" /></a></li>
+                            <li><a><img src="/images/yyhj_5x.jpg" border="0" /></a></li>
+                            <li><a><img src="/images/yyhj_6x.jpg" border="0" /></a></li>
+                            <li><a><img src="/images/yyhj_7x.jpg" border="0" /></a></li>
+                        </ul>
+                    </div>
+                    <a class="sNext" href="javascript:void(0)">→</a>
+                </div>
+                <div class="pageState"></div>
+            </div>
+            <script type="text/javascript">
+            //大图切换
+            jQuery(".game163").slide({
+                titCell: ".smallImg li",
+                mainCell: ".bigImg",
+                effect: "fold",
+                autoPlay: true,
+                delayTime: 200,
+                startFun: function(i, p) {
+                    //控制小图自动翻页
+                    if (i == 0) { jQuery(".game163 .sPrev").click() } else if (i % 4 == 0) { jQuery(".game163 .sNext").click() }
+                }
+            });
+            //小图左滚动切换
+            jQuery(".game163 .smallScroll").slide({ mainCell: "ul", delayTime: 100, vis: 4, scroll: 4, effect: "left", autoPage: true, prevCell: ".sPrev", nextCell: ".sNext", pnLoop: false });
+            </script>
+            <div class="cl"></div>
+            {dede:include filename="rdgz.htm"/}
+        </div>
+    </div>
+    {dede:include filename="footer2.htm"/}
+    <script>
+    jQuery(".hj_pic").slide({ titCell: ".yangshi li", mainCell: ".yyhj_big", effect: "fold", autoPlay: true, delayTime: 200, startFun: function(i, p) { if (i == 0) { jQuery(".hj_a").click() } else if (i % 4 == 0) { jQuery(".hj_a2").click() } } });
+    jQuery(".yangshi").slide({ mainCell: "ul", delayTime: 100, vis: 4, scroll: 4, effect: "left", autoPage: true, prevCell: ".hj_a", nextCell: ".hj_a2", pnLoop: false });
+    </script>
+</body>
+
+</html>

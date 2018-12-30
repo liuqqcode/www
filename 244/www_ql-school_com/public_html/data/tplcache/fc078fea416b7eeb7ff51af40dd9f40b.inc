@@ -1,0 +1,1 @@
+<a href="[field:typeurl/]">[field:arcurl/]</a>

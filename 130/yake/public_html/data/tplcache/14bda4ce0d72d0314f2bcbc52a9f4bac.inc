@@ -1,0 +1,34 @@
+{dede:field name='keywords'}牙齿矫正,智齿{/dede:field}
+{dede:field name='description'}牙齿不齐怎么办?很多人都会选择通过牙齿矫正来解决，那么牙齿矫正为什么还要拔智齿呢?是不是做牙齿矫正都要将智齿拔除呢?让我们来听听{/dede:field}
+{dede:field name='title'}牙齿矫正为什么还要拔智齿呢?{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<span style="font-size:16px;">　　牙齿不齐怎么办?很多人都会选择通过牙齿矫正来解决，那么牙齿矫正为什么还要拔智齿呢?是不是做牙齿矫正都要将智齿拔除呢?让我们来听听医生的解答。</span>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1011/20171011051753480.jpg" style="width: 390px; height: 257px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　您也有拔牙需要吗?点击在线咨询，让医生详细了解您的牙齿情况</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　为什么做牙齿矫正要拔除智齿?</span></strong></p>
+<p><span style="font-size:16px;">　　智齿如果位置长得好，上下咬合关系正常，那当然不用去拔。但如果位置长得不好，建议你拔除，因为，不良的智齿将在以后的生活中给你带来一些不便，如智齿发炎、微痛等。为了保证牙齿矫正效果，矫正前如果有智齿萌出不当，则需要拔除。如果智齿完全萌出、形态正常且具有正常的咬合关系，就不需要拔除。</span></p>
+<p><strong><span style="font-size:16px;">　　哪些智齿必须拔除?</span></strong></p>
+<p><span style="font-size:16px;">　　1.蛀牙:如果智齿出现比较深的蛀牙，特别是需要根管治疗的，一律建议拔掉。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">智齿牙老疼怎么办？</span></a></span></p>
+<p><span style="font-size:16px;">　　2.侵犯邻牙:如果生长空间不足，智齿会使劲儿顶住相邻的牙齿继续生长，可能导致两颗牙齿都保不住。</span></p>
+<p><span style="font-size:16px;">　　3.空间不足:如果智齿生长空间不足，在智齿生长过程中，会出现比较严重的牙龈肿胀、牙齿微痛等症状。</span></p>
+<p><span style="font-size:16px;">　　4.不易清洁:如果智齿长得歪七扭八，清洁起来会比较困难，很容易出现蛀牙。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">拔完智齿后需要注意哪些事项？</span></a></span></p>
+<p><span style="font-size:16px;">　　5.没有对咬牙:不是每个人的四颗智齿都会顺利生长出来，如果一颗智齿的对面没有与之相抗衡的另一颗智齿，可能影响人的咬合关系。</span></p>
+<p><span style="font-size:16px;">　　6.阻生齿:这种类型的智齿，通常埋在齿槽骨的里面，当你感觉到痛时，就要拔掉它。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0203/20180203021556132.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><span style="font-size:16px;">　　温馨提示：更多想要了解的请直接咨询在线医生，如果您还有疑问，可拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">热线：400-6655-111</span></a>。维尔口腔医院的医生将给出专业的意见并提供优质的服务。</span></p>{/dede:field}
+{dede:field name='body'}<span style="font-size:16px;">　　牙齿不齐怎么办?很多人都会选择通过牙齿矫正来解决，那么牙齿矫正为什么还要拔智齿呢?是不是做牙齿矫正都要将智齿拔除呢?让我们来听听医生的解答。</span>
+<div style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1011/20171011051753480.jpg" style="width: 390px; height: 257px;" /></span></a></div>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;">　　您也有拔牙需要吗?点击在线咨询，让医生详细了解您的牙齿情况</span></span></a></p>
+<p><strong><span style="font-size:16px;">　　为什么做牙齿矫正要拔除智齿?</span></strong></p>
+<p><span style="font-size:16px;">　　智齿如果位置长得好，上下咬合关系正常，那当然不用去拔。但如果位置长得不好，建议你拔除，因为，不良的智齿将在以后的生活中给你带来一些不便，如智齿发炎、微痛等。为了保证牙齿矫正效果，矫正前如果有智齿萌出不当，则需要拔除。如果智齿完全萌出、形态正常且具有正常的咬合关系，就不需要拔除。</span></p>
+<p><strong><span style="font-size:16px;">　　哪些智齿必须拔除?</span></strong></p>
+<p><span style="font-size:16px;">　　1.蛀牙:如果智齿出现比较深的蛀牙，特别是需要根管治疗的，一律建议拔掉。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">智齿牙老疼怎么办？</span></a></span></p>
+<p><span style="font-size:16px;">　　2.侵犯邻牙:如果生长空间不足，智齿会使劲儿顶住相邻的牙齿继续生长，可能导致两颗牙齿都保不住。</span></p>
+<p><span style="font-size:16px;">　　3.空间不足:如果智齿生长空间不足，在智齿生长过程中，会出现比较严重的牙龈肿胀、牙齿微痛等症状。</span></p>
+<p><span style="font-size:16px;">　　4.不易清洁:如果智齿长得歪七扭八，清洁起来会比较困难，很容易出现蛀牙。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">拔完智齿后需要注意哪些事项？</span></a></span></p>
+<p><span style="font-size:16px;">　　5.没有对咬牙:不是每个人的四颗智齿都会顺利生长出来，如果一颗智齿的对面没有与之相抗衡的另一颗智齿，可能影响人的咬合关系。</span></p>
+<p><span style="font-size:16px;">　　6.阻生齿:这种类型的智齿，通常埋在齿槽骨的里面，当你感觉到痛时，就要拔掉它。</span></p>
+<p style="text-align: center;"><span style="font-size:16px;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><img alt="" src="/uploadfile/2018/0203/20180203021556132.jpg" style="width: 550px; height: 130px;" /></a></span></p>
+<p><span style="font-size:16px;">　　温馨提示：更多想要了解的请直接咨询在线医生，如果您还有疑问，可拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">热线：400-6655-111</span></a>。维尔口腔医院的医生将给出专业的意见并提供优质的服务。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521DXXIT0-1X03_lit.jpg{/dede:field}

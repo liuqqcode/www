@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>群丽学校</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <script src="http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js"></script>
+    <link rel="stylesheet" href="css/style.css?125">
+    <link rel="stylesheet" href="css/iconfont.css">
+    <!-- <script src="js/phone.js"></script> -->
+</head>
+
+<body>
+    <header>
+        <img src="images/header.jpg" alt="">
+    </header>
+    <nav>
+        <a href="/">首页</a>
+        <a href="/zt/mqunlizt" class="hover">品牌介绍</a>
+        <a href="/xxdt/">学员动态</a>
+        <a href="/zyjs/">师资队伍</a>
+        <a href="/about/">联系我们</a>
+        <a href="/news/" class="last">学校动态</a>
+    </nav>
+    <div class="banner"><img src="images/banner.jpg" alt=""></div>
+    <div class="pinpai">
+        <img src="images/pinpai1.jpg" alt="">
+        <div class="pinpai_link">
+        	<a href="/caizhuang/"></a>
+        	<a href="/meijia/"></a>
+        	<a href="/wenxiu/"></a>
+        	<a href="/sheying/"></a>
+        	<a href="/meirong/"></a>
+        </div>
+    </div>
+    <div class="pinpaik">
+        <img src="images/pinpai2.jpg" alt="">
+        <img src="images/pinpai3.jpg" alt="">
+        <img class="pinpai4" src="images/pinpai4.png" alt="">
+    </div>
+    <div class="shizi">
+        <img src="images/shizi1.png" alt="">
+        <img src="images/shizi2.jpg" alt="">
+        <img class="shizi3" src="images/shizi3.png" alt="">
+        <img src="images/shizi4.jpg" alt="">
+        <img src="images/shizi5.jpg" alt="">
+        <img src="images/shizi6.jpg" alt="">
+        <img src="images/shizi7.jpg" alt="">
+        <img src="images/shizi8.jpg" alt="">
+        <a href="javascript:openZoosUrl('chatwin','&e=了解')"><img src="images/liaojie.jpg" alt=""></a>
+    </div>
+    <div class="zuopin">
+        <img src="images/zuopin1.jpg" alt="">
+        <img src="images/zuopin2.jpg" alt="">
+        <img src="images/zuopin3.jpg" alt="">
+        <img src="images/zuopin4.jpg" alt="">
+    </div>
+    <div class="fenwei">
+        <img src="images/fenwei1.jpg" alt="">
+        <img src="images/fenwei2.jpg" alt="">
+        <p>群丽化妆学校在化妆领域中是全国最早把西蔓色彩融入到化妆造型中坚持以唯美、时尚、大气、经典、百变造型为导向，以实用性、高水准的教学水平，培养出技术扎实，专业性强，把握时尚趋势的技术人才。并且多年的沉淀与实力的积累，多次获得最佳就业奖、最佳诚信奖、最佳课程奖等荣耀。并且得到大众学员及业界专业同行认可，最终使群丽化妆学校成为业界先驱。</p>
+    </div>
+    <div class="meizhuang">
+        <img src="images/meizhuang.jpg" alt="">
+        <p>经过多年的努力群丽化妆学校开拓出了自身特效的教学模式及教学理念。群丽化妆学校教学采用“理论”与“实践“的结合，注重实践运用教学方式。并为每一位学员提供优良的教学环境。让每位学员在丰富的教学实力下参与到理论与实践中，从而提高专业的实际升华。</p>
+        <img src="images/dianhua.jpg" alt="">
+    </div>
+    <div class="rongyu">
+        <img src="images/rongyu_title.jpg" alt="">
+        <img src="images/rongyu1.jpg" alt="">
+        <img src="images/rongyu2.jpg" alt="">
+        <img src="images/rongyu3.jpg" alt="">
+        <a href="javascript:openZoosUrl('chatwin','&e=试听课程')"><img src="images/shiting.jpg" alt=""></a>
+    </div>
+    <div class="yuyue">
+        <img src="images/yuyue.jpg" alt="">
+        <div class="baoming">
+            <div class="baomings">
+                <h1>申请报名</h1>
+                <form action="">
+                    <div class="xingming">
+                        <span>姓名：</span>
+                        <input id="name" type="text" placeholder="请输入您的名字">
+                    </div>
+                    <div class="xingming">
+                        <span>电话：</span>
+                        <input id="tel" type="text" placeholder="请输入您的电话">
+                    </div>
+                    <button onclick="tijiao()" class="tijiao" type="button">立即提交</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <p>地址：成都市春熙路南口城守东大街6号蓝光大厦5楼（省四医院旁）</p>
+        <p>电弧：<span>028-85831188</span></p>
+    </div>
+    <div class="footerk">
+        <div class="footers">
+            <a href="/" class="footers_sy"><i class="icon iconfont icon-home"></i>首页</a>
+            <a href="tel:02885831188" class="footers_dh"><i class="icon iconfont icon-icon-"></i>电话</a>
+            <a href="/zykc/" class="footers_kc"><i class="icon iconfont icon-jilu"></i>课程</a>
+            <a href="javascript:openZoosUrl('chatwin','&e=留言')" class="footers_ly"><i class="icon iconfont icon-liuyan"></i>留言</a>
+        </div>
+    </div>
+    <script>
+    function tijiao() {
+        var name = document.getElementById('name');
+        var tel = document.getElementById('tel');
+        if (name.value.length < 2) {
+            alert('请输入姓名！');
+            name.focus();
+            return false;
+        } else if (name.value == "") {
+            alert('请输入姓名！');
+            name.focus();
+            return false;
+        } else if (name.value == "请输入名字") {
+            alert('请输入姓名！');
+            name.focus();
+            return false;
+        } else if (tel.value.length != 8 && tel.value.length != 11 && tel.value.length != 12) {
+            alert('请您输入正确的电话号码！');
+            tel.focus();
+            return false;
+        }
+        openZoosUrl('chatwin', '&e=姓名：' + name.value + '电话：' + tel.value);
+
+    }
+    </script>
+    <script src="/swt/swt.js"></script>
+</body>
+
+</html>

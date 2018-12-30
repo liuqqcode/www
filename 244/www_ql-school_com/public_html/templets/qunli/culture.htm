@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script><!--公用js-->
+    <script src="{dede:global.cfg_templets_skin/}/js/imgControl.js"></script><!--点击切换图片-->
+
+    <link type="text/css" rel="stylesheet" href="{dede:global.cfg_templets_skin/}/css/culture.css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/autoImg.js"></script><!--无缝自动图片轮播-->
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+$(document).ready(function(){
+  $(".img").mouseover(function(){
+    $(this).fadeTo("slow",0.15);
+  });
+  $(".img").mouseout(function(){
+    $(this).fadeTo("slow",1);
+  });
+});
+</script>
+
+
+
+
+
+
+
+<style type="text/css">
+<!--
+#demo {
+background: #FFF;
+overflow:hidden;
+border: 2px solid white;
+width: 930px;
+height:167px;
+margin-left:auto;
+margin-right:auto;
+}
+#demo img {
+	float:left;
+}
+#indemo {
+float: left;
+width: 8000%;
+}
+#demo1 {
+float: left;
+}
+#demo2 {
+float: left;
+}
+-->
+</style>
+</head>
+
+<body>
+
+
+  {dede:include filename="head.htm"/}
+
+
+
+
+
+
+
+
+ <!--最热消息-->
+        <div class="hotNews">
+            <div class="hotNewsContent">
+      {dede:arclist typeid="23" row="1" orderby='pubdate' addfields='xx' channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}     
+                <div style="padding-left:40px;width: 430px">
+                    <h3><span>专业课程详询热线</span></h3>
+                    <p>
+                        <span>028-8583 1188</span>
+                        <span>18981933384</span>
+               
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="divCultureWrapper">
+  <div class="divCulture">
+		<img class="imgTxtCulture2" src="{dede:global.cfg_templets_skin/}/images/txtCulture2.gif" width="289" height="81" />
+        
+        
+            
+    <div id="demo">
+<div id="indemo">
+<div id="demo1">
+<img src="{dede:global.cfg_templets_skin/}/images/scroll1.jpg" border="0" />
+<img src="{dede:global.cfg_templets_skin/}/images/scroll2.jpg" border="0" />
+<img src="{dede:global.cfg_templets_skin/}/images/scroll3.jpg" border="0" />
+<img src="{dede:global.cfg_templets_skin/}/images/scroll4.jpg" border="0" />
+<img src="{dede:global.cfg_templets_skin/}/images/scroll5.jpg" border="0" />
+
+</div>
+<div id="demo2"></div>
+	</div>
+</div>
+    
+ <div class="divSmallImages">   
+    <img src="{dede:global.cfg_templets_skin/}/images/cultureSmall1.jpg" width="146" height="95" class="img" />
+   <img src="{dede:global.cfg_templets_skin/}/images/cultureSmall2.jpg" width="146" height="95" class="img" />
+      <img src="{dede:global.cfg_templets_skin/}/images/cultureSmall3.jpg" width="146" height="95" class="img" />
+     <img src="{dede:global.cfg_templets_skin/}/images/cultureSmall4.jpg" width="146" height="95" class="img" />
+   <img src="{dede:global.cfg_templets_skin/}/images/cultureSmall5.jpg" width="146" height="95" class="img" />
+      <img src="{dede:global.cfg_templets_skin/}/images/cultureSmall6.jpg" width="146" height="95" class="img" />
+  </div>
+  
+  
+  
+  <div class="divTxt">
+  <div class="divTxt2">
+    群丽化妆学校建校以来，在坚持学院派教育的基础上，深入研究我国民族艺术的美学精神并广泛吸收西方现代化妆中的艺术成果。教学中，注重培养学生的专业水平与道德修养，将学生的化妆基本功、化妆基本技能、化妆基础理论与化妆造型独创性素质相结合；在坚持理论与实践相结合的基础上，群丽化妆学校积极参加时尚界和行业内各项重要活动。 2007年，“群丽婚纱”为指定摄影、化妆单位，如2008年北京奥运会开闭幕式、2009年国庆60周年阅兵式、第59届世界小姐大赛、2012年参加国际非遗博览园叁女叁活动、中国国际时装周等国内外具有广泛影响力的活动与赛事。
+  </div>
+  </div>
+  
+  
+  <img src="{dede:global.cfg_templets_skin/}/images/cultureBig.jpg" width="928" height="168" class="imgBig" /> </div>
+    
+    
+    
+    
+    
+    
+    
+ </div>   
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+<script>
+<!--
+var speed=20;
+var tab=document.getElementById("demo");
+var tab1=document.getElementById("demo1");
+var tab2=document.getElementById("demo2");
+tab2.innerHTML=tab1.innerHTML;
+function Marquee(){
+if(tab2.offsetWidth-tab.scrollLeft<=0)
+tab.scrollLeft-=tab1.offsetWidth
+else{
+tab.scrollLeft++;
+}
+}
+var MyMar=setInterval(Marquee,speed);
+tab.onmouseover=function() {clearInterval(MyMar)};
+tab.onmouseout=function() {MyMar=setInterval(Marquee,speed)};
+-->
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="honor" id="honor" style="margin-top:40px;margin-bottom:45px;">
+                    <h1><a ><img src="{dede:global.cfg_templets_skin/}/images/honor.png" alt=""/></a></h1>
+                    <div class="girlsBox img-scroll">
+                        <a href="" class="click clickL prev"></a>
+                        <div class="girls img-list" style="margin-top:20px;">
+                            <ul>
+                        {dede:arclist typeid="11"  orderby='pubdate'}    
+                                <li><a href="">
+                                    [field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<img src='{@me['litpic']}'/>"); [/field:array]
+                                </a></li>                                                                         
+                        {/dede:arclist} 
+                            </ul>
+                        </div>
+                        <a href="" class="clickR click next"></a>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--footer-->
+{dede:include filename="footer.htm"/}
+
+
+
+
+
+
+
+
+</body>
+</html>

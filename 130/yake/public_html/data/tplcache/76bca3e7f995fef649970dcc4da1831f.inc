@@ -1,0 +1,22 @@
+{dede:field name='keywords'}烤瓷牙{/dede:field}
+{dede:field name='description'}烤瓷牙可以代替天然牙咀嚼食物，是很好的替代牙，但总是会有意外的状况发生，那便是烤瓷牙的损坏，由于材料以及意外因素，烤瓷牙绷瓷时{/dede:field}
+{dede:field name='title'}烤瓷牙坏了怎么办？{/dede:field}
+{dede:field name='writer'}{/dede:field}
+{dede:field name='source'}{/dede:field}
+{dede:field name='pubdate'}<p><span style="font-size:16px;">　　烤瓷牙可以代替天然牙咀嚼食物，是很好的替代牙，但总是会有意外的状况发生，那便是烤瓷牙的损坏，由于材料以及意外因素，烤瓷牙绷瓷时有发生，所以，很多人心中都存满了疑惑，那么烤瓷牙坏了是不是可以换呢?</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1109/20171109041715345.jpg" style="width: 300px; height: 185px;" /><br />
+&gt;&gt;烤瓷牙的材料哪种好&lt;&lt;</span></span></a></p>
+<p><span style="font-size:16px;">　　通常来说，咀嚼不良是烤瓷牙损坏的一大因素，虽做了烤瓷牙但是也经常啃坚硬的食物，例如骨头之类的就会很容易使烤瓷牙损坏，甚至是脱落，那么此时该怎么办呢?事实上，烤瓷牙是可以换的，也就是说可以重做，但这只是绷瓷比较严重的时候采取的措施，如果只是轻微的绷瓷，可以考虑修复。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;烤瓷牙可以使用多长时间&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　北京维尔仿生美容修复技术采用欧洲进口生物瓷材料，将现代齿科和数字化技术完美结合，不仅恢复牙齿的功能性，更强调个性美牙理念;牙冠通过数字化微雕技术，经29道严谨工序制作而成，物理稳定性是黄金的27倍，形态、色泽、通透性都胜似真牙，并与口腔环境高度相容。这种牙齿美容修复技术可以解决烤瓷牙失败带来的多种问题，例如颜色失真、牙龈萎缩等。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1109/20171109041716974.jpg" style="width: 450px; height: 280px;" /><br />
+&gt;&gt;一颗烤瓷牙费用是多少?点击咨询专家&lt;&lt;</span></span></a></p>
+<p><span style="font-size:16px;">　　温馨提示：烤瓷牙失败了也不是什么大问题了，美容修复技术轻松帮您解决问题。北京维尔口腔专家提醒您，当我们拥有健康的牙齿时，一定要好好珍惜，认真刷牙，定期口腔健康检查和清洗，只有这样才能让我们的生活不会为各种牙齿疾病而感到困扰，如此才能享受每一天的健康生活。如果您还有哪些地方不明白或想要了解的问题，都可以点击咨询在线客服或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">维尔口腔服务热线400-6655-111</span></a>进行咨询，维尔口腔将竭诚为您服务，做您的口腔维护管家。</span></p>{/dede:field}
+{dede:field name='body'}<p><span style="font-size:16px;">　　烤瓷牙可以代替天然牙咀嚼食物，是很好的替代牙，但总是会有意外的状况发生，那便是烤瓷牙的损坏，由于材料以及意外因素，烤瓷牙绷瓷时有发生，所以，很多人心中都存满了疑惑，那么烤瓷牙坏了是不是可以换呢?</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1109/20171109041715345.jpg" style="width: 300px; height: 185px;" /><br />
+&gt;&gt;烤瓷牙的材料哪种好&lt;&lt;</span></span></a></p>
+<p><span style="font-size:16px;">　　通常来说，咀嚼不良是烤瓷牙损坏的一大因素，虽做了烤瓷牙但是也经常啃坚硬的食物，例如骨头之类的就会很容易使烤瓷牙损坏，甚至是脱落，那么此时该怎么办呢?事实上，烤瓷牙是可以换的，也就是说可以重做，但这只是绷瓷比较严重的时候采取的措施，如果只是轻微的绷瓷，可以考虑修复。<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">&gt;&gt;烤瓷牙可以使用多长时间&lt;&lt;</span></a></span></p>
+<p><span style="font-size:16px;">　　北京维尔仿生美容修复技术采用欧洲进口生物瓷材料，将现代齿科和数字化技术完美结合，不仅恢复牙齿的功能性，更强调个性美牙理念;牙冠通过数字化微雕技术，经29道严谨工序制作而成，物理稳定性是黄金的27倍，形态、色泽、通透性都胜似真牙，并与口腔环境高度相容。这种牙齿美容修复技术可以解决烤瓷牙失败带来的多种问题，例如颜色失真、牙龈萎缩等。</span></p>
+<p style="text-align: center;"><a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;"><span style="font-size:16px;"><img alt="" src="/uploadfile/2017/1109/20171109041716974.jpg" style="width: 450px; height: 280px;" /><br />
+&gt;&gt;一颗烤瓷牙费用是多少?点击咨询专家&lt;&lt;</span></span></a></p>
+<p><span style="font-size:16px;">　　温馨提示：烤瓷牙失败了也不是什么大问题了，美容修复技术轻松帮您解决问题。北京维尔口腔专家提醒您，当我们拥有健康的牙齿时，一定要好好珍惜，认真刷牙，定期口腔健康检查和清洗，只有这样才能让我们的生活不会为各种牙齿疾病而感到困扰，如此才能享受每一天的健康生活。如果您还有哪些地方不明白或想要了解的问题，都可以点击咨询在线客服或拨打<a href="http://swt.yakewang.cn/LR/Chatpre.aspx?id=MOP64215664&lng=cn" target="_blank"><span style="color:#ff0000;">维尔口腔服务热线400-6655-111</span></a>进行咨询，维尔口腔将竭诚为您服务，做您的口腔维护管家。</span></p>{/dede:field}
+{dede:field name='litpic'}/uploads/allimg/c180322/1521D62259E20-V2b_lit.jpg{/dede:field}

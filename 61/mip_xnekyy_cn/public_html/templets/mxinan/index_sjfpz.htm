@@ -1,0 +1,135 @@
+﻿<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <meta name="keywords" content="{dede:field name='keywords'/}" />
+    <meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+    <link href="/css/2016.css" rel="stylesheet" type="text/css" />
+    <script src="/js/TouchSlide.1.1.js"></script>
+    <script src="http://et.xnekyy.cn/js/jquery-1.9.1.min.js"></script>
+</he<script type="text/javascript" src="/js/TouchSlide.1.1.js"></script>ad>
+
+<body>
+    {dede:include filename="header2.htm"/} {dede:include filename="banner.htm"/}
+    <div class="dang"><i class="fa fa-home fa-lg"></i>当前位置：{dede:field name='position'/}</div>
+    <div class="ddz-jj ggbf">
+        <div class="ddz-jja">
+            <span>肥胖症简介</span>
+            <font>肥胖症(obesity)</font>是一种慢性病，是指一定程度的明显超重与脂肪层过厚，是体内脂肪，尤其是甘油三酯积聚过多而导致的一种状态。据世界卫生组织估计它是人类目前面临的最容易被忽...
+            <a href="/nfm/fpz/zz/111.html">
+                <font>【了解详情】</font>
+            </a>
+        </div>
+    </div>
+    <div class="ddz_zlm">
+        <ul>
+            {dede:channel row="6" type='son'}
+            <li><a href='[field:typeurl/]'>[field:typename/]</a></li>
+            {/dede:channel}
+        </ul>
+    </div>
+    <script>
+    var w = $('.ddz_zlm ul li').width();
+    $(".ddz_zlm ul li").css("height", w);
+    $(".ddz_zlm ul li").css("line-height", w + "px");
+    </script>
+    <div class="ddz-bx ggbf">
+        <div class="ddz-bxa">
+            <a href="/nfm/fpz/wh">
+                症状表现/SYMPTOMS
+            </a>
+        </div>
+        <p class="x_msttzz">孩子出现以下症状家长需注意：</p>
+        <ul>
+            <a href="javascript:openZoosUrl()" onclick="_czc.push([\'_trackEvent\',\'手机多动症页面症状\',\'症状\']);">
+                <li>性早熟</li>
+                <li>长不高</li>
+                <li>影响智力</li>
+                <li>记忆力减退</li>
+                <li>大脑缺氧</li>
+                <li>心理异常</li>
+                <li>内分泌失衡</li>
+                <li>男孩“女性化”</li>
+                <li>患多种疾病</li>
+            </a>
+        </ul>
+        <div class="cl"></div>
+        <div class="ddz-bxb" style="background:url(/images/bjt0fp2.png);">
+            <a href="javascript:openZoosUrl()" onclick="_czc.push([\'_trackEvent\',\'手机多动症页面\',\'在线挂号医师\']);">
+                <div></div>
+            </a>
+        </div>
+        <div class="ddz-bye">{dede:arclist row="3" typeid="139" titlelen="50" orderby="pubdate" flag="c"}
+            <p><a href="[field:arcurl /]">[field:title /]</a></p>
+            {/dede:arclist}
+        </div>
+        <div class="cl"></div>
+    </div>
+    <div class="ddz-by ggbf">
+        <div class="ddz-bxa">
+            <a href="/nfm/fpz/by">
+                病因病理/PATHOLOGY
+            </a>
+        </div>
+        <p class="x_msttzz">儿童肥胖的原因</p>
+        <div class="ddz-byb">
+            <p><span>1</span>体质性肥胖</p>
+            <p><span>2</span>饮食性肥胖</p>
+            <p><span>3</span>病理性肥胖</p>
+            <p><span>4</span>药物性肥胖</p>
+        </div>
+        <div class="ddz-byc">
+            <font>【导读】</font>肥胖症少数患儿由于遗传所致，多数患儿是由于脑发育障碍导致，多见于早产儿、剖腹产儿...<a href="/nfm/fpz/by/437.html">【详细】</a>
+        </div>
+        <div class="ddz-byd"></div>
+        <div class="ddz-bye">{dede:arclist row="3" typeid="138" titlelen="50" orderby="pubdate" flag="c"}
+            <p><a href="[field:arcurl /]">[field:title /]</a></p>
+            {/dede:arclist}
+        </div>
+        <div class="cl"></div>
+    </div>
+    <div class="ddz-by">
+        <div class="ddz-bxa">
+            <a href="/nfm/fpz/zl">
+                临床诊疗/CLINICAL
+            </a>
+        </div>
+        <p class="x_msttzz">肥胖症较好的诊疗方法是什么？</p>
+        <div class="ddz-byc">
+            <font>【导读】</font>成都西南儿童医院“医教一体多学科诊疗模式”针对儿童肥胖病因，即帮助儿童科学减肥，又有助于儿童长高...<a href="/nfm/fpz/zl/150.html">【详细】</a>
+        </div>
+        <div class="ddz-bye">{dede:arclist row="3" typeid="140" titlelen="50" orderby="pubdate" flag="c"}
+            <p><a href="[field:arcurl /]">[field:title /]</a></p>
+            {/dede:arclist}
+        </div>
+        <div class="cl"></div>
+    </div>
+    {dede:include filename="guahao.htm"/}
+    <script type="text/javascript">
+    TouchSlide({
+        slideCell: "#leftTabBox",
+        effect: "leftLoop"
+    });
+    TouchSlide({
+        slideCell: "#leftTabBox2",
+        effect: "leftLoop"
+    });
+    </script>
+    <script type="text/javascript">
+    TouchSlide({
+        slideCell: "#focus",
+        titCell: ".hd ul",
+        mainCell: ".bd ul",
+        effect: "leftLoop",
+        autoPlay: true,
+        autoPage: true,
+        switchLoad: "_src"
+    });
+    </script>
+    {dede:include filename="footer2.htm"/}
+</body>
+
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+    <title>{dede:field.title/}</title>
+    <meta name="description" content="{dede:global.cfg_description/}" />
+    <meta name="keywords" content="{dede:global.cfg_keywords/}" />
+    <link href="{dede:global.cfg_templets_skin/}/css/public.css" rel="stylesheet" media="screen" type="text/css" />
+    <link href="{dede:global.cfg_templets_skin/}/css/aboutUs.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="{dede:global.cfg_templets_skin/}/js/jquery.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/public.js"></script>
+    <script src="{dede:global.cfg_templets_skin/}/js/imgControl.js"></script>
+</head>
+<style>
+    .hotNews{
+        background:white;
+        color: #666;
+        /*height:150px;*/
+        /*padding-top:30px;*/
+    }
+    .hotNewsContent div p span{
+        font-size:26px;
+        color:black;
+    }
+    .hotNewsContent div h3{
+        background: url("{dede:global.cfg_templets_skin/}/images/phone2.png") no-repeat 0px 6px;
+    }
+    .hotNewsContent div h3.hot{
+        background: url("{dede:global.cfg_templets_skin/}/images/hot2.png") no-repeat 0px 6px;
+    }
+    .girlsBox .clickL{
+        left:-20px;
+        top:50px;
+        background: url("{dede:global.cfg_templets_skin/}/images/sprite.png") no-repeat -60px -45px;
+        border:1px solid red;
+    }
+    .girlsBox .clickR{
+        right:-10px;
+        background: url("{dede:global.cfg_templets_skin/}/images/sprite.png") no-repeat 32px -45px;
+        border:1px solid red;;
+        top:50px;
+
+    }
+</style>
+<body>
+<div class="all">
+<!--top-->
+{dede:include filename="head.htm"/}
+<!--最热消息-->
+<div class="hotNews" style="background: white">
+    <div class="hotNewsContent">
+        {dede:arclist typeid='23' row='1' addfields='xx' orderby="id" channelid='21'}
+                <div>
+                    <h3 class="hot"><span>开班最新动态</span></h3>
+                    <p>
+                        [field:xx/]
+                    </p>
+                </div>        
+        {/dede:arclist}   
+        <div style="padding-left:40px;width: 430px">
+            <h3><span>专业课程详询热线</span></h3>
+            <p>
+                <span  style="color:#e74159">028-8583 1188</span>
+                <span  style="color:#e74159">18981933384</span>
+            </p>
+        </div>
+    </div>
+</div>
+<!--专业课程-->
+<div class="otherBc" style="margin-top:0" id="professionalClass">
+    <div class="titleBox"><h1><a href=""><img src="{dede:global.cfg_templets_skin/}/images/profe1.png" alt=""/></a></h1></div>
+</div>
+<div class="professional">
+    <!--彩妆专业-->
+    <div class="sortBox makeUp" id="makeUp">
+         <div class="sortCon">
+             <div class="sortTxt">
+                 <h3>彩妆专业课程</h3>
+                 <p>
+                     重点培养学生的艺术审美，创新实战能力。期间提供大量的电视台，时尚杂志拍摄，大型模特选
+                     秀比赛等实践机会，以提升学生的综合能力。
+                 </p>
+             </div>
+             <a href="">彩妆专业</a>
+         </div>
+    </div>
+
+    <div class="classCons">
+         <ul>
+         {dede:arclist typeid="12" row="4" addfields='kbsj,price' channelid='17'}
+             <li>
+                 <a href="[field:arcurl/]"><img src="[field:litpic/]" alt="[field:title/]"/></a>
+                 <div class="classTxt">
+                     <div class="classTxtL">
+                         <h2>[field:title/]</h2>
+                         <span>[field:shorttitle/]</span>
+                     </div>
+                     <div class="classTxtR">
+                         <p>
+                             学期： <span>五个半月</span>        学费：  <span>[field:kbsj/]元</span>
+                         </p>
+                         <p>
+                             限时活动价： <span style="font-size:18px;color:#e74159;font-weight:bold;font-family:'微软雅黑';">[field:price/]元</span>
+                         </p>
+                     </div>
+                 </div>
+             </li>
+          {/dede:arclist}
+         </ul> 
+         <dl id="maodianLink" style="position:fixed;left:0px;top:135px;z-index:10000">
+             <dd><a href="#makeUp">彩妆专业课程</a></dd>
+             <dd><a href="#beauty">美容专业课程</a></dd>
+
+             <dd><a href="#fingernail">美甲专业课程</a></dd>
+
+             <dd><a href="#integrated">综合专业课程</a></dd>
+         </dl>
+        <h6 style="clear:both"></h6>
+    </div>
+
+    <!--彩妆专业-->
+    <div class="sortBox beauty" id="beauty">
+        <div class="sortCon">
+            <div class="sortTxt">
+                <h3>美容专业课程</h3>
+                <p>
+                    重点培养学生的艺术审美，创新实战能力。期间提供大量的电视台，时尚杂志拍摄，大型模特选
+                    秀比赛等实践机会，以提升学生的综合能力。
+                </p>
+            </div>
+            <a href="">美容专业</a>
+        </div>
+    </div>
+
+
+    <div class="classCons">
+        <ul>
+         {dede:arclist typeid="13" row="4" addfields='kbsj,price' channelid='17'}
+             <li>
+                 <a href="[field:arcurl/]"><img src="[field:litpic/]" alt="[field:title/]"/></a>
+                 <div class="classTxt">
+                     <div class="classTxtL">
+                         <h2>[field:title/]</h2>
+                         <span>[field:shorttitle/]</span>
+                     </div>
+                     <div class="classTxtR">
+                         <p>
+                             学期： <span>五个半月</span>        学费：  <span>[field:kbsj/]元</span>
+                         </p>
+                         <p>
+                             限时活动价： <span style="font-size:18px;color:#e74159;font-weight:bold;font-family:'微软雅黑';">[field:price/]元</span>
+                         </p>
+                     </div>
+                 </div>
+             </li>
+          {/dede:arclist}
+        </ul>
+
+        <h6 style="clear:both"></h6>
+    </div>
+
+    <!--美甲专业-->
+    <div class="sortBox makeUp fingernail" id="fingernail">
+        <div class="sortCon">
+            <div class="sortTxt">
+                <h3>美甲专业课程</h3>
+                <p>
+                    针对专业从事该行业的人群来制定的，课程内容非常全面、技术含量深且专业性较强。 实际操作
+                    教学为主，系统深入掌握各种尖端技术，集技术与经营管理相结合。
+                </p>
+            </div>
+            <a href="">美甲专业</a>
+        </div>
+    </div>
+
+
+    <div class="classCons">
+        <ul>
+        {dede:arclist typeid="14" row="4" addfields='kbsj,price' channelid='17'}
+             <li>
+                 <a href="[field:arcurl/]"><img src="[field:litpic/]" alt="[field:title/]"/></a>
+                 <div class="classTxt">
+                     <div class="classTxtL">
+                         <h2>[field:title/]</h2>
+                         <span>[field:shorttitle/]</span>
+                     </div>
+                     <div class="classTxtR">
+                         <p>
+                             学期： <span>五个半月</span>        学费：  <span>[field:kbsj/]元</span>
+                         </p>
+                         <p>
+                             限时活动价： <span style="font-size:18px;color:#e74159;font-weight:bold;font-family:'微软雅黑';">[field:price/]元</span>
+                         </p>
+                     </div>
+                 </div>
+             </li>
+          {/dede:arclist}
+        </ul>
+
+        <h6 style="clear:both"></h6>
+    </div>
+
+
+
+    <!--综合课程-->
+    <div class="sortBox beauty jntegrated" id="integrated">
+        <div class="sortCon">
+            <div class="sortTxt">
+                <h3>综合专业课程</h3>
+                <p>
+                    此课程全面讲解化妆基础理论，唯美矫正性化妆原理。结合2014年流行趋势分析各类时尚妆容
+                    造型，色彩搭配，服装搭配，人物风格定位，影楼工作室流程及灯光介绍。
+                </p>
+            </div>
+            <a href="">综合课程</a>
+        </div>
+    </div>
+
+
+    <div class="classCons">
+        <ul>
+        {dede:arclist typeid="15" row="4" addfields='kbsj,price' channelid='17'}
+             <li>
+                 <a href="[field:arcurl/]"><img src="[field:litpic/]" alt="[field:title/]"/></a>
+                 <div class="classTxt">
+                     <div class="classTxtL">
+                         <h2>[field:title/]</h2>
+                         <span>[field:shorttitle/]</span>
+                     </div>
+                     <div class="classTxtR">
+                         <p>
+                             学期： <span>五个半月</span>        学费：  <span>[field:kbsj/]元</span>
+                         </p>
+                         <p>
+                             限时活动价： <span style="font-size:18px;color:#e74159;font-weight:bold;font-family:'微软雅黑';">[field:price/]元</span>
+                         </p>
+                     </div>
+                 </div>
+             </li>
+          {/dede:arclist}
+        </ul>
+
+        <h6 style="clear:both"></h6>
+    </div>
+
+</div>
+
+
+<!--footer-->
+{dede:include filename="footer.htm"/}
+</body>
+<script>
+   $("#maodianLink dd").click(function(){
+       $(this).css({background:'black'}).siblings().css({background:'#e74159'})
+   })
+
+</script>
+</html>

@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+<meta charset="UTF-8">
+<title>添加新的健康档案</title><a href="{:U('Home/user/login')}">返回首页</a>
+<form action="" method="post">
+    姓名:<input type="text" name="name"><br><br>
+    性别:<input type="text" name="sex"><br><br>
+    年龄:<input type="text" name="year"><br><br>
+    民族:<input type="text" name="nation"><br><br>
+    <input type="hidden" name="userid" value="{$id}">
+    身高:<input type="text" name="height"><br><br>
+    出生日期:<input type="text" name="birthday"><br><br>
+    健康问题:<textarea  name="problem"></textarea><br><br>
+    <button type="submit">提交</button>
+</form>
+</body>
+</html>

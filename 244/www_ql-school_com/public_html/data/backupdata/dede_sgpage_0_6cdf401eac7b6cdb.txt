@@ -1,0 +1,3 @@
+INSERT INTO `dede_sgpage` VALUES('3','方雪莲测试专题页','0','a/newfile3.html','化妆，美甲','{style}/activity.htm','default','','1442546356','');
+INSERT INTO `dede_sgpage` VALUES('2','专题1','0','a/zt/activity_1.html','','{style}/activity-1.htm','default','','1441073857','');
+INSERT INTO `dede_sgpage` VALUES('4','测试招生就业页面','0','a/newfile4.html','','{style}/testRecruitStudent.htm','default','','1446624439','');

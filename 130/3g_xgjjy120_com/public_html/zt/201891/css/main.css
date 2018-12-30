@@ -1,0 +1,258 @@
+@charset "utf-8";
+/* CSS Document */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, font { padding:0; margin: 0; font-family:"微软雅黑","Heiti SC","Droidsansfallback", "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;}
+table { border-collapse:collapse; border-spacing:0; }
+fieldset, img { border:0; vertical-align:middle; }
+h1, h2, h3, h4, h5, h6 { font-weight:normal; font-size:100%; }
+ol, ul, li, dl, dt, dd { list-style:none; }
+input, button, textarea, checkbox, select, radio, form { vertical-align: top;}
+a { color:#727272; text-decoration:none; }
+a:link, a:visited { text-decoration:none; }
+a:hover{text-decoration:none;}
+body{font-size: 14px; width:6.4rem; margin:auto}
+
+.red, .red a { color:#F00; }
+.left { float:left; }
+.right { float:right; }
+.autohei { overflow:hidden; zoom:1; }
+.clear { font-size:0; line-height:0; clear:both; overflow:hidden; zoom:1; }
+.blank { height:8px; font-size:0; line-height:0; clear:both; overflow:hidden; }
+
+.clear{ clear:both}
+.clear1{ height:0.1rem; clear:both}
+.clear2{ height:0.2rem; clear:both}
+.clear3{ height:0.3rem; clear:both}
+.clear4{ height:0.4rem; clear:both}
+.clear5{ height:0.5rem; clear:both}
+
+.w640{width: 6.4rem;margin: auto;}
+.w620{width: 96.875%;margin: auto;}
+.w600{width: 93.75%;margin: auto;}
+
+
+/**/
+.cont1{margin: .2rem .1rem;}
+.cont1 .left{ width: 1rem; }
+.cont1 .right{ background: #49cc95; width: 4.6rem; height: 1.86rem; padding: .2rem; font-size: 0.22rem; color: #fff; line-height: 1.8; text-indent: 2em; text-align: justify;}
+.cont1_text{
+	margin: .3rem .1rem;
+	padding: .2rem .15rem;
+	background: #eee;
+}
+.cont1_text>p{
+	color: #3d3d3d;
+	font-size: .24rem;
+	line-height: 1.8;
+	text-align: justify;
+	text-indent: .48rem;
+	border-bottom: 1px dashed #a0a0a0;
+}
+.cont1_text>p>span{
+	font-weight: bold;
+}
+.cont1_text p a{
+	color: #ff3c00;
+	text-decoration: underline;
+}
+.cont1_text form ul li{
+	border-bottom: 1px dashed #a0a0a0;
+	padding: .35rem 0 .2rem 0;
+}
+.cont1_text form ul li p,div{
+	color: #3d3d3d;
+	font-size: .24rem;
+	line-height: 2.4;
+	text-align: justify;
+}
+.cont1_text form ul li div span{
+	margin: 0 .2rem;
+	border: 1px solid #dcdcdc;
+	border-radius: .1rem;
+	background: #fff;
+	padding: 0 .1rem;
+	cursor: pointer;
+}
+.cont1_text form ul li div span.on{
+	background: #49cc95;
+	color: #fff;
+}
+.cont1_text form h1{
+	font-size: .36rem;
+	color: #303030;
+	font-weight: bold;
+	text-align: center;
+	margin: .4rem 0 .2rem 0;
+}
+.cont1_text form>p{
+	color: #3d3d3d;
+	line-height: 2.8;
+	font-size: .24rem;
+}
+.cont1_text form>p label{
+	width: 40%;
+	display: inline-block;
+	/*text-align: right;*/
+}
+.cont1_text form>p input{
+	height: .4rem;
+	width: 58%;
+	vertical-align: middle;
+}
+.cont1_text form .sub{
+	width: 80%;
+	margin: .2rem auto;
+}
+.cont1_text form .sub input{
+	background: #ed7d1d;
+	border: none;
+	width: 100%;
+	text-align: center;
+	height: .6rem;
+	color: #fff;
+	font-size: .26rem;
+	border-radius: .05rem;
+}
+.cont2{
+	margin: .2rem .1rem;
+}
+.cont2 p{
+	padding: .15rem;
+	margin: .2rem 0;
+	line-height: 1.8;
+	color: #303030;
+	font-size: .24rem;
+	text-indent: .48rem;
+	text-align: justify;
+}
+.cont2 h1{
+	color: #1a1a1a;
+	font-size: .26rem;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+.cont3{
+	margin: .2rem .1rem;
+}
+.cont3 p{
+	color: #5a5a5a;
+	font-size: .26rem;
+	padding: 0 .2rem;
+	line-height: 2.2;
+}
+
+.cont3 p span{
+	color: #ff3c00;
+}
+.cont3 p input,select{
+	width: 100%;
+	height: .4rem;
+	border: .01rem solid #eee;
+}
+.cont3 form div{
+	width: 100%;
+	margin-top: .2rem;
+}
+.cont3 form div input{
+	width: 38%;
+	height: .5rem;
+	margin: 0 5.7%;
+	background: #919191;
+	border: none;
+	color: #fff;
+	font-size: .24rem;
+}
+
+.cont4{
+	margin: .2rem .1rem;
+
+}
+.cont5{
+	padding: .2rem .1rem;
+	background: #f4f4f4;
+}
+.cont5 h1{
+	color: #fff;
+	background: #38ab80;
+	line-height: 2;
+	font-size: .36rem;
+	font-weight: bold;
+	text-align: center;
+}
+.cont5 form{
+	margin: .2rem;
+}
+.cont5 form p{
+	position: relative;
+	line-height: 2;
+	color: #a5a5a5;
+	font-size: .28rem;
+	width: 100%;
+	margin-bottom: .3rem;
+}
+.cont5 form p input,textarea{
+	width: 90%;
+	height: .5rem;
+	padding-left: 10%;
+	font-size: .24rem;
+}
+.cont5 form p img{
+	position: absolute;
+	top: .07rem;
+	left: .04rem;
+	width: .45rem;
+}
+.cont5 form .sub{
+	margin: 0 .3rem;
+}
+.cont5 form .sub input{
+	background: #38ab80;
+	border: none;
+	width: 100%;
+	text-align: center;
+	height: .6rem;
+	color: #fff;
+	font-size: .26rem;
+	border-radius: .3rem;
+}
+.cont5 h2{
+	text-align: left;
+	color: #ff1200;
+	font-size: .28rem;
+	margin-top: .5rem;
+	margin-bottom: .2rem;
+}
+.cont5 p{
+	text-align: justify;
+	color: #1a1a1a;
+	font-size: .24rem;
+	line-height: 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+
+
+.f_sm{ background: #e4e4e4 ; color: #7d7d7d; font-size:0.18rem; line-height: 1.8; padding:0.1rem 0.05rem;  text-align: center;}
+		.footerNav{max-width: 640px;margin: 0 auto; width: 100%; position: relative}
+		.footerNav ul{position: fixed;bottom: 0;overflow: auto;width:100%;z-index: 99; max-width: 640px;}
+		.footerNav li a{display: block;width: 100%;height: 100%;}
+		.footerNav li{width: 33.33333%;height: 0.9rem;text-align: center;line-height:0.9rem;background: #69b00a;float: left;border-right: 1px solid #7ed00f;border-left: 1px solid #518807;box-sizing: border-box;}
+		.footerNav li i{display: inline-block;vertical-align: middle;}
+		.footerNav ul li:first-child{background: #BBBBBB;}
+		.footerNav ul li:nth-child(2){background: #ED7D1D;}
+		.footerNav li span{font-size: 0.3rem;color: #fff;vertical-align: middle;}
+		.footerNav .shouye{width: 0.31rem;height: 0.32rem;background: url(/templets/default/images/footer1.png) no-repeat; background-size: 0.31rem 0.32rem;}
+		.footerNav .photo{width: 0.39rem;height: 0.32rem;background: url(/templets/default/images/footer2.png) no-repeat; background-size: 0.39rem 0.32rem;}
+		.footerNav .zaixian{width: 0.38rem;height: 0.32rem;background: url(/templets/default/images/footer3.png) no-repeat; background-size: 0.38rem 0.32rem;}
+		.kongbai{height: 1rem;}
